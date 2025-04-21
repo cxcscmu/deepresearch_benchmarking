@@ -1,0 +1,1 @@
+is euthanasia morally justified

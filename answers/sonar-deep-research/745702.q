@@ -1,0 +1,1 @@
+can there be knowledge that is independent of culture?

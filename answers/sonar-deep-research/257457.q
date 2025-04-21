@@ -1,0 +1,1 @@
+how would you characterize your own view on globalisation and sustainable development?

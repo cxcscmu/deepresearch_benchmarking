@@ -1,0 +1,906 @@
+{
+  "81494": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "483636": {
+    "score": 0,
+    "detailed": null
+  },
+  "976735": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "750965": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "412901": {
+    "score": 0,
+    "detailed": null
+  },
+  "493991": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "210765": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "440738": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "1004217": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "177380": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "1004305": {
+    "score": 0.0,
+    "detailed": {
+      "claim_1": {
+        "claim": "Startups often fail because they create products that do not meet consumer demands or validate market needs through research.",
+        "urls": [
+          "Harvard Business Review"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about startups failing due to product-market misalignment."
+      },
+      "claim_2": {
+        "claim": "Financial mismanagement, underestimating costs, or failure to secure funding can lead to cash flow problems.",
+        "urls": [
+          "Forbes"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding financial mismanagement or cash flow problems."
+      },
+      "claim_3": {
+        "claim": "A lack of experience, cohesion, or necessary skills can result in poor team dynamics that hinder operational efficiency.",
+        "urls": [
+          "CB Insights"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information that supports the statement about team dynamics and operational efficiency."
+      },
+      "claim_4": {
+        "claim": "Entering a market without a clear differentiation strategy can lead startups to lose out to existing competitors.",
+        "urls": [
+          "Harvard Business Review"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about market differentiation strategies."
+      },
+      "claim_5": {
+        "claim": "An unviable business model or poor pricing strategy can lead to confusion regarding monetization.",
+        "urls": [
+          "Forbes"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information that supports the statement about business models or pricing strategies."
+      },
+      "claim_6": {
+        "claim": "Many startups neglect customer feedback, which often results in products not aligning with real user needs.",
+        "urls": [
+          "CB Insights"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information or support for the statement about startups neglecting customer feedback."
+      },
+      "claim_7": {
+        "claim": "Great products fail due to poorly executed marketing strategies that miss reaching the target audience.",
+        "urls": [
+          "Harvard Business Review"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information that supports the statement about marketing strategies and product failure."
+      },
+      "claim_8": {
+        "claim": "Many startups struggle with product quality issues, such as bugs or poor user experience.",
+        "urls": [
+          "Forbes"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding startups or product quality issues."
+      },
+      "claim_9": {
+        "claim": "Launching a product at the wrong time can severely limit consumer interest and adoption rates.",
+        "urls": [
+          "CB Insights"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information that supports the statement about product launch timing affecting consumer interest and adoption rates."
+      },
+      "claim_10": {
+        "claim": "Non-compliance with legal requirements can lead to fines and hamper business credibility.",
+        "urls": [
+          "Harvard Business Review"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding legal requirements, fines, or business credibility."
+      }
+    }
+  },
+  "681639": {
+    "score": 0.0,
+    "detailed": {
+      "claim_1": {
+        "claim": "22.8% of U.S. adults experienced any mental illness in 2023.",
+        "urls": [
+          "https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any information regarding the percentage of U.S. adults experiencing mental illness in 2023."
+      },
+      "claim_2": {
+        "claim": "5.7% of U.S. adults faced serious mental illness in 2023.",
+        "urls": [
+          "https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any specific data or information regarding the percentage of U.S. adults facing serious mental illness in 2023."
+      },
+      "claim_3": {
+        "claim": "Only 23.0% of adults received mental health treatment in the past year.",
+        "urls": [
+          "https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any information or data regarding the percentage of adults who received mental health treatment."
+      },
+      "claim_4": {
+        "claim": "66.7% of adults with serious mental illness sought treatment.",
+        "urls": [
+          "https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any information that supports the statement about the percentage of adults with serious mental illness who sought treatment."
+      },
+      "claim_5": {
+        "claim": "The highest prevalence of mental illness is among young adults aged 18-25 at 33.8%.",
+        "urls": [
+          "https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any information regarding the prevalence of mental illness among young adults aged 18-25 or the specific percentage of 33.8%."
+      },
+      "claim_6": {
+        "claim": "54.7% of adults with mental illness cite cost-related issues as a barrier to treatment.",
+        "urls": [
+          "https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any information related to the percentage of adults with mental illness citing cost-related issues as a barrier to treatment."
+      },
+      "claim_7": {
+        "claim": "63% of adults face challenges accessing mental health care.",
+        "urls": [
+          "https://www.samhsa.gov/data/report/2023-nsduh-annual-national-report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any information or data that supports the claim that 63% of adults face challenges accessing mental health care."
+      }
+    }
+  },
+  "354532": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "370409": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "351339": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "624340": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "557623": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "569991": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "178540": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "919560": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "737726": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "627148": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "795422": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "24170": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "515289": {
+    "score": 0.0,
+    "detailed": {
+      "claim_1": {
+        "claim": "Digital technologies improve patient care and healthcare outcomes.",
+        "urls": [
+          "Study on Digital Healthcare"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding digital technologies and their impact on patient care or healthcare outcomes."
+      },
+      "claim_2": {
+        "claim": "Digital health technologies enhance diagnosis, care continuity, and patient self-management.",
+        "urls": [
+          "The Promise of Digital Health"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about digital health technologies."
+      },
+      "claim_3": {
+        "claim": "Social networks influence the sharing of health technology knowledge among clinicians.",
+        "urls": [
+          "Knowledge Sharing in Health Technology"
+        ],
+        "score": 0.0,
+        "justification": "The citation provided does not contain any relevant information regarding social networks or health technology knowledge sharing."
+      },
+      "claim_4": {
+        "claim": "Digital technologies enhance access, engagement, and adaptability in educational practices.",
+        "urls": [
+          "Digital Technologies in Education"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding digital technologies in education."
+      },
+      "claim_5": {
+        "claim": "Digital technology affects knowledge acquisition in higher education, fostering higher-order thinking skills.",
+        "urls": [
+          "Knowledge-Building Processes"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding digital technology, knowledge acquisition, or higher-order thinking skills."
+      },
+      "claim_6": {
+        "claim": "Digital environments influence knowledge creation and sharing.",
+        "urls": [
+          "Knowledge in Digital Environments"
+        ],
+        "score": 0.0,
+        "justification": "The citation provided does not discuss digital environments or their influence on knowledge creation and sharing."
+      },
+      "claim_7": {
+        "claim": "Participation in citizen science enhances environmental science understanding and engagement among youth.",
+        "urls": [
+          "Citizen Science and Young People"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding citizen science or its impact on youth's understanding and engagement in environmental science."
+      },
+      "claim_8": {
+        "claim": "Earth scientists can improve community resilience to environmental changes by addressing inequities in the scientific process.",
+        "urls": [
+          "Earth Science and Community Resilience"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about Earth scientists and community resilience."
+      }
+    }
+  },
+  "171440": {
+    "score": 0,
+    "detailed": null
+  },
+  "560361": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "372048": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "54056": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "252876": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "940020": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "27605": {
+    "score": 0.0,
+    "detailed": {
+      "claim_6": {
+        "claim": "53% believe the American Dream is attainable, with older Americans more optimistic.",
+        "urls": [
+          "Pew Research"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about the American Dream and older Americans' optimism."
+      },
+      "claim_7": {
+        "claim": "Many immigrants express hope for their future despite challenges.",
+        "urls": [
+          "KFF/LA Times"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about immigrants expressing hope for their future."
+      },
+      "claim_8": {
+        "claim": "Percentage who see the American Dream as unreachable rose from 18% to 24% within two years.",
+        "urls": [
+          "Archbridge Institute"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information to support the statement about the percentage of people seeing the American Dream as unreachable."
+      }
+    }
+  },
+  "782887": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "289425": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "464643": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "288162": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "381503": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "333606": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "320658": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "364154": {
+    "score": 0.0,
+    "detailed": {
+      "claim_7": {
+        "claim": "38% of Americans identify as conservative on social issues, the highest in about a decade.",
+        "urls": [
+          "Gallup"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information to support the statement about Americans identifying as conservative on social issues."
+      }
+    }
+  },
+  "979651": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "964923": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "754300": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "830931": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "920807": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "826421": {
+    "score": 0.0,
+    "detailed": {
+      "claim_1": {
+        "claim": "Nurses in the emergency department spent a median of 27% of their working time on EHR tasks.",
+        "urls": [
+          "A Time and Motion Analysis of Nursing Workload and Electronic Health Record Use in the Emergency Department"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding the statement about nurses in the emergency department and their time spent on EHR tasks."
+      },
+      "claim_2": {
+        "claim": "EHR-related tasks occupy a larger portion of nurses' time compared to indirect patient care (15%), communication (6%), and personal time (17%).",
+        "urls": [
+          "A Time and Motion Analysis of Nursing Workload and Electronic Health Record Use in the Emergency Department"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about EHR-related tasks and their comparison to other activities."
+      },
+      "claim_3": {
+        "claim": "EHR usage has been identified as the most frequently performed task among the various activities evaluated in the study.",
+        "urls": [
+          "A Time and Motion Analysis of Nursing Workload and Electronic Health Record Use in the Emergency Department"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding EHR usage or the study mentioned."
+      }
+    }
+  },
+  "784108": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "303903": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "236559": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "526769": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "785436": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "613889": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "46368": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "257457": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "950977": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "572989": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "969384": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "125233": {
+    "score": 0.0,
+    "detailed": {
+      "claim_4": {
+        "claim": "Military history can be a powerful learning tool but can also lead to misinterpretations.",
+        "urls": [
+          "Linn and Donlon"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not relate to military history or its implications as a learning tool."
+      }
+    }
+  },
+  "745702": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "958655": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "44381": {
+    "score": 0,
+    "detailed": null
+  },
+  "188169": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "150922": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "921842": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "923549": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "579564": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "544544": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "445676": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "879779": {
+    "score": 0.5,
+    "detailed": {
+      "claim_1": {
+        "claim": "The COVID vaccine is considered safe.",
+        "urls": [
+          "https://www.who.int",
+          "https://www.cdc.gov"
+        ],
+        "score": 1.0,
+        "justification": "The statement that the COVID vaccine is considered safe is supported by the general consensus of health organizations like the CDC and WHO, which affirm the safety of vaccines."
+      },
+      "claim_2": {
+        "claim": "Common side effects of the COVID vaccine are generally mild.",
+        "urls": [
+          "https://www.who.int",
+          "https://www.cdc.gov"
+        ],
+        "score": 0.5,
+        "justification": "The statement about common side effects being generally mild is a common understanding, but the citations do not explicitly confirm this."
+      },
+      "claim_3": {
+        "claim": "Severe adverse effects of the COVID vaccine are rare.",
+        "urls": [
+          "https://www.who.int",
+          "https://www.cdc.gov"
+        ],
+        "score": 0.5,
+        "justification": "The statement about severe adverse effects being rare is generally supported by health organizations, but the citations provided do not explicitly confirm this claim."
+      },
+      "claim_4": {
+        "claim": "The benefits of vaccination in preventing severe illness and death from COVID-19 greatly outweigh potential risks.",
+        "urls": [
+          "https://www.who.int",
+          "https://www.cdc.gov"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any information that supports the statement regarding the benefits of vaccination outweighing risks."
+      }
+    }
+  },
+  "787717": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "604326": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "483019": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "411730": {
+    "score": 0.0,
+    "detailed": {
+      "claim_7": {
+        "claim": "The particular economic and political structures of rentier states in the Middle East render them more susceptible to fragmentation during conflicts.",
+        "urls": [
+          "Rolf Schwarz"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding the economic and political structures of rentier states or their susceptibility to fragmentation during conflicts."
+      }
+    }
+  },
+  "688824": {
+    "score": 0,
+    "detailed": null
+  },
+  "675983": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "768289": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "482032": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "516565": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "471082": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "614207": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "437127": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "663499": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "708395": {
+    "score": 0.0,
+    "detailed": {
+      "claim_1": {
+        "claim": "As of 2023, women earned 83.6% of what men earned in median weekly earnings.",
+        "urls": [
+          "Bureau of Labor Statistics (BLS)"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding women's earnings compared to men's earnings."
+      },
+      "claim_2": {
+        "claim": "In 2023, women who were full-time wage and salary workers had median weekly earnings of $1,005.",
+        "urls": [
+          "Bureau of Labor Statistics (BLS)"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information or data regarding women's median weekly earnings in 2023."
+      },
+      "claim_3": {
+        "claim": "The median weekly earnings for men in the same category in 2023 was $1,202.",
+        "urls": [
+          "Bureau of Labor Statistics (BLS)"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding median weekly earnings for men in 2023."
+      },
+      "claim_4": {
+        "claim": "The women's-to-men's earnings ratio has increased from 75% in 2000 to 83% in 2023.",
+        "urls": [
+          "Bureau of Labor Statistics (BLS)"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding the women's-to-men's earnings ratio."
+      },
+      "claim_5": {
+        "claim": "The Global Gender Gap Report 2023 indicates that 68.4% of the gender gap in economic participation, education, health, and political empowerment has been closed globally.",
+        "urls": [
+          "Global Gender Gap Report 2023 by the World Economic Forum"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information or support for the statement regarding the Global Gender Gap Report 2023."
+      },
+      "claim_6": {
+        "claim": "The labor-force participation gender gap is still notably significant, with only 64.9% closure.",
+        "urls": [
+          "Global Gender Gap Report 2023 by the World Economic Forum"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding the labor-force participation gender gap or its closure percentage."
+      }
+    }
+  },
+  "191464": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "315845": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "112903": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "729561": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "447832": {
+    "score": 0.0,
+    "detailed": {
+      "claim_1": {
+        "claim": "The historical evolution of capital punishment in the United States traces its origins back to colonial times and highlights key Supreme Court cases like Furman v. Georgia.",
+        "urls": [
+          "History and Future of Capital Punishment in the United States"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding the historical evolution of capital punishment or the Supreme Court case mentioned."
+      },
+      "claim_2": {
+        "claim": "There has been a reduction of capital crimes and a shift from public to private executions in the United States.",
+        "urls": [
+          "Recent History and Present Status of Capital Punishment"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding capital crimes or executions."
+      },
+      "claim_3": {
+        "claim": "Contemporary discussions on capital punishment reveal a decline in public support and issues related to racial bias and wrongful convictions.",
+        "urls": [
+          "Reflection on Contemporary Issues Regarding the Death Penalty"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding public support for capital punishment, racial bias, or wrongful convictions."
+      },
+      "claim_4": {
+        "claim": "The trajectory of capital punishment indicates a greater push towards abolition in response to changing societal values and legal interpretations.",
+        "urls": [
+          "History and Future of Capital Punishment in the United States"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding capital punishment or its trajectory."
+      },
+      "claim_5": {
+        "claim": "The financial implications of maintaining the death penalty versus life sentences are significant in contemporary discussions.",
+        "urls": [
+          "Reflection on Contemporary Issues Regarding the Death Penalty"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding the financial implications of the death penalty versus life sentences."
+      },
+      "claim_6": {
+        "claim": "Certain states are abolishing or imposing moratoriums on the death penalty, reflecting ongoing shifts in capital punishment's legal and social landscapes.",
+        "urls": [
+          "additional_context"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information regarding the statement about states abolishing or imposing moratoriums on the death penalty."
+      }
+    }
+  },
+  "804155": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "686941": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "18077": {
+    "score": 0,
+    "detailed": null
+  },
+  "602353": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "568283": {
+    "score": 0.0,
+    "detailed": {
+      "claim_1": {
+        "claim": "The global gender gap score stands at 68.5% closed, indicating that significant inequalities persist in economic participation and opportunity.",
+        "urls": [
+          "Global Gender Gap Report 2024 by the World Economic Forum"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information to support the statement about the global gender gap score."
+      },
+      "claim_2": {
+        "claim": "Women are still earning only 51 cents for every dollar earned by men in labor income.",
+        "urls": [
+          "UN Gender Snapshot 2023"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about women's earnings compared to men's."
+      },
+      "claim_3": {
+        "claim": "Women enjoy just two-thirds of the legal rights that men have concerning work and economic participation.",
+        "urls": [
+          "World Bank"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding women's legal rights in relation to men."
+      },
+      "claim_4": {
+        "claim": "Nearly 2.4 billion women globally do not have the same economic rights as men.",
+        "urls": [
+          "World Bank"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information or data regarding the economic rights of women."
+      },
+      "claim_5": {
+        "claim": "Disparities remain at higher levels of schooling for girls despite gaining more access to education.",
+        "urls": [
+          "World Bank"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about disparities in education for girls."
+      },
+      "claim_6": {
+        "claim": "Less than half of women are participating fully in education systems, particularly at the tertiary level.",
+        "urls": [
+          "Global Gender Gap Report"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding women's participation in education systems."
+      },
+      "claim_7": {
+        "claim": "Over 5 million women, children, and adolescents die from preventable health conditions annually.",
+        "urls": [
+          "World Bank"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding the statement about the deaths of women, children, and adolescents from preventable health conditions."
+      },
+      "claim_8": {
+        "claim": "Up to one in three women worldwide experiences physical or sexual violence, which severely affects their health outcomes.",
+        "urls": [
+          "World Bank"
+        ],
+        "score": 0.0,
+        "justification": "The citations do not provide any relevant information to support the statement about violence against women."
+      },
+      "claim_9": {
+        "claim": "Gender parity in leadership roles is far from being achieved, with women holding only a fraction of leadership positions.",
+        "urls": [
+          "Global Gender Gap Report 2024"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding gender parity in leadership roles or the status of women in leadership positions."
+      },
+      "claim_10": {
+        "claim": "Many countries fail to achieve even 30% female representation in legislative bodies.",
+        "urls": [
+          "Global Gender Gap Report 2024"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information regarding female representation in legislative bodies."
+      },
+      "claim_11": {
+        "claim": "By 2030, over 340 million women and girls may be living in extreme poverty if current trends continue.",
+        "urls": [
+          "Gender Snapshot 2023"
+        ],
+        "score": 0.0,
+        "justification": "The citations provided do not contain any relevant information to support the statement about women and girls living in extreme poverty."
+      }
+    }
+  },
+  "811279": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "31522": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "941698": {
+    "score": 0,
+    "detailed": null
+  },
+  "973012": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "41952": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "82093": {
+    "score": 0.0,
+    "detailed": null
+  },
+  "570574": {
+    "score": 0.0,
+    "detailed": null
+  }
+}

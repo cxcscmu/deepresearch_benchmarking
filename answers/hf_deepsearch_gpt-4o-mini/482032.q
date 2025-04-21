@@ -1,0 +1,1 @@
+how did the developments in science and technology shape human history

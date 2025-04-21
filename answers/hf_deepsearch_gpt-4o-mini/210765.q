@@ -1,0 +1,1 @@
+was world war ii justified by its results?
