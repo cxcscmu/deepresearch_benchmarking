@@ -1,1 +1,0 @@
-is eating meat ethical

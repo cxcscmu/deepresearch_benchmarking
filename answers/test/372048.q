@@ -1,1 +1,0 @@
-what business and social problems does data center power consumption cause?

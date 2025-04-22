@@ -5,7 +5,7 @@ from pathlib import Path
 
 def process_folder(folder_names):
 
-    folders = [Path(f"answers/{f}") for f in folder_names]
+    folders = [Path(f"/data/group_data/cx_group/deepsearch_benchmark/reports/{f}") for f in folder_names]
 
     ids = [
         file.stem for file in folders[0].glob("*.q")
@@ -29,13 +29,14 @@ def process_folder(folder_names):
 
         # Save to new txt files
         model_name = str(folder).split("/")[-1]
-        os.makedirs(f"samples/{model_name}", exist_ok=True)
-        with open(f"samples/{model_name}/{selected_id}_query.txt", "w", encoding="utf-8") as f:
+        os.makedirs(f".samples/{model_name}", exist_ok=True)
+        with open(f".samples/{model_name}/{selected_id}_query.txt", "w", encoding="utf-8") as f:
             f.write(question)
 
-        with open(f"samples/{model_name}/{selected_id}_report.txt", "w", encoding="utf-8") as f:
+        with open(f".samples/{model_name}/{selected_id}_report.txt", "w", encoding="utf-8") as f:
             f.write(answer)
 
+        exit()
         # Load evaluations
         eval_path_quality = folder / "evaluation_results_detailed_gpt-4o-mini.json"
         eval_path_citation = folder / "evaluation_results_citation_gpt-4o-mini.json"
@@ -59,7 +60,7 @@ def process_folder(folder_names):
         eval_dict_citation = eval_data_citation[selected_id]
 
         # Save eval data to txt
-        eval_txt_path = f"samples/{model_name}/{selected_id}_eval.txt"
+        eval_txt_path = f".samples/{model_name}/{selected_id}_eval.txt"
         with open(eval_txt_path, "w", encoding="utf-8") as f:
             f.write(f"--------------\n")
             f.write(f"Answer Quality\n")
@@ -98,5 +99,6 @@ def process_folder(folder_names):
 
 # Example usage
 if __name__ == "__main__":
-    folder_names = ["gpt-4o-search-preview", "hf_deepsearch_o3mini", "sonar-deep-research"]
+    #folder_names = ["gpt-4o-search-preview", "hf_deepsearch_o3mini", "sonar-deep-research"]
+    folder_names = ["gpt-4o-search-preview"]
     process_folder(folder_names)

@@ -1,1 +1,0 @@
-how do biological, psychological, and social-cultural factors interact to produce specific psychological disorders?

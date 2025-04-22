@@ -1,1 +1,4 @@
 keys.env
+.old
+.samples
+queries/subset.jsonl

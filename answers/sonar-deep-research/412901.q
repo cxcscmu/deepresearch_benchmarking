@@ -1,1 +1,0 @@
-was world war 2 justified

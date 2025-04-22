@@ -4,52 +4,14 @@ import os
 import requests
 import json
 
-TOKEN="..."
 MODEL="sonar-deep-research"
 
-def compute_researchy_queries_feasibility(item, 
-                        w_multi=1.0, 
-                        w_knowledge=1.0, 
-                        w_reasoning=1.0, 
-                        w_subjective=0.5, 
-                        w_nonfactoid=1.0, 
-                        w_clicks=0.5):
-    """
-    Compute a composite score for a query based on intrinsic scores, nonfactoid score, and click behavior.
-    
-    Parameters:
-      item (dict): A dictionary representing a query from the dataset.
-      w_multi (float): Weight for the 'multi-faceted' score.
-      w_knowledge (float): Weight for the 'knowledge-intensive' score.
-      w_reasoning (float): Weight for the 'reasoning-intensive' score.
-      w_subjective (float): Weight for the 'subjective' score.
-      w_nonfactoid (float): Weight for the nonfactoid score.
-      w_clicks (float): Weight for the number of clicked documents (DocStream length).
+load_dotenv("keys.env")
+TOKEN = os.getenv("PERPLEXITY_API_KEY"))
 
-    Returns:
-      float: The composite score.
-    """
-    intrinsic = item["intrinsic_scores"]
-    multi = intrinsic["multi-faceted"]
-    knowledge = intrinsic["knowledge-intensive"]
-    reasoning = intrinsic["reasoning-intensive"]
-    subjective = intrinsic["subjective"]
-    
-    nonfactoid = item["nonfactoid_score"]
-    
-    click_count = len(item["DocStream"])
-    
-    score = (
-        w_multi * multi +
-        w_knowledge * knowledge +
-        w_reasoning * reasoning +
-        w_subjective * subjective +
-        w_nonfactoid * nonfactoid +
-        w_clicks * click_count
-    )
-
-    item["feasibility_score"] = score
-    return item
+QUERIES = "queries/researchy_queries_sample_doc_click.jsonl"
+OUT_PATH = f"/data/group_data/cx_group/deepsearch_benchmark/reports/{MODEL}"
+os.makedirs(OUT_PATH, exist_ok=True)
 
 def query_pplx(query):
 
@@ -76,7 +38,6 @@ def query_pplx(query):
 
     response = requests.request("POST", url, json=payload, headers=headers)
 
-    print()
     
     all_info = json.loads(response.text)
    
@@ -89,31 +50,29 @@ def query_pplx(query):
 ## References
 {formatted_refs}"""
 
-    return final_answer
+    usage = all_info["usage"]
+
+    return final_answer, usage
 
 
-
-dataset = load_dataset("corbyrosset/researchy_questions")
-
-queries = dataset["test"]
-queries_with_scores = queries.map(compute_researchy_queries_feasibility)
-top_queries = queries_with_scores.sort('feasibility_score', reverse=True).select(range(100))
-
-out_path = f"answers/{MODEL}"
-os.makedirs(out_path, exist_ok=True)
+with open(QUERIES, "r", encoding="utf-8") as f:
+    lines = f.readlines()
 
 print(len(top_queries))
 for example in tqdm(top_queries):
     query_id = example["id"]
     query = example["question"]
 
-    answer = query_pplx(query)
+    answer, usage = query_pplx(query)
 
-    file_path = os.path.join(out_path, f"{query_id}.a")
+    file_path = os.path.join(OUT_PATH, f"{query_id}.a")
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(answer)
     
-    file_path = os.path.join(out_path, f"{query_id}.q")
+    file_path = os.path.join(OUT_PATH, f"{query_id}.q")
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(query)
+
+    with open(os.path.join(OUT_PATH, f"{query_id}.u"), "w", encoding="utf-8") as f:
+        json.dump(usage, f, indent=2)
 

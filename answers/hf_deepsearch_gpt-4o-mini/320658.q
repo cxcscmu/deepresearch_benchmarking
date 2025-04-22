@@ -1,1 +1,0 @@
-can euthanasia be justified

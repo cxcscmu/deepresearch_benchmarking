@@ -1,1 +1,0 @@
-what role did terry schiavo case play in end of life issues

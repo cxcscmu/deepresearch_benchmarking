@@ -1,1 +1,0 @@
-is active euthanasia ethical

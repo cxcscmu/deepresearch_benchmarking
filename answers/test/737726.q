@@ -1,1 +1,0 @@
-why do people become cult leaders

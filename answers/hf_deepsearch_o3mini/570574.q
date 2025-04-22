@@ -1,1 +1,0 @@
-do we need more entrepreneurs than managers

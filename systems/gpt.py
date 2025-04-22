@@ -1,68 +1,34 @@
-from openai import OpenAI
-from datasets import load_dataset
-from tqdm import tqdm
+import asyncio
+from openai import AsyncOpenAI
+from tqdm.asyncio import tqdm_asyncio
 import os
+import json
+from dotenv import load_dotenv
 
-client = OpenAI(api_key='...')
+
+load_dotenv("keys.env")
+client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
 MODEL = "gpt-4o-search-preview"
-def compute_researchy_queries_feasibility(item, 
-                        w_multi=1.0, 
-                        w_knowledge=1.0, 
-                        w_reasoning=1.0, 
-                        w_subjective=0.5, 
-                        w_nonfactoid=1.0, 
-                        w_clicks=0.5):
-    """
-    Compute a composite score for a query based on intrinsic scores, nonfactoid score, and click behavior.
-    
-    Parameters:
-      item (dict): A dictionary representing a query from the dataset.
-      w_multi (float): Weight for the 'multi-faceted' score.
-      w_knowledge (float): Weight for the 'knowledge-intensive' score.
-      w_reasoning (float): Weight for the 'reasoning-intensive' score.
-      w_subjective (float): Weight for the 'subjective' score.
-      w_nonfactoid (float): Weight for the nonfactoid score.
-      w_clicks (float): Weight for the number of clicked documents (DocStream length).
+#QUERIES = "queries/researchy_queries_sample_doc_click.jsonl"
+QUERIES = "queries/subset.jsonl"
+OUT_PATH = f"/data/group_data/cx_group/deepsearch_benchmark/reports/{MODEL}-prompt"
+os.makedirs(OUT_PATH, exist_ok=True)
 
-    Returns:
-      float: The composite score.
-    """
-    intrinsic = item["intrinsic_scores"]
-    multi = intrinsic["multi-faceted"]
-    knowledge = intrinsic["knowledge-intensive"]
-    reasoning = intrinsic["reasoning-intensive"]
-    subjective = intrinsic["subjective"]
-    
-    nonfactoid = item["nonfactoid_score"]
-    
-    click_count = len(item["DocStream"])
-    
-    score = (
-        w_multi * multi +
-        w_knowledge * knowledge +
-        w_reasoning * reasoning +
-        w_subjective * subjective +
-        w_nonfactoid * nonfactoid +
-        w_clicks * click_count
-    )
-
-    item["feasibility_score"] = score
-    return item
-
-def query_gpt(query):
-
-    completion = client.chat.completions.create(
+async def query_gpt(query):
+    completion = await client.chat.completions.create(
         model=MODEL,
         web_search_options={},
         messages=[
-            {"role": "system", "content": "You are a helpful assistant. You are a deepsearch system, providing in-depth reports to user's queries."},
-            {"role": "user", "content": query}],
+            {"role": "system", "content": "You are a helpful assistant. You act as a deepsearch system, generating in-depth, structured reports in response to user queries. Your goal is to synthesize information from the web and provide well-organized answers. Every factual claim should be supported by a citation, and you must perform web searches when needed."},
+            {"role": "user", "content": query}
+        ],
     )
 
     answer = completion.choices[0].message.content
 
     sources = []
-    for ann in completion.choices[0].message.annotations:
+    for ann in completion.choices[0].message.annotations or []:
         if ann.type == 'url_citation':
             sources.append(ann.url_citation.url)
 
@@ -80,32 +46,35 @@ def query_gpt(query):
 ## References
 {sources_markdown}"""
 
-    return final_answer
 
+    usage = {
+        "prompt_tokens": completion.usage.prompt_tokens,
+        "completion_tokens": completion.usage.completion_tokens,
+        "total_tokens": completion.usage.total_tokens,
+    }
 
+    return final_answer, usage
 
-dataset = load_dataset("corbyrosset/researchy_questions")
+async def main():
+    with open(QUERIES, "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-queries = dataset["test"]
-queries_with_scores = queries.map(compute_researchy_queries_feasibility)
-top_queries = queries_with_scores.sort('feasibility_score', reverse=True).select(range(100))
+    print(f"Processing {len(lines)} queries")
 
-out_path = f"answers/{MODEL}"
-os.makedirs(out_path, exist_ok=True)
+    async def process_line(line):
+        example = json.loads(line)
+        query_id = example["id"]
+        query = example["query"]
+        answer, usage = await query_gpt(query)
 
-print(len(top_queries))
-for example in tqdm(top_queries):
-    query_id = example["id"]
-    query = example["question"]
+        with open(os.path.join(OUT_PATH, f"{query_id}.a"), "w", encoding="utf-8") as fa:
+            fa.write(answer)
+        with open(os.path.join(OUT_PATH, f"{query_id}.q"), "w", encoding="utf-8") as fq:
+            fq.write(query)
+        with open(os.path.join(OUT_PATH, f"{query_id}.u"), "w", encoding="utf-8") as fu:
+            json.dump(usage, fu, indent=2)
 
-    answer = query_gpt(query)
+    await tqdm_asyncio.gather(*(process_line(line) for line in lines))
 
-
-    file_path = os.path.join(out_path, f"{query_id}.a")
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(answer)
-    
-    file_path = os.path.join(out_path, f"{query_id}.q")
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(query)
-
+if __name__ == "__main__":
+    asyncio.run(main())

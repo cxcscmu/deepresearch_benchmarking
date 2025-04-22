@@ -1,1 +1,0 @@
-what is the appropriate balance between government and freedom in the american democracy

@@ -1,1 +1,0 @@
-are nursing spending too much time documenting using ehr

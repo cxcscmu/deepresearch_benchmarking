@@ -1,1 +1,0 @@
-how did socrates affect the world

@@ -1,1 +1,0 @@
-is citizen journalism good or bad
