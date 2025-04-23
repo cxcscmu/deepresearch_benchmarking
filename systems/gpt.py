@@ -12,7 +12,7 @@ client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 MODEL = "gpt-4o-search-preview"
 #QUERIES = "queries/researchy_queries_sample_doc_click.jsonl"
 QUERIES = "queries/subset.jsonl"
-OUT_PATH = f"/data/group_data/cx_group/deepsearch_benchmark/reports/{MODEL}-prompt"
+OUT_PATH = f"/data/group_data/cx_group/deepsearch_benchmark/reports/{MODEL}"
 os.makedirs(OUT_PATH, exist_ok=True)
 
 async def query_gpt(query):

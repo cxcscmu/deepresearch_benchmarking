@@ -100,5 +100,5 @@ def process_folder(folder_names):
 # Example usage
 if __name__ == "__main__":
     #folder_names = ["gpt-4o-search-preview", "hf_deepsearch_o3mini", "sonar-deep-research"]
-    folder_names = ["gpt-4o-search-preview"]
+    folder_names = ["gpt-4o-search-preview-prompt"]
     process_folder(folder_names)
