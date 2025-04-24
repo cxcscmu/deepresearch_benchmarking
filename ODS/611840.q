@@ -1,0 +1,1 @@
+how a business may use the trade theories to develop its business strategies.

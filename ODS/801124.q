@@ -1,0 +1,1 @@
+how does the executive compensation issue relate to equity theory?

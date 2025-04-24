@@ -1,0 +1,1 @@
+how climate change affect people

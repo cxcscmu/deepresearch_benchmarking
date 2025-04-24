@@ -1,0 +1,1 @@
+how do changes in the exchange rates impact businesses

@@ -1,0 +1,1 @@
+should humans invest in technology to explore and colonize other planets

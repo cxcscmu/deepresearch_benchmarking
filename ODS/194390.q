@@ -1,0 +1,1 @@
+how does global warming affect the environment

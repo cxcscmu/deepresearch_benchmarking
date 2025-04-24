@@ -1,0 +1,1 @@
+how does global stratification impact local culture?

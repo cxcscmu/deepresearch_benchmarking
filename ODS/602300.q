@@ -1,0 +1,1 @@
+should schools be allowed to ban books

@@ -1,0 +1,1 @@
+what did the resistances to imperialism in africa and india have in common?

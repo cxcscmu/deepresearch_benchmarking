@@ -1,0 +1,1 @@
+what ethical obligations, if any, do fast food companies have to consumers?
