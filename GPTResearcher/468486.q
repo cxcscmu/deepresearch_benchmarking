@@ -1,0 +1,1 @@
+is the united states health care system truly a free and market-based system?

@@ -1,0 +1,1 @@
+can global pollution be considered an economic failure?

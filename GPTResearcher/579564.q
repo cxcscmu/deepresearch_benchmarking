@@ -1,0 +1,1 @@
+why confederate statues should be removed

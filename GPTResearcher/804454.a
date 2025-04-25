@@ -1,0 +1,91 @@
+# Report: Why Has the Velocity of Money Declined?
+
+## Introduction
+
+The velocity of money (V) is a critical economic metric that measures the rate at which money circulates in the economy, typically defined as the ratio of nominal GDP (P) to the money supply (M), or \( V = \frac{P}{M} \). It reflects how frequently a unit of currency is used for transactions over a given period. A higher velocity indicates a more active economy with frequent transactions, while a lower velocity suggests slower economic activity or money hoarding. Over recent decades, particularly since the 2008 Global Financial Crisis (GFC) and more sharply during the COVID-19 pandemic, the velocity of money has declined substantially. This report explores the multifaceted reasons behind this decline, drawing on recent research, economic data, and policy analysis to provide a comprehensive understanding of this phenomenon.
+
+## Historical Context and Trends
+
+Historically, the velocity of money has exhibited cyclical behavior, rising during economic expansions and falling during recessions. For example, during recessions, velocity tends to decline as consumers and firms reduce spending and increase savings, reflecting lower confidence and economic activity. However, the past two decades have shown a persistent and unprecedented decline in velocity, even during periods of economic recovery and monetary expansion.
+
+Data from the Federal Reserve Bank of St. Louis indicates that velocity of M2 money stock has fallen by approximately 50% over the past 20 years. During the GFC, velocity dropped from 1.989 in Q3 2007 to 1.712 by Q1 2009, but post-GFC velocity levels remained significantly lower than pre-crisis levels. By Q4 2021, velocity was at an all-time low of 1.123, representing a 34.4% decline from post-GFC levels ([Illan, 2022](https://www.forbes.com/councils/forbesfinancecouncil/2022/04/25/money-velocity-is-at-an-all-time-low-why-does-it-matter/)).
+
+The COVID-19 pandemic accelerated this trend, with velocity declining by more than 20% throughout 2020, driven by a surge in broad money growth exceeding 20% per year since mid-2020 and a simultaneous fall and stagnation in nominal GDP during the first half of 2020 ([Open Economies Review, 2023](https://link.springer.com/article/10.1007/s11079-023-09739-0)).
+
+## Factors Contributing to the Decline in Velocity of Money
+
+### 1. **Expansion of Money Supply Without Corresponding GDP Growth**
+
+The fundamental formula for velocity, \( V = \frac{P}{M} \), implies that if the money supply (M) grows faster than nominal GDP (P), velocity will decline. Since the 2008 financial crisis, central banks, notably the Federal Reserve, have implemented aggressive monetary policies, including quantitative easing (QE), which dramatically increased the money supply (M2 and broader aggregates). However, nominal GDP growth did not keep pace with this expansion, causing velocity to fall.
+
+During the COVID-19 pandemic, the U.S. broad money supply grew at an unprecedented rate (over 20% per year starting Q2 2020), while nominal GDP contracted sharply in early 2020 and only rebounded strongly in late 2021. This imbalance led to a sharp contraction in velocity, with negative growth rates in velocity reaching -30.2% in Q2 2020 ([Open Economies Review, 2023](https://link.springer.com/article/10.1007/s11079-023-09739-0)).
+
+### 2. **Increased Savings and Cash Hoarding**
+
+A key behavioral factor behind declining velocity is increased savings and cash hoarding by consumers and businesses. The pandemic, economic uncertainty, and memories of the financial crisis have heightened risk aversion, leading to higher precautionary savings and debt repayment rather than spending.
+
+Household savings rates spiked during the pandemic, with consumers accumulating cash in checking and savings accounts instead of circulating it through transactions. This behavior reduces the frequency of money changing hands, directly lowering velocity ([Illan, 2022](https://www.forbes.com/councils/forbesfinancecouncil/2022/04/25/money-velocity-is-at-an-all-time-low-why-does-it-matter/); [Tacit Investment Management, 2021](https://www.tacitim.com/why-has-the-velocity-of-money-been-falling-whilst-qe-is-expanding/)).
+
+### 3. **Low Consumer and Business Confidence**
+
+Velocity is closely tied to confidence levels. When consumers and businesses are optimistic, they spend and invest more freely, increasing velocity. Conversely, low confidence leads to reduced spending and increased saving.
+
+The pandemic-induced shock severely dented confidence. Lockdowns restricted spending opportunities, and uncertainty about future income and employment encouraged conservative financial behavior. Even as economies reopened, lingering fears and structural changes in consumption patterns kept velocity subdued ([RSM Real Economy Blog, 2021](https://realeconomy.rsmus.com/velocity-of-money-pandemic-induced-slowing/)).
+
+### 4. **Impact of Quantitative Easing and Asset Price Inflation**
+
+Quantitative easing, while expanding the money supply, has had unintended consequences on velocity. Much of the newly created money has flowed into financial markets, inflating asset prices rather than entering the productive economy. Wealthier households benefiting from asset appreciation have less incentive to spend additional income, as their consumption needs are already met.
+
+This phenomenon leads to a decoupling of money supply growth from real economic activity, suppressing velocity. The money supply increases, but the velocity falls because the money is held in financial assets rather than circulating through goods and services transactions ([Tacit Investment Management, 2021](https://www.tacitim.com/why-has-the-velocity-of-money-been-falling-whilst-qe-is-expanding/)).
+
+### 5. **Structural Economic Changes and Technological Advancements**
+
+Technological changes, including digital payment systems, have the potential to increase velocity by facilitating faster transactions. However, broader structural shifts in the economy, such as demographic changes, increased automation, and changes in consumer behavior, have complex effects.
+
+Some research suggests that these structural factors contribute to a long-term secular decline in velocity, as economic activity becomes less dependent on frequent monetary transactions and more on capital-intensive production and digital services ([Open Economies Review, 2023](https://link.springer.com/article/10.1007/s11079-023-09739-0)).
+
+### 6. **Low Interest Rates and Monetary Policy Environment**
+
+Persistently low interest rates since the GFC have influenced velocity. Low rates encourage borrowing and spending, which should theoretically increase velocity. However, the simultaneous large increase in money supply and cautious spending behavior have muted this effect.
+
+Moreover, with interest rates near historic lows for an extended period, traditional monetary policy tools have had limited effectiveness in stimulating velocity. The Fed and other central banks have resorted to unconventional policies, but these have not translated into proportionate increases in economic transactions ([Accounting Insights, 2024](https://accountinginsights.org/understanding-money-velocity-components-influences-and-effects/)).
+
+### 7. **Debt Repayment and Deleveraging**
+
+Following the financial crisis and pandemic shocks, both consumers and businesses have prioritized reducing debt levels. Deleveraging reduces spending power and transaction frequency, contributing to lower velocity.
+
+This cautious financial management is rational given economic uncertainties but has the side effect of slowing money circulation ([Tacit Investment Management, 2021](https://www.tacitim.com/why-has-the-velocity-of-money-been-falling-whilst-qe-is-expanding/)).
+
+## Implications of Declining Velocity
+
+The sustained decline in velocity has significant implications for economic growth, inflation, and monetary policy:
+
+- **Slower Economic Growth:** Lower velocity implies less frequent money circulation, indicating subdued economic activity and slower GDP growth. This aligns with observations of slow post-pandemic recovery despite large monetary injections.
+
+- **Disinflationary or Deflationary Risks:** Despite large increases in money supply, low velocity dampens inflationary pressures. This dynamic explains why inflation remained subdued for years after the GFC and during early pandemic phases, although inflation surged later due to supply shocks and other factors ([RSM Real Economy Blog, 2021](https://realeconomy.rsmus.com/velocity-of-money-pandemic-induced-slowing/)).
+
+- **Policy Challenges:** Central banks face challenges in stimulating velocity through traditional means. Low velocity suggests that monetary expansion alone may not effectively boost economic activity, necessitating coordinated fiscal policies and unconventional monetary tools.
+
+- **Monetary Disequilibrium:** Research indicates that changes in velocity are linked to monetary disequilibrium—periods when money supply growth and economic output are out of sync. Such disequilibrium complicates inflation forecasting and monetary policy effectiveness ([Open Economies Review, 2023](https://link.springer.com/article/10.1007/s11079-023-09739-0)).
+
+## Conclusion and Opinion
+
+The decline in the velocity of money over the past two decades, exacerbated by the COVID-19 pandemic, is the result of a confluence of structural, behavioral, and policy-driven factors. The rapid expansion of the money supply through quantitative easing and pandemic-related fiscal stimulus, combined with subdued nominal GDP growth, has mechanically lowered velocity. Behavioral changes—increased savings, debt repayment, and low confidence—have further suppressed the frequency of money circulation.
+
+Asset price inflation resulting from QE has diverted money away from productive economic transactions, while structural economic shifts and prolonged low interest rates have limited the traditional stimulative effects of monetary policy on velocity.
+
+In my assessment, the persistent low velocity signals a fundamental shift in the monetary transmission mechanism. Policymakers must recognize that simply increasing the money supply is insufficient to stimulate economic activity without addressing underlying confidence, structural economic changes, and the distributional effects of monetary policy. Coordinated fiscal measures, targeted investments, and policies aimed at restoring consumer and business confidence are essential to reversing the decline in velocity and promoting sustainable economic growth.
+
+---
+
+## References
+
+AccountingInsights Team. (2024, November 26). *Understanding Money Velocity: Components, Influences, and Effects*. Accounting Insights. https://accountinginsights.org/understanding-money-velocity-components-influences-and-effects/
+
+Illan, I. (2022, April 25). *Money Velocity Is At An All-Time Low. Why Does It Matter?* Forbes Finance Council. https://www.forbes.com/councils/forbesfinancecouncil/2022/04/25/money-velocity-is-at-an-all-time-low-why-does-it-matter/
+
+Open Economies Review. (2023). *Money Growth, Money Velocity and Inflation in the US, 1948–2021*. Springer. https://link.springer.com/article/10.1007/s11079-023-09739-0
+
+RSM Real Economy Blog. (2021). *CHART OF THE DAY: The velocity of money and recession*. RSM US LLP. https://realeconomy.rsmus.com/velocity-of-money-pandemic-induced-slowing/
+
+Tacit Investment Management. (2021, December). *Why has the velocity of money been falling whilst QE is expanding?* Tacit Investment Management. https://www.tacitim.com/why-has-the-velocity-of-money-been-falling-whilst-qe-is-expanding/

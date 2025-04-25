@@ -1,0 +1,1 @@
+what are the implications when the rule of law is eradicated?

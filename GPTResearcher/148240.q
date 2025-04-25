@@ -1,0 +1,1 @@
+is the study of rizal significant in contemporary times?

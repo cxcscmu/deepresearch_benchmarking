@@ -1,0 +1,75 @@
+# Does Working from Home Work? Evidence from a Chinese Experiment
+
+## Introduction
+
+The COVID-19 pandemic accelerated the adoption of remote work globally, prompting renewed interest in understanding the productivity and organizational impacts of working from home (WFH). Prior to the pandemic, WFH was relatively limited but growing, with concerns about potential declines in productivity and employee engagement. One of the most rigorous and influential studies addressing these concerns is the randomized controlled trial conducted at CTrip, a large Chinese travel agency. This report provides a comprehensive analysis of the findings from this experiment and related subsequent research, evaluating whether working from home "works" in terms of productivity, employee satisfaction, retention, and career progression.
+
+## Background of the CTrip Experiment
+
+CTrip, a NASDAQ-listed Chinese travel agency with approximately 16,000 employees, conducted a nine-month randomized controlled trial starting in December 2010. The study involved 249 call center employees who volunteered to participate and met criteria such as having home broadband and a private workspace. These participants were randomly assigned to either a treatment group working from home four days a week or a control group working entirely in the office. The experiment aimed to measure the impact of WFH on productivity, employee satisfaction, turnover, and promotion rates ([Bloom et al., 2015](https://www.nber.org/papers/w18871)).
+
+## Key Findings
+
+### Productivity Gains
+
+The experiment found that employees working from home increased their productivity by 13% compared to those working in the office. This improvement was primarily driven by two factors:
+
+- **Increased minutes worked per shift:** Home workers worked 9.2% more minutes per shift, attributed to fewer breaks and sick days. The ability to work from home when feeling slightly unwell but not well enough to commute reduced absenteeism.
+
+- **Higher calls per minute:** Home workers handled 3.3% more calls per minute, likely due to a quieter and less distracting environment at home ([Bloom et al., 2015](https://www.nber.org/papers/w18871)).
+
+Overall, the 13% productivity increase was a combination of more time worked and improved efficiency during work time.
+
+### Employee Satisfaction and Retention
+
+Employees working from home reported significantly higher job satisfaction, with a 16 percentage point increase in the likelihood of reporting positive attitudes and less exhaustion. Furthermore, attrition rates were halved in the WFH group: 17% quit versus 35% in the office group during the nine-month trial. The reduction in turnover was particularly notable because it represented a 50% decrease and was linked to the lack of comparable home-working opportunities elsewhere ([Abdul Latif Jameel Poverty Action Lab, n.d.](https://www.povertyactionlab.org/evaluation/evaluating-impact-working-home-productivity-and-work-life-balance-china)).
+
+### Promotion Rates and Visibility Concerns
+
+Despite productivity gains and higher satisfaction, home workers experienced nearly 50% lower promotion rates conditional on performance compared to their office-based peers. This was attributed to reduced visibility to managers and potential biases against remote workers in career advancement decisions ([Bloom et al., 2015](https://www.nber.org/papers/w18871)).
+
+### Post-Experiment Rollout and Selection Effects
+
+Following the successful experiment, CTrip rolled out the WFH option to the entire firm and allowed employees to choose their preferred work location. Interestingly, over half of the original experimental participants switched their work location choice, with many home workers returning to the office citing loneliness and promotion concerns. This self-selection led to an almost doubling of productivity gains from 13% to 22%, as lower-performing home workers returned to the office, and higher-performing employees remained remote ([Bloom et al., 2015](https://www.nber.org/papers/w18871)).
+
+### Hybrid Work and Recent Evidence
+
+More recent studies, including a 2021–2022 randomized trial involving 1,612 employees at Trip.com (formerly CTrip), have examined hybrid work models combining office and home days. This research found that hybrid working (two days WFH per week) maintained productivity levels comparable to full office work and did not negatively impact promotion rates. Additionally, hybrid work reduced employee turnover by one-third, with the greatest retention benefits observed among women, non-managers, and employees with long commutes ([Stanford Institute for Economic Policy Research, 2024](https://siepr.stanford.edu/news/hybrid-work-win-win-win-companies-workers-study-finds); [Nature, 2024](https://www.nature.com/articles/s41586-024-07500-2)).
+
+## Economic and Organizational Implications
+
+CTrip estimated that the productivity improvement from WFH was worth approximately $375 per employee per year. Additionally, the company saved about $1,250 per employee annually in office costs and $400 per employee per year in reduced turnover-related expenses such as training and lost productivity ([Bloom et al., 2015](https://www.nber.org/papers/w18871)).
+
+The experiment also highlighted the importance of **employee and company learning** in adopting WFH practices. Both groups were initially uncertain about the effectiveness of remote work, but the trial and subsequent rollout enabled them to evaluate and optimize the approach. Allowing employees to choose their work location further enhanced performance, demonstrating the value of flexibility and autonomy ([Abdul Latif Jameel Poverty Action Lab, n.d.](https://www.povertyactionlab.org/evaluation/evaluating-impact-working-home-productivity-and-work-life-balance-china)).
+
+## Limitations and Considerations
+
+While the CTrip experiment provides robust evidence supporting WFH, some limitations and contextual factors should be noted:
+
+- **Industry and job type:** The study focused on call center employees, whose work is measurable and can be done remotely. Results may differ in other sectors requiring physical presence or more collaborative tasks.
+
+- **Promotion bias:** The reduced promotion rate for home workers highlights potential managerial biases and the need for organizations to develop fair evaluation systems that do not disadvantage remote employees.
+
+- **Loneliness and social interaction:** Some employees reported loneliness and a preference for office work, indicating that WFH may not suit everyone equally.
+
+- **Cultural context:** The study was conducted in China, and cultural or organizational differences may influence the generalizability of findings to other countries.
+
+## Conclusion and Opinion
+
+Based on the comprehensive evidence from the CTrip experiment and subsequent studies, working from home **does work** in terms of improving productivity, employee satisfaction, and retention, especially when employees are given the autonomy to choose their work location. The initial concerns about "shirking" or reduced output are not supported by the data; instead, remote work leads to measurable performance gains primarily through increased working time and efficiency.
+
+However, WFH is not without challenges. The significant drop in promotion rates for remote workers underscores the need for organizations to address visibility and evaluation biases. Hybrid work models appear to offer a balanced solution, maintaining productivity and career progression while improving retention and work-life balance.
+
+In my opinion, organizations should embrace flexible work arrangements, including WFH and hybrid models, as part of modern management practices. Success depends on careful implementation, including transparent performance metrics, managerial training to mitigate biases, and support for social interaction to reduce isolation. The evidence strongly supports that with these considerations, working from home can be a win-win for employees and employers alike.
+
+---
+
+## References
+
+Bloom, N., Liang, J., Roberts, J., & Ying, Z. J. (2015). Does Working from Home Work? Evidence from a Chinese Experiment. *The Quarterly Journal of Economics*, 130(1), 165–218. https://www.nber.org/papers/w18871
+
+Evaluating the Impact of Working from Home on Productivity and Work-Life Balance in China | The Abdul Latif Jameel Poverty Action Lab. (n.d.). https://www.povertyactionlab.org/evaluation/evaluating-impact-working-home-productivity-and-work-life-balance-china
+
+Hybrid work is a “win-win-win” for companies, workers, study finds | Stanford Institute for Economic Policy Research (SIEPR). (2024). https://siepr.stanford.edu/news/hybrid-work-win-win-win-companies-workers-study-finds
+
+Hybrid working from home improves retention without damaging performance | Nature. (2024). *Nature*, 615, 123–130. https://www.nature.com/articles/s41586-024-07500-2

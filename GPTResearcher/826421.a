@@ -1,0 +1,103 @@
+# Are Nurses Spending Too Much Time Documenting Using Electronic Health Records?  
+## An In-Depth Analysis  
+
+### Introduction  
+Electronic Health Records (EHRs) have become integral to modern healthcare, aiming to improve patient care quality, safety, and coordination. However, the impact of EHRs on nursing documentation time and workflow efficiency remains a critical concern. Nurses, as one of the largest groups of EHR users, often report significant documentation burdens, which may detract from direct patient care and contribute to burnout. This report examines whether nurses are indeed spending excessive time documenting with EHRs, analyzing recent research findings, usability challenges, and workflow implications to provide a comprehensive, evidence-based perspective.
+
+---
+
+### Documentation Time and Burden: Quantitative Evidence  
+
+Several studies have quantitatively assessed the time nurses spend on documentation tasks before and after EHR implementation. A systematic review by Ammenwerth et al. (2018) found that nurses' documentation time increased from approximately 9% pre-EHR to 23% post-EHR implementation of their work shifts, indicating a significant rise in documentation demands ([Ammenwerth et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29895467/)). Similarly, a systematic review by Rotenstein et al. (2021) reported that nurses spend about 22% of their workday interacting with EHRs, which is a substantial portion of their time ([Rotenstein et al., 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8387128/)).
+
+In observational studies, nurses were found to spend up to 19-40% of their shift documenting patient care and recording data in EHRs, with over 600 flowsheet rows documented per shift on average ([Harrington et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300261/)). At Cleveland Clinic, inpatient nurses spent approximately 123 minutes per shift actively navigating the EHR in 2022 ([Cleveland Clinic, 2023](https://consultqd.clevelandclinic.org/improving-the-electronic-health-record-experience-for-nurses)).
+
+These data collectively highlight that nurses dedicate a significant and increasing proportion of their work time to EHR documentation, which raises concerns about the balance between documentation and direct patient care.
+
+---
+
+### Usability and Workflow Challenges Contributing to Documentation Burden  
+
+The burden of EHR documentation is not solely due to the volume of required data entry but is also heavily influenced by system usability and workflow alignment. Cho et al. (2024) found that nurses perceive documentation as essential but burdensome, with usability issues such as data redundancy, poor workflow navigation, and cumbersome data entry significantly contributing to this burden. Specific EHR components like Flowsheets, Care Plans, and Navigators were rated below acceptable usability levels, exacerbating documentation challenges ([Cho et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39259920/)).
+
+Similarly, Coombe et al. (2022) identified poor design, hybrid paper-electronic workflows, duplicate data entry, multiple system logins, difficulty locating patient information, excessive alerts, and poor navigation as key factors increasing documentation burden and reducing nurse satisfaction with EHRs ([Coombe et al., 2022](https://bmcnurs.biomedcentral.com/articles/10.1186/s12912-022-00989-w)).
+
+Such usability issues not only increase the time required for documentation but also contribute to cognitive load and frustration, potentially leading to workarounds that may compromise patient safety ([Harrington et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300261/)).
+
+---
+
+### Clinical vs. Organizational Documentation: Impact on Workload  
+
+Nursing documentation encompasses both clinical documentation (directly related to patient care) and organizational documentation (such as financial, regulatory, and quality reporting). Community nurse studies indicate that while nurses spend more time on clinical documentation, the perceived workload from organizational documentation is equally high or even higher, largely because organizational documentation is often viewed as redundant and less meaningful ([van der Vaart et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795724/)).
+
+This distinction is critical because it suggests that not all documentation time is equally valuable or necessary from the nurses’ perspective. The burden from organizational documentation—often driven by external reporting requirements—adds to the overall documentation time without directly enhancing patient care, contributing to frustration and perceived inefficiency ([van der Vaart et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795724/)).
+
+---
+
+### Impact on Nurse-Patient Interaction and Care Delivery  
+
+The increased time spent on EHR documentation has implications for nurse-patient interactions. Some studies report that although documentation time has increased, the amount of time nurses spend at the bedside has not significantly decreased, suggesting a redistribution of time rather than a total loss of patient contact ([Walker et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10100205/)). However, other research highlights that nurses often face a "dilemma of attention" between the computer and the patient, with EHR use sometimes detracting from meaningful patient communication ([Walker et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10100205/)).
+
+Moreover, the cognitive demands of navigating complex EHR systems may reduce nurses' capacity for patient-centered care and increase mental fatigue ([Coombe et al., 2022](https://bmcnurs.biomedcentral.com/articles/10.1186/s12912-022-00989-w)).
+
+---
+
+### Organizational and System-Level Factors  
+
+Staffing shortages and high patient acuity exacerbate documentation burdens. When nurse-to-patient ratios are unfavorable, nurses have less time to complete detailed documentation, increasing stress and reducing documentation quality ([Cho et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39259920/)). Additionally, frequent system changes and lack of integration with medical devices contribute to inefficiencies ([Cleveland Clinic, 2023](https://consultqd.clevelandclinic.org/improving-the-electronic-health-record-experience-for-nurses)).
+
+Organizations that establish governance structures with stakeholder alignment and thorough change management during EHR implementations tend to achieve higher clinician satisfaction and better usability outcomes ([KLAS Research, 2025](https://klasresearch.com/archcollaborative/report/ehr-implementations-2025/628)).
+
+---
+
+### Potential Solutions and Recommendations  
+
+Nurses and researchers recommend several strategies to reduce documentation burden and improve EHR usability:
+
+- **Minimize redundant and excessive data entry:** Streamlining documentation requirements to avoid duplication and focusing on essential data ([Cho et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39259920/)).
+
+- **Improve visual cues and error messaging:** Enhancing system feedback to quickly identify missing or incorrect information ([Cho et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39259920/)).
+
+- **Integrate decision support:** Embedding clinical decision support tools to assist nurses during documentation and care planning ([Cho et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39259920/)).
+
+- **Optimize workflow alignment:** Designing EHR components that reflect nursing workflows and the nursing process phases ([van der Vaart et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795724/)).
+
+- **Address non-EHR factors:** Improving staffing ratios and time management to reduce external pressures on documentation time ([Cho et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39259920/)).
+
+- **Engage nurses in EHR design and improvement:** Co-creating solutions with frontline nurses ensures that changes meet practical needs and improve satisfaction ([Coombe et al., 2022](https://bmcnurs.biomedcentral.com/articles/10.1186/s12912-022-00989-w)).
+
+---
+
+### Conclusion  
+
+Based on the current evidence, it is clear that nurses are spending a substantial and increasing amount of time documenting using EHRs, often at the expense of direct patient care and job satisfaction. The documentation burden is multifactorial, involving not only the volume of required entries but also significant usability and workflow misalignments. Organizational factors like staffing shortages further compound these challenges.
+
+While EHRs provide critical benefits for patient safety and care coordination, their current design and implementation often lead to excessive documentation demands on nurses. Addressing these issues requires a multifaceted approach that includes system redesign, workflow optimization, reduction of redundant documentation, and organizational support.
+
+Therefore, nurses are indeed spending too much time documenting using EHRs in their current state, and targeted interventions are urgently needed to balance documentation requirements with the imperative to provide high-quality, patient-centered care.
+
+---
+
+### References  
+
+Ammenwerth, E., Iller, C., & Mahler, C. (2018). The impact of electronic health record systems on clinical documentation times: A systematic review. *International Journal of Medical Informatics*, 114, 19-27. https://pubmed.ncbi.nlm.nih.gov/29895467/
+
+Cleveland Clinic. (2023). Improving the Electronic Health Record Experience for Nurses. *Consult QD*. https://consultqd.clevelandclinic.org/improving-the-electronic-health-record-experience-for-nurses
+
+Cho, H., Nguyen, O., Weaver, M., Marcelle, C., Pruitt, J., Lee, T., Salloum, R. G., & Keenan, G. (2024). Electronic health record system use and documentation burden of acute and critical care nurse clinicians: a mixed-methods study. *Stud Health Technol Inform*, 315, 777-778. https://pubmed.ncbi.nlm.nih.gov/39259920/
+
+Coombe, N., Yang, L., Ronald, K., Wang, W., Pagliaroli, S., Tajirian, T., Ling, S., & Jankowicz, D. (2022). Identifying and adapting interventions to reduce documentation burden and improve nurses’ efficiency in using electronic health record systems (The IDEA Study): protocol for a mixed methods study. *BMC Nursing*, 21, 213. https://bmcnurs.biomedcentral.com/articles/10.1186/s12912-022-00989-w
+
+Harrington, L., et al. (2022). Implementing Best Practices to Redesign Workflow and Optimize Nursing Documentation in the Electronic Health Record. *PMC*. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300261/
+
+KLAS Research. (2025). EHR Implementations 2025 - Arch Report. https://klasresearch.com/archcollaborative/report/ehr-implementations-2025/628
+
+Rotenstein, L. S., et al. (2021). Interaction Time with Electronic Health Records: A Systematic Review. *PMC*. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8387128/
+
+van der Vaart, R., et al. (2022). Nursing documentation and its relationship with perceived nursing workload: a mixed-methods study among community nurses. *PMC*. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8795724/
+
+Walker, J., et al. (2019). An integrative review exploring the impact of Electronic Health Records (EHR) on the quality of nurse–patient interactions and communication. *PMC*. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10100205/
+
+---
+
+*Note: All URLs are hyperlinked in the text as per the instructions.*

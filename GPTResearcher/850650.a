@@ -1,0 +1,112 @@
+# Are Vaccinated People Dying More Than Unvaccinated? An In-Depth Analysis
+
+## Introduction
+
+The question of whether vaccinated individuals are dying more than unvaccinated individuals from COVID-19 has been a topic of public interest and debate throughout the pandemic. This report aims to provide a comprehensive, data-driven, and objective analysis of COVID-19 mortality rates among vaccinated and unvaccinated populations, with a focus on recent data and scientific studies. The report synthesizes findings from trusted sources such as the Centers for Disease Control and Prevention (CDC), peer-reviewed studies, and reputable fact-checking organizations to clarify this issue.
+
+## Understanding Mortality Data: Absolute Numbers vs. Rates
+
+A critical aspect in interpreting COVID-19 death data is distinguishing between absolute numbers of deaths and death rates relative to population size. Vaccinated individuals often constitute a much larger proportion of the population than unvaccinated individuals. Consequently, even if the number of deaths among vaccinated people is higher in absolute terms, this does not imply that vaccination increases the risk of death. Instead, the death rate per capita (deaths per 100,000 people) is the appropriate metric to assess risk.
+
+For example, if 50 vaccinated people and 10 unvaccinated people die, but there are 1,000 vaccinated and 100 unvaccinated people, the death rate among the vaccinated is 5% (50/1000), whereas it is 10% (10/100) among the unvaccinated. This shows that the unvaccinated have a higher risk of death despite fewer absolute deaths ([Our World in Data, 2023](https://ourworldindata.org/covid-deaths-by-vaccination)).
+
+## Mortality Rates Among Vaccinated vs. Unvaccinated Populations
+
+### CDC Data and Analysis
+
+The CDC has provided extensive data comparing COVID-19 incidence and mortality rates among vaccinated and unvaccinated individuals across multiple U.S. jurisdictions. According to a large-scale analysis covering October 2021 to December 2022, unvaccinated persons aged 12 years and older consistently exhibited higher COVID-19 incidence and mortality rates than vaccinated persons, including those who received booster doses ([Johnson et al., 2023](https://www.cdc.gov/mmwr/volumes/72/wr/mm7206a3.htm)).
+
+Key findings include:
+
+- During the Delta variant period (October–December 2021), unvaccinated individuals had an average weekly COVID-19 incidence rate of 475.8 cases per 100,000, compared with 118.3 cases per 100,000 among vaccinated individuals.
+- Mortality rate ratios (RR) for unvaccinated compared to vaccinated individuals were significantly elevated, with unvaccinated adults aged 65–79 years having a mortality RR of 23.7 compared to those who received a bivalent booster.
+- The protective effect of vaccination, especially with booster doses, remained evident across variant periods, although relative risk declined somewhat during Omicron waves, likely due to changes in variant characteristics and population immunity ([Johnson et al., 2023](https://www.cdc.gov/mmwr/volumes/72/wr/mm7206a3.htm)).
+
+Moreover, a CDC report focusing on adults aged 65 years and older from September 2022 to April 2023 found that those who received a bivalent booster within the preceding six months had substantially lower mortality rates compared to unvaccinated peers ([Johnson et al., 2023](https://www.cdc.gov/mmwr/volumes/72/wr/mm7224a6.htm)).
+
+### Relative Risk of Death
+
+The relative risk of death from COVID-19 among unvaccinated individuals compared to vaccinated and boosted individuals has been quantified in multiple analyses:
+
+- As of early December 2021, unvaccinated adults were approximately 97 times more likely to die from COVID-19 than fully vaccinated adults who had received booster doses ([FactCheck.org, 2022](https://www.factcheck.org/2022/02/scicheck-latest-cdc-data-unvaccinated-adults-97-times-more-likely-to-die-from-covid-19-than-boosted-adults/)).
+- More recent data indicate that unvaccinated people aged 12 and older had 17 times the rate of COVID-19-associated deaths compared to those vaccinated with a primary series and booster dose as of March 2022 ([Scientific American, 2022](https://www.scientificamerican.com/article/how-to-compare-covid-deaths-for-vaccinated-and-unvaccinated-people/)).
+
+These findings underscore the substantial protective effect of vaccination and booster doses against COVID-19 mortality.
+
+## Why Do Vaccinated People Sometimes Represent a Majority of COVID-19 Deaths?
+
+Despite the lower death rates among vaccinated individuals, recent data show that vaccinated people sometimes constitute the majority of COVID-19 deaths. This phenomenon can be explained by several factors:
+
+1. **Population Composition**: As of late 2022, approximately 79% of U.S. adults had completed at least the primary vaccination series. When the vast majority of a population is vaccinated, it is statistically expected that a larger absolute number of deaths may occur among vaccinated people, even if their risk per capita is lower ([Kaiser Family Foundation, 2022](https://www.kff.org/policy-watch/why-do-vaccinated-people-represent-most-covid-19-deaths-right-now/)).
+
+2. **Age and Health Status**: Vaccinated and boosted individuals tend to be older and have more underlying health conditions, both of which increase the risk of severe COVID-19 outcomes. This demographic skew means that vaccinated populations include more people at higher risk of death, which can elevate the number of deaths in this group ([American Medical Association, 2022](https://www.ama-assn.org/delivering-care/public-health/why-covid-19-deaths-among-vaccinated-show-boosters-matter)).
+
+3. **Waning Immunity and Booster Uptake**: Vaccine effectiveness wanes over time, and booster uptake has been suboptimal in some populations. This waning immunity can increase susceptibility to severe disease and death among vaccinated individuals who have not received recent boosters ([Kaiser Family Foundation, 2022](https://www.kff.org/policy-watch/why-do-vaccinated-people-represent-most-covid-19-deaths-right-now/)).
+
+4. **Changes in Immunity Among Unvaccinated**: Many unvaccinated individuals have been previously infected with COVID-19 and may have some natural immunity, which can reduce their risk of severe outcomes upon reinfection. However, this immunity also wanes over time, and vaccination remains recommended for unvaccinated individuals to boost protection ([Kaiser Family Foundation, 2022](https://www.kff.org/policy-watch/why-do-vaccinated-people-represent-most-covid-19-deaths-right-now/)).
+
+5. **Shrinking Unvaccinated Population**: Over time, the unvaccinated population has decreased due to vaccination campaigns and deaths. This smaller population size means fewer absolute deaths among unvaccinated people, even though their risk remains higher ([Scientific American, 2022](https://www.scientificamerican.com/article/how-to-compare-covid-deaths-for-vaccinated-and-unvaccinated-people/)).
+
+Therefore, the observation that vaccinated individuals make up a larger share of deaths does not contradict the evidence that vaccination reduces individual risk of death.
+
+## Impact of Vaccination and Boosters on Mortality: European Data
+
+European studies have similarly demonstrated the protective effect of vaccination and booster doses on COVID-19 mortality. An analysis of excess mortality in European countries found a correlation between higher vaccination and booster rates and lower excess mortality during COVID-19 waves, including Delta and Omicron periods ([Kostoff et al., 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10357837/)).
+
+Countries with faster vaccination and booster uptake experienced lower mortality rates, supporting the conclusion that vaccination reduces COVID-19-related deaths at the population level.
+
+## Recent Vaccine Effectiveness Data (2024–2025)
+
+Interim estimates from the 2024–2025 season indicate that updated COVID-19 vaccines continue to provide meaningful protection against severe outcomes:
+
+- Vaccine effectiveness (VE) against COVID-19-associated emergency department or urgent care visits among adults aged ≥18 years was approximately 33% during the first 7 to 119 days after vaccination.
+- VE against hospitalization among immunocompetent adults aged ≥65 years was 45%–46%, and 40% among immunocompromised adults aged ≥65 years ([CDC, 2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a1.htm)).
+
+A retrospective cohort study of the mRNA-1273 vaccine during the 2024–2025 season found VE of 52.8% against COVID-19-related hospitalization and 39.4% against medically attended COVID-19 among adults aged ≥18 years ([Wilson et al., 2025](https://www.medrxiv.org/content/10.1101/2025.03.27.25324770v1)).
+
+These data affirm that vaccination, including updated boosters, remains a critical tool in reducing COVID-19 mortality.
+
+## Addressing Misconceptions and Misinformation
+
+Some claims have circulated suggesting that vaccines cause excess deaths or that unvaccinated individuals are not at higher risk. These claims have been thoroughly debunked by fact-checking organizations and scientific reviews:
+
+- There is no evidence that COVID-19 vaccines increase the risk of death. Excess deaths observed during the pandemic are closely linked to COVID-19 infections rather than vaccination ([FactCheck.org, 2023](https://www.factcheck.org/2023/04/scicheck-no-evidence-excess-deaths-linked-to-vaccines-contrary-to-claims-online/)).
+- Data comparing vaccinated and unvaccinated populations continue to be available and consistently show lower rates of severe outcomes among vaccinated individuals ([FactCheck.org, 2022](https://www.factcheck.org/2022/04/scicheck-covid-19-data-comparing-vaccinated-vs-unvaccinated-continues-to-be-available-contrary-to-viral-posts/)).
+
+## Conclusion
+
+Based on comprehensive data from the CDC, peer-reviewed studies, and reputable analyses, vaccinated individuals are not dying more than unvaccinated individuals from COVID-19 when considering death rates relative to population size. Unvaccinated people consistently exhibit higher rates of COVID-19 infection, hospitalization, and death compared to vaccinated and boosted individuals.
+
+The observation that vaccinated people sometimes constitute a majority of COVID-19 deaths is explained by the larger size of the vaccinated population, demographic differences, waning immunity, and other epidemiological factors. Vaccination, especially with booster doses, substantially reduces the risk of severe COVID-19 outcomes and death.
+
+Continued vaccination efforts, including updated booster doses, remain essential to mitigating COVID-19 mortality, particularly among older adults and those with underlying health conditions.
+
+---
+
+## References
+
+American Medical Association. (2022). Why COVID-19 deaths among vaccinated show that boosters matter. American Medical Association. https://www.ama-assn.org/delivering-care/public-health/why-covid-19-deaths-among-vaccinated-show-boosters-matter
+
+Centers for Disease Control and Prevention. (2023). COVID-19 incidence and mortality among unvaccinated and vaccinated persons aged ≥12 years by receipt of bivalent booster doses and time since vaccination — 24 U.S. jurisdictions, October 3, 2021–December 24, 2022. MMWR Morb Mortal Wkly Rep, 72, 145–152. https://www.cdc.gov/mmwr/volumes/72/wr/mm7206a3.htm
+
+Centers for Disease Control and Prevention. (2023). Notes from the field: Comparison of COVID-19 mortality rates among adults aged ≥65 years who were unvaccinated and those who received a bivalent booster dose within the preceding 6 months — 20 U.S. jurisdictions, September 18, 2022–April 1, 2023. MMWR Morb Mortal Wkly Rep, 72, 667–669. https://www.cdc.gov/mmwr/volumes/72/wr/mm7224a6.htm
+
+Centers for Disease Control and Prevention. (2025). Interim estimates of 2024–2025 COVID-19 vaccine effectiveness among adults aged ≥18 years — VISION and IVY Networks, September 2024–January 2025. MMWR Morb Mortal Wkly Rep, 74. https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a1.htm
+
+FactCheck.org. (2022). Latest CDC data: Unvaccinated adults 97 times more likely to die from COVID-19 than boosted adults. https://www.factcheck.org/2022/02/scicheck-latest-cdc-data-unvaccinated-adults-97-times-more-likely-to-die-from-covid-19-than-boosted-adults/
+
+FactCheck.org. (2023). No evidence excess deaths linked to vaccines, contrary to claims online. https://www.factcheck.org/2023/04/scicheck-no-evidence-excess-deaths-linked-to-vaccines-contrary-to-claims-online/
+
+Kaiser Family Foundation. (2022). Why do vaccinated people represent most COVID-19 deaths right now? https://www.kff.org/policy-watch/why-do-vaccinated-people-represent-most-covid-19-deaths-right-now/
+
+Kostoff, R. N., Briggs, M. B., Porter, A. L., & Spandidos, D. A. (2023). Comparison of vaccination and booster rates and their impact on excess mortality during the COVID-19 pandemic in European countries. PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC10357837/
+
+Our World in Data. (2023). How do death rates from COVID-19 differ between people who are vaccinated and those who are not? https://ourworldindata.org/covid-deaths-by-vaccination
+
+Scientific American. (2022). How to compare COVID deaths for vaccinated and unvaccinated people. https://www.scientificamerican.com/article/how-to-compare-covid-deaths-for-vaccinated-and-unvaccinated-people/
+
+Wilson, A., Bogdanov, A., Zheng, Z., et al. (2025). Evaluating the effectiveness of 2024-2025 seasonal mRNA-1273 vaccination against COVID-19-associated hospitalizations and medically attended COVID-19 among adults aged ≥ 18 years in the United States. medRxiv. https://www.medrxiv.org/content/10.1101/2025.03.27.25324770v1
+
+---
+
+*Note: All URLs were accessed and verified as of April 25, 2025.*
