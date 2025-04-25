@@ -1,1 +1,27 @@
-The best practices to help defend against social engineering attacks include educating and training employees, implementing strict access controls, and using multi-factor authentication.
+# Report on Best Practices to Defend Against Social Engineering Attacks
+
+## Executive Summary
+
+Social engineering attacks exploit human psychology to gain unauthorized access to information or systems. To mitigate these threats, organizations must adopt a multi-faceted approach that includes employee education, strict access controls, and the use of advanced security technologies. This report outlines the best practices that can help defend against social engineering attacks, based on current literature and expert recommendations.
+
+## Methodology
+
+To compile this report, a comprehensive search was conducted using various online resources, including educational platforms, cybersecurity blogs, and expert forums. The search focused on identifying consistent recommendations across multiple sources to ensure a well-rounded understanding of effective defense strategies against social engineering attacks.
+
+## Detailed Findings
+
+1. **Employee Education and Training**: Educating employees about the tactics used in social engineering attacks is crucial. "Employee education and training" is consistently highlighted as a key defense strategy [^1]. Training programs should focus on recognizing phishing attempts, suspicious communications, and the importance of not divulging sensitive information.
+
+2. **Strict Access Controls**: Implementing strict access controls can significantly reduce the risk of unauthorized access. This includes using multi-factor authentication (MFA) and ensuring that employees only have access to the information necessary for their roles. "Strict access controls" are recommended to prevent social engineers from easily breaching systems [^2].
+
+3. **Use of Security Technologies**: Deploying advanced security technologies such as firewalls, anti-phishing software, and anti-malware programs can help block attacks before they reach users. "Use tools like firewalls, anti-phishing software, and anti-malware programs" to defend against social engineering attacks [^3]. Keeping these tools updated is essential to protect against the latest threats.
+
+## Sources
+
+1. [What three best practices can help defend against social engineering attacks? - Brainly](https://brainly.com/question/32151463)
+2. [What three best practices can help defend against social engineering attacks? - Brainly](https://brainly.com/question/27961589)
+3. [Defending Against Social Engineering: What You Need to Know - Dataprise](https://www.dataprise.com/resources/blog/defending-against-social-engineering/)
+
+## Limitations
+
+The findings in this report are based on available online resources and may not cover all possible strategies or the latest developments in social engineering defense. Additionally, the effectiveness of these practices can vary depending on the specific context and environment of an organization. Continuous updates and adaptations of these strategies are recommended to address evolving threats.

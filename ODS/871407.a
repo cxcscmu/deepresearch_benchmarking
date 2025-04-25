@@ -1,1 +1,33 @@
-The flaw that can lead to the exposure of resources or functionality to unintended actors is "Improper Authentication."
+# Report on Flaws Leading to Exposure of Resources or Functionality to Unintended Actors
+
+## Executive Summary
+
+The exposure of resources or functionality to unintended actors is a critical security concern in software systems. This report identifies "Improper Authentication" and "Broken Access Control" as the primary flaws that can lead to such exposures. These vulnerabilities occur when systems fail to adequately verify user identities or restrict access to resources, potentially allowing unauthorized users to access sensitive information or functionalities.
+
+## Methodology
+
+To gather information on this topic, a comprehensive search was conducted using various online educational and technical resources. The search strategy included querying terms like "flaw exposure resources functionality unintended actors" across platforms such as Brainly, Chegg, and OWASP-related quizzes. The search aimed to identify consistent patterns and expert opinions on the subject.
+
+## Detailed Findings
+
+1. **Improper Authentication**: This flaw is frequently cited as a primary cause of resource exposure. It occurs when a system does not adequately verify the identity of users, allowing unauthorized access. As noted in multiple sources, "Improper authentication is a flaw that can lead to exposure of resources or functionality to unintended actors" [^1][^2][^3].
+
+2. **Broken Access Control**: Another significant flaw is broken access control, which happens when an application fails to properly restrict user access to resources. This can result in unauthorized users gaining access to sensitive data or functionalities. One source states, "Broken Access Control: This occurs when an application does not properly restrict users from accessing resources or functionalities that they should not have access to" [^4].
+
+3. **Session Fixation**: Although less frequently mentioned, session fixation is another potential vulnerability. It involves an attacker hijacking a user's session, which can lead to unauthorized access. This is highlighted in a source that mentions, "Session Fixation: Attacker can hijack a user's session after they have logged in" [^3].
+
+## Sources
+
+1. [Brainly - What flaw can lead to exposure of resources or functionality](https://brainly.com/question/35907726)
+2. [Chegg - What flaw can lead to exposure of resources or functionality](https://www.chegg.com/homework-help/questions-and-answers/flaw-lead-exposure-resources-functionality-unintended-actors-select-correct-option-s-click-q176137210)
+3. [Filo - What flaw can lead to exposure of resources or functionality](https://askfilo.com/user-question-answers-smart-solutions/question-8-40-what-flaw-can-lead-to-exposure-of-resources-or-3132353536313338)
+4. [Classace - What flaw can lead to exposure of resources or functionality](https://www.classace.io/answers/what-flaw-can-lead-to-exposure-of-resources-or-functionality-to-unintended-actors)
+
+## Limitations
+
+The findings are based on publicly available information and may not cover all possible vulnerabilities or scenarios. The search was limited to online educational resources and may not include the latest industry-specific insights or proprietary security research. Additionally, the information is subject to the accuracy and completeness of the sources reviewed.
+
+[^1]: Brainly
+[^2]: Chegg
+[^3]: Filo
+[^4]: Classace

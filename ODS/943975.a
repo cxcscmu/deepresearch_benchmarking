@@ -1,1 +1,22 @@
-A dependency should be raised as a program risk when it becomes a critical factor that could determine the success or failure of the program, particularly when it cannot be resolved or deferred. This ensures that the dependency is actively managed to prevent it from becoming a problem for the project.
+# Report: When Should a Dependency Be Raised as a Program Risk?
+
+## Executive Summary
+In project management, particularly within frameworks like SAFe (Scaled Agile Framework), understanding when to raise a dependency as a program risk is crucial for successful project execution. Dependencies should be considered program risks when they pose a significant threat to the project's success, cannot be resolved or deferred, and require strategic management to prevent them from becoming problems.
+
+## Methodology
+To address the query, a comprehensive search was conducted using various online resources, including educational platforms, professional blogs, and industry-specific forums. The search focused on identifying authoritative sources that discuss the intersection of dependencies and program risks within project management frameworks.
+
+## Detailed Findings
+1. **Acceptance of Unresolvable Dependencies**: A dependency should be added to program risks when it must be accepted, particularly when it cannot be resolved or deferred. This ensures that the project team is aware of potential issues that could impact the project's success [^1].
+
+2. **Tipping Point for Success or Failure**: Dependencies should be raised as program risks when they become the tipping point between success and failure. This approach allows project managers to navigate the path with strategic foresight, ensuring that dependencies do not derail the project [^2].
+
+3. **Proactive Risk Management**: Managing dependencies as risks is beneficial because it involves actively working to prevent them from becoming problems. This proactive approach is essential for maintaining project momentum and achieving desired outcomes [^3].
+
+## Sources
+1. [When should a dependency be added to the program risks ... - Brainly](https://brainly.com/question/42100066)
+2. [When Should a Dependency be Raised as a Program Risk? - Sajib Roy](https://www.sajibroy.com/when-should-a-dependency-be-raised-as-a-program-risk/)
+3. [Ask a PM: How to Manage Dependencies and Assess Risks - Tempo](https://www.tempo.io/blog/how-to-manage-dependencies-and-assess-risks)
+
+## Limitations
+The findings are based on available online resources and may not cover all perspectives or the latest industry practices. Additionally, some sources may not be peer-reviewed, which could affect the reliability of the information. The search did not include proprietary databases or subscription-based journals, which might offer more in-depth insights.
