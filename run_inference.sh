@@ -19,8 +19,8 @@ conda activate rag || { echo "Failed to activate conda environment"; exit 1; }
 export PYTHONPATH=.
 echo "Environment setup complete."
 
-export OPENAI_API_KEY="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"
-export TAVILY_API_KEY="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"
+export OPENAI_API_KEY="OpenAIKey"
+export TAVILY_API_KEY="TavilyKey"
 
 
 python test.py -i queries/new_154.jsonl
