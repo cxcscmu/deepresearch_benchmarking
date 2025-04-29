@@ -1,0 +1,1 @@
+why are home prices so high

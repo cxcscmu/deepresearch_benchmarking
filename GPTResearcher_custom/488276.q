@@ -1,0 +1,1 @@
+can the pope change church doctrine

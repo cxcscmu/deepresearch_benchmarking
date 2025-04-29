@@ -4,16 +4,24 @@ import sys
 import asyncio
 import json
 from pathlib import Path
+
+
+os.environ["RETRIEVER"]          = "custom"
+os.environ["RETRIEVER_ENDPOINT"] = "https://clueweb22.us/search"
+os.environ["RETRIEVER_ARG_K"]     = "3"
+
 from gpt_researcher import GPTResearcher
+
+
 
 # ────────────────────────────────────────────────────────────────
 # 1) Paths & Config
 # ────────────────────────────────────────────────────────────────
-SYSTEM_NAME = "GPTResearcher"                        # output folder
+SYSTEM_NAME = "GPTResearcher_custom"                        # output folder
 OUTPUT_DIR = Path(SYSTEM_NAME)
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-CONFIG_PATH = "gptr_config.json"               # uses your free-tier Tavily key
+CONFIG_PATH = "gptr_config.json"               
 REPORT_TYPE = "research_report"
 
 # ────────────────────────────────────────────────────────────────

@@ -1,0 +1,123 @@
+# Report: Why Are There Competing Systems of Innovation Classification?
+
+## Introduction
+
+Innovation is a multifaceted and dynamic phenomenon that plays a crucial role in economic development, technological progress, and organizational competitiveness. The study and classification of innovation systems have evolved over decades, resulting in a variety of frameworks and typologies. These competing classifications arise due to the complexity of innovation processes, the diversity of actors and institutions involved, and the different theoretical and practical perspectives adopted by researchers and policymakers. This report provides an in-depth analysis of why multiple, sometimes competing, systems of innovation classification exist, drawing on extensive literature and recent empirical studies.
+
+## The Complexity and Multidimensionality of Innovation
+
+Innovation is not a singular event but a complex process involving the generation, diffusion, and utilization of new knowledge, technologies, products, and organizational methods. It encompasses various types such as product, process, service, business model, organizational, social, and environmental innovations. The objects and degrees of innovation vary widely, from incremental improvements to radical breakthroughs, and from firm-level changes to systemic transformations affecting entire sectors or nations ([Zapfl, 2022](https://lead-innovation.com/types-of-innovation/)).
+
+This inherent complexity necessitates diverse classification systems to capture different facets of innovation. For example, some frameworks focus on the **object of innovation** (e.g., product vs. process), while others emphasize the **degree of novelty** (e.g., incremental vs. radical) or the **source and trigger** (e.g., technology-push vs. market-pull) ([Zapfl, 2022](https://lead-innovation.com/types-of-innovation/)).
+
+## Theoretical Foundations and Divergent Perspectives
+
+### 1. Evolutionary, Interactive Learning, and Institutional Theories
+
+Innovation systems theory emerged from various intellectual traditions, including evolutionary economics, interactive learning theories, and institutional economics. Each tradition offers distinct conceptualizations of innovation processes:
+
+- **Evolutionary theory** views innovation as an open-ended, path-dependent process characterized by variation, selection, and retention mechanisms ([Edquist & Hommen, 1999](https://doi.org/10.1016/S0160-791X(98)00037-2)).
+
+- **Interactive learning theory** emphasizes the role of user-producer interactions and organized markets in shaping innovation, highlighting the importance of trust, cooperation, and information flows ([Edquist & Hommen, 1999](https://doi.org/10.1016/S0160-791X(98)00037-2)).
+
+- **Institutionalist perspectives** focus on the role of norms, rules, and organizations in influencing innovative behavior and technological change ([Edquist & Hommen, 1999](https://doi.org/10.1016/S0160-791X(98)00037-2)).
+
+These differing theoretical lenses naturally lead to different emphases in innovation system classifications, such as focusing on institutions, networks, or learning processes.
+
+### 2. National, Sectoral, Technological, and Regional Innovation Systems
+
+Innovation systems have been classified based on their scope and focus:
+
+| Classification Type           | Description                                                                                     | Key References                         |
+|------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------|
+| **National Innovation Systems (NIS)**      | Networks of institutions within a nation whose interactions influence innovation performance.     | Freeman (1987), Lundvall (1992), Nelson (1993) |
+| **Sectoral Innovation Systems (SIS)**      | Innovation processes within specific industrial sectors or product groups.                        | Malerba (2004)                       |
+| **Technological Innovation Systems (TIS)**| Systems centered on a particular technology and its development and diffusion.                   | Carlsson & Stankiewicz (1991)        |
+| **Regional Innovation Systems (RIS)**      | Innovation dynamics localized within a specific geographic region.                              | Cooke et al. (2004)                  |
+
+Each system type captures different dynamics and actors, leading to competing classifications depending on the analytical or policy focus ([Edquist, 2005](https://doi.org/10.1093/oxfordhb/9780199286805.003.0010)).
+
+### 3. Structural vs. Functional Theories of Innovation System Performance
+
+Two prominent theoretical models explain innovation system performance (ISP):
+
+- **Structural Theory (S-theory)** focuses on the presence and quality of system components such as institutions, infrastructure, interactions, actor capabilities, and markets ([Klein Woolthuis et al., 2005](https://doi.org/10.1016/j.technovation.2004.01.003)).
+
+- **Functional Theory (F-theory)** emphasizes key system functions like entrepreneurial experimentation, knowledge development, market formation, and resource provision ([Bergek et al., 2008](https://doi.org/10.1016/j.respol.2007.11.003)).
+
+Empirical studies using Qualitative Comparative Analysis (QCA) show both theories have high explanatory power but focus on different aspects of innovation systems, leading to complementary yet competing classifications ([Jenson et al., 2016](https://doi.org/10.1016/j.jbusres.2015.10.093)).
+
+## The Role of Innovation Objectives and Policy Contexts
+
+Innovation classifications often reflect the objectives of innovation management and policy:
+
+- **Strategic relevance:** Organizations and governments classify innovations to align with strategic goals, such as prioritizing radical innovations for market creation or incremental innovations for efficiency improvements ([Zapfl, 2022](https://lead-innovation.com/types-of-innovation/)).
+
+- **Policy instruments:** Different innovation types require tailored policy interventions. For instance, demand-side policies like public procurement are effective for market formation, while supply-side policies support R&D and knowledge development ([Edquist & Hommen, 1999](https://doi.org/10.1016/S0160-791X(98)00037-2)).
+
+- **Sectoral and technological specificity:** Innovation dynamics vary across sectors and technologies, necessitating classifications that capture these nuances for effective policy design ([Malerba, 2004](https://doi.org/10.1016/S0048-7333(03)00063-8)).
+
+Thus, competing classifications arise as frameworks are adapted to different policy goals and contexts.
+
+## Conceptual Ambiguity and Emerging Innovation Ecosystem Concepts
+
+The innovation system concept itself lacks a universally accepted definition, contributing to classification diversity. Some scholars distinguish between:
+
+- **Innovation Systems:** Often planned, structured environments with defined institutions and policies.
+
+- **Innovation Ecosystems:** More ecological, evolving sets of actors, activities, and relations emphasizing complementarities and co-evolution ([Granstrand & Holgersson, 2020](https://doi.org/10.1016/j.technovation.2019.102098)).
+
+This conceptual pluralism reflects ongoing debates and the evolving nature of innovation studies, resulting in multiple, sometimes competing, classifications.
+
+## Influence of Market Failures and Green Innovation Challenges
+
+Recent debates highlight that innovation systems may successfully support general technological innovation but fail in areas like green growth due to environmental market failures (e.g., pollution externalities). This has led to calls for innovation system analyses that integrate environmental considerations, further diversifying classification approaches ([Botta et al., 2020](https://www.oecd.org/greengrowth/)).
+
+## Summary of Key Reasons for Competing Innovation System Classifications
+
+| Reason                                         | Explanation                                                                                      |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Multidimensional nature of innovation**       | Innovation involves diverse objects, degrees, and processes, requiring different classification lenses. |
+| **Diverse theoretical foundations**              | Evolutionary, institutional, interactive learning, and network theories emphasize different system aspects. |
+| **Varied system scopes and focuses**             | National, sectoral, technological, and regional systems capture different innovation dynamics.    |
+| **Different policy and strategic objectives**    | Classifications are tailored to support specific innovation management and policy goals.          |
+| **Conceptual ambiguity and evolving frameworks** | Lack of consensus on definitions and emergence of new concepts like innovation ecosystems.        |
+| **Context-specific challenges (e.g., green innovation)** | Environmental and social challenges necessitate new classifications and policy approaches.       |
+
+## Conclusion
+
+The existence of competing systems of innovation classification is a natural outcome of the complex, multifaceted, and evolving nature of innovation itself. Different theoretical traditions, analytical scopes, policy objectives, and emerging challenges contribute to the diversity of frameworks. Rather than viewing these classifications as contradictory, they should be seen as complementary tools that provide nuanced insights into the innovation process. For researchers and policymakers, the choice of classification depends on the specific context, objectives, and innovation challenges they face. Future research and practice will likely continue to refine and integrate these frameworks, especially as innovation increasingly intersects with societal and environmental goals.
+
+---
+
+## References
+
+Bergek, A., Jacobsson, S., Carlsson, B., Lindmark, S., & Rickne, A. (2008). Analyzing the functional dynamics of technological innovation systems: A scheme of analysis. *Research Policy*, 37(4), 407-429. https://doi.org/10.1016/j.respol.2007.11.003
+
+Botta, E., McCormick, C., & Eis, J. (2020). A Guide to Innovation System Analysis for Green Growth. OECD. https://www.oecd.org/greengrowth/
+
+Carlsson, B., & Stankiewicz, R. (1991). On the nature, function and composition of technological systems. *Journal of Evolutionary Economics*, 1(2), 93-118.
+
+Edquist, C. (2005). Systems of innovation: Perspectives and challenges. In J. Fagerberg, D. C. Mowery, & R. R. Nelson (Eds.), *The Oxford Handbook of Innovation* (pp. 181-208). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199286805.003.0010
+
+Edquist, C., & Hommen, L. (1999). Systems of innovation: Theory and policy for the demand side. *Technology in Society*, 21(1), 63-79. https://doi.org/10.1016/S0160-791X(98)00037-2
+
+Freeman, C. (1987). Technology policy and economic performance: Lessons from Japan. Pinter.
+
+Granstrand, O., & Holgersson, M. (2020). Innovation ecosystems: A conceptual review and a new definition. *Technovation*, 90-91, 102098. https://doi.org/10.1016/j.technovation.2019.102098
+
+Jenson, I., Leith, P., Doyle, R., West, J., & Miles, M. P. (2016). Testing innovation systems theory using Qualitative Comparative Analysis. *Journal of Business Research*, 69(4), 1283-1287. https://doi.org/10.1016/j.jbusres.2015.10.093
+
+Klein Woolthuis, R., Lankhuizen, M., & Gilsing, V. (2005). A system failure framework for innovation policy design. *Technovation*, 25(6), 609-619. https://doi.org/10.1016/j.technovation.2004.01.003
+
+Lundvall, B.-Å. (1992). National systems of innovation: Towards a theory of innovation and interactive learning. Pinter Publishers.
+
+Malerba, F. (2004). Sectoral systems of innovation: Basic concepts. In F. Malerba (Ed.), *Sectoral systems of innovation: Concepts, issues and analyses of six major sectors in Europe* (pp. 9-41). Cambridge University Press. https://doi.org/10.1016/S0048-7333(03)00063-8
+
+Nelson, R. R. (1993). National innovation systems: A comparative study. Oxford University Press.
+
+Zapfl, D. (2022, July 1). What types of innovation are there? *LEAD Innovation Blog*. https://lead-innovation.com/types-of-innovation/
+
+---
+
+*Note: All URLs are hyperlinked for direct access to the sources.*

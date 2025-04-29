@@ -1,0 +1,1 @@
+describe the benefits and disadvantages of industrial societies as compared to earlier societies.

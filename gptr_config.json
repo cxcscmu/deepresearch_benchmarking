@@ -1,6 +1,7 @@
 {
-    "fast_llm":       "openai:gpt-4o-mini",
-    "smart_llm":      "openai:gpt-4.1-mini",
-    "strategic_llm":  "openai:o3-mini"
+  "RETRIEVER": "custom",
+  "FAST_LLM":       "openai:gpt-4o-mini",
+  "SMART_LLM":      "openai:gpt-4.1-mini",
+  "STRATEGIC_LLM":  "openai:o3-mini"
   }
   

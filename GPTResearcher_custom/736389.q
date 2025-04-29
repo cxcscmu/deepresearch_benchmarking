@@ -1,0 +1,1 @@
+what were some of the legal and political effects of the dred scott decision?

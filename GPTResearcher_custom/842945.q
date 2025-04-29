@@ -1,0 +1,1 @@
+how could you apply analytical frameworks to illustrate possible project outcomes?

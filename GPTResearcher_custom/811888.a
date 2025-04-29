@@ -1,0 +1,109 @@
+# Report on Reliance on Other Parties’ Customer Due Diligence (CDD) Procedures
+
+## Introduction
+
+Customer Due Diligence (CDD) is a critical component of Anti-Money Laundering (AML) and Counter-Terrorism Financing (CTF) frameworks globally. It involves verifying the identity of customers, understanding the nature of their business, and assessing the risks they may pose. Given the complexity and resource intensity of CDD, entities often consider relying on the CDD procedures conducted by other parties. This report examines whether and under what circumstances reliance on other parties’ CDD procedures is permissible and advisable, based on a comprehensive review of regulatory frameworks, best practices, and risk management considerations.
+
+---
+
+## Understanding Reliance on Third-Party CDD Procedures
+
+Reliance on third-party CDD refers to a situation where an entity accepts the customer identification and verification procedures performed by another regulated and reliable party, instead of conducting its own full CDD process. This approach is recognized in various AML/CTF regulations as a means to reduce duplication, enhance efficiency, and lower costs, while maintaining compliance and risk mitigation.
+
+### Regulatory Frameworks Supporting Reliance
+
+- **Australia (AUSTRAC)**: Under the AML/CTF Act, reliance is permitted in two forms:
+  - **Ongoing arrangements** (Section 37A): Requires a written Customer Due Diligence (CDD) arrangement with a reliable third party that has appropriate AML/CTF systems and controls.
+  - **Case-by-case reliance** (Section 38): Allows reliance without a formal arrangement, based on reasonable grounds considering the ML/TF risks and other regulatory requirements ([AUSTRAC, 2021](https://www.austrac.gov.au/business/how-comply-and-report-guidance-and-resources/customer-identification-and-verification/reliance-customer-identification-procedures-third-party)).
+
+- **Philippines (Bangko Sentral ng Pilipinas)**: Permits reliance on third parties’ CDD procedures if the third party is a covered person with reliable systems or a foreign financial institution with equivalent AML/CFT standards. Conditions include obtaining certifications, understanding the third party’s business, and senior management approval ([BSP Circular No. 1022, 2018](https://www.bsp.gov.ph)).
+
+- **United States (FinCEN)**: While not explicitly detailed in the provided text, FinCEN’s CDD rule emphasizes risk-based procedures and ongoing monitoring, which implicitly allows for reliance arrangements under appropriate risk management frameworks ([FFIEC BSA/AML Manual, 2020](https://bsaaml.ffiec.gov/manual)).
+
+---
+
+## Conditions and Requirements for Reliance
+
+Reliance on third-party CDD is not unconditional. It requires stringent criteria to ensure that the relying entity does not compromise its AML/CTF obligations or expose itself to undue risk.
+
+| **Aspect**                  | **Ongoing Arrangements**                                                                                                     | **Case-by-Case Reliance**                                                                                             |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Formal Agreement**         | Written Customer Due Diligence (CDD) arrangement required.                                                                    | No formal arrangement required.                                                                                        |
+| **Assessment of Third Party**| Reasonable grounds to believe third party has appropriate AML/CTF systems and controls at the time of agreement (objective test). | Reasonable grounds to believe reliance is appropriate considering ML/TF risks and regulatory requirements.             |
+| **Liability and Responsibility** | Safe harbour from liability for isolated breaches under Section 32 of AML/CTF Act; responsible for remediation and systemic breaches. | No safe harbour; liable for breaches of customer identification procedures.                                            |
+| **Monitoring and Review**   | Ongoing monitoring of third party’s compliance and systems necessary.                                                         | Reliance must be justified on a case-by-case basis with risk considerations.                                           |
+| **Documentation**           | Documented responsibilities and procedures; ability to obtain identification documents from third party without delay.       | Must document basis for reliance and risk assessment.                                                                  |
+
+This structured approach ensures that reliance does not become a loophole for inadequate customer verification but remains a risk-managed practice.
+
+---
+
+## Benefits of Relying on Third-Party CDD
+
+- **Efficiency and Cost Reduction**: Avoids duplication of customer identification efforts, especially when customers engage with multiple entities.
+- **Customer Convenience**: Reduces the burden on customers to provide the same information multiple times.
+- **Risk-Based Resource Allocation**: Enables entities to focus resources on higher-risk customers or transactions.
+- **Safe Harbour Protection**: In jurisdictions like Australia, formal reliance arrangements provide legal protection against isolated breaches.
+
+---
+
+## Risks and Challenges of Reliance
+
+- **Liability Exposure**: Without proper arrangements, the relying entity remains fully liable for any breaches.
+- **Third-Party Compliance Risk**: The third party may not maintain adequate AML/CTF controls, increasing risk exposure.
+- **Information Sharing and Privacy**: Sharing customer information between entities must comply with data protection laws.
+- **Risk of Tipping Off**: In suspicious cases, reliance might delay or complicate the detection and reporting of suspicious activities.
+
+---
+
+## Best Practices for Implementing Reliance
+
+1. **Due Diligence on Third Party**: Conduct thorough assessments of the third party’s AML/CTF policies, controls, and regulatory compliance history.
+2. **Written Agreements**: Establish clear, documented arrangements outlining responsibilities, data sharing, and compliance expectations.
+3. **Ongoing Monitoring**: Regularly review the third party’s compliance status and AML/CTF system effectiveness.
+4. **Risk Assessment**: Continuously assess the appropriateness of reliance based on customer risk profiles and transaction contexts.
+5. **Training and Awareness**: Ensure staff understand the reliance framework, limitations, and escalation procedures.
+6. **Record-Keeping**: Maintain comprehensive records of reliance decisions, agreements, and customer information obtained.
+
+---
+
+## Comparative Overview of Reliance Provisions
+
+| **Jurisdiction** | **Reliance Allowed** | **Formal Agreement Required** | **Liability Protection** | **Key Conditions**                                                                                  |
+|------------------|---------------------|-------------------------------|--------------------------|---------------------------------------------------------------------------------------------------|
+| Australia        | Yes                 | Yes (ongoing) or No (case-by-case) | Safe harbour for ongoing arrangements | Third party must have appropriate AML/CTF systems; reasonable grounds for reliance; documentation. |
+| Philippines      | Yes                 | Yes                           | No explicit safe harbour | Third party must be covered person or foreign equivalent; senior management approval; certification.|
+| United States    | Implicit (risk-based)| Not explicitly stated          | Not explicitly stated     | Risk-based approach; ongoing monitoring; beneficial ownership verification.                         |
+
+---
+
+## Concrete Opinion and Recommendations
+
+Based on the reviewed information, it is **both permissible and advisable to rely on other parties’ CDD procedures** under **strict conditions** that ensure compliance, risk mitigation, and accountability. Reliance should be:
+
+- **Limited to reliable, regulated entities** with demonstrable AML/CTF controls.
+- **Supported by formal agreements** where ongoing reliance is intended, to provide clarity and legal protection.
+- **Subject to ongoing monitoring and risk assessment** to promptly identify and address any compliance gaps.
+- **Applied with caution in high-risk scenarios**, where enhanced due diligence may still be required by the relying entity.
+
+Entities should **never rely blindly** on third-party CDD but should integrate reliance into a broader risk-based AML/CTF compliance program. The benefits of efficiency and customer convenience must be balanced against the risks of regulatory breaches and financial crime exposure.
+
+---
+
+## Conclusion
+
+Reliance on other parties’ CDD procedures is a recognized and valuable practice within AML/CTF frameworks, enabling efficiency and reducing customer burden. However, it demands rigorous controls, clear agreements, and continuous oversight to ensure that reliance does not undermine the integrity of customer identification processes. Entities should adopt reliance where appropriate, with a robust governance framework that aligns with jurisdictional requirements and international best practices.
+
+---
+
+## References
+
+AUSTRAC. (2021, June 17). Reliance on customer identification procedures by a third party. AUSTRAC. https://www.austrac.gov.au/business/how-comply-and-report-guidance-and-resources/customer-identification-and-verification/reliance-customer-identification-procedures-third-party
+
+Bangko Sentral ng Pilipinas. (2018, November 26). Circular No. 1022: Anti-Money Laundering Act (AMLA) and its Implementing Rules and Regulations (IRR). https://www.bsp.gov.ph
+
+Federal Financial Institutions Examination Council (FFIEC). (2020). BSA/AML Manual: Customer Due Diligence. https://bsaaml.ffiec.gov/manual
+
+---
+
+*Note: This report is based on information available as of April 28, 2025, and reflects regulatory frameworks and best practices cited in the sources above.*

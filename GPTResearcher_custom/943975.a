@@ -1,0 +1,147 @@
+# When Should a Dependency Be Raised as a Program Risk?  
+## A Comprehensive Analysis and Report  
+
+---
+
+## Executive Summary  
+
+In complex program and project management environments, dependencies are inevitable and critical components that link various tasks, teams, and deliverables. However, dependencies inherently introduce risks that can impact program success. This report provides an in-depth exploration of when a dependency should be raised as a program risk, synthesizing insights from Agile program management, risk management frameworks, dependency risk theory, and practical scheduling considerations. The report concludes that a dependency should be formally added to program risks **when it must be accepted as a potential threat to program objectives**, especially when it cannot be resolved, deferred, or mitigated by enablers. This position is supported by detailed analysis of dependency characteristics, risk types, and program management best practices.
+
+---
+
+## Introduction  
+
+Dependencies in programs refer to situations where one task, team, or deliverable relies on another to proceed. While dependencies enable coordination and division of labor, they also introduce **dependency risk**—the risk that the dependency may fail or be delayed, adversely affecting the program. Understanding when to elevate a dependency to a program risk is essential for proactive risk management and successful program delivery.
+
+---
+
+## Understanding Dependency and Dependency Risk  
+
+### Definition and Nature of Dependencies  
+
+Dependencies can be on events, people, teams, work, processes, software, services, money, or any resource necessary for program execution. They are often formalized in schedules, contracts, or agreements and can be internal or external to the organization.
+
+### Types of Dependency Risks  
+
+Four primary types of risks apply to every dependency (Risk-First, n.d.):
+
+| Risk Type        | Description                                                                                     | Example                                                                                   |
+|------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Fit Risk         | The risk that the dependency does not fully meet the required feature or functional needs.       | Choosing a bus route that does not align with the desired arrival time or destination.    |
+| Reliability Risk | The risk that the dependency will fail or be unreliable, causing delays or failures downstream. | A server dependency failing due to power outage or software bugs.                         |
+| Invisibility Risk| The risk arising from lack of visibility into the dependency’s internal workings or status.      | Not knowing if a software library has latent bugs or security vulnerabilities.            |
+| Complexity Risk  | The risk that complexity is transferred to the dependency, making management and troubleshooting harder. | Relying on multiple layers of software services, increasing integration complexity.       |
+
+### Impact of Dependencies on Program Risk  
+
+The overall reliability and success of a program are functions of the reliability of its dependencies. For example, if Component A depends on Component B, Component A cannot be more reliable than Component B unless redundancy or mitigation is in place (Risk-First, n.d.).
+
+---
+
+## When Should a Dependency Be Added to Program Risks?  
+
+### Core Principle: When It Must Be Accepted  
+
+The primary criterion for adding a dependency as a program risk is **when the dependency must be accepted as a potential risk** that cannot be fully resolved, deferred, or mitigated. This aligns with the answer provided in the PO PM Certification exam context:  
+
+> **"When it must be accepted."** ([ServiceCentreList.com, 2022](https://servicecentrelist.com/when-should-a-dependency-be-added-to-the-program-risks/))  
+
+This means that a dependency becomes a program risk when:  
+
+- The dependency cannot be resolved or removed.  
+- The dependency cannot be deferred to a later stage without impacting program objectives.  
+- There is no enabler or workaround available to fix or mitigate the dependency.  
+- The dependency introduces uncertainty or potential failure that must be actively managed.  
+
+### Supporting Arguments  
+
+1. **Unavoidable Nature of Certain Dependencies**  
+   Some dependencies are inherent and cannot be eliminated, such as reliance on external vendors, regulatory approvals, or critical infrastructure. These must be accepted and managed as risks.
+
+2. **Impact on Program Objectives**  
+   If the dependency has the potential to delay deliverables, increase costs, or reduce quality, it should be raised as a risk to ensure visibility and mitigation planning.
+
+3. **Formal Risk Management Process**  
+   Programs should have a process to identify, assess, and manage risks, including dependencies. When a dependency meets risk criteria (e.g., likelihood and impact thresholds), it should be logged as a program risk.
+
+4. **Accountability and Ownership**  
+   The producer of the dependency should have ownership and accountability for its delivery, but the program must recognize the dependency as a risk if delays or failures affect recipients.
+
+---
+
+## Practical Considerations in Program Management  
+
+### Scheduling and Interdependency Management  
+
+- **Early Identification:** Dependencies should be identified early in the planning process, often before detailed schedules exist. They are often linked to deliverables and represented as milestones.  
+- **Formal Agreements:** Both producer and recipient must formalize agreements on the dependency's expected state (e.g., draft, final, signed off) to avoid misunderstandings.  
+- **Change Control:** Changes to dependencies (dates, descriptions) must be controlled to prevent scope creep and schedule drift.  
+- **Reporting and Monitoring:** Dependency dates and status should be included in program reporting to track shifts and enable corrective actions.  
+
+### Resource Dependencies  
+
+Resource dependencies, such as shared personnel or infrastructure, are often harder to model but critical. Key resource dependencies should be made explicit through milestones and interdependencies, with clear agreements with resource managers.
+
+### Risk of Date Drift and Accountability  
+
+Without accountability, dependency dates tend to drift, causing cascading delays. Project managers must be held accountable for the impact of delays on dependent teams, reinforcing the need to treat critical dependencies as risks.
+
+---
+
+## Dependency Risk in Agile Environments  
+
+Agile programs manage risk through iterative delivery, frequent feedback, and prioritization of high-value features. However, dependencies still pose risks, especially when:  
+
+- Dependencies cannot be resolved within a sprint or release cycle.  
+- Dependencies are external or cross-team and require negotiation and commitment.  
+- Dependencies introduce integration complexity or technical debt.  
+
+In Agile tools like Jira Align, dependencies are negotiated and tracked with commitment dates. If a dependency cannot be committed to or resolved, it is escalated as a risk to the program to ensure visibility and mitigation planning ([Jira Align, n.d.](https://www.atlassian.com/software/jira/align)).
+
+---
+
+## Managing Vulnerable Dependencies  
+
+In software projects, dependencies on third-party libraries or services may introduce security vulnerabilities. When such vulnerabilities cannot be immediately resolved (e.g., no patch available), these dependencies must be raised as risks and managed through mitigation strategies such as workarounds, protective code, or replacement planning ([OWASP, 2022](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.html)).
+
+---
+
+## Summary Table: When to Add Dependency as Program Risk  
+
+| Condition                                         | Action                                  | Explanation                                                                                   |
+|-------------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------|
+| Dependency must be accepted                      | Add to program risks                    | Cannot be resolved, deferred, or mitigated; potential impact on objectives is significant.     |
+| Dependency can be resolved or mitigated          | Monitor, but may not need risk status  | If fix or workaround exists and is reliable, risk may be low or manageable.                    |
+| Dependency can be deferred without impact        | Monitor, defer risk status              | If deferral does not affect program schedule or objectives, risk can be deferred.             |
+| Dependency can be fixed by an enabler            | Monitor and track progress              | If an enabler (e.g., technical team) can fix it, ensure progress but may not need risk status. |
+| Dependency is external and uncertain              | Add to program risks                    | External dependencies often have higher uncertainty and should be tracked as risks.          |
+| Dependency introduces security vulnerability     | Add to program risks                    | Vulnerabilities must be managed as risks until resolved or mitigated.                         |
+
+---
+
+## Conclusion  
+
+A dependency should be raised as a program risk **when it must be accepted as a potential threat to program success**—that is, when it cannot be resolved, deferred, or mitigated effectively. This approach ensures that the program management team maintains visibility and accountability for critical dependencies that could impact schedule, cost, quality, or security. Early identification, formal agreements, continuous monitoring, and clear ownership are essential to managing dependency risks effectively. Agile environments and modern tools provide mechanisms to negotiate and track dependencies, but the fundamental principle remains: acceptance of unavoidable dependencies as risks is key to proactive program risk management.
+
+---
+
+## References  
+
+Martin Vaughan. (2011, April 21). *Risk and interdependency in programs – Project Manager*. Core Consulting Group.  
+https://coreconsultinggroup.com.au/risk-and-interdependency-in-programs  
+
+OWASP Foundation. (2022). *Vulnerable Dependency Management Cheat Sheet*. OWASP Cheat Sheet Series.  
+https://cheatsheetseries.owasp.org/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.html  
+
+ServiceCentreList.com. (2022, April 13). *When should a dependency be added to the program risks?*  
+https://servicecentrelist.com/when-should-a-dependency-be-added-to-the-program-risks/  
+
+Jira Align. (n.d.). *10X: Dependency Overview and Dependency Types*. Atlassian Documentation.  
+https://www.atlassian.com/software/jira/align  
+
+Risk-First. (n.d.). *Dependency Risk*.  
+https://riskfirst.org/dependency-risk  
+
+---
+
+*Report prepared on April 28, 2025.*

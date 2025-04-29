@@ -1,0 +1,1 @@
+how does democracy work
