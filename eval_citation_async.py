@@ -130,42 +130,45 @@ def create_prompt_citation_checker(claim, docs):
         Citations: {citations_text}
     """
 
-async def extract_claims_and_url(answer, model):
-    prompt = create_prompt_extractor(answer)
-    response = await client.beta.chat.completions.parse(
-        model=model,
-        messages=[{"role": "system", "content": "You are a helpful assistant."},
-                  {"role": "user", "content": prompt}],
-        response_format=ClaimsModel,
-        temperature=0
-    )
-    try:
-        return json.loads(response.choices[0].message.content)["claims"]
-    except Exception:
-        print("Could not parse JSON - extractor")
-        return {}
+async def extract_claims_and_url(openai_semaphore, answer, model):
+    async with openai_semaphore:
+        prompt = create_prompt_extractor(answer)
+        response = await client.beta.chat.completions.parse(
+            model=model,
+            messages=[{"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "user", "content": prompt}],
+            response_format=ClaimsModel,
+            temperature=0
+        )
+        try:
+            return json.loads(response.choices[0].message.content)["claims"]
+        except Exception:
+            print("Could not parse JSON - extractor")
+            return {}
 
-async def check_citation_quality(claim, docs, model):
-    prompt = create_prompt_citation_checker(claim, docs)
-    response = await client.beta.chat.completions.parse(
-        model=model,
-        messages=[{"role": "system", "content": "You are a helpful assistant."},
-                  {"role": "user", "content": prompt}],
-        response_format=CitationSupport,
-        temperature=0
-    )
-    try:
-        return json.loads(response.choices[0].message.content)
-    except Exception:
-        print("Could not parse JSON - quality")
-        #print(response.choices[0].message.content)
-        return {}
+async def check_citation_quality(openai_semaphore, claim, docs, model):
+    async with openai_semaphore:
+        prompt = create_prompt_citation_checker(claim, docs)
+        response = await client.beta.chat.completions.parse(
+            model=model,
+            messages=[{"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "user", "content": prompt}],
+            response_format=CitationSupport,
+            temperature=0
+        )
+        try:
+            return json.loads(response.choices[0].message.content)
+        except Exception:
+            print("Could not parse JSON - quality")
+            #print(response.choices[0].message.content)
+            return {}
 
-async def evaluate_query(query_id, answer_path, model):
+async def evaluate_query(openai_semaphore, query_id, answer_path, model):
     with open(answer_path, "r", encoding="utf-8") as f:
         answer = f.read().strip()
 
-    claims_to_urls = await extract_claims_and_url(answer, model)
+    claims_to_urls = await extract_claims_and_url(openai_semaphore, answer, model)
+
     if not claims_to_urls:
         return query_id, {"score": 0, "detailed": None}
 
@@ -174,7 +177,6 @@ async def evaluate_query(query_id, answer_path, model):
         claim_text = claim["claim"]
         urls = claim["sources"]
         claim_id = claim["claim_id"]
-
         if not urls:
             # sourceless citation, should not happen but capture still.
             continue
@@ -182,16 +184,13 @@ async def evaluate_query(query_id, answer_path, model):
         docs = await crawl_urls(urls)
         if not docs:
             # This will skip a claim because crawler did not return text for that url.
-            print(urls)
-            print(claim)
             continue
 
         url_pattern = r'https?://\S+|www\.\S+'
         clean_docs = [re.sub(url_pattern, '', d) for d in docs if d.strip()]
 
-
         try:
-            res = await check_citation_quality(claim_text, clean_docs, model)
+            res = await check_citation_quality(openai_semaphore, claim_text, clean_docs, model)
             label = res["support"]
             justification = res["justification"]
             if label:
@@ -213,8 +212,8 @@ async def evaluate_query(query_id, answer_path, model):
     final_score = sum(s["score"] for s in scores.values()) / len(scores) if scores else 0.0
     return query_id, {"score": final_score, "detailed": scores or None}
 
-async def evaluate_folder_async(subfolder_name, model):
-    folder_path = Path("answers") / subfolder_name
+async def evaluate_folder_async(subfolder_name, model, path_to_reports):
+    folder_path = Path(path_to_reports) / subfolder_name
     output_file = folder_path / f"evaluation_results_citation_{model}.json"
 
     all_results = {}
@@ -224,13 +223,16 @@ async def evaluate_folder_async(subfolder_name, model):
 
     print(f"Skipped {len(all_results)} queries.")
 
+    openai_semaphore = asyncio.Semaphore(12)
+
     query_files = list(folder_path.glob("*.a"))
     tasks = []
     for file in query_files:
         query_id = file.stem
         if query_id in all_results:
             continue
-        tasks.append(evaluate_query(query_id, file, model))
+        tasks.append(evaluate_query(openai_semaphore, query_id, file, model))
+
 
     results = await tqdm_asyncio.gather(*tasks)
     for query_id, result in results:
@@ -245,12 +247,13 @@ if __name__ == "__main__":
     parser.add_argument("--open_ai_model")
     args = parser.parse_args()
 
+    path_to_reports = "/data/group_data/cx_group/deepsearch_benchmark/reports/"
     print(f"Evaluating {args.subfolder} using {args.open_ai_model}")
-    results, avg = asyncio.run(evaluate_folder_async(args.subfolder, args.open_ai_model))
+    results, avg = asyncio.run(evaluate_folder_async(args.subfolder, args.open_ai_model, path_to_reports))
 
     print(f"Evaluated {len(results)} queries.")
 
-    output_path = Path("answers") / args.subfolder / f"evaluation_results_citation_{args.open_ai_model}.json"
+    output_path = Path(path_to_reports) / args.subfolder / f"evaluation_results_citation_{args.open_ai_model}.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 

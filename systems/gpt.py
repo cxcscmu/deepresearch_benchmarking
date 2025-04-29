@@ -10,8 +10,7 @@ load_dotenv("keys.env")
 client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 MODEL = "gpt-4o-search-preview"
-#QUERIES = "queries/researchy_queries_sample_doc_click.jsonl"
-QUERIES = "queries/subset.jsonl"
+QUERIES = "queries/researchy_queries_sample_doc_click.jsonl"
 OUT_PATH = f"/data/group_data/cx_group/deepsearch_benchmark/reports/{MODEL}"
 os.makedirs(OUT_PATH, exist_ok=True)
 
@@ -20,7 +19,7 @@ async def query_gpt(query):
         model=MODEL,
         web_search_options={},
         messages=[
-            {"role": "system", "content": "You are a helpful assistant. You act as a deepsearch system, generating in-depth, structured reports in response to user queries. Your goal is to synthesize information from the web and provide well-organized answers. Every factual claim should be supported by a citation, and you must perform web searches when needed."},
+            {"role": "system", "content": "You are a helpful assistant. You act as a deepsearch system, generating in-depth, structured reports in response to user queries. Your goal is to synthesize information from the web and provide well-organized answers. Every factual claim should be supported by a citation, and you must perform web searches to support your discussions."},
             {"role": "user", "content": query}
         ],
     )

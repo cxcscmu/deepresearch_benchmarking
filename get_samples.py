@@ -38,8 +38,8 @@ def process_folder(folder_names):
 
         exit()
         # Load evaluations
-        eval_path_quality = folder / "evaluation_results_detailed_gpt-4o-mini.json"
-        eval_path_citation = folder / "evaluation_results_citation_gpt-4o-mini.json"
+        eval_path_quality = folder / "evaluation_results_detailed_gpt-4.1-mini.json"
+        eval_path_citation = folder / "evaluation_results_citation_gpt-4.1-mini.json"
         assert eval_path_quality.exists(), "evaluation_results_detailed.json not found."
         assert eval_path_citation.exists(), "evaluation_results_citation.json not found."
 
@@ -100,5 +100,5 @@ def process_folder(folder_names):
 # Example usage
 if __name__ == "__main__":
     #folder_names = ["gpt-4o-search-preview", "hf_deepsearch_o3mini", "sonar-deep-research"]
-    folder_names = ["gpt-4o-search-preview-prompt"]
+    folder_names = ["open_deep_search"]
     process_folder(folder_names)

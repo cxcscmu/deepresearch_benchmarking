@@ -2,8 +2,8 @@ import argparse
 from pathlib import Path
 import json
 
-def evaluate_folder(subfolder_name, model):
-    folder_path = Path("answers") / subfolder_name
+def evaluate_folder(subfolder_name, model, path_to_reports):
+    folder_path = Path(path_to_reports) / subfolder_name
     answer_quality_path = folder_path / f"evaluation_results_detailed_{model}.json"
     citation_quality_path = folder_path / f"evaluation_results_citation_{model}.json"
 
@@ -20,6 +20,9 @@ def evaluate_folder(subfolder_name, model):
             all_citation_quality_results = json.load(f)
 
     for query in all_answer_quality_results:
+        if query not in all_citation_quality_results:
+            # should not happen, but catching just in case
+            continue
         citation_score = all_citation_quality_results[query]["score"]
         number_of_criteria = len(all_answer_quality_results[query]["scores"])
         score_without_citation = sum([x[0] for x in all_answer_quality_results[query]["scores"].values()])
@@ -46,12 +49,14 @@ if __name__ == "__main__":
 
     print(f"Mergig citation and quality results.")
 
-    per_query, avg_with_citations, avg_without_citations = evaluate_folder(args.subfolder, args.open_ai_model)
+    path_to_reports = "/data/group_data/cx_group/deepsearch_benchmark/reports/"
 
-    output_file = Path("answers") / args.subfolder / f"evaluation_results_per_query_score_{args.open_ai_model}.json"
+    per_query, avg_with_citations, avg_without_citations = evaluate_folder(args.subfolder, args.open_ai_model, path_to_reports)
+
+    output_file = Path(path_to_reports) / args.subfolder / f"evaluation_results_per_query_score_{args.open_ai_model}.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(per_query, f, indent=2, ensure_ascii=False)
 
-    output_file = Path("answers") / args.subfolder / f"evaluation_results_single_score_{args.open_ai_model}.json"
+    output_file = Path(path_to_reports) / args.subfolder / f"evaluation_results_single_score_{args.open_ai_model}.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump({"score_without_citations": avg_without_citations, "score_with_citations": avg_with_citations}, f, indent=2, ensure_ascii=False)

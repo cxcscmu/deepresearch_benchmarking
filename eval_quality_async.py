@@ -32,16 +32,12 @@ EVAL_CRITERIA = [
     },
     {
         "name": "Support",
-        "description": "Evaluate the degree to which key claims are supported by reliable, identifiable sources. Factual accuracy alone is not sufficient — attribution or citation is required. Excellent reports consistently reference credible sources. Poor reports fail to support major claims or lack attribution entirely."
+        "description": "Evaluate the degree to which key claims are supported by reliable, identifiable sources. Factual accuracy alone is not sufficient — attribution or citation is required. Excellent reports consistently reference credible sources. If no references are used, a score of 0 should be attributed."
     },
     {
         "name": "Insightfulness",
         "description": "Assess how insightful the answer is. Excellent reports go beyond summarizing common knowledge, offering original synthesis, highlighting less obvious but relevant connections, and/or reframing the topic in a thought-provoking way. Poor reports read generic, obvious, or derivative."
     },
-    {
-        "name": "Factuality",
-        "description": "Assess whether the answer contains any factual inaccuracies or misrepresented claims. Excellent reports should be fully accurate. Poor reports contain false statements or misleading framing."
-    }
 ]
 
 def create_prompt(criterion, question, answer):
@@ -79,27 +75,28 @@ CriterionEvaluation = create_model(
 )
 
 
-async def evaluate_single_criterion(criterion, question, answer, model):
-    prompt = create_prompt(criterion, question, answer)
-    chat_pattern = [
-        {"role": "system", "content": "You are a helpful assistant."},
-        {"role": "user", "content": prompt}
-    ]
-    response = await client.beta.chat.completions.parse(
-                model=model,
-                messages=chat_pattern,
-                response_format=CriterionEvaluation,
-                temperature=0
-    )
-    result = json.loads(response.choices[0].message.content)
-    return criterion['name'], (result['rating'], result['justification'])
+async def evaluate_single_criterion(semaphore, criterion, question, answer, model):
+    async with semaphore:
+        prompt = create_prompt(criterion, question, answer)
+        chat_pattern = [
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": prompt}
+        ]
+        response = await client.beta.chat.completions.parse(
+                    model=model,
+                    messages=chat_pattern,
+                    response_format=CriterionEvaluation,
+                    temperature=0
+        )
+        result = json.loads(response.choices[0].message.content)
+        return criterion['name'], (result['rating'], result['justification'])
 
-async def evaluate_answer(question, answer, criteria, model):
-    tasks = [evaluate_single_criterion(c, question, answer, model) for c in criteria]
+async def evaluate_answer(semaphore, question, answer, criteria, model):
+    tasks = [evaluate_single_criterion(semaphore, c, question, answer, model) for c in criteria]
     results = await asyncio.gather(*tasks)
     return dict(results)
 
-async def evaluate_query(query_id, folder_path, model):
+async def evaluate_query(semaphore, query_id, folder_path, model):
     q_path = folder_path / f"{query_id}.q"
     a_path = folder_path / f"{query_id}.a"
 
@@ -111,7 +108,7 @@ async def evaluate_query(query_id, folder_path, model):
     answer = a_path.read_text().strip()
 
     try:
-        evaluations = await evaluate_answer(question, answer, EVAL_CRITERIA, model)
+        evaluations = await evaluate_answer(semaphore, question, answer, EVAL_CRITERIA, model)
         return query_id, {
             "scores": evaluations,
         }
@@ -119,8 +116,8 @@ async def evaluate_query(query_id, folder_path, model):
         print(f"Error evaluating {query_id}: {e}")
         return query_id, None
 
-async def evaluate_folder_async(subfolder_name, model):
-    folder_path = Path("answers") / subfolder_name
+async def evaluate_folder_async(subfolder_name, model, path_to_reports):
+    folder_path = Path(path_to_reports) / subfolder_name
     output_file = folder_path / f"evaluation_results_detailed_{model}.json"
 
     all_results = {}
@@ -130,8 +127,10 @@ async def evaluate_folder_async(subfolder_name, model):
 
     print(f"Skipped queries: {len(all_results)}")
 
+    semaphore = asyncio.Semaphore(100)
+
     query_ids = [p.stem for p in folder_path.glob("*.q") if p.stem not in all_results]
-    tasks = [evaluate_query(qid, folder_path, model) for qid in query_ids]
+    tasks = [evaluate_query(semaphore, qid, folder_path, model) for qid in query_ids]
     results = await tqdm_asyncio.gather(*tasks)
 
     for query_id, result in results:
@@ -146,10 +145,12 @@ if __name__ == "__main__":
     parser.add_argument("--open_ai_model")
     args = parser.parse_args()
 
-    print(f"Evaluating {args.subfolder} using {args.open_ai_model}")
-    results = asyncio.run(evaluate_folder_async(args.subfolder, args.open_ai_model))
+    path_to_reports = "/data/group_data/cx_group/deepsearch_benchmark/reports/"
 
-    detailed_path = Path("answers") / args.subfolder / f"evaluation_results_detailed_{args.open_ai_model}.json"
+    print(f"Evaluating {args.subfolder} using {args.open_ai_model}")
+    results = asyncio.run(evaluate_folder_async(args.subfolder, args.open_ai_model, path_to_reports))
+
+    detailed_path = Path(path_to_reports) / args.subfolder / f"evaluation_results_detailed_{args.open_ai_model}.json"
     with open(detailed_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
