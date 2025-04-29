@@ -1,0 +1,3 @@
+[submodule "OpenDeepSearch-fork"]
+	path = OpenDeepSearch-fork
+	url = https://github.com/psetlur/OpenDeepSearch.git
