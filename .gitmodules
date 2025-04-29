@@ -1,3 +1,6 @@
 [submodule "gpt-researcher-local"]
 	path = gpt-researcher-local
 	url = https://github.com/assafelovic/gpt-researcher.git
+[submodule "gpt-researcher-pranav"]
+	path = gpt-researcher-pranav
+	url = https://github.com/assafelovic/gpt-researcher.git
