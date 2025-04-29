@@ -4,3 +4,9 @@
 [submodule "gpt-researcher-pranav"]
 	path = gpt-researcher-pranav
 	url = https://github.com/assafelovic/gpt-researcher.git
+[submodule "gpt-researcher-forkj"]
+	path = gpt-researcher-forkj
+	url = https://github.com/psetlur/gpt-researcher.git
+[submodule "gpt-researcher-fork"]
+	path = gpt-researcher-fork
+	url = https://github.com/psetlur/gpt-researcher.git
