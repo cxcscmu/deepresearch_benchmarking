@@ -1,0 +1,26 @@
+
+### 1. When to Raise a Dependency as a Program Risk
+
+Dependencies in project management can significantly impact a project's success. They should be considered risks in the following situations:
+
+#### 1. Types of Dependencies
+1. **Mandatory Dependencies**: When a task cannot start or finish until another is complete. This is crucial to identify to prevent scheduling conflicts.
+2. **Resource-based Dependencies**: If resources are not available to complete a task, the project could be delayed. Raising this as a risk helps in reallocating resources.
+3. **Discretionary Dependencies**: While not mandatory, these dependencies reflect preferences that can become risks if not managed, especially if the preferred order of operations introduces unnecessary delays.
+4. **External Dependencies**: If a project relies on third parties for deliverables, any failure on their part can affect the timeline. This requires constant monitoring and possibly raising it as a risk.
+5. **Causal Dependencies**: These follow a natural order; if a task is missed, it may nullify the progress of subsequent tasks.
+6. **Cross-Team Dependencies**: In large organisations, dependencies on other teams can lead to bottlenecks. If one team's delay affects another's outputs, this should be flagged as a risk.
+
+#### 2. Implications of Not Raising a Dependency as a Risk
+- **Schedule Disruptions**: Unmanaged dependencies can lead to significant delays resulting from unforeseen overlaps or bottlenecks.
+- **Resource Misallocation**: Without proper tracking, resources may be misallocated, leading to inefficiencies.
+- **Stakeholder Frustration**: Delays or failures can lead to dissatisfaction among stakeholders if their specifications are not met.
+
+#### 3. Best Practices for Managing Dependencies as Risks
+- **Regular Dependency Reviews**: Maintain a log of all dependencies and review it regularly to adjust plans based on current statuses.
+- **Clear Communication**: Ensure all team members are aware of how their work impacts others and the timelines associated with dependencies.
+- **Risk Mitigation Strategies**: Develop contingency plans for critical dependencies that could affect the project timeline significantly.
+
+### Conclusion
+Understanding when to raise a dependency as a program risk is pivotal for project success. By recognizing the types of dependencies and their implications, project managers can proactively manage risks and ensure smoother project execution.
+

@@ -1,0 +1,1 @@
+should euthanization be legal

@@ -1,0 +1,1 @@
+are the major counseling theories culture-bound?

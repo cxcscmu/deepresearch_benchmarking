@@ -1,0 +1,1 @@
+what motivates u.s. firms to compete for the malcolm baldrige award?

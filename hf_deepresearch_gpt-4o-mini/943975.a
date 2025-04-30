@@ -1,0 +1,15 @@
+### 1. When to Raise Dependencies as Program Risks:
+- **Critical Path Impact**: Dependencies that are on a critical path affecting project delivery timelines.
+- **Resource Limitations**: Dependencies with scarce resources that could result in project delays.
+- **Higher-Level Risks**: Dependencies that involve vendors, regulations, or technologies with known reliability issues.
+- **Lack of Clear Owner**: Unclear responsibility for monitoring and managing dependencies can increase risk.
+- **Frequent Changes**: Dependencies subject to change may increase uncertainty and risk.
+
+### 2. Best Practices:
+- Regular dependency reviews in project status meetings.
+- Formal identification and documentation of dependencies during project planning.
+- Utilization of risk matrices for assessing impact and likelihood of dependency issues.
+
+### 3. Recommendations:
+- Consult the latest guidelines from methodologies like PMBOK, PRINCE2, and Agile for structured approaches to risk management.
+- Maintain communication with stakeholders for effective dependency management.

@@ -1,0 +1,18 @@
+### 1. Task outcome (short version):
+Common security flaws that lead to unauthorized access and exposure of resources include Injection Attacks, Broken Authentication and Session Management, Security Misconfiguration, Broken Access Control, Cross-Site Scripting (XSS), and Insufficient Logging & Monitoring.
+
+### 2. Task outcome (extremely detailed version):
+- **Injection Attacks**: This includes various types such as SQL Injection, OS Injection, and LDAP Injection. Used when untrusted data is sent to an interpreter, allowing attackers to execute arbitrary commands or manipulate database queries.
+
+- **Broken Authentication and Session Management**: These flaws can allow attackers to compromise user accounts by exploiting passwords, session tokens, or carelessly managed logout procedures. Strong session management controls are crucial.
+
+- **Security Misconfiguration**: Flaws due to insecure default settings, incomplete setups, and poorly managed permissions. This can allow attackers to gain access to sensitive data. Debugging features not disabled in production environments can also lead to breaches.
+
+- **Broken Access Control**: This vulnerability permits unauthorized users to access restricted resources and data. This often arises from improper access control checks.
+
+- **Cross-Site Scripting (XSS)**: This vulnerability allows attackers to inject scripts into web pages viewed by other users, potentially stealing sensitive information or performing actions on behalf of the users.
+
+- **Insufficient Logging & Monitoring**: Exploitation of this issue is central to many incidents, as a lack of proper logs or delayed responses can let attackers finish the exploitation cycle without detection. Effective logging is crucial to identifying and responding to breaches in real-time.
+
+### 3. Additional context (if relevant):
+All these flaws can be prevented or mitigated with best practices in software development and security, including regular security testing, secure coding practices, proper configuration management, and robust monitoring and logging procedures.

@@ -1,0 +1,1 @@
+is capital punishment ethical

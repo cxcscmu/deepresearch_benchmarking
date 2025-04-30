@@ -1,0 +1,1 @@
+what challenges did bill gates face

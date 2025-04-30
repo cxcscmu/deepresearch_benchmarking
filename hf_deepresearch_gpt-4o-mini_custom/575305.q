@@ -1,0 +1,1 @@
+why are politics so divided

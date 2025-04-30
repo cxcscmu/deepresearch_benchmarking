@@ -1,0 +1,1 @@
+what were the long term effects of the holocaust

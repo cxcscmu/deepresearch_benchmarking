@@ -1,0 +1,1 @@
+how can an administrator respond to reluctance to comply with legal and ethical standards?

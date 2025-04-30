@@ -1,0 +1,1 @@
+why we should not have stricter gun laws

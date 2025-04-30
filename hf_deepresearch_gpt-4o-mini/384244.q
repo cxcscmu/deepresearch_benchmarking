@@ -1,0 +1,1 @@
+how are thinking, intelligence, and creativity related?

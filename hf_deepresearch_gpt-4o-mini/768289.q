@@ -1,0 +1,1 @@
+why do sole traders fail in their first year

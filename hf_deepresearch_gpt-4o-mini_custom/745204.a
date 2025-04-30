@@ -1,0 +1,29 @@
+
+### 1. Task outcome (short version):
+Wireless communication presents various risks including lack of security, data interception, network intrusion, war-driving, cracking, radio jamming, and denial of service attacks. These risks can lead to unauthorized access, data breaches, and network disruptions. 
+
+### 2. Task outcome (extremely detailed version):
+Wireless communication has become integral to modern technology but presents inherent risks associated with its open design:
+
+- **Lack of Security**: Challenge of confining signals can lead to unauthorized interception.
+- **Data Interception**: Sensitive information can be easily captured by malicious parties.
+- **Network Intrusion**: Unauthorized access can lead to malicious misuse of network resources.
+- **War-driving**: Mapping of unsecured networks can facilitate unauthorized access.
+- **Cracking**: Attackers can exploit vulnerabilities to gain access to networks.
+- **Radio Jamming**: Disruption of network communications by sending strong signals.
+- **Denial of Service (DoS) Attacks**: Overwhelming the network with traffic can disrupt services.
+
+To mitigate these risks, consider the following safeguards:
+1. **Utilize Vendor-Supplied Security Options**: Configure settings as per manufacturer recommendations.
+2. **Change Default Credentials**: Secure devices by modifying default credentials.
+3. **Adjust Signal Power**: Limit broadcast range to restrict access.
+4. **Implement MAC Address Filtering**: Only allow known devices to access the network.
+5. **Change SSID and Disable Broadcast**: Increase invisibility to unauthorized users.
+6. **Keep Firmware Updated**: Ensure software patches are applied to close vulnerabilities.
+7. **Employ WPA2 or WPA3 Security Protocols**: Secure data in transit using advanced encryption methods.
+8. **Segregate Guest Networks**: Protect the main network from potential intrusions.
+9. **Regularly Monitor Network Traffic**: Analyze usage patterns to detect anomalies.
+10. **Educate Users**: Train network users on security best practices.
+
+### 3. Additional context (if relevant):
+The growing reliance on wireless technologies, especially in public settings, highlights the necessity for robust security measures. Regular evaluations and updates to security practices are essential to counteract emerging threats, ensuring both personal and organizational data integrity.

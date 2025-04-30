@@ -1,0 +1,1 @@
+are vaccines 100% effective?

@@ -1,0 +1,21 @@
+
+### 1. Task outcome (short version):
+The main types of cybersecurity flaws that lead to exposure of resources and functionality include injection flaws, authentication vulnerabilities, sensitive data exposure, broken access control, security misconfiguration, cross-site scripting (XSS), and insufficient logging and monitoring.
+
+### 2. Task outcome (extremely detailed version):
+1. **Injection Flaws**: These occur when untrusted data is sent to an interpreter as part of a command or query. SQL injection, for example, can allow attackers to manipulate the database. 
+
+2. **Authentication Vulnerabilities**: Weaknesses in the authentication process, such as weak passwords or absence of multi-factor authentication, can let attackers impersonate legitimate users and gain access to sensitive resources.
+
+3. **Sensitive Data Exposure**: This flaw allows sensitive information to be exposed due to inadequate protection measures, such as missing encryption for data at rest or in transit.
+
+4. **Broken Access Control**: This involves failures to restrict access to certain resources or functionalities based on user roles, leading to unauthorized access.
+
+5. **Security Misconfiguration**: Inadequate security configurations of systems or applications can create vulnerabilities that threaten data and resources. For instance, leaving default settings unchanged can expose systems to known vulnerabilities.
+
+6. **Cross-Site Scripting (XSS)**: This vulnerability allows attackers to inject malicious scripts into web pages viewed by other users, leading to unauthorized actions on their accounts or data.
+
+7. **Insufficient Logging and Monitoring**: Not maintaining adequate logs or monitoring access can lead to undetected breaches, thereby increasing the risk of resource exposure and functionality abuse.
+
+### 3. Additional context (if relevant):
+Understanding these flaws is essential for organizations to implement adequate security measures and to comply with standards like those set by OWASP. Regular vulnerability assessments and adopting best practices for security can significantly reduce the risk of such flaws.

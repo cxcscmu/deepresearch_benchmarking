@@ -1,0 +1,1 @@
+are vaccine mandates discrimination

@@ -1,0 +1,1 @@
+does strategic management involve long-term or short-term activities?
