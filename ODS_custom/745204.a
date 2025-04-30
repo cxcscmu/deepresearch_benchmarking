@@ -1,0 +1,28 @@
+# Wireless Communication: Risks and Safeguards
+
+## Executive Summary
+
+Wireless communication has become an integral part of modern life, offering convenience and flexibility. However, it also introduces several security risks that need to be addressed to protect sensitive information. This report explores the risks associated with wireless communication and the safeguards that can be implemented to mitigate these risks.
+
+## Methodology
+
+To gather information on the risks and safeguards associated with wireless communication, a comprehensive search was conducted using various online resources. The search focused on identifying credible sources that discuss both the technical and practical aspects of wireless communication security. Tools such as Google Search and academic databases were utilized to find relevant articles and reports.
+
+## Detailed Findings
+
+1. **Security Risks**: Wireless networks are inherently less secure than wired networks due to their reliance on radio waves, which can be intercepted by unauthorized users. Common risks include data interception, network intrusion, and denial of service attacks. "Data interception is the practice of listening to the transmissions of various wireless network users" [^1]. Additionally, "an unsecured wireless network gives hackers the perfect gateway to a business or an organization's internal network" [^2].
+
+2. **Common Threats**: Several specific threats are associated with wireless communication, such as wardriving, evil twin attacks, and wireless sniffing. Wardriving involves searching for unsecured wireless networks while in motion, often using a vehicle. "Wardriving is a specific kind of piggybacking" where individuals search for unsecured networks to exploit [^3].
+
+3. **Safeguards**: To protect against these risks, several safeguards can be implemented. These include using strong encryption protocols like WPA2 or WPA3, changing default passwords, and employing Virtual Private Networks (VPNs) for secure connections. "Encrypting your wireless data prevents anyone who might be able to access your network from viewing it" [^4]. Additionally, using firewalls and regularly updating software can further enhance security.
+
+## Sources
+
+1. [Lisbdnet.com - What Risks and Safeguards Are Associated With Wireless Communication?](https://lisbdnet.com/what-risks-and-safeguards-are-associated-with-wireless-communication/)
+2. [CCM.net - Risks Related to Wireless WiFi Networks](https://ccm.net/contents/805-risks-related-to-wireless-wifi-networks)
+3. [CISA.gov - Securing Wireless Networks](https://www.cisa.gov/uscert/ncas/tips/ST05-003)
+4. [Eddusaver - What Risks and Safeguards Are Associated With Wireless Communication?](https://www.eddusaver.com/what-risks-and-safeguards-are-associated-with-wireless-communication/)
+
+## Limitations
+
+The information gathered is based on available online resources and may not cover all aspects of wireless communication security. The rapidly evolving nature of technology means that new risks and safeguards may emerge that are not covered in this report. Additionally, the effectiveness of safeguards can vary based on the specific configuration and usage of wireless networks.

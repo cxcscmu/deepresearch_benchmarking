@@ -1,0 +1,1 @@
+why should we tax the rich more

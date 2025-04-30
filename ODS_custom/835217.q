@@ -1,0 +1,1 @@
+can a global climate change can change people's lives?

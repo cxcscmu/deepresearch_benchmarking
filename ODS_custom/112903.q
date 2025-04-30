@@ -1,0 +1,1 @@
+why do you think many people might be skeptical about psychology being a science?

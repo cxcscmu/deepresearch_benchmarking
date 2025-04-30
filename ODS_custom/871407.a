@@ -1,0 +1,26 @@
+# Report on Flaws Leading to Exposure of Resources or Functionality to Unintended Actors
+
+## Executive Summary
+The exposure of resources or functionality to unintended actors is a critical security flaw that can lead to unauthorized access and potential exploitation of sensitive information. This report identifies "Improper Authentication" as a primary flaw responsible for such exposures. This flaw occurs when an application fails to correctly verify a user's identity, allowing unauthorized access to resources or functionalities.
+
+## Methodology
+To gather information on this topic, I utilized a combination of search strategies, including keyword searches related to security flaws and resource exposure. I employed tools such as search engines and databases focusing on cybersecurity vulnerabilities, including the Common Weakness Enumeration (CWE) database and educational forums.
+
+## Detailed Findings
+1. **Improper Authentication**: This flaw occurs when an application incorrectly verifies a user's identity, potentially allowing attackers to gain unauthorized access. "Improper authentication takes place when a user's identity is incorrectly verified by an application" [^1]. This can lead to unauthorized access to sensitive data and arbitrary code execution.
+
+2. **Exposure of Sensitive Information**: According to CWE-200, "The product exposes sensitive information to an actor that is not explicitly authorized to have access to that information" [^2]. This exposure can occur through various mistakes, such as insecure file permissions or unprotected data transmissions.
+
+3. **Exposed Dangerous Methods**: CWE-749 describes scenarios where "the software provides an Applications Programming Interface (API) or similar interface for interaction with external actors, but the interface includes a dangerous method or function that is not properly restricted" [^3]. This can lead to unauthorized access and manipulation of critical functionalities.
+
+## Sources
+1. [Brainly - Improper Authentication](https://brainly.in/question/14103228)
+2. [CWE-200: Exposure of Sensitive Information to an Unauthorized Actor](http://cwe.mitre.org/data/definitions/200.html)
+3. [CWE-749: Exposed Dangerous Method or Function](http://cwe.mitre.org/data/definitions/749.html)
+
+## Limitations
+The report is based on available data up to October 2023 and may not include the latest developments in cybersecurity vulnerabilities. Additionally, the information is derived from secondary sources, which may have inherent biases or inaccuracies.
+
+[^1]: Brainly - Improper Authentication
+[^2]: CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
+[^3]: CWE-749: Exposed Dangerous Method or Function

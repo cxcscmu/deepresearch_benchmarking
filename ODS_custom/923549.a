@@ -1,0 +1,29 @@
+# Chip Shortage: An Analysis
+
+## Executive Summary
+
+The global chip shortage, a significant disruption in the supply of semiconductor chips, has been a persistent issue affecting various industries worldwide. This shortage has been exacerbated by a combination of factors, including increased demand due to the COVID-19 pandemic, natural disasters, and geopolitical tensions. The shortage has led to production delays, increased prices, and a reevaluation of supply chain strategies across industries such as automotive, consumer electronics, and more.
+
+## Methodology
+
+To analyze the reasons behind the chip shortage, I utilized a combination of online resources, including news articles, industry reports, and academic insights. Key sources included Wikipedia, BBC News, Marketplace, Ars Technica, and other reputable outlets. The search strategy involved identifying recent articles and reports that discuss the causes, impacts, and potential solutions to the chip shortage.
+
+## Detailed Findings
+
+1. **Increased Demand and Pandemic Impact**: The COVID-19 pandemic significantly increased the demand for electronic devices as remote work and online education became prevalent. "The consumption of chips has skyrocketed because more and more people are buying computers and various electronic devices as they’re stuck at home" [^1]. This surge in demand coincided with disruptions in manufacturing due to lockdowns and health measures.
+
+2. **Supply Chain Disruptions**: Natural disasters and logistical challenges have further strained the supply chain. For instance, "a winter storm in Texas shutdown semiconductor factories, and a fire at a plant in Japan caused similar delays" [^2]. Additionally, shipping bottlenecks and labor shortages have compounded these issues, making it difficult for manufacturers to meet demand.
+
+3. **Geopolitical and Economic Factors**: The trade tensions between the US and China have also played a role. Restrictions on Chinese companies like Huawei led to increased orders from other manufacturers, further straining supply. "The decision by the US to prevent the sale of semiconductors and other technology to Huawei... left others struggling to acquire the components" [^3].
+
+## Sources
+
+1. [Wikipedia - Chip Shortage](https://en.wikipedia.org/wiki/Chip_shortage)
+2. [BBC News - Why is there a chip shortage?](https://www.bbc.com/news/business-58230388)
+3. [Marketplace - What's behind the semiconductor chip shortage?](https://www.marketplace.org/2021/09/17/whats-behind-chip-shortage/)
+4. [Ars Technica - Why the chip shortage drags on and on… and on](https://arstechnica.com/gadgets/2021/11/why-the-chip-shortage-drags-on-and-on-and-on/)
+5. [Techzine Europe - Here's why the global chip shortage persists in 2022](https://www.techzine.eu/news/infrastructure/70294/heres-why-the-global-chip-shortage-persists-in-2022/)
+
+## Limitations
+
+The analysis is based on available data up to October 2023, and the situation may have evolved since then. Additionally, the complexity of global supply chains and the proprietary nature of some industry data may limit the comprehensiveness of the findings. The rapidly changing geopolitical landscape and technological advancements could also influence future developments in the semiconductor industry.

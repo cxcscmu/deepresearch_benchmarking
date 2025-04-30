@@ -1,0 +1,1 @@
+should animals be treated the same as humans

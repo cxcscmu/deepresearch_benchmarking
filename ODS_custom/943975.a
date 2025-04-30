@@ -1,0 +1,27 @@
+# Dependency Management and Program Risks
+
+## Executive Summary
+Dependencies in project and program management are critical elements that can significantly impact the success of a project. They represent the reliance of one task or project on another, and when not managed properly, they can introduce significant risks. This report explores when a dependency should be raised as a program risk, drawing insights from various sources on dependency management and risk assessment.
+
+## Methodology
+To address the query, a comprehensive search was conducted using online databases and project management resources. The search focused on identifying authoritative sources that discuss dependency management, program risks, and the criteria for raising dependencies as risks. Tools such as Google Scholar, industry-specific websites, and project management forums were utilized to gather relevant information.
+
+## Detailed Findings
+
+1. **Understanding Dependency Risks**: Dependencies are inherent in any project, and they introduce risks because the success of one task is contingent upon the completion of another. "Dependency Risk is the risk you take on whenever you have a dependency on something (or someone) else" [^1]. This risk is compounded when the dependency is on external factors such as vendors or other teams.
+
+2. **Criteria for Raising Dependencies as Risks**: A dependency should be raised as a program risk when it cannot be resolved internally and must be accepted as part of the program's risk profile. According to ServiceCentreList.com, a dependency should be added to the program risks "when it must be accepted" [^2]. This implies that the dependency cannot be mitigated or deferred and poses a significant threat to the program's objectives.
+
+3. **Managing Dependencies in Programs**: Effective management of dependencies involves identifying, documenting, and monitoring them throughout the project lifecycle. "Focus everybody on interdependencies between sub-projects and ensure the producer of the outgoing dependency has ownership of the product and the consequences of any delay" [^3]. This approach helps in proactively managing potential risks associated with dependencies.
+
+## Sources
+1. [Risk-First: Dependency Risk](https://riskfirst.org/risks/Dependency-Risk)
+2. [ServiceCentreList: When should a dependency be added to the program risks?](https://servicecentrelist.com/when-should-a-dependency-be-added-to-the-program-risks)
+3. [Project Manager: Risk and interdependency in programs](https://projectmanager.com.au/risk-interdependency-programs/)
+
+## Limitations
+The findings are based on available online resources and may not cover all industry practices or specific organizational contexts. The information is also limited to the sources accessed, which may not represent the full spectrum of opinions and methodologies in dependency management and risk assessment. Further research and consultation with industry experts may provide additional insights.
+
+[^1]: Risk-First: Dependency Risk
+[^2]: ServiceCentreList: When should a dependency be added to the program risks?
+[^3]: Project Manager: Risk and interdependency in programs

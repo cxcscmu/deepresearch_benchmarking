@@ -1,0 +1,1 @@
+why is this artwork so dramatically arresting, and what themes does it raise?

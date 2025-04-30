@@ -1,0 +1,1 @@
+does the media use its power responsibly

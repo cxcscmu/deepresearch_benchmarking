@@ -1,0 +1,1 @@
+are nuclear hazards any different from other hazards we accept everyday?

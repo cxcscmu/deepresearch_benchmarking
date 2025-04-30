@@ -1,0 +1,1 @@
+is intelligence genetic or environmental

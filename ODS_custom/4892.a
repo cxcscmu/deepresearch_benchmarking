@@ -1,0 +1,27 @@
+# Vulnerability of Information Systems to Destruction, Error, and Abuse
+
+## Executive Summary
+
+Information systems are integral to modern business operations, yet they are increasingly vulnerable to various threats, including destruction, error, and abuse. These vulnerabilities arise from multiple factors, such as unauthorized access, software bugs, and the inherent openness of the internet. This report explores the reasons behind these vulnerabilities and the common threats faced by information systems.
+
+## Methodology
+
+To gather information for this report, I utilized a combination of academic databases, online educational platforms, and reputable websites. The search strategy involved using keywords such as "information systems vulnerabilities," "destruction and error in information systems," and "abuse of information systems." The tools used included Google Scholar, Course Hero, and various educational blogs.
+
+## Detailed Findings
+
+1. **Unauthorized Access and External Threats**: Information systems are susceptible to unauthorized access, which can lead to data breaches and system disruptions. "Hackers can unleash denial-of-service (DoS) attacks or penetrate corporate networks, causing serious system disruptions" [^1]. The open nature of the internet exacerbates these vulnerabilities, making internal systems more accessible to outsiders.
+
+2. **Software Vulnerabilities and Human Error**: Software bugs and vulnerabilities are common issues that can be exploited by malicious actors. "Software presents problems because software bugs may be impossible to eliminate and because software vulnerabilities can be exploited by hackers and malicious software" [^2]. Additionally, end users often introduce errors, further compromising system integrity.
+
+3. **Malware and Cyber Attacks**: Malware, including viruses, worms, and Trojan horses, poses significant threats to information systems. "Malware may be represented in the form of a computer virus, a worm, or a Trojan horse" [^3]. These malicious programs can disable systems, steal data, and cause widespread damage.
+
+## Sources
+
+1. [Academia.edu - Why are information systems vulnerable to destruction, error, and abuse](https://www.academia.edu/37179493/Why_are_information_systems_vulnerable_to_destruction_error_and_abuse)
+2. [Course Hero - Why are information systems vulnerable to destruction error and abuse](https://www.coursehero.com/file/42868938/Why-are-information-systems-vulnerable-to-destruction-error-and-abusedocx/)
+3. [Rohani Abas Blog - Why are information systems vulnerable to destruction, error, and abuse](https://rohani-abas86.blogspot.com/2012/05/why-are-information-systems-vulnerable.html)
+
+## Limitations
+
+The primary limitation of this report is the reliance on secondary sources, which may not provide the most current data or comprehensive insights into the latest security threats. Additionally, the lack of specific case studies or empirical data limits the ability to quantify the impact of these vulnerabilities on organizations. Future research could benefit from more detailed analyses and real-world examples to better understand the scope and scale of these issues.
