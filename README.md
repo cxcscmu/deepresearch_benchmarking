@@ -46,6 +46,15 @@ eval_citation_async.py : computes citation precision as per TREC-RAG
     - writes `evaluation_results_citation_gpt-4.1-mini.json` to [deepsearch_model_to_eval] folder.
     - WARNING: this one can be slow and cost a lot of $. don't run unless you really need to.
 
+eval_citation_clueweb_async.py : computes citation precision as per TREC-RAG, for systems that use a ClueWeb API for search
+
+- `python eval_citation_clueweb_async.py --subfolder [deepsearch_model_to_eval] --open_ai_model [llm_judge]`
+    - [deepsearch_model_to_eval] must have a folder under `/data/group_data/cx_group/deepsearch_benchmark/reports`
+    - [llm_judge] can be any model that supports OpenAI API (currently using gpt-4.1-mini)
+    - writes `evaluation_results_citation_gpt-4.1-mini.json` to [deepsearch_model_to_eval] folder.
+    - WARNING: this one can be slow and cost a lot of $. don't run unless you really need to.
+
+
 
 
 eval_quality_async.py : computes holistic report quality using standard LLM as a judge viewpoints

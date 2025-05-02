@@ -7,19 +7,20 @@ import os
 from pathlib import Path
 import argparse
 from tqdm.asyncio import tqdm_asyncio
+from tqdm import tqdm
 import asyncio
-from crawl4ai import AsyncWebCrawler, CrawlerRunConfig, CacheMode, BrowserConfig
 import re
 from enum import Enum
 from typing import List
 from dotenv import load_dotenv
 import logging
+from clueweb22 import ClueWeb22Api
+import csv
+
 
 load_dotenv("keys.env")
 client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-crawl_config = CrawlerRunConfig(stream=False, verbose=False)
-browser_config = BrowserConfig(verbose=False)
 
 class CitationSupportValues(str, Enum):
     FULL = "full_support"
@@ -49,10 +50,36 @@ class ClaimsModel(BaseModel):
 
 
 
-async def crawl_urls(urls):
-    async with AsyncWebCrawler(config=browser_config) as crawler:
-        results = await crawler.arun_many(urls=urls, config=crawl_config)
-        return [r.markdown if r.success else f"**Error for {r.url}:** {r.error_message}" for r in results]
+url_to_docid = {}
+MAP_FILE = '/data/group_data/cx_group/large_scale_index/temp/map_id_url.csv'
+
+if os.path.exists(MAP_FILE):
+    with open(MAP_FILE, 'r', newline='') as csvfile:
+        reader = csv.reader(csvfile)
+        for doc_id, url in tqdm(reader):
+            url_to_docid[url] = doc_id
+else:
+    raise FileNotFoundError(f"Mapping file not found at {MAP_FILE}")
+
+
+def crawl_urls(urls):
+
+    doc_ids = []
+    for url in urls:
+        if url in url_to_docid:
+            doc_ids.append(url_to_docid[url.strip("\n")])
+        else:
+            doc_ids.append(f"**Error for {url}: not found in CW22 mapping.**")
+
+    texts = []
+    for doc_id in doc_ids:
+        if doc_id.startswith("**Error"):
+            texts.append(doc_id)
+        else:
+            clueweb_api = ClueWeb22Api(doc_id)
+            clean_txt = eval(clueweb_api.get_clean_text())["Clean-Text"]
+            texts.append(clean_txt)
+    return texts
 
 def create_prompt_extractor(answer):
     return f"""You are an information extraction expert.
@@ -185,7 +212,8 @@ async def evaluate_query(openai_semaphore, query_id, answer_path, model):
             # sourceless citation, should not happen but capture still.
             continue
 
-        docs = await crawl_urls(urls)
+        docs = crawl_urls(urls)
+
         if not docs:
             # This will skip a claim because crawler did not return text for that url.
             continue
@@ -227,7 +255,7 @@ async def evaluate_folder_async(subfolder_name, model, path_to_reports):
 
     print(f"Skipped {len(all_results)} queries.")
 
-    openai_semaphore = asyncio.Semaphore(12)
+    openai_semaphore = asyncio.Semaphore(100)
 
     query_files = list(folder_path.glob("*.a"))
     tasks = []
@@ -236,9 +264,7 @@ async def evaluate_folder_async(subfolder_name, model, path_to_reports):
         if query_id in all_results:
             continue
         tasks.append(evaluate_query(openai_semaphore, query_id, file, model))
-        if len(tasks) == 100:
-            break
-
+        
 
     results = await tqdm_asyncio.gather(*tasks)
     for query_id, result in results:
@@ -268,7 +294,7 @@ if __name__ == "__main__":
 
     for query_id, result in results.items():
         query_score = result.get("score", 0)
-        total_score += query_score * 100  # scale to 0–100 if you want percent form
+        total_score += query_score * 100
         count += 1
 
     average_score = total_score / count if count > 0 else 0

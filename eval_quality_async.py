@@ -155,4 +155,18 @@ if __name__ == "__main__":
     with open(detailed_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
+    total_score = 0
+    count = 0
+
+    for query_id, result in results.items():
+        scores = result["scores"]
+        sum_ratings = sum(rating_just_list[0] for rating_just_list in scores.values())
+        normalized = (sum_ratings / (len(scores) * 10)) * 100
+        results[query_id]["normalized_score"] = normalized
+        total_score += normalized
+        count += 1
+
+    average_score = total_score / count if count > 0 else 0
+    print(f"\nAverage normalized score across {count} queries: {average_score:.2f}")
+
     print(f"\nSaved detailed evaluation results to {detailed_path}")
