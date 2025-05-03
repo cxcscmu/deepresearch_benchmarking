@@ -1,0 +1,1 @@
+how are managers today different from managers in the past?

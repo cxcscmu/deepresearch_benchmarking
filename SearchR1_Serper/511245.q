@@ -1,0 +1,1 @@
+what factors would cause a more favorable dividend for the common stockholders?

@@ -1,0 +1,1 @@
+should the law allow an employer to fire an employee without a good reason

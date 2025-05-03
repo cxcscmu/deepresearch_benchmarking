@@ -1,0 +1,1 @@
+how has british monarchy changed during stuart period in 1603 to 1689

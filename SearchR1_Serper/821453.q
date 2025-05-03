@@ -1,0 +1,1 @@
+how has the company been affected by the trends discussed in this chapter?

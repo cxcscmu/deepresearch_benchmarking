@@ -1,0 +1,1 @@
+why do people commit terrorism
