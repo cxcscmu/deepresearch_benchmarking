@@ -1,0 +1,1 @@
+how is architecture influenced by the environment

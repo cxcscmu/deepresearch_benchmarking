@@ -1,0 +1,1 @@
+what type of adaptive leadership is needed during irrational warfare

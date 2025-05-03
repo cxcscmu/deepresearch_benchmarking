@@ -1,0 +1,1 @@
+how does your society view independence and interdependence?

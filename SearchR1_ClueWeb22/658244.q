@@ -1,0 +1,1 @@
+is kpop a good or bad influence on teens

@@ -1,0 +1,1 @@
+what impact could a poor quality product have on a company?

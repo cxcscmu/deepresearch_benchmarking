@@ -1,0 +1,1 @@
+what most likely changed when cottage industries began to disappear?

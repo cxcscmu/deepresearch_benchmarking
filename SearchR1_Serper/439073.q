@@ -1,0 +1,1 @@
+should rich people help the poor

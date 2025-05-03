@@ -1,0 +1,1 @@
+should history be taught in school

@@ -1,0 +1,1 @@
+will apps eventually make the web irrelevant? why or why not?

@@ -1,0 +1,1 @@
+how language affect culture

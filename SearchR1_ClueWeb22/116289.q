@@ -1,0 +1,1 @@
+how could sales force automation affect salesperson productivity, marketing management, and competitive advantage?

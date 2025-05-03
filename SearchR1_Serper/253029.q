@@ -1,0 +1,1 @@
+what social factors affect the restaurant group in the past

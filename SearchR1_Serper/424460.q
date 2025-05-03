@@ -1,0 +1,1 @@
+are companies today more sincere in aligning their missions and visions with actions?

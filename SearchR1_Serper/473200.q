@@ -1,0 +1,1 @@
+what do you think attracts filipinos to migrate to metro manila?

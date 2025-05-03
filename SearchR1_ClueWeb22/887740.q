@@ -1,0 +1,1 @@
+how did the colonists react to the stamp act

@@ -1,0 +1,1 @@
+are diabetics clinically vulnerable

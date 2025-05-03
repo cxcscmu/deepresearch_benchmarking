@@ -1,0 +1,1 @@
+how does paine’s style contribute to the persuasiveness of the text?

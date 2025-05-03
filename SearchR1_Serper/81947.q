@@ -1,0 +1,1 @@
+why did the cold war last so long

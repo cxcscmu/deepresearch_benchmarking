@@ -1,0 +1,1 @@
+what microenvironmental factors have affected sony’s performance since 2000?

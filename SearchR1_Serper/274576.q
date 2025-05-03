@@ -1,0 +1,1 @@
+should people have the right to own a gun?

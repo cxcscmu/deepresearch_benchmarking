@@ -1,0 +1,1 @@
+why don't people seek mental health treatment
