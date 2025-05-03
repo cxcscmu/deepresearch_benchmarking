@@ -1,0 +1,1 @@
+what are the strengths and weaknesses of the campbell soup company’s marketing information system?

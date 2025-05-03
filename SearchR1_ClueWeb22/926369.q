@@ -1,0 +1,1 @@
+how can managers effectively plan when the external environment is continually changing?

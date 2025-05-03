@@ -1,0 +1,1 @@
+how much would be appropriate for wealthy countries to contribute to global health?

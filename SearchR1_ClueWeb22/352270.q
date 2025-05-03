@@ -1,0 +1,1 @@
+how do the results of each of these analyses inform an organization’s strategic plan?

@@ -1,0 +1,1 @@
+why is japan so advanced

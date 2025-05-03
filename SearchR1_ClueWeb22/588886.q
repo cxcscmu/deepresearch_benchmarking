@@ -1,0 +1,1 @@
+compare and contrast childhood vs adulthood

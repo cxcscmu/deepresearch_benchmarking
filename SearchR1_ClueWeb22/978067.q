@@ -1,0 +1,1 @@
+why was practical astronomy so highly cultivated in the arab world?

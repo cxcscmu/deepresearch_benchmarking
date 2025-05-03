@@ -1,0 +1,1 @@
+why is the usd weakening

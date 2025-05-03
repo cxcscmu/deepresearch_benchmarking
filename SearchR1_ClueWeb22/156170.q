@@ -1,0 +1,1 @@
+how have embedded computers and the iot impacted your daily life?

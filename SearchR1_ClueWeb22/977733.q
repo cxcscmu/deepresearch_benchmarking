@@ -1,0 +1,1 @@
+why do you think people are so quick to accept “statistics” as true?
