@@ -1,1 +1,0 @@
-how does the consumer’s perspective of quality differ from the producer’s?

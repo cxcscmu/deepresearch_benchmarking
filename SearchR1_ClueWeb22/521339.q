@@ -1,1 +1,0 @@
-why did the treaty of versailles fail

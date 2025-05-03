@@ -1,1 +1,0 @@
-what was the impact of european colonization on native americans

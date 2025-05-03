@@ -1,1 +1,0 @@
-should cghildren be encouraged to be competitive

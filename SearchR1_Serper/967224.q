@@ -1,1 +1,0 @@
-why is there an energy shortage

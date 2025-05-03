@@ -1,1 +1,0 @@
-what are some differences you've noticed in how people use technology?

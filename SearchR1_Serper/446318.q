@@ -1,1 +1,0 @@
-should the government be responsible for the homeless

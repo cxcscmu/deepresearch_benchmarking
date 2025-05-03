@@ -1,1 +1,0 @@
-how companies reduce carbon footprint

@@ -1,1 +1,0 @@
-describe the roles of government bodies that determine fiscal policy

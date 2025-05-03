@@ -1,1 +1,0 @@
-does the required infrastructure for sales promotion exist in every country?

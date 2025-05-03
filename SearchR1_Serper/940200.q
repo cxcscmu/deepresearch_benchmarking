@@ -1,1 +1,0 @@
-should sign language be taught in schools

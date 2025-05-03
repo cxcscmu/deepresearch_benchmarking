@@ -1,1 +1,0 @@
-should all vaccines for all diseases be mandatory?

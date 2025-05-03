@@ -1,1 +1,0 @@
-what is the role of a health care manager when facing an ethical decision?

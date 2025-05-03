@@ -1,1 +1,0 @@
-why do republicans distrust the media

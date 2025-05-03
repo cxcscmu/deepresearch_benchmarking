@@ -1,1 +1,0 @@
-what human activities affect climate change

@@ -1,1 +1,0 @@
-why do people think covid is a hoax

@@ -1,1 +1,0 @@
-what actions can social institutions present to promote cultural relativism and mitigate ethnocentrism

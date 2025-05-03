@@ -1,1 +1,0 @@
-what influenced the founding fathers

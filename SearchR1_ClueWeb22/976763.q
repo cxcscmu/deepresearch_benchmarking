@@ -1,1 +1,0 @@
-what impact did the cold war have on american society

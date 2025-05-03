@@ -1,1 +1,0 @@
-what role did women and african americans play in the war?

@@ -1,1 +1,0 @@
-how does the cold war affect us today

@@ -1,1 +1,0 @@
-what factors helped the economies of the muslim empires prosper

@@ -1,1 +1,0 @@
-what do people look for in a president

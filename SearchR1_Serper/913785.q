@@ -1,1 +1,0 @@
-should university students be encouraged to start their own business?

@@ -1,1 +1,0 @@
-how coronavirus is affecting people's lives

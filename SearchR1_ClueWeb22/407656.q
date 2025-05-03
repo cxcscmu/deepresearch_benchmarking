@@ -1,1 +1,0 @@
-are there any fair lending concerns with mlo compensation

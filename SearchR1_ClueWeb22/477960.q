@@ -1,1 +1,0 @@
-where does racism stem from

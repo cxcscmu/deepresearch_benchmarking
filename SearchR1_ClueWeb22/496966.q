@@ -1,1 +1,0 @@
-how does shakespeare present macbeth as a tragic hero

@@ -1,1 +1,0 @@
-how does the bill of rights protect citizens

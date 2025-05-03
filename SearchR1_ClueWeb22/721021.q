@@ -1,1 +1,0 @@
-how does history affect us today

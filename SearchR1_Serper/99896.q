@@ -1,1 +1,0 @@
-why we expect more from technology and less from each other

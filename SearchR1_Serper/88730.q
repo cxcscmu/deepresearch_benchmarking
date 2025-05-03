@@ -1,1 +1,0 @@
-how does terrorism affect us

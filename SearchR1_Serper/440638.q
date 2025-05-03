@@ -1,1 +1,0 @@
-should the electoral college be abolished? why or why not?

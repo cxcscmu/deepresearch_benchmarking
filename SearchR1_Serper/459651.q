@@ -1,1 +1,0 @@
-why is air pollution a global issue

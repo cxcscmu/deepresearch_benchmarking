@@ -1,1 +1,0 @@
-why does domestic abuse happen

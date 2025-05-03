@@ -1,1 +1,0 @@
-why are people afraid of dying

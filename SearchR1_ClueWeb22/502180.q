@@ -1,1 +1,0 @@
-should students be rewarded for good grades

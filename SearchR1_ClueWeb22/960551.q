@@ -1,1 +1,0 @@
-why was anwar sadat assassinated

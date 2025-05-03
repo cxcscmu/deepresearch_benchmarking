@@ -1,1 +1,0 @@
-should violence be censored in the media

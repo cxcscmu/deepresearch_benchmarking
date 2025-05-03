@@ -1,1 +1,0 @@
-the dangers of terrorism

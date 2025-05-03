@@ -1,1 +1,0 @@
-why do so many young people like communism

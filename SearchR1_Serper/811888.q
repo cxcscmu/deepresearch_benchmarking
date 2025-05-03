@@ -1,1 +1,0 @@
-can we ever rely on other people’s cdd procedures?

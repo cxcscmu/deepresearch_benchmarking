@@ -1,1 +1,0 @@
-can an organization run effectively without leaders having some form of organizational power?

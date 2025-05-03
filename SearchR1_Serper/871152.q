@@ -1,1 +1,0 @@
-how did apartheid affect peoples lives

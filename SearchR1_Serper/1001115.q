@@ -1,1 +1,0 @@
-do the american population wish more autonomy in their work?

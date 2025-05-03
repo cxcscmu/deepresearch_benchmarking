@@ -1,1 +1,0 @@
-how did native americans view the concept of land ownership?

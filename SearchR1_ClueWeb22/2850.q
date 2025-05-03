@@ -1,1 +1,0 @@
-did margaret thatcher's policies work

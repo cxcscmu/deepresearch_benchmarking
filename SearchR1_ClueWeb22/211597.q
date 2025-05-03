@@ -1,1 +1,0 @@
-how does reverend parris abuse his power

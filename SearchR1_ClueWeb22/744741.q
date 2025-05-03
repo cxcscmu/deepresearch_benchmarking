@@ -1,1 +1,0 @@
-what skills and life experiences make you a good candidate for a scholarship?

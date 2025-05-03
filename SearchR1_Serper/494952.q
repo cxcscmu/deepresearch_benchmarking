@@ -1,1 +1,0 @@
-why do people vote republican

@@ -1,1 +1,0 @@
-how business adjusted to covid forbes

@@ -1,1 +1,0 @@
-why did amazon initially consider international expansion?

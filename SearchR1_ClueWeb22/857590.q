@@ -1,1 +1,0 @@
-what are the main advantages and disadvantages of organizing a firm as a​ corporation?

@@ -1,1 +1,0 @@
-what would happen if we didn't have democracy

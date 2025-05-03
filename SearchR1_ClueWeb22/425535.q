@@ -1,1 +1,0 @@
-why do some people want to go to college far away from home?

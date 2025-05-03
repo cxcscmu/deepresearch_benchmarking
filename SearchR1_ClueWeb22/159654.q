@@ -1,1 +1,0 @@
-why are people taking ivermectin for covid

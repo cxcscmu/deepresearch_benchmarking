@@ -1,1 +1,0 @@
-how does minimum wage affect the economy

@@ -1,1 +1,0 @@
-why are some customers challenging to one individual and not to another?

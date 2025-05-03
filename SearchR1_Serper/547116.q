@@ -1,1 +1,0 @@
-why might a community not be involved in the research process?

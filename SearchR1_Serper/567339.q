@@ -1,1 +1,0 @@
-what are the major differences between china and the united states in higher education?

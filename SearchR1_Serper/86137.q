@@ -1,1 +1,0 @@
-how today's christians could impact western culture to draw others to christ.

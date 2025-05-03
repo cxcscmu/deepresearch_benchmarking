@@ -1,1 +1,0 @@
-compare and contrast high school and college

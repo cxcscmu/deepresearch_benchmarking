@@ -1,1 +1,0 @@
-how changing your mindset can help you embrace change

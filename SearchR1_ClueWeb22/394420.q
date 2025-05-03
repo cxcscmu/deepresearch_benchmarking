@@ -1,1 +1,0 @@
-relationship between education and society

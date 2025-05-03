@@ -1,1 +1,0 @@
-should we tax the rich more pros and cons

@@ -1,1 +1,0 @@
-what motivated you to become an entrepreneur

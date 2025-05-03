@@ -1,1 +1,0 @@
-how is the healthcare market different from other markets

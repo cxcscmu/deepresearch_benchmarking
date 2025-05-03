@@ -1,1 +1,0 @@
-when did racism first start

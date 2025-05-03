@@ -1,1 +1,0 @@
-how wealthy countries can aid other countries

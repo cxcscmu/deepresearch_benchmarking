@@ -1,1 +1,0 @@
-do moral rules enslave people?

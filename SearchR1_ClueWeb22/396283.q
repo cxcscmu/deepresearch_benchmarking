@@ -1,1 +1,0 @@
-does advertising help or harm us

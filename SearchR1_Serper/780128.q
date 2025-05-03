@@ -1,1 +1,0 @@
-why should managers pay attention to informal groups?

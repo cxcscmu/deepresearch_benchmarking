@@ -1,1 +1,0 @@
-what effect did the great awakening have on the american colonies?

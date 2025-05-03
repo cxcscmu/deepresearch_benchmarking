@@ -1,1 +1,0 @@
-what philosophies and concepts shape personal ethical standards?

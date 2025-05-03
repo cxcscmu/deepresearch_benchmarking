@@ -1,1 +1,0 @@
-should capital punishment be legalised

@@ -1,1 +1,0 @@
-why should capital punishment be banned

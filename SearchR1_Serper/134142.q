@@ -1,1 +1,0 @@
-can climate change be fixed

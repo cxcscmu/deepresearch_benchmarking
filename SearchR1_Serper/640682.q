@@ -1,1 +1,0 @@
-is it good for children to learn arts

@@ -1,1 +1,0 @@
-how is value created from dubai's resources and capabilities?

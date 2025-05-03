@@ -1,1 +1,0 @@
-why did the league of nations fail

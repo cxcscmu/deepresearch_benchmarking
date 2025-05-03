@@ -1,1 +1,0 @@
-how are individuals used effectively in an organization

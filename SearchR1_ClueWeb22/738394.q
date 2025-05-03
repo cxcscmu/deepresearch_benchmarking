@@ -1,1 +1,0 @@
-why did racial discrimination start

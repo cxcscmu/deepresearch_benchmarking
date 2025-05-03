@@ -1,1 +1,0 @@
-is the cost of college too high?

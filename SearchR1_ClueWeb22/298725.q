@@ -1,1 +1,0 @@
-negatives of stereotyping

@@ -1,1 +1,0 @@
-why is communism bad form of gov

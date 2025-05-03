@@ -1,1 +1,0 @@
-how the homestead act affected the indians

@@ -1,1 +1,0 @@
-is manipulation a form of abuse

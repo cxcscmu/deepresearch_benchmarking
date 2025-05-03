@@ -1,1 +1,0 @@
-is internet access a human right

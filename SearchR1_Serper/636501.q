@@ -1,1 +1,0 @@
-are men and women psychologically different?

@@ -1,1 +1,0 @@
-why do adult children stop talking to parents

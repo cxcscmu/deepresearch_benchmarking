@@ -1,1 +1,0 @@
-why are factions a threat to a democratic government?

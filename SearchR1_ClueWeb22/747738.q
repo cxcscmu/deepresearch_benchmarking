@@ -1,1 +1,0 @@
-is lithium mining bad for the environment

@@ -1,1 +1,0 @@
-how does the cultural environment affect international marketing activities?

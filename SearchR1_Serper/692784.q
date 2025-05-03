@@ -1,1 +1,0 @@
-why are stereotypes perpetuated within our popular culture?

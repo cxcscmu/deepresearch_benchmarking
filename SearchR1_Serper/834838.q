@@ -1,1 +1,0 @@
-how smart, connected products are transforming competition

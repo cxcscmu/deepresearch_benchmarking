@@ -1,1 +1,0 @@
-why we strive for status

@@ -1,1 +1,0 @@
-why would professional, ethical, legal and social issues be important for it professionals?

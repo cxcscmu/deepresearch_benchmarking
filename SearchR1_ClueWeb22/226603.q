@@ -1,1 +1,0 @@
-what are factors that may determine the disasters your organization encounters?

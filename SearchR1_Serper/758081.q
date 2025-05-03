@@ -1,1 +1,0 @@
-do you think expectancy theory is too complex for direct use in organizational settings?

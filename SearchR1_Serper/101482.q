@@ -1,1 +1,0 @@
-should nasa be privatized

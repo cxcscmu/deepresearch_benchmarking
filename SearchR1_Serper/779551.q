@@ -1,1 +1,0 @@
-how different social, professional and cultural backgrounds may affect relationships and communication.

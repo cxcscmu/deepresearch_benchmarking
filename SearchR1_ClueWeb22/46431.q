@@ -1,1 +1,0 @@
-why do some groups tend to be underrepresented in congress

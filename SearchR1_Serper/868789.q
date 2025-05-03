@@ -1,1 +1,0 @@
-is physical health more important than mental

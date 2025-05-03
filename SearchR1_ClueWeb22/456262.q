@@ -1,1 +1,0 @@
-are gun owners more likely to be shot

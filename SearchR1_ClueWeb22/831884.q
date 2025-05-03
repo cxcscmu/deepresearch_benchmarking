@@ -1,1 +1,0 @@
-why are used car prices rising

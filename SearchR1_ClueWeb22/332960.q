@@ -1,1 +1,0 @@
-how does crime affect individuals

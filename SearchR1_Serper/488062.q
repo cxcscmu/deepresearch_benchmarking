@@ -1,1 +1,0 @@
-what future problems would result from scarce resources?

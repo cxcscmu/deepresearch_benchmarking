@@ -1,1 +1,0 @@
-what national and local policies help to protect people from abuse?

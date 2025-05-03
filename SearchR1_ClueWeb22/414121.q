@@ -1,1 +1,0 @@
-how do people feel about climate change

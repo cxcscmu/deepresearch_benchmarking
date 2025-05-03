@@ -1,1 +1,0 @@
-should the government have a say in abortion

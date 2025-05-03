@@ -1,1 +1,0 @@
-what leads to poverty

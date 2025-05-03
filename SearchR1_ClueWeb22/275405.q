@@ -1,1 +1,0 @@
-what was the importance and significance of art during the prehistoric period?

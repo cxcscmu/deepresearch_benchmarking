@@ -1,1 +1,0 @@
-why are medical bills so expensive

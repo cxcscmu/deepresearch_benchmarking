@@ -1,1 +1,0 @@
-does religion cause war

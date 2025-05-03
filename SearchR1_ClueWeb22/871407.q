@@ -1,1 +1,0 @@
-what flaw can lead to exposure of resources or functionality to unintended actors?

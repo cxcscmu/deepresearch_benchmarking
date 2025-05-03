@@ -1,1 +1,0 @@
-how can human trafficking be prevented

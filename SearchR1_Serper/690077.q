@@ -1,1 +1,0 @@
-can everyone benefit from higher education

@@ -1,1 +1,0 @@
-should students consider staying in their home state for university education?

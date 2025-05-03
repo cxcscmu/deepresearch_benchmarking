@@ -1,1 +1,0 @@
-what kind of legacy can a church leave

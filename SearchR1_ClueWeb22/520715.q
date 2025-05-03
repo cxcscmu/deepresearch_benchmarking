@@ -1,1 +1,0 @@
-how can luxury fashion avoid impacting the environment

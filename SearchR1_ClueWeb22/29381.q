@@ -1,1 +1,0 @@
-why do some people oppose abortion

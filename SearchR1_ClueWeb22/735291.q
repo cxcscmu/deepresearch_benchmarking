@@ -1,1 +1,0 @@
-what is the legal responsibility of the healthcare administrator in regards to patient safety?

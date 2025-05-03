@@ -1,1 +1,0 @@
-why are dispensationalists so politically powerful

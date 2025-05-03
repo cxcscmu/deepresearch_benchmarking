@@ -1,1 +1,0 @@
-how do culture and diversity directly and indirectly impact gender differences across cultures

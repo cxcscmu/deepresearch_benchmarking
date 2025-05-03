@@ -1,1 +1,0 @@
-evaluate the extent to which the government has contributed to housing

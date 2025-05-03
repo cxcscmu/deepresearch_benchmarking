@@ -1,1 +1,0 @@
-why is same sex marriage illegal

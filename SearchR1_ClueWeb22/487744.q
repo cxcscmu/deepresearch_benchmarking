@@ -1,1 +1,0 @@
-why did jews expect a warrior messiah

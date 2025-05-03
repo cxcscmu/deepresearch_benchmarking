@@ -1,1 +1,0 @@
-does the us have political corruption

@@ -1,1 +1,0 @@
-what are the consequences if children don't like to share?

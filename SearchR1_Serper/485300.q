@@ -1,1 +1,0 @@
-how often do people use guns for self defense

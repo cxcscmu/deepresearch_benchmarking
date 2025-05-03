@@ -1,1 +1,0 @@
-why is research practical and realistic?

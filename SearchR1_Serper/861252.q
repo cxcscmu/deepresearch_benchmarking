@@ -1,1 +1,0 @@
-why is speaking openly about your workplace accomplishments so important?

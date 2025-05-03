@@ -1,1 +1,0 @@
-why should we increase minimum wage

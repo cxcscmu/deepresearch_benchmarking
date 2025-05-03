@@ -1,1 +1,0 @@
-what are the major forces affecting the delivery of healthcare today

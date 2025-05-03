@@ -1,1 +1,0 @@
-what can you do to protect the environment?

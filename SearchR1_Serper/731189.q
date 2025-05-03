@@ -1,1 +1,0 @@
-what causes anti-science attitudes

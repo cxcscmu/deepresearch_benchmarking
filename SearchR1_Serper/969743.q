@@ -1,1 +1,0 @@
-how has terrorism affected global trade?

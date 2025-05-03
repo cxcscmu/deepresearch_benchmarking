@@ -1,1 +1,0 @@
-why should the death penalty legal

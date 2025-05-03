@@ -1,1 +1,0 @@
-what factors affect sense of self?

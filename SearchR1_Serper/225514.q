@@ -1,1 +1,0 @@
-is perceptual development an innate or socially acquired process?

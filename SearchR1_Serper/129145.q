@@ -1,1 +1,0 @@
-why are crude oil prices rising

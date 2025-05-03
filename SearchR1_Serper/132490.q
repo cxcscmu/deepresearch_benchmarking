@@ -1,1 +1,0 @@
-what would amazon's medium- and long-term forecast inform the operations management department?

@@ -1,1 +1,0 @@
-what challenges do medical facilities face when trying to become more culturally competent?

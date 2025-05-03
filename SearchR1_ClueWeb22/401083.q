@@ -1,1 +1,0 @@
-should workers be allowed to strike

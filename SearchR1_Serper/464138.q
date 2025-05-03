@@ -1,1 +1,0 @@
-how did the 1840 world’s anti-slavery convention affect the women’s suffrage movement?

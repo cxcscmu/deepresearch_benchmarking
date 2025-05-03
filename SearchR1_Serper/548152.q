@@ -1,1 +1,0 @@
-what cognitive symptoms may indicate that someone has been exposed to long-term trauma?

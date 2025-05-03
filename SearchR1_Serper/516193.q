@@ -1,1 +1,0 @@
-are there problems with allowing interest groups to exercise influence over government?

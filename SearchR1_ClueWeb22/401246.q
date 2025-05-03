@@ -1,1 +1,0 @@
-what actions might a leader take to govern fairly?

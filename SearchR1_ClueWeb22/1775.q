@@ -1,1 +1,0 @@
-why did the soviet union set up communist governments in eastern europe?

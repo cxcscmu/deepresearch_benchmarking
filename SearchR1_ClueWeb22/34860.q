@@ -1,1 +1,0 @@
-what is the importance of all people knowing how to read and write critically?

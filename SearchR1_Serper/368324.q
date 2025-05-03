@@ -1,1 +1,0 @@
-why is the cost of the death penalty worth it

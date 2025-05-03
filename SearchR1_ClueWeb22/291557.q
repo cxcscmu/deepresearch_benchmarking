@@ -1,1 +1,0 @@
-why did islam spread so quickly throughout the mediterranean world?

@@ -1,1 +1,0 @@
-what factors account for the tremendous growth in cotton cultivation from 1790 to 1860

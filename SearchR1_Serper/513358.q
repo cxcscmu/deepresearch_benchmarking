@@ -1,1 +1,0 @@
-economic effects of the cold war

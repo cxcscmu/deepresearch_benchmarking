@@ -1,1 +1,0 @@
-how the study of english helps to develop intercultural competence

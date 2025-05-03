@@ -1,1 +1,0 @@
-how does the negative example of cain shed some light on the gospel plan?

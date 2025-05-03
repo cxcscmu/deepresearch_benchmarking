@@ -1,1 +1,0 @@
-how did the league of nations cause ww2

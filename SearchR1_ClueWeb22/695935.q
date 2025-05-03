@@ -1,1 +1,0 @@
-why did the protection of civil liberties gain importance in the 1920s?

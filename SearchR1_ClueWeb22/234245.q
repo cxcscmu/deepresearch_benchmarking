@@ -1,1 +1,0 @@
-why did the gold standard collapse

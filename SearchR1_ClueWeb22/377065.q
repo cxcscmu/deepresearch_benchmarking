@@ -1,1 +1,0 @@
-why should we lower the voting age to 16

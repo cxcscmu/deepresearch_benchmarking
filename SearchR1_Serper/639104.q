@@ -1,1 +1,0 @@
-how do american cultural beliefs and values influence the use of medical technology?

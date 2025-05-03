@@ -1,1 +1,0 @@
-sociological factors of crime

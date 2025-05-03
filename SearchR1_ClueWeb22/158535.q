@@ -1,1 +1,0 @@
-does selling your home affect social security

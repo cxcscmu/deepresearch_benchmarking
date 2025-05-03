@@ -1,1 +1,0 @@
-how did the holocaust affect the jewish population

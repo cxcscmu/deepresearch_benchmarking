@@ -1,1 +1,0 @@
-should scientists be allowed to clone humans

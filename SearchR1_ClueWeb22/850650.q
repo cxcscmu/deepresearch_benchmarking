@@ -1,1 +1,0 @@
-are vaccinated people dying more than unvaccinated

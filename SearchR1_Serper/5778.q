@@ -1,1 +1,0 @@
-why do people commit domestic violence

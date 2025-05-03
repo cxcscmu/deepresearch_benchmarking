@@ -1,1 +1,0 @@
-how did the patent system encourage inventiveness

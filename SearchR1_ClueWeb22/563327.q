@@ -1,1 +1,0 @@
-why should we not abolish the death penalty

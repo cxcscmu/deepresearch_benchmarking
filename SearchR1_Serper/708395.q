@@ -1,1 +1,0 @@
-why do women get paid less than men

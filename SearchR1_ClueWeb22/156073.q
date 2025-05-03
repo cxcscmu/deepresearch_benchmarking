@@ -1,1 +1,0 @@
-how did herbert hoover respond to the demands of the bonus army?

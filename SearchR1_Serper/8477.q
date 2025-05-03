@@ -1,1 +1,0 @@
-why are there competing systems of innovation classification?

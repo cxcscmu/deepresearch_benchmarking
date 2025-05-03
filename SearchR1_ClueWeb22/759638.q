@@ -1,1 +1,0 @@
-is verbal abuse worse than physical abuse

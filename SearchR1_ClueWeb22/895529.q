@@ -1,1 +1,0 @@
-describe how the breakup of the soviet union affected the region and the world.

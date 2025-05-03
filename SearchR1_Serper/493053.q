@@ -1,1 +1,0 @@
-why are natural gas prices going up?

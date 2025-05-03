@@ -1,1 +1,0 @@
-how did the balfour declaration contribute to tension between jews and arabs?

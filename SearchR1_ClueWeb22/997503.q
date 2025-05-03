@@ -1,1 +1,0 @@
-how do jesus’ followers face similar opposition today?

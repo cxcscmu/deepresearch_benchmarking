@@ -1,1 +1,0 @@
-should a database of people paroled or released for crimes be made public?

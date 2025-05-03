@@ -1,1 +1,0 @@
-why capital punishment is necessary

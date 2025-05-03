@@ -1,1 +1,0 @@
-is homeschooling better than public school

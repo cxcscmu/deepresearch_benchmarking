@@ -1,1 +1,0 @@
-why is it so hard to find workers

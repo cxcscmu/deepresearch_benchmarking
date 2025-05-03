@@ -1,1 +1,0 @@
-should private citizens be allowed to own a gun?

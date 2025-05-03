@@ -1,1 +1,0 @@
-how is it possible for a woman’s emotional state to affect her menstrual cycle?

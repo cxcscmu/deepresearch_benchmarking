@@ -1,1 +1,0 @@
-why oil price rise

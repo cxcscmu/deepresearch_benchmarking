@@ -1,1 +1,0 @@
-why women earn less than men

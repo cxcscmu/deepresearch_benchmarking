@@ -1,1 +1,0 @@
-how do labor unions hurt the economy

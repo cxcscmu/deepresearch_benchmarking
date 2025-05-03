@@ -1,1 +1,0 @@
-do you think human populations can develop alternative political organizations in the future?

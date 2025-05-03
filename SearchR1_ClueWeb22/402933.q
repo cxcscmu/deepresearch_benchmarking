@@ -1,1 +1,0 @@
-how does climate change affect developed countries

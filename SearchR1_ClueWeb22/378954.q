@@ -1,1 +1,0 @@
-what can be done to stop human trafficking

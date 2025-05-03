@@ -1,1 +1,0 @@
-is neglect a form of abuse

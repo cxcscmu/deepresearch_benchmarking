@@ -1,1 +1,0 @@
-how working with an individual who is distressed may impact on own well being

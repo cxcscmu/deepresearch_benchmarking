@@ -1,1 +1,0 @@
-should doctors lie to patients

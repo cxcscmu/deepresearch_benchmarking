@@ -1,1 +1,0 @@
-how does a hypercompetitive environment change the strategic approach for a company?

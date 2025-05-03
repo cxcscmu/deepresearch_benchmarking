@@ -1,1 +1,0 @@
-what is the relationship between external validity and the college sophomore problem?

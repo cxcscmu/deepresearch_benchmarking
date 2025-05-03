@@ -1,1 +1,0 @@
-why has psychology generated so much research on the self?

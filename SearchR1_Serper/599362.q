@@ -1,1 +1,0 @@
-how do the competitors interact with each other and suppliers and customers?

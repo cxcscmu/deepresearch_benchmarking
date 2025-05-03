@@ -1,1 +1,0 @@
-why didn't people smile in old photographs
