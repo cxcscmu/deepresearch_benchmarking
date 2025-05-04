@@ -44,3 +44,28 @@
 
 #python eval_quality_async.py --subfolder search-r1 --open_ai_model gpt-4.1-mini
 #python eval_citation_async.py --subfolder open_deep_search --open_ai_model gpt-4.1-mini
+
+
+# script for eval kpr
+
+# ## 1- hf_deepresearch_gpt-4o-mini
+# python eval_kpr_async.py --subfolder mini/hf_deepresearch_gpt-4o-mini --open_ai_model gpt-4.1-mini
+# python eval_merge.py --subfolder mini/hf_deepresearch_gpt-4o-mini --open_ai_model gpt-4.1-mini
+
+
+# ## 2- gpt-4o-search-preview
+# python eval_kpr_async.py --subfolder mini/gpt-4o-search-preview --open_ai_model gpt-4.1-mini
+# python eval_merge.py --subfolder mini/gpt-4o-search-preview --open_ai_model gpt-4.1-mini
+
+# ## 3- GPTResearcher
+# python eval_kpr_async.py --subfolder mini/GPTResearcher --open_ai_model gpt-4.1-mini
+# python eval_merge.py --subfolder mini/GPTResearcher --open_ai_model gpt-4.1-mini
+
+# ## 4- open_deep_search
+# python eval_kpr_async.py --subfolder mini/open_deep_search --open_ai_model gpt-4.1-mini
+# python eval_merge.py --subfolder mini/open_deep_search --open_ai_model gpt-4.1-mini
+
+
+# ## 5- GPTResearcher_custom
+# python eval_kpr_async.py --subfolder mini/GPTResearcher_custom --open_ai_model gpt-4.1-mini
+# python eval_merge.py --subfolder mini/GPTResearcher_custom --open_ai_model gpt-4.1-mini

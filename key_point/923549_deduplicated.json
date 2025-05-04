@@ -1,0 +1,757 @@
+{
+  "question": "why is there a chip shortage",
+  "key_points": [
+    {
+      "point_number": 1,
+      "point_content": "There just aren't enough computer chips to meet industry demand, causing shortages in many products.",
+      "original_point_number": [
+        1,
+        16,
+        126
+      ]
+    },
+    {
+      "point_number": 2,
+      "point_content": "The chip shortage has caused production slowdowns or halts in car manufacturing and affected smartphone sales.",
+      "original_point_number": [
+        2,
+        17
+      ]
+    },
+    {
+      "point_number": 3,
+      "point_content": "The chip shortage is affecting a wide range of products and industries, including unexpected ones like dog-grooming machines.",
+      "original_point_number": [
+        3,
+        18
+      ]
+    },
+    {
+      "point_number": 4,
+      "point_content": "The chip shortage has caused delays in new car availability, impacting individuals reliant on cars.",
+      "original_point_number": [
+        4,
+        20
+      ]
+    },
+    {
+      "point_number": 5,
+      "point_content": "Some components containing semiconductors have a 12-month or more wait time, causing assembly delays.",
+      "original_point_number": [
+        5,
+        21
+      ]
+    },
+    {
+      "point_number": 6,
+      "point_content": "The chip shortage has been developing for years due to rising demand from 5G and trade restrictions on Huawei.",
+      "original_point_number": [
+        6,
+        22
+      ]
+    },
+    {
+      "point_number": 7,
+      "point_content": "There is a shortage of 200mm wafer manufacturing equipment, which is needed for lower cost chips in many consumer products.",
+      "original_point_number": [
+        7,
+        23,
+        83
+      ]
+    },
+    {
+      "point_number": 8,
+      "point_content": "The pandemic caused stockpiling and advance ordering of chips, fluctuating demand, and factory closures, worsening the shortage.",
+      "original_point_number": [
+        8,
+        24,
+        80
+      ]
+    },
+    {
+      "point_number": 9,
+      "point_content": "Recent events like a winter storm in Texas and a fire at a plant in Japan have further disrupted chip production.",
+      "original_point_number": [
+        9,
+        14,
+        25,
+        41,
+        66,
+        147
+      ]
+    },
+    {
+      "point_number": 10,
+      "point_content": "Shipping costs and logistical issues have increased dramatically during the pandemic, complicating chip supply.",
+      "original_point_number": [
+        10,
+        26,
+        193,
+        194
+      ]
+    },
+    {
+      "point_number": 11,
+      "point_content": "Increasing chip production capacity takes a long time and is very expensive, so the shortage will not be resolved quickly.",
+      "original_point_number": [
+        11,
+        27,
+        156,
+        158,
+        173
+      ]
+    },
+    {
+      "point_number": 12,
+      "point_content": "Experts predict the chip shortage could last for multiple years due to high demand and production challenges.",
+      "original_point_number": [
+        12,
+        28,
+        166,
+        174
+      ]
+    },
+    {
+      "point_number": 13,
+      "point_content": "The chip shortage is caused by the COVID-19 pandemic which led to lockdowns and slowed chip production, increased demand due to more home office working conditions, and fluctuating demand from industries.",
+      "original_point_number": [
+        13,
+        31,
+        49,
+        106,
+        113,
+        131,
+        195,
+        208
+      ]
+    },
+    {
+      "point_number": 14,
+      "point_content": "The trade war between the United States and China affected chip supply by restricting Semiconductor Manufacturing International Corporation (SMIC), pushing reliance on already full capacity manufacturers TSMC and Samsung.",
+      "original_point_number": [
+        15,
+        67,
+        91,
+        109
+      ]
+    },
+    {
+      "point_number": 15,
+      "point_content": "The shortage has led to increased sales of used cars because new vehicles with many chips are in short supply.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 16,
+      "point_content": "The chip shortage has been worsened by poor planning and automotive supply chain inefficiencies, including canceled orders and automakers losing their place in the manufacturing queue.",
+      "original_point_number": [
+        36,
+        37,
+        48,
+        76,
+        117,
+        120,
+        128,
+        132,
+        133,
+        145,
+        153,
+        168,
+        171,
+        209,
+        210
+      ]
+    },
+    {
+      "point_number": 17,
+      "point_content": "The pandemic caused fluctuating demand, stockpiling, and factory closures, which worsened the chip shortage.",
+      "original_point_number": [
+        8,
+        24,
+        80,
+        189,
+        190
+      ]
+    },
+    {
+      "point_number": 18,
+      "point_content": "Natural disasters and incidents such as a winter storm in Texas, a fire in Japan's Renesas plant, drought in Taiwan, and power outages have contributed to the chip shortage.",
+      "original_point_number": [
+        9,
+        14,
+        25,
+        41,
+        66,
+        84,
+        90,
+        147,
+        191,
+        192,
+        196
+      ]
+    },
+    {
+      "point_number": 19,
+      "point_content": "The chip shortage is exacerbated by supply chain disruptions including shipping bottlenecks, increased shipping costs, and worker shortages.",
+      "original_point_number": [
+        10,
+        26,
+        47,
+        99,
+        193,
+        194,
+        178,
+        182,
+        183
+      ]
+    },
+    {
+      "point_number": 20,
+      "point_content": "Increasing chip production capacity is difficult, expensive, and time-consuming, requiring billions of dollars and years to build new fabs and extend production lines.",
+      "original_point_number": [
+        11,
+        27,
+        29,
+        124,
+        156,
+        158,
+        159,
+        161,
+        162,
+        173
+      ]
+    },
+    {
+      "point_number": 21,
+      "point_content": "The chip shortage is expected to last for multiple years due to the time required to increase production capacity and ongoing high demand.",
+      "original_point_number": [
+        12,
+        28,
+        166,
+        174
+      ]
+    },
+    {
+      "point_number": 22,
+      "point_content": "The COVID-19 pandemic caused a surge in demand for electronics such as laptops, smartphones, and gaming consoles due to remote work and education, while also causing production shutdowns and slowdowns.",
+      "original_point_number": [
+        13,
+        31,
+        38,
+        40,
+        45,
+        49,
+        55,
+        63,
+        70,
+        81,
+        82,
+        92,
+        93,
+        97,
+        100,
+        113,
+        114,
+        131,
+        170,
+        184,
+        188,
+        189,
+        190,
+        195,
+        208,
+        213
+      ]
+    },
+    {
+      "point_number": 23,
+      "point_content": "The semiconductor industry is highly consolidated, with a few companies like TSMC, Samsung, and Intel dominating advanced chip production, creating bottlenecks and limiting supply.",
+      "original_point_number": [
+        57,
+        61,
+        70,
+        78,
+        115,
+        139,
+        140,
+        155,
+        165
+      ]
+    },
+    {
+      "point_number": 24,
+      "point_content": "Older chip technologies and factories face shortages due to lack of manufacturing equipment and focus on advanced fabs, causing supply problems for legacy chips used in automotive and industrial sectors.",
+      "original_point_number": [
+        74,
+        141,
+        142,
+        164
+      ]
+    },
+    {
+      "point_number": 25,
+      "point_content": "The chip shortage is caused by a combination of high demand, supply disruptions, and industry challenges including production complexity, long manufacturing times, and expensive facilities.",
+      "original_point_number": [
+        53,
+        118,
+        137,
+        138,
+        159,
+        160,
+        163,
+        179,
+        205,
+        206,
+        218
+      ]
+    },
+    {
+      "point_number": 26,
+      "point_content": "Demand for chips has increased across many industries and products, including automotive, 5G devices, cloud computing, and consumer electronics, with each product using more chips than before.",
+      "original_point_number": [
+        6,
+        38,
+        39,
+        40,
+        79,
+        101,
+        121,
+        180
+      ]
+    },
+    {
+      "point_number": 27,
+      "point_content": "The automotive industry was particularly affected due to underestimating demand, canceling orders early in the pandemic, and being deprioritized when demand rebounded, leading to production halts and sales losses.",
+      "original_point_number": [
+        2,
+        4,
+        19,
+        36,
+        37,
+        42,
+        43,
+        48,
+        76,
+        117,
+        120,
+        128,
+        132,
+        133,
+        136,
+        145,
+        149,
+        153,
+        168,
+        171,
+        209,
+        210
+      ]
+    },
+    {
+      "point_number": 28,
+      "point_content": "Supply chain issues such as stockpiling by companies, trade sanctions, and geopolitical tensions have contributed to the chip shortage by increasing demand and limiting supply.",
+      "original_point_number": [
+        8,
+        15,
+        67,
+        80,
+        94,
+        146,
+        154,
+        167,
+        181,
+        207
+      ]
+    },
+    {
+      "point_number": 29,
+      "point_content": "Disruptions such as factory fires, natural disasters, droughts, and power outages in major chip-producing regions have significantly impacted chip production capacity.",
+      "original_point_number": [
+        9,
+        14,
+        25,
+        41,
+        66,
+        84,
+        90,
+        147,
+        191,
+        192,
+        196,
+        208
+      ]
+    },
+    {
+      "point_number": 30,
+      "point_content": "The chip manufacturing process is complex, requiring extremely clean environments, expensive equipment, and long production times, making it difficult to quickly increase supply.",
+      "original_point_number": [
+        137,
+        159,
+        160,
+        161,
+        162,
+        204
+      ]
+    },
+    {
+      "point_number": 31,
+      "point_content": "The chip shortage has caused increased prices and longer lead times for chips, affecting product availability and costs across industries.",
+      "original_point_number": [
+        44,
+        69,
+        111
+      ]
+    },
+    {
+      "point_number": 32,
+      "point_content": "The chip shortage is a global issue affecting many products including cars, appliances, smartphones, and industrial equipment, making it difficult to find new technology and products.",
+      "original_point_number": [
+        3,
+        58,
+        104,
+        201
+      ]
+    },
+    {
+      "point_number": 33,
+      "point_content": "The pandemic accelerated an already precarious situation for chip makers, with supply unable to keep up with a tech boom and increased demand for digital devices.",
+      "original_point_number": [
+        30,
+        72,
+        188,
+        197
+      ]
+    },
+    {
+      "point_number": 34,
+      "point_content": "The shortage is worsened by the bullwhip effect, where small changes in demand cause larger variability upstream in the supply chain, complicating production planning.",
+      "original_point_number": [
+        200,
+        123
+      ]
+    },
+    {
+      "point_number": 35,
+      "point_content": "The shortage is compounded by a shortage of qualified staff, especially engineers needed for chip design and manufacturing problem-solving.",
+      "original_point_number": [
+        148
+      ]
+    },
+    {
+      "point_number": 36,
+      "point_content": "The raw material silicon is essential for chip production, and its shortage and price increase have directly impacted chip manufacturing and supply.",
+      "original_point_number": [
+        86,
+        87,
+        199
+      ]
+    },
+    {
+      "point_number": 37,
+      "point_content": "Cryptocurrency mining has increased demand for GPUs, causing hoarding and price increases, further impacting chip availability for consumers.",
+      "original_point_number": [
+        102,
+        110,
+        111
+      ]
+    },
+    {
+      "point_number": 38,
+      "point_content": "The chip shortage is caused by a perfect storm of factors including high demand, supply chain disruptions, natural disasters, geopolitical tensions, and industry challenges.",
+      "original_point_number": [
+        152,
+        118,
+        181,
+        154,
+        167,
+        178,
+        179
+      ]
+    },
+    {
+      "point_number": 39,
+      "point_content": "Building new chip fabs is very expensive and time-consuming, costing billions and taking years, limiting the ability to quickly increase production capacity.",
+      "original_point_number": [
+        124,
+        140,
+        158,
+        173
+      ]
+    },
+    {
+      "point_number": 40,
+      "point_content": "The chip shortage has led to increased sales of used cars due to new car shortages caused by chip supply issues.",
+      "original_point_number": [
+        19
+      ]
+    },
+    {
+      "point_number": 41,
+      "point_content": "The chip shortage has caused production halts and layoffs in the automotive industry due to lack of sufficient chips, especially low-cost ones.",
+      "original_point_number": [
+        136,
+        149
+      ]
+    },
+    {
+      "point_number": 42,
+      "point_content": "The chip shortage is expected to continue until at least 2022 or 2023 due to ongoing supply chain issues and production capacity constraints.",
+      "original_point_number": [
+        151,
+        166,
+        174
+      ]
+    },
+    {
+      "point_number": 43,
+      "point_content": "The chip shortage is a result of both short-term disruptions from the COVID-19 pandemic and long-term structural issues in the semiconductor industry.",
+      "original_point_number": [
+        118,
+        167,
+        168,
+        169,
+        171,
+        176
+      ]
+    },
+    {
+      "point_number": 44,
+      "point_content": "The chip shortage has been worsened by poor supply chain management, including automakers canceling orders and underestimating demand.",
+      "original_point_number": [
+        36,
+        37,
+        48,
+        76,
+        117,
+        120,
+        128,
+        132,
+        133,
+        145,
+        153,
+        168,
+        171,
+        209,
+        210
+      ]
+    },
+    {
+      "point_number": 45,
+      "point_content": "The chip shortage has caused delays in product availability and increased prices across many industries due to supply-demand imbalance.",
+      "original_point_number": [
+        44,
+        69,
+        111,
+        201
+      ]
+    },
+    {
+      "point_number": 46,
+      "point_content": "The chip shortage is a global issue caused by a surge in demand for electronics during the pandemic, factory disruptions, trade tensions, and natural disasters.",
+      "original_point_number": [
+        13,
+        15,
+        29,
+        38,
+        46,
+        53,
+        58,
+        67,
+        81,
+        84,
+        90,
+        91,
+        99,
+        106,
+        113,
+        115,
+        147,
+        181,
+        196,
+        208
+      ]
+    },
+    {
+      "point_number": 47,
+      "point_content": "The chip shortage has been worsened by the concentration of chip manufacturing in a few companies and regions, creating bottlenecks and vulnerabilities.",
+      "original_point_number": [
+        57,
+        61,
+        70,
+        78,
+        115,
+        139,
+        140,
+        155,
+        165
+      ]
+    },
+    {
+      "point_number": 48,
+      "point_content": "The chip shortage has caused significant economic impact, including production halts, layoffs, increased prices, and difficulty obtaining products.",
+      "original_point_number": [
+        35,
+        136,
+        201,
+        211
+      ]
+    },
+    {
+      "point_number": 49,
+      "point_content": "The chip shortage is expected to persist due to the complexity of chip manufacturing, long lead times, and high costs of expanding capacity.",
+      "original_point_number": [
+        11,
+        27,
+        29,
+        124,
+        156,
+        158,
+        159,
+        161,
+        162,
+        173,
+        203
+      ]
+    },
+    {
+      "point_number": 50,
+      "point_content": "The chip shortage has been worsened by increased demand from new technologies such as 5G, cloud computing, and autonomous driving features.",
+      "original_point_number": [
+        6,
+        39,
+        79,
+        101,
+        121,
+        180
+      ]
+    },
+    {
+      "point_number": 51,
+      "point_content": "The chip shortage has been worsened by the pandemic causing shifts in consumer behavior, including increased purchases of home entertainment and computing devices.",
+      "original_point_number": [
+        38,
+        40,
+        55,
+        81,
+        82,
+        85,
+        92,
+        93,
+        97,
+        100,
+        114,
+        170,
+        184,
+        188,
+        189,
+        190,
+        195,
+        208
+      ]
+    },
+    {
+      "point_number": 52,
+      "point_content": "The chip shortage has been worsened by supply chain disruptions including shipping bottlenecks, increased shipping costs, worker shortages, and factory shutdowns.",
+      "original_point_number": [
+        10,
+        26,
+        47,
+        99,
+        178,
+        182,
+        183,
+        193,
+        194
+      ]
+    },
+    {
+      "point_number": 53,
+      "point_content": "The chip shortage has been worsened by natural disasters and incidents such as fires, droughts, winter storms, and power outages in major chip-producing regions.",
+      "original_point_number": [
+        9,
+        14,
+        25,
+        41,
+        66,
+        84,
+        90,
+        147,
+        191,
+        192,
+        196,
+        208
+      ]
+    },
+    {
+      "point_number": 54,
+      "point_content": "The chip shortage has been worsened by geopolitical tensions and trade wars, including US sanctions on Huawei and China, causing stockpiling and supply restrictions.",
+      "original_point_number": [
+        15,
+        67,
+        91,
+        109,
+        154,
+        167,
+        181,
+        207
+      ]
+    },
+    {
+      "point_number": 55,
+      "point_content": "The chip shortage has been worsened by the complexity and cost of chip manufacturing, requiring expensive fabs, long production times, and clean environments.",
+      "original_point_number": [
+        137,
+        138,
+        159,
+        160,
+        161,
+        162,
+        204
+      ]
+    },
+    {
+      "point_number": 56,
+      "point_content": "The chip shortage has been worsened by the concentration of chip manufacturing in a few companies and regions, creating bottlenecks and limiting supply.",
+      "original_point_number": [
+        57,
+        61,
+        70,
+        78,
+        115,
+        139,
+        140,
+        155,
+        165
+      ]
+    },
+    {
+      "point_number": 57,
+      "point_content": "The chip shortage has been worsened by the automotive industry's underestimation of demand, canceled orders, and deprioritization in chip supply, causing production halts and sales losses.",
+      "original_point_number": [
+        2,
+        4,
+        19,
+        36,
+        37,
+        42,
+        43,
+        48,
+        76,
+        117,
+        120,
+        128,
+        132,
+        133,
+        136,
+        145,
+        149,
+        153,
+        168,
+        171,
+        209,
+        210
+      ]
+    }
+  ]
+}
