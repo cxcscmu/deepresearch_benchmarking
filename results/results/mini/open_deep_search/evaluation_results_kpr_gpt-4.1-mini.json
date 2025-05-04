@@ -1,0 +1,2128 @@
+{
+  "879779": {
+    "labels": {
+      "1": [
+        "Supported",
+        "The report states that COVID-19 vaccines, including the mRNA vaccines Pfizer and Moderna, are generally safe and effective, with benefits outweighing the rare risks such as myocarditis. It affirms that these vaccines prevent severe illness and death from COVID-19, supporting the key point."
+      ],
+      "2": [
+        "Supported",
+        "The report states that COVID-19 vaccines are generally safe, with the most common side effects being mild and temporary, and that serious side effects like myocarditis are rare. This supports the key point that the risk of serious side effects is very small."
+      ],
+      "3": [
+        "Omitted",
+        "The report discusses the safety of COVID-19 vaccines, including myocarditis risk with Pfizer and Moderna vaccines, but does not mention the preference of Pfizer and Moderna vaccines over Johnson & Johnson due to the risk of thrombosis with thrombocytopenia syndrome (TTS) associated with the J&J vaccine."
+      ],
+      "4": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines but does not mention whether the vaccines contain live virus or their ability to cause COVID-19 infection."
+      ],
+      "5": [
+        "Supported",
+        "The report states that the Pfizer and Moderna vaccines can have side effects, including rare myocarditis cases, but most side effects are mild, temporary, and not serious, which aligns with the key point that the vast majority of side effects are very short term and not dangerous."
+      ],
+      "6": [
+        "Omitted",
+        "The report mentions the risk of myocarditis associated with mRNA vaccines and that it is rare, but it does not specify that most myocarditis events happened in teens and young adults, nor does it state that the majority of cases were mild and resolved on their own."
+      ],
+      "7": [
+        "Omitted",
+        "The report discusses the general safety of COVID-19 vaccines and mentions rare side effects like myocarditis, but it does not specifically address the safety of the vaccine for people with allergies to certain foods, insects, latex, or other common allergens, nor does it mention severe allergic reactions being rare but treatable."
+      ],
+      "8": [
+        "Supported",
+        "The report explicitly mentions rare but serious side effects of COVID-19 vaccines including myocarditis and Guillain-Barré syndrome, which aligns with the key point about rare serious side effects such as blood clots, GBS, myocarditis, pericarditis, and TTS."
+      ],
+      "9": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines, including rare myocarditis cases, but does not mention that the vaccines have been authorized under emergency use or that long-term effects are currently unknown."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines, including rare myocarditis cases, but does not mention that the vaccines do not change people's genetic code or discuss unique and unknown risks such as inflammatory responses and potential autoimmune conditions."
+      ],
+      "11": [
+        "Supported",
+        "The report acknowledges rare serious adverse effects such as myocarditis following COVID-19 vaccination and emphasizes that while there are risks, the vaccines are generally safe and effective. It also references authoritative sources and notes that claims of other serious effects like infertility are not supported. This aligns with the key point that reports of serious adverse effects and deaths exist but are disputed and not supported by consensus scientific evidence."
+      ]
+    },
+    "support_rate": 45.45454545454545,
+    "ommitted_rate": 54.54545454545454,
+    "contradicted_rate": 0.0
+  },
+  "923549": {
+    "labels": {
+      "1": [
+        "Supported",
+        "The report clearly states that there is a global chip shortage caused by disruptions in production and supply chain issues, along with increased demand, which aligns with the key point that there aren't enough computer chips to meet industry demand, causing shortages in many products."
+      ],
+      "2": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts on supply chains and demand, but does not specifically mention production slowdowns or halts in car manufacturing or effects on smartphone sales."
+      ],
+      "3": [
+        "Omitted",
+        "The report discusses the global chip shortage and its impact on various industries but does not mention dog-grooming machines or any unexpected products affected by the shortage."
+      ],
+      "4": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts on various industries, but does not specifically mention delays in new car availability or the impact on individuals reliant on cars."
+      ],
+      "5": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, but does not mention any specific wait times of 12 months or more for semiconductor components causing assembly delays."
+      ],
+      "6": [
+        "Omitted",
+        "The report discusses the chip shortage causes including COVID-19 pandemic impact, supply chain disruptions, increased demand, and geopolitical tensions, but it does not specifically mention the role of 5G demand or trade restrictions on Huawei as factors contributing to the chip shortage."
+      ],
+      "7": [
+        "Supported",
+        "The report explicitly mentions a shortage of 200mm manufacturing equipment as a critical bottleneck in chip production, which aligns with the key point about the shortage of 200mm wafer manufacturing equipment needed for lower cost chips in many consumer products."
+      ],
+      "8": [
+        "Supported",
+        "The report explicitly mentions that the COVID-19 pandemic caused disruptions in chip production and supply, including lockdowns and restrictions leading to slowdowns, and an unexpected surge in demand for electronic devices, which aligns with stockpiling and fluctuating demand. It also mentions production slowdowns, which can be interpreted as factory closures or reduced operations, thus supporting the key point."
+      ],
+      "9": [
+        "Omitted",
+        "The report discusses the global chip shortage and its causes, including the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but it does not mention recent events like a winter storm in Texas or a fire at a plant in Japan disrupting chip production."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses supply chain disruptions and increased demand during the pandemic but does not specifically mention shipping costs or logistical issues increasing dramatically."
+      ],
+      "11": [
+        "Omitted",
+        "The report discusses the causes and impacts of the chip shortage, including supply chain disruptions and increased demand, but does not mention that increasing chip production capacity takes a long time and is very expensive, nor that the shortage will not be resolved quickly."
+      ],
+      "12": [
+        "Omitted",
+        "The report discusses the causes and impacts of the chip shortage, including high demand and production challenges, but does not explicitly mention expert predictions about the shortage lasting for multiple years."
+      ],
+      "13": [
+        "Supported",
+        "The report explicitly states that the chip shortage was primarily triggered by the COVID-19 pandemic, which caused production slowdowns due to lockdowns and restrictions, increased demand due to remote work, and fluctuating demand from various industries, aligning well with the key point."
+      ],
+      "14": [
+        "Omitted",
+        "The report mentions geopolitical tensions and trade wars as factors in the chip shortage but does not specifically mention the trade war between the United States and China affecting SMIC or pushing reliance on TSMC and Samsung."
+      ],
+      "15": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, but does not mention the effect of the shortage on used car sales or the shortage of new vehicles with many chips."
+      ],
+      "16": [
+        "Omitted",
+        "The report discusses the chip shortage causes such as the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but it does not mention poor planning, automotive supply chain inefficiencies, canceled orders, or automakers losing their place in the manufacturing queue."
+      ],
+      "17": [
+        "Supported",
+        "The report explicitly mentions that the COVID-19 pandemic caused disruptions in production and supply of semiconductor chips, including production slowdowns and increased demand due to remote work, which aligns with fluctuating demand and factory closures worsening the chip shortage."
+      ],
+      "18": [
+        "Omitted",
+        "The report discusses causes of the chip shortage such as the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but does not mention natural disasters or incidents like the winter storm in Texas, fire in Japan's Renesas plant, drought in Taiwan, or power outages."
+      ],
+      "19": [
+        "Supported",
+        "The report explicitly mentions that the chip shortage has been exacerbated by supply chain disruptions, including a lack of manufacturing equipment and materials, which implies bottlenecks. It also references increased demand and geopolitical tensions affecting supply chains, which aligns with the key point about shipping bottlenecks, increased shipping costs, and worker shortages contributing to the chip shortage."
+      ],
+      "20": [
+        "Omitted",
+        "The report discusses the causes and impacts of the global chip shortage, including supply chain disruptions and increased demand, but does not mention the difficulty, expense, or time required to increase chip production capacity or build new fabs."
+      ],
+      "21": [
+        "Omitted",
+        "The report discusses the causes and impacts of the chip shortage, including supply chain disruptions and increased demand, but does not explicitly mention the expected duration of the shortage or the time required to increase production capacity."
+      ],
+      "22": [
+        "Supported",
+        "The report explicitly states that the COVID-19 pandemic caused production slowdowns and an unexpected surge in demand for electronic devices due to increased remote work and online activities, which aligns with the key point."
+      ],
+      "23": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and supply chain disruptions but does not mention the consolidation of the semiconductor industry or the dominance of companies like TSMC, Samsung, and Intel in advanced chip production."
+      ],
+      "24": [
+        "Supported",
+        "The report mentions a shortage of manufacturing equipment, specifically 200mm manufacturing equipment, which is a bottleneck. This supports the key point that older chip technologies and factories face shortages due to lack of manufacturing equipment. The report also notes supply chain disruptions and increased demand, which aligns with the key point's mention of supply problems for legacy chips used in automotive and industrial sectors."
+      ],
+      "25": [
+        "Supported",
+        "The report explains that the chip shortage is due to a combination of high demand (increased demand for electronic devices), supply disruptions (COVID-19 pandemic impact, supply chain issues), and industry challenges (lack of manufacturing equipment, production slowdowns). This aligns with the key point's mention of high demand, supply disruptions, and industry challenges including production complexity and long manufacturing times."
+      ],
+      "26": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and supply chain issues, but does not specifically mention the increased demand for chips across many industries and products such as automotive, 5G devices, cloud computing, and consumer electronics, nor does it mention that each product uses more chips than before."
+      ],
+      "27": [
+        "Omitted",
+        "The report discusses the global chip shortage and its causes, including the COVID-19 pandemic, supply chain disruptions, and increased demand, but it does not specifically mention the automotive industry being particularly affected due to underestimating demand, canceling orders early in the pandemic, or being deprioritized when demand rebounded, leading to production halts and sales losses."
+      ],
+      "28": [
+        "Supported",
+        "The report explicitly mentions supply chain issues, geopolitical tensions, and increased demand as contributing factors to the chip shortage, which aligns with the key point about stockpiling, trade sanctions, and geopolitical tensions increasing demand and limiting supply."
+      ],
+      "29": [
+        "Omitted",
+        "The report discusses the global chip shortage and mentions disruptions caused by the COVID-19 pandemic, supply chain issues, increased demand, and geopolitical tensions, but it does not specifically mention disruptions such as factory fires, natural disasters, droughts, or power outages in major chip-producing regions impacting chip production capacity."
+      ],
+      "30": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes such as the COVID-19 pandemic, supply chain disruptions, and geopolitical factors, but does not mention the complexity of the chip manufacturing process, the need for extremely clean environments, expensive equipment, or long production times that make it difficult to quickly increase supply."
+      ],
+      "31": [
+        "Omitted",
+        "The report discusses the causes and impacts of the chip shortage, including supply chain disruptions and increased demand, but does not explicitly mention increased prices, longer lead times, or the effect on product availability and costs across industries."
+      ],
+      "32": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, but does not specifically mention the range of products affected such as cars, appliances, smartphones, and industrial equipment, nor does it mention the difficulty in finding new technology and products."
+      ],
+      "33": [
+        "Supported",
+        "The report states that the COVID-19 pandemic led to disruptions in chip production and an unexpected surge in demand for electronic devices, which aligns with the key point that the pandemic accelerated an already precarious situation for chip makers with supply unable to keep up with increased demand."
+      ],
+      "34": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, including supply chain disruptions and increased demand, but it does not mention the bullwhip effect or how small changes in demand cause larger variability upstream in the supply chain complicating production planning."
+      ],
+      "35": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, but does not mention a shortage of qualified staff or engineers needed for chip design and manufacturing problem-solving."
+      ],
+      "36": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, including supply chain disruptions and increased demand, but it does not specifically mention the raw material silicon, its essential role in chip production, or its shortage and price increase affecting chip manufacturing and supply."
+      ],
+      "37": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, but does not mention cryptocurrency mining, GPU demand, hoarding, or price increases related to cryptocurrency mining."
+      ],
+      "38": [
+        "Supported",
+        "The report explicitly describes the chip shortage as a 'perfect storm' caused by multiple factors including high demand, supply chain disruptions, natural disasters (implied by production slowdowns), geopolitical tensions, and industry challenges, directly aligning with the key point."
+      ],
+      "39": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts, but does not mention the cost, time, or difficulty of building new chip fabs or how that limits production capacity."
+      ],
+      "40": [
+        "Omitted",
+        "The report discusses the causes and impacts of the chip shortage but does not mention the effect of increased sales of used cars due to new car shortages caused by chip supply issues."
+      ],
+      "41": [
+        "Omitted",
+        "The report discusses the global chip shortage, its causes, and impacts broadly, but does not specifically mention production halts or layoffs in the automotive industry due to lack of sufficient chips, especially low-cost ones."
+      ],
+      "42": [
+        "Supported",
+        "The report discusses ongoing supply chain disruptions and production capacity issues caused by the COVID-19 pandemic and other factors, implying the chip shortage will continue through 2022 and 2023."
+      ],
+      "43": [
+        "Supported",
+        "The report explicitly states that the chip shortage was triggered by the COVID-19 pandemic causing short-term disruptions and also mentions long-term structural issues such as supply chain disruptions, manufacturing equipment shortages, and geopolitical tensions, which are long-term structural issues in the semiconductor industry."
+      ],
+      "44": [
+        "Omitted",
+        "The report discusses the chip shortage causes such as the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but it does not mention poor supply chain management, automakers canceling orders, or underestimating demand as factors worsening the chip shortage."
+      ],
+      "45": [
+        "Supported",
+        "The report explains that the chip shortage has been caused by a supply-demand imbalance due to increased demand for electronic devices and disruptions in supply chains, leading to significant impacts on various industries. This aligns with the key point that the chip shortage has caused delays in product availability and increased prices across many industries due to supply-demand imbalance."
+      ],
+      "46": [
+        "Supported",
+        "The report explicitly states that the chip shortage is a global issue caused by a surge in demand for electronics during the COVID-19 pandemic, factory disruptions, geopolitical tensions (trade wars), and other supply chain issues, which aligns with the key point."
+      ],
+      "47": [
+        "Omitted",
+        "The report discusses causes of the chip shortage such as the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but it does not mention the concentration of chip manufacturing in a few companies and regions as a cause or factor."
+      ],
+      "48": [
+        "Supported",
+        "The report details significant economic impacts of the chip shortage, including production slowdowns and supply chain disruptions, which imply production halts and difficulty obtaining products. It also mentions increased demand and supply issues, which can lead to increased prices. While layoffs are not explicitly mentioned, the overall economic impact is clearly supported."
+      ],
+      "49": [
+        "Omitted",
+        "The report discusses the causes and impacts of the chip shortage, including COVID-19 disruptions, supply chain issues, increased demand, and geopolitical factors, but it does not mention the complexity of chip manufacturing, long lead times, or high costs of expanding capacity as reasons for the shortage's persistence."
+      ],
+      "50": [
+        "Omitted",
+        "The report discusses the chip shortage causes such as the COVID-19 pandemic, supply chain disruptions, and geopolitical factors, but does not mention increased demand from new technologies like 5G, cloud computing, or autonomous driving features."
+      ],
+      "51": [
+        "Supported",
+        "The report states that the COVID-19 pandemic caused disruptions in chip production and an unexpected surge in demand for electronic devices due to increased remote work and online activities, which aligns with the key point about shifts in consumer behavior including increased purchases of home entertainment and computing devices."
+      ],
+      "52": [
+        "Supported",
+        "The report explicitly mentions that the chip shortage has been exacerbated by supply chain disruptions, including lack of manufacturing equipment and materials, which aligns with shipping bottlenecks and factory shutdowns. It also references increased demand and geopolitical tensions, which relate to worker shortages and increased shipping costs, supporting the key point."
+      ],
+      "53": [
+        "Omitted",
+        "The report discusses the causes of the chip shortage including the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but it does not mention natural disasters or incidents such as fires, droughts, winter storms, or power outages in major chip-producing regions as factors worsening the chip shortage."
+      ],
+      "54": [
+        "Supported",
+        "The report explicitly mentions that geopolitical tensions, including trade wars and regional conflicts, have played a role in disrupting the global supply chain, which aligns with the key point about US sanctions on Huawei and China causing stockpiling and supply restrictions."
+      ],
+      "55": [
+        "Omitted",
+        "The report discusses the causes and impacts of the chip shortage, including COVID-19 disruptions, supply chain issues, increased demand, and geopolitical factors, but does not mention the complexity and cost of chip manufacturing, expensive fabs, long production times, or clean environments as factors worsening the shortage."
+      ],
+      "56": [
+        "Omitted",
+        "The report discusses causes of the chip shortage such as the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but does not mention the concentration of chip manufacturing in a few companies and regions as a cause."
+      ],
+      "57": [
+        "Omitted",
+        "The report discusses the global chip shortage causes such as the COVID-19 pandemic, supply chain disruptions, increased demand, and geopolitical factors, but it does not mention the automotive industry's underestimation of demand, canceled orders, or deprioritization in chip supply leading to production halts and sales losses."
+      ]
+    },
+    "support_rate": 35.08771929824561,
+    "ommitted_rate": 64.91228070175438,
+    "contradicted_rate": 0.0
+  },
+  "921842": {
+    "labels": {
+      "1": [
+        "Supported",
+        "The report states that Pfizer and Moderna vaccines are safe and effective at preventing serious illness, citing CDC and Johns Hopkins Medicine, which supports the key point that these mRNA vaccines are very safe and very good at preventing serious or fatal COVID-19 cases."
+      ],
+      "2": [
+        "Supported",
+        "The report states that serious side effects are rare and that the benefits of vaccination outweigh the risks, which supports the key point that the risk of serious side effects associated with these vaccines is very small."
+      ],
+      "3": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention the full FDA approval status of the Pfizer and Moderna vaccines or the implication that more data show how well those vaccines work."
+      ],
+      "4": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines in general, including mentions of Pfizer and Moderna vaccines causing myocarditis, but it does not mention the CDC's preference for Pfizer and Moderna over Johnson & Johnson due to the risk of rare but severe blood clots associated with the J&J vaccine."
+      ],
+      "5": [
+        "Omitted",
+        "The report mentions that Pfizer and Moderna vaccines can cause myocarditis but does not specify that most myocarditis events happened in teens and young adults, nor does it state that the majority of cases were mild and resolved on their own."
+      ],
+      "6": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention the CDC and FDA monitoring safety issues or updating recommendations accordingly."
+      ],
+      "7": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not explicitly state that you cannot and will not get COVID-19 from the vaccines or that the vaccines do not contain any virus or infectious material."
+      ],
+      "8": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are effective in preventing severe illness and death, meet rigorous testing criteria, and are safe and effective, which contradicts the key point that the vaccine does not meet criteria of a vaccine, does not keep you from getting sick, and does not change the death rate."
+      ],
+      "9": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines can cause side effects that are generally mild and temporary, with serious adverse events being rare. It specifically mentions that vaccines do not cause severe conditions like Guillain-Barré syndrome and emphasizes the safety and efficacy of vaccines. There is no mention of permanent or irreversible changes to the immune system or massive auto-immune disease caused by the vaccine, which contradicts the key point."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention or describe the vaccine as a genetic modification technology or a killing tool."
+      ],
+      "11": [
+        "Omitted",
+        "The report discusses general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not mention antibodies binding to lung tissue or causing anaphylactic shock."
+      ],
+      "12": [
+        "Omitted",
+        "The report discusses the safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not mention the absence of long-term studies or the possibility that the vaccine may cause susceptibility to auto-immune disease, shock, allergies, or death for the rest of one's life."
+      ],
+      "13": [
+        "Omitted",
+        "The report discusses general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not mention polyethylene glycol or its potential to cause anaphylactic shock and death."
+      ],
+      "14": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention antibody dependent enhancement or the possibility of worse infection upon re-exposure to coronavirus."
+      ],
+      "15": [
+        "Omitted",
+        "The report does not mention animal studies or any issues related to animals getting sick or dying on re-exposure to coronavirus antibodies."
+      ],
+      "16": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines but does not mention antibodies crossing the blood-brain barrier or causing malfunction of proteins in the brain leading to ALS or dementia."
+      ],
+      "17": [
+        "Omitted",
+        "The report discusses general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not mention or address the specific claim that the vaccine causes a cytokine storm with no off switch due to inactivation of protective macrophages."
+      ],
+      "18": [
+        "Contradicted",
+        "The report states that serious adverse events from COVID-19 vaccines are rare and does not mention vaccine antibodies attacking 28 organs or causing up to 100 different symptoms including cancer. It emphasizes that vaccines are generally safe and effective, which contradicts the claim of widespread organ attack and numerous symptoms including cancer."
+      ],
+      "19": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines, including serious adverse events, but does not mention specific numbers of reported deaths or adverse events in VAERS, nor does it mention underreporting by a factor of 10."
+      ],
+      "20": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines, citing reputable sources that indicate vaccines are generally safe and effective. It does not mention Dr. Sucharit Bhakdi or any claims that the COVID vaccine is downright dangerous or warnings about doom from vaccination."
+      ],
+      "21": [
+        "Contradicted",
+        "The report states that serious adverse events from COVID-19 vaccines are rare and that the vaccines are safe and effective, which directly contradicts the claim that COVID vaccines are over 800 times more deadly than the smallpox vaccine and have a high death and permanent disability rate."
+      ],
+      "22": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines, including rare serious adverse events, but does not mention Dr. Paul Offit's belief about no deaths or permanent disabilities from the vaccines, nor does it address VAERS data or any contradictions related to it."
+      ],
+      "23": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are generally safe, with mild and temporary side effects, and that vaccination is a safer way to build immunity compared to contracting the virus itself. This contradicts the key point that the vaccine is claimed to be more dangerous than COVID itself."
+      ],
+      "24": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines, including rare serious adverse events and vaccine efficacy, but does not mention vaccinated people being described as dangerous for others, severe cases in hospitals among vaccinated individuals in Israel and the UK, or claims about shedding spike protein harming others."
+      ],
+      "25": [
+        "Omitted",
+        "The report discusses COVID-19 vaccine safety, side effects, and serious adverse events but does not mention the CDC's VAERS report listing thousands of deaths and injuries or the incompleteness of reporting and possibility of higher actual numbers."
+      ],
+      "26": [
+        "Contradicted",
+        "The report acknowledges reports of side effects and rare serious adverse events but emphasizes that vaccines are generally safe and effective, and that vaccination is the safer way to build immunity. It does not call the claim that vaccination offers the best protection against Covid false; rather, it supports vaccination as effective and safe, contradicting the key point's assertion that the text calls this claim false."
+      ],
+      "27": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention that mRNA vaccines are new and revolutionary, their unknown long-term effects, unique risks such as inflammatory responses and autoimmune conditions, or that they do not change people's genetic code."
+      ],
+      "28": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are generally safe, with side effects being mild and temporary, and serious adverse events are rare. It mentions myocarditis as a rare side effect but does not support the claim that the spike protein is a toxin that accumulates in tissues causing cardiovascular, neurological damage, blood clots, or immune system attacks. Instead, it emphasizes the safety and efficacy of the vaccines, contradicting Dr. Brindle's claim."
+      ],
+      "29": [
+        "Omitted",
+        "The report does not mention Dr. Robert Malone, his warnings about spike protein dangers, or his statement that the vaccine injections are gene therapy rather than traditional vaccines."
+      ],
+      "30": [
+        "Omitted",
+        "The report does not mention Pfizer skipping reproductive toxicology studies nor does it discuss the CDC urging pregnant women to vaccinate despite miscarriage reports."
+      ],
+      "31": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines based on scientific evidence and reputable sources, but it does not mention Dr. Michael Yeadon, nor does it claim that vaccines cause substantial loss of life, are toxic, or part of a conspiracy."
+      ],
+      "32": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines based on reputable sources but does not mention governments or media propagating false information or censoring scientists who speak against vaccines."
+      ],
+      "33": [
+        "Contradicted",
+        "The report states that serious side effects are rare and does not mention blood clotting and bleeding as common adverse events. It also emphasizes that the benefits outweigh the risks and does not support the claim that reports of death following vaccination outnumber those for all vaccines combined since records began."
+      ],
+      "34": [
+        "Omitted",
+        "The report discusses the general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not mention booster shots or the specific claim that repeatedly boosting the immune response increases complement-mediated damage to vessel walls and risk of organ damage."
+      ],
+      "35": [
+        "Omitted",
+        "The report discusses the general safety, side effects, and efficacy of COVID-19 vaccines but does not mention the activation of the complement system by vaccine-induced antibodies, nor the destruction of spike protein-producing cells, endothelial cell involvement, vessel leakage, or clot formation."
+      ],
+      "36": [
+        "Omitted",
+        "The report discusses the general safety, side effects, and efficacy of COVID-19 vaccines but does not mention the spike protein entering the bloodstream or endothelial involvement in spike production."
+      ],
+      "37": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are safe and effective in preventing severe illness, and vaccination is a safer way to build immunity compared to contracting the virus itself, which contradicts the key point that vaccination is unnecessary because populations are protected by their immune systems."
+      ],
+      "38": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention that the vaccination program is the largest human experiment or that the gene-based vaccine technology is inherently experimental."
+      ],
+      "39": [
+        "Omitted",
+        "The report discusses general side effects and mentions some serious adverse events like myocarditis, but it does not mention the specific side effects listed in the key point: migraines, anaphylaxis, seizures, paralysis, and sudden death."
+      ],
+      "40": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines but does not mention long-term effects from gene therapy, nor does it mention prion diseases such as Alzheimer’s, cancers, kidney diseases, or microvascular injuries to the brain, liver, and heart."
+      ],
+      "41": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention the approval process or the use of emergency orders without extensive long-term safety testing."
+      ],
+      "42": [
+        "Contradicted",
+        "The report states that serious adverse events from the vaccine are rare and that the benefits of vaccination outweigh the risks, directly contradicting the key point that the vaccine may cause much more harm than benefit."
+      ],
+      "43": [
+        "Contradicted",
+        "The report states that common side effects of Pfizer and Moderna vaccines include pain, swelling, fever, and fatigue, but does not mention symptoms suggestive of neurological damage. It explicitly notes that these vaccines do not appear to cause severe conditions like Guillain-Barré syndrome, which is neurological. Therefore, the report contradicts the key point that commonly reported side effects include symptoms suggestive of neurological damage."
+      ],
+      "44": [
+        "Omitted",
+        "The report discusses general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not mention or assess the potential for mRNA vaccines to cause microvascular injury to the brain, heart, liver, and kidneys."
+      ],
+      "45": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention the PREP Act or the indemnity of vaccine makers against injuries from the COVID-19 vaccine or other pandemic vaccines."
+      ],
+      "46": [
+        "Supported",
+        "The report mentions that common side effects include pain and swelling at the injection site, fever, and fatigue, which aligns with the key point about pain, body aches, headaches, or fever after vaccination. It also indicates these side effects are generally mild and temporary, supporting the idea that these symptoms are signs the vaccine is working. However, the report does not explicitly mention the advice to call a doctor if symptoms persist beyond two days, but overall it supports the key point."
+      ],
+      "47": [
+        "Omitted",
+        "The report discusses the general safety and side effects of COVID-19 vaccines, including rare serious adverse events, but does not specifically mention the Johnson & Johnson vaccine, potential blood clots, or the CDC's updated recommendations in December 2021."
+      ],
+      "48": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are generally safe, with mild and temporary side effects, and that the benefits outweigh the risks. It does not support the claim that the vaccines are too dangerous for children or that there is insufficient data on long-term effects. Instead, it emphasizes vaccine safety and efficacy, contradicting the key point."
+      ],
+      "49": [
+        "Contradicted",
+        "The report states that serious adverse events like myocarditis are rare and that the benefits of vaccination outweigh the risks, which contradicts the key point's claim that VAERS shows elevated rates of myocarditis and other serious complications suggesting risks may outweigh benefits for certain populations."
+      ],
+      "50": [
+        "Omitted",
+        "The report does not mention the Norwegian Medicines Agency or any findings related to increased risk of death in the elderly or nursing home residents after vaccination."
+      ],
+      "51": [
+        "Contradicted",
+        "The report states that serious adverse events from COVID-19 vaccines are rare and that vaccines are generally safe and effective, which contradicts the key point's claim that the number of deaths caused by vaccines is much worse than previously thought and that many recipients suffer serious adverse reactions often followed by death within a day or two."
+      ],
+      "52": [
+        "Omitted",
+        "The report discusses the general safety, side effects, and efficacy of COVID-19 vaccines but does not mention lymph node cells being invaded by gene-based agents, immune surveillance destruction, latent infections, or increased cancer risk."
+      ],
+      "53": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention viral shedding, the nature of the vaccines as non-live attenuated virus vaccines, or the absence of evidence for spike protein shedding causing illness in the unvaccinated."
+      ],
+      "54": [
+        "Omitted",
+        "The report mentions that Pfizer and Moderna vaccines can cause myocarditis but does not provide any information about officials exploring evidence linking Moderna vaccine to myocarditis at a higher incidence, nor does it mention Canadian data showing a 2.5-times higher incidence in Moderna recipients compared to Pfizer recipients."
+      ],
+      "55": [
+        "Supported",
+        "The report clearly states that serious adverse events from COVID-19 vaccines are rare and that the benefits of vaccination in preventing severe illness and death outweigh the risks of side effects, which aligns with the key point that health officials maintain the benefits outweigh the rare side effects."
+      ],
+      "56": [
+        "Omitted",
+        "The report discusses the safety of COVID-19 vaccines, mentions myocarditis as a rare side effect, and references monitoring by health organizations, but it does not specifically state that in June the FDA said Pfizer and Moderna vaccines had an increased risk for myocarditis in teens and young adults, nor does it explicitly mention the CDC and FDA actively monitoring myocarditis and pericarditis following mRNA vaccination to learn more."
+      ],
+      "57": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are safe and effective, with side effects generally mild and serious adverse events rare. It does not support the claim that vaccines are bioweapons designed to harm or depopulate, but rather emphasizes their safety and benefits."
+      ],
+      "58": [
+        "Omitted",
+        "The report discusses general safety, side effects, and rare serious adverse events of COVID-19 vaccines, including myocarditis, but does not provide specific information about the risk of myocarditis in teenage boys aged 12 to 15, nor the comparison of myocarditis risk to COVID hospitalization risk, or the percentage requiring hospital care after the second Pfizer/BioNTech shot."
+      ],
+      "59": [
+        "Omitted",
+        "The report discusses general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not provide specific rates of cardiac adverse events after the second dose, nor does it compare hospitalization risks between vaccinated healthy boys and those infected with the virus as stated in the key point."
+      ],
+      "60": [
+        "Omitted",
+        "The report discusses the safety, side effects, and efficacy of COVID-19 vaccines but does not mention specific numbers of reported deaths or hospitalizations associated with the vaccines, nor does it reference the Lazarus Report or underreporting of adverse events."
+      ],
+      "61": [
+        "Omitted",
+        "The report discusses the general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not specifically address the long-term health effects of mRNA vaccines on teenage boys or mention that these effects are unknown."
+      ],
+      "62": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines but does not mention or compare the number of reported deaths associated with COVID shots to those from all other vaccines over the last 30 years."
+      ],
+      "63": [
+        "Supported",
+        "The report states that COVID-19 vaccines approved by the FDA meet rigorous testing criteria and are safe and effective, indicating that companies must present solid data from human clinical trials to the FDA. This supports the key point about the need for rigorous testing protocols and solid data to demonstrate safety and effectiveness."
+      ],
+      "64": [
+        "Supported",
+        "The report states that COVID-19 vaccines can cause side effects such as pain and swelling at the injection site, and that serious side effects are rare. It also emphasizes that the benefits of vaccination outweigh the risks, aligning with the key point that no vaccine is 100% safe, side effects can occur, but benefits outweigh risks."
+      ],
+      "65": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are generally safe, with mostly mild and temporary side effects, and serious adverse events are rare. It also emphasizes that vaccines underwent rigorous testing and are effective, which contradicts the key point's claim of hazards, bypassing necessary pre-clinical studies, and ignoring serious safety concerns."
+      ],
+      "66": [
+        "Omitted",
+        "The report discusses general safety, side effects, and serious adverse events related to COVID-19 vaccines but does not mention antibody-dependent enhancement (ADE) or concerns about it making the virus more aggressive or being undetectable in clinical trials."
+      ],
+      "67": [
+        "Omitted",
+        "The report discusses the general safety and rare serious side effects of COVID-19 vaccines, including Moderna, but does not mention Moderna's initial clinical trial showing serious symptoms or the claim that it may cover up real dangers."
+      ],
+      "68": [
+        "Omitted",
+        "The report discusses the general safety, side effects, and rare serious adverse events of COVID-19 vaccines but does not mention the inherent immunostimulatory nature of mRNA vaccine technology, potential safety concerns like inflammation, autoimmunity, blood coagulation, or the role of lipid nanoparticles and PEG coating in causing immune reactions or severe symptoms."
+      ],
+      "69": [
+        "Omitted",
+        "The report discusses the general safety, side effects, and efficacy of COVID-19 vaccines but does not mention adenoviral vector vaccines specifically, nor does it address risks such as recombination with natural viruses, immunopathological reactions, autoimmune reactions, potential tumor induction, or concerns raised by WHO and regulators."
+      ],
+      "70": [
+        "Omitted",
+        "The report focuses on the safety and efficacy of COVID-19 vaccines and does not mention past vaccine issues such as Dengvaxia or HPV vaccine, nor does it discuss the dangers of rushing vaccines or corporate interests overriding safety."
+      ],
+      "71": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines but does not mention vaccines produced with cell cultures, contamination with cancer-promoting material, or the use of aborted fetal cells and related safety or moral concerns."
+      ],
+      "72": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are generally safe, with side effects that are mostly mild and temporary, and serious adverse events are rare. It also emphasizes that vaccines are effective and the benefits outweigh the risks. It does not support the claim that vaccines inherently contain hazardous foreign fragments and are unavoidably unsafe, nor does it suggest that safety assessments are inadequate or biased."
+      ],
+      "73": [
+        "Omitted",
+        "The report discusses the general safety and side effects of COVID-19 vaccines, noting that serious adverse events are rare and benefits outweigh risks, but it does not mention Dr. Charles Hoffe or his claim that the vaccine is more dangerous than COVID-19 due to severe neurological side effects."
+      ],
+      "74": [
+        "Contradicted",
+        "The report states that serious adverse events are rare and mentions myocarditis as a possible side effect but does not support the claim that the vaccine causes blood clots and heart inflammation due to sticky protein prions and genetically modified adenovirus vectors. It emphasizes that vaccines are safe and effective, contradicting the key point's assertion of abnormal platelet numbers and overblown inflammatory responses leading to blood clots and death."
+      ],
+      "75": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are generally safe, with serious adverse events being rare, and explicitly mentions that vaccines do not appear to cause infertility or severe conditions. It does not support the claim that the spike protein enters the bloodstream causing blood clots, heart and brain damage, or that it is a toxin inoculated by vaccination. Instead, it emphasizes vaccine safety and benefits, contradicting the key point's assertions."
+      ],
+      "76": [
+        "Omitted",
+        "The report discusses the safety and side effects of COVID-19 vaccines and their effectiveness in preventing severe illness, but it does not mention that COVID-19 vaccines reduce the chance of getting worse variants of the virus."
+      ],
+      "77": [
+        "Omitted",
+        "The report focuses on the safety and efficacy of COVID-19 vaccines but does not mention the World Health Organization or its stance on vaccine hesitancy as a global health threat."
+      ],
+      "78": [
+        "Supported",
+        "The report affirms that COVID-19 vaccines are safe, with side effects generally mild and serious adverse events rare. It references credible sources debunking severe side effects and misinformation, supporting the key point that many myths are false and the vaccine is safe."
+      ],
+      "79": [
+        "Omitted",
+        "The report focuses on the safety, side effects, and efficacy of COVID-19 vaccines but does not mention vaccine misinformation, its prevalence, or its impact such as contributing to fear, anxiety, and deaths."
+      ],
+      "80": [
+        "Contradicted",
+        "The report states that COVID-19 vaccines are generally safe, with serious adverse events being rare, and that the benefits outweigh the risks. It does not support the claim that vaccines are more dangerous than the virus, nor does it mention the specific death counts or high mortality rates linked to vaccines as stated by Dr. Peter McCullough."
+      ],
+      "81": [
+        "Omitted",
+        "The report focuses on COVID-19 vaccine safety and does not mention Dr Peter McCullough or his credentials as a cardiologist."
+      ],
+      "82": [
+        "Contradicted",
+        "The report states that serious adverse events are rare and does not mention many vaccine recipients suffering serious adverse reactions often followed by death within a day or two. It emphasizes the safety and efficacy of the vaccines, contradicting the claim of frequent serious adverse reactions and deaths."
+      ],
+      "83": [
+        "Contradicted",
+        "The report acknowledges that COVID-19 vaccines can cause myocarditis but states that serious adverse events are rare and emphasizes that the benefits of vaccination outweigh the risks. It does not support the claim that young people should avoid vaccines due to serious heart problems; rather, it suggests vaccination is safe and effective."
+      ]
+    },
+    "support_rate": 8.433734939759036,
+    "ommitted_rate": 65.06024096385542,
+    "contradicted_rate": 26.506024096385545
+  },
+  "1004305": {
+    "labels": {
+      "1": [
+        "Omitted",
+        "The report discusses reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or provide information about the proportion of startups that deliver a positive return to investors."
+      ],
+      "2": [
+        "Supported",
+        "The report acknowledges that team issues, including lack of experience and poor leadership, contribute to startup failure, but also highlights multiple other factors such as market need, financial mismanagement, and competition, indicating that attributing failure solely to founder inadequacies oversimplifies the situation."
+      ],
+      "3": [
+        "Supported",
+        "The report identifies six patterns of failure and focuses on the two most common avoidable reasons for startup failure: lack of market need and financial mismanagement, which aligns with the key point."
+      ],
+      "4": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, including lack of experience and poor leadership, which aligns with the key point about founders lacking industry experience and unsuitable team or investors leading to failure."
+      ],
+      "5": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention 'false starts' or the skipping of customer discovery leading to premature product launches."
+      ],
+      "6": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention entrepreneurs' bias for action and passion leading to premature product launch and skipping critical research."
+      ],
+      "7": [
+        "Omitted",
+        "The report discusses reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss a structured three-step product design process involving problem definition, solution development, and solution validation."
+      ],
+      "8": [
+        "Omitted",
+        "The report discusses various reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the conventional wisdom advice like 'Just do it', 'Be persistent', 'Bring passion', 'Bootstrap', and 'Grow', nor does it address whether following such advice blindly can backfire."
+      ],
+      "9": [
+        "Supported",
+        "The report explicitly states that a major reason for startup failure is the lack of market need for the product, which aligns directly with the key point that companies fail because there is little or no market for their product."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not specifically mention entrepreneurs being too optimistic about customer acquisition or how this optimism leads to business model failure."
+      ],
+      "11": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention the relationship between customer acquisition cost (CAC) and lifetime value (LTV) as a factor for sustainability."
+      ],
+      "12": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, including issues such as lack of experience and poor leadership, which aligns with the key point that a weak management team leads to poor strategy, execution, and team building causing startup failure."
+      ],
+      "13": [
+        "Supported",
+        "The report explicitly states that 29% of startups fail because they run out of cash, highlighting financial mismanagement as a critical factor. This aligns with the key point that startups often fail because they run out of cash before reaching key milestones that increase valuation or enable further financing."
+      ],
+      "14": [
+        "Supported",
+        "The report explicitly states that a lack of market need is one of the most cited reasons for startup failure, which aligns with the key point that failing to develop a product that meets the market need or achieve product/market fit causes startup failure."
+      ],
+      "15": [
+        "Supported",
+        "The report explicitly states that the number one reason for startup failure is a lack of market need, citing that 42% of startups fail for this reason, which directly supports the key point."
+      ],
+      "16": [
+        "Supported",
+        "The report explicitly states that '42% of startups fail because there is no market need for their product,' which aligns with the key point that many startup failures are related to not meeting customers' needs. This supports the key point that customer-related issues are a major reason for startup failures."
+      ],
+      "17": [
+        "Supported",
+        "The report explicitly states that one of the most cited reasons for startup failure is the absence of a genuine market need for the product or service, which aligns with the key point that startups fail when they are not solving a market problem, even if they have great technology and expertise."
+      ],
+      "18": [
+        "Supported",
+        "The report explicitly states that one of the most cited reasons for startup failure is the absence of a genuine market need for the product, which aligns with the key point that product design not meeting customers' needs can cause startup failure."
+      ],
+      "19": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention the importance of listening to customers or getting feedback."
+      ],
+      "20": [
+        "Supported",
+        "The report explicitly mentions that 7 of the top 20 reasons for startup failure are related to team and execution issues, which pertain to the people and culture of the company, supporting the key point."
+      ],
+      "21": [
+        "Supported",
+        "The report explicitly states that 23% of startups fail due to not having the right team, which aligns with the key point that not having the right people on board can cause failure."
+      ],
+      "22": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the lack of alignment among founders and investors as a cause of failure."
+      ],
+      "23": [
+        "Supported",
+        "The report explicitly mentions that '13% of startups fail because they need more focus,' indicating that lack of focus can contribute to startup failure, which supports the key point that lack of focus or passion can doom startups."
+      ],
+      "24": [
+        "Omitted",
+        "The report lists multiple reasons for startup failure, including financial mismanagement and team issues, but does not specify that only two of the top 20 reasons were due to money or that people and customer connection are more critical."
+      ],
+      "25": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention the importance of caring about customers or cultivating a customer-centered culture."
+      ],
+      "26": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not specifically mention founders' interest or lack of interest in the domain as a factor."
+      ],
+      "27": [
+        "Supported",
+        "The report explicitly states that running out of cash is a critical factor leading to startup failure, citing that 29% of startups fail because they run out of cash, which supports the key point that running out of cash or failing to raise new capital is the top reason startups fail."
+      ],
+      "28": [
+        "Contradicted",
+        "The report states that lack of market need is the most common reason for startup failure (42%), not the second most common. Therefore, it contradicts the key point that it is the second most common reason."
+      ],
+      "29": [
+        "Supported",
+        "The report explicitly states that 19% of startups fail because they get outcompeted, directly supporting the key point that startups often fail due to competition in the market."
+      ],
+      "30": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not explicitly mention or discuss the impact of a flawed business model on startup failure."
+      ],
+      "31": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention regulatory or legal challenges as a cause for startups shutting down."
+      ],
+      "32": [
+        "Supported",
+        "The report explicitly mentions financial mismanagement and running out of cash as critical factors leading to startup failure, which are pricing and cost issues that can make a startup unsustainable."
+      ],
+      "33": [
+        "Supported",
+        "The report explicitly states that 23% of startups fail due to not having the right team, which directly supports the key point that having the wrong team or lack of key hires can contribute to failure."
+      ],
+      "34": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the timing of product launches or the impact of mistiming on failure."
+      ],
+      "35": [
+        "Supported",
+        "The report explicitly mentions poor product quality as one of the reasons for startup failure, along with the lack of market need, which aligns with the key point that poor product quality or not meeting user needs can cause failure."
+      ],
+      "36": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, including internal conflicts, which aligns with the key point that disharmony among team members or investors can be fatal."
+      ],
+      "37": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the impact of a pivot gone bad on startup failure."
+      ],
+      "38": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention burnout or lack of passion among founders and team members as a cause of failure."
+      ],
+      "39": [
+        "Supported",
+        "The report explicitly states that one of the most cited reasons for startup failure is the absence of a genuine market need for the product or service, which aligns directly with the key point that startups fail because they create a product that the market does not want."
+      ],
+      "40": [
+        "Supported",
+        "The report explicitly states that '29% of startups fail because they run out of cash,' directly affirming that running out of money before achieving progress is a significant issue for startups."
+      ],
+      "41": [
+        "Supported",
+        "The report explicitly states that 23% of startups fail due to not having the right team, directly supporting the key point that the team can make-or-break a startup."
+      ],
+      "42": [
+        "Supported",
+        "The report explicitly states that 19% of startups fail because they get outcompeted, directly supporting the key point."
+      ],
+      "43": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not specifically mention the inability to balance pricing and cost issues as a reason for failure."
+      ],
+      "44": [
+        "Supported",
+        "The report mentions poor product quality as one of the reasons startups fail, indicating that sometimes startup founders come up short in product quality."
+      ],
+      "45": [
+        "Omitted",
+        "The report lists several reasons for startup failure with percentages, but it does not mention failure due to lack of a business model or the specific figure of 17 percent."
+      ],
+      "46": [
+        "Omitted",
+        "The report lists several reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention poor marketing as a reason for startup failure."
+      ],
+      "47": [
+        "Omitted",
+        "The report lists several reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention ignoring customers or user feedback as a reason for startup failure."
+      ],
+      "48": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention startups launching before their time or too late as a cause of failure."
+      ],
+      "49": [
+        "Supported",
+        "The report explicitly states that 13% of startups fail due to lack of focus, directly affirming the key point."
+      ],
+      "50": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, including issues such as internal conflicts, which aligns with the key point that disharmony on the team or with investors can lead to startup failure."
+      ],
+      "51": [
+        "Omitted",
+        "The report discusses various reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention pivoting or its potential negative effects on startups."
+      ],
+      "52": [
+        "Omitted",
+        "The report discusses several common reasons for startup failure, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not explicitly mention or enumerate six distinct patterns accounting for the vast majority of startup failures."
+      ],
+      "53": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, which aligns with the key point that the wrong team, investors, or partners can sink a venture."
+      ],
+      "54": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the concept of 'false starts' or the advice to 'fail fast' and 'launch before you’re ready' leading to wasted time and capital."
+      ],
+      "55": [
+        "Omitted",
+        "The report discusses common reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the concept that success with early adopters can be misleading or give founders unwarranted confidence to expand."
+      ],
+      "56": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention hypergrowth or the risks associated with rapid growth ('get big fast')."
+      ],
+      "57": [
+        "Supported",
+        "The report discusses the need for adequate funding and the right team as critical factors for startup success, highlighting that mistakes in these areas can lead to failure, which aligns with the key point about rapidly scaling startups needing capital and talent and the risks of mistakes causing shortages."
+      ],
+      "58": [
+        "Omitted",
+        "The report discusses common reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the concept that 'the bigger the vision, the more things that can go wrong.'"
+      ],
+      "59": [
+        "Supported",
+        "The report explicitly mentions reasons for startup failure including running out of cash (money running out), lack of market need (being in the wrong market), lack of the right team (not being an expert in the industry), and other factors such as poor focus and competitive pressures. These align with the key point's reasons such as money running out, being in the wrong market, lack of research, bad partnerships, ineffective marketing, and not being an expert in the industry."
+      ],
+      "60": [
+        "Supported",
+        "The report explicitly states that 29% of startups fail because they run out of cash, highlighting financial mismanagement and the necessity for effective financial planning and securing adequate funding, which aligns with the key point about money running out due to poorly managed costs or insufficient sales or inability to obtain financing."
+      ],
+      "61": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention the concept of targeting too broad a market versus a narrowly defined niche."
+      ],
+      "62": [
+        "Supported",
+        "The report explicitly states that 42% of startups fail because there is no market need for their product, highlighting the importance of market research and validation. This directly supports the key point that lack of research leads to offering products or services that customers do not want."
+      ],
+      "63": [
+        "Supported",
+        "The report mentions that 23% of startups fail due to team and execution issues, including internal conflicts, which aligns with the key point that bad partnerships cause internal conflict and can dissolve the business without clear resolution and defined duties."
+      ],
+      "64": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention bad marketing or the impact of hiring marketing expertise on revenue."
+      ],
+      "65": [
+        "Supported",
+        "The report states that 23% of startups fail due to not having the right team, which includes lack of experience and poor leadership, implying that not being an expert or lacking business skills leads to struggle and failure."
+      ],
+      "66": [
+        "Supported",
+        "The report explicitly states that '29% of startups fail because they run out of cash,' indicating that running out of money is a leading cause of startup failure."
+      ],
+      "67": [
+        "Supported",
+        "The report explicitly mentions that '29% of startups fail because they run out of cash,' highlighting financial issues as a critical factor in startup failure, which supports the key point that lack of financing or investor interest is a major reason for startup failure."
+      ],
+      "68": [
+        "Omitted",
+        "The report lists common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but does not mention the absence of a business plan or business model as a cause of failure."
+      ],
+      "69": [
+        "Supported",
+        "The report highlights financial mismanagement and the importance of effective financial planning, which aligns with strong business planning focused on profitability as a way to avoid failure."
+      ],
+      "70": [
+        "Omitted",
+        "The report discusses various reasons for startup failure, including lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention that nearly 30% of founders recommend doing more research prior to launch to prevent failure."
+      ],
+      "71": [
+        "Omitted",
+        "The report discusses various reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention the statistic that about 70% of entrepreneurs face potential business failure within 25 months of launching."
+      ],
+      "72": [
+        "Omitted",
+        "The report discusses lack of market need as a common reason for startup failure but does not mention the increased prevalence of this reason or mistimed products specifically in 2020 due to COVID-19."
+      ],
+      "73": [
+        "Omitted",
+        "The report discusses various reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention pivoting or the statistic that 75% of founders who pivoted reported success."
+      ],
+      "74": [
+        "Omitted",
+        "The report discusses reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but does not mention pivot strategies or updating/improving the business plan as a common pivot strategy."
+      ],
+      "75": [
+        "Omitted",
+        "The report discusses reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competition, but it does not provide advice from founders on how to prevent failure, such as learning from mistakes, listening to customers, or ensuring market demand."
+      ],
+      "76": [
+        "Supported",
+        "The report explicitly states that one of the most cited reasons for startup failure is the absence of a genuine market need for the product or service, which aligns with the key point that most startups fail because they didn’t solve a problem that customers want to be solved."
+      ],
+      "77": [
+        "Supported",
+        "The report explicitly states that 42% of startups fail because there is no market need for their product, directly affirming the key point."
+      ],
+      "78": [
+        "Supported",
+        "The report explicitly states that 42% of startups fail due to no market need for their product, highlighting the importance of understanding customers' real needs and creating solutions for them, which supports the key point."
+      ],
+      "79": [
+        "Supported",
+        "The report explicitly states that a primary reason for startup failure is the lack of market need, which aligns with the key point about business model failure including not understanding the market and positioning the business accordingly."
+      ],
+      "80": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, including issues such as poor leadership, which aligns with the key point that poor management, including lack of good leadership and passion, is a major reason for startup failure."
+      ],
+      "81": [
+        "Supported",
+        "The report explicitly states that running out of cash is a critical factor leading to startup failure, citing that 29% of startups fail because they run out of cash, which supports the key point that running out of cash is the number one reason startups fail."
+      ],
+      "82": [
+        "Supported",
+        "The report explicitly states that one of the main reasons startups fail is the lack of market need for their product, which aligns with the key point that failing to address customers' real problems leads to startup failure."
+      ],
+      "83": [
+        "Omitted",
+        "The report discusses reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competition, but does not mention the statistic that more than two-thirds of startups never deliver a positive return to investors."
+      ],
+      "84": [
+        "Supported",
+        "The report discusses various reasons for startup failure, including team issues and other factors, indicating that failure is due to multiple complex reasons rather than solely founders' inadequacies, thus oversimplifying the situation is avoided."
+      ],
+      "85": [
+        "Supported",
+        "The report identifies six patterns of failure explaining why startups fail, including lack of market need, financial mismanagement, team issues, competitive pressures, and other factors. It discusses two common avoidable reasons in detail: lack of market need and financial mismanagement."
+      ],
+      "86": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, including lack of experience and poor leadership, which aligns with the key point about 'Good Idea, Bad Bedfellows' where lack of industry experience and poor team or investor fit cause failure."
+      ],
+      "87": [
+        "Supported",
+        "The report explicitly mentions that 42% of startups fail due to no market need, highlighting the importance of thorough market research and validation before launching a product, which aligns with the key point about 'False Starts' caused by skipping upfront customer research and launching prematurely."
+      ],
+      "88": [
+        "Omitted",
+        "The report discusses reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss a structured product design process involving problem definition, solution development, and solution validation."
+      ],
+      "89": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention entrepreneurial traits like bias for action, persistence, passion, frugality, or desire for growth contributing to failure."
+      ],
+      "90": [
+        "Omitted",
+        "The report discusses various reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or provide any statistics about the failure rate of startups in India within 5 years."
+      ],
+      "91": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss startups in India imitating western ideas as a cause of failure."
+      ],
+      "92": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss lack of confidence in founders as a reason for startup failure."
+      ],
+      "93": [
+        "Supported",
+        "The report mentions that 19% of startups fail because they get outcompeted, which suggests the need for continuous innovation. This supports the key point that business models lacking innovation cause startups to fail."
+      ],
+      "94": [
+        "Omitted",
+        "The report discusses general reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but does not mention market saturation in India or any geographic-specific challenges."
+      ],
+      "95": [
+        "Supported",
+        "The report explicitly mentions that 'running out of cash' is a critical factor leading to startup failure, which aligns with negative cash flow issues. It also highlights financial mismanagement as a key reason, implying working capital issues. Therefore, the report supports the key point that negative cash flow and working capital issues lead to startup failure."
+      ],
+      "96": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss forceful expansion before achieving adequate profit margins as a cause of losses."
+      ],
+      "97": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, including issues like lack of experience and poor leadership, which implies that lack of a motivated or suitable team contributes to startup failure."
+      ],
+      "98": [
+        "Omitted",
+        "The report discusses common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the impact of not taking customer feedback seriously on losing customers."
+      ],
+      "99": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention lack of innovation or the statistic about 77% of venture capitalists thinking Indian startups lack innovation or unique business models."
+      ],
+      "100": [
+        "Supported",
+        "The report explicitly mentions that running out of cash (lack of funds) is a critical factor leading to startup failure and highlights the importance of effective financial planning and securing adequate funding. It also discusses the need for a profitable business model indirectly by emphasizing the importance of market need and financial management for startup success."
+      ],
+      "101": [
+        "Supported",
+        "The report explicitly mentions that 13% of startups fail because they need more focus, indicating that lack of focus on a single core service or product can cause startups to fail."
+      ],
+      "102": [
+        "Supported",
+        "The report explicitly states that a primary reason for startup failure is the lack of market need, which aligns with the key point that failure to achieve product-market fit causes startups to fail."
+      ],
+      "103": [
+        "Supported",
+        "The report explicitly mentions that 23% of startups fail due to not having the right team, which includes poor leadership, directly supporting the key point that leadership gaps and lack of strong vision contribute to startup failure."
+      ],
+      "104": [
+        "Omitted",
+        "The report lists several reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention lack of agility or adaptability to change as a cause of failure."
+      ],
+      "105": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not specifically mention failure of the business model, inability to acquire and monetize customers as a cause of failure."
+      ],
+      "106": [
+        "Supported",
+        "The report states that 23% of startups fail due to not having the right team, which includes lack of experience and poor leadership, directly supporting the key point that lack of talent and competency is a significant reason for startup failure."
+      ],
+      "107": [
+        "Omitted",
+        "The report discusses various reasons why startups fail, such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention ignoring customers or not addressing their feedback as a cause of failure."
+      ],
+      "108": [
+        "Omitted",
+        "The report discusses common reasons for startup failures such as lack of market need, financial mismanagement, team issues, and competitive pressures, but does not mention government or bureaucratic inefficiency as reasons for startup failures in India."
+      ],
+      "109": [
+        "Supported",
+        "The report identifies multiple reasons for startup failure, including lack of market need, financial mismanagement, team issues, and competitive pressures, indicating that startups fail due to a combination of factors rather than just money troubles."
+      ],
+      "110": [
+        "Supported",
+        "The report mentions that 19% of startups fail because they get outcompeted, suggesting the importance of competitive strategy and continuous innovation. This supports the key point that merely replicating successful ventures without innovation (copycat approach) leads to failure."
+      ],
+      "111": [
+        "Supported",
+        "The report explicitly states that financial mismanagement, specifically running out of cash, is a critical factor leading to startup failure, which supports the key point that poor financial management and money troubles cause startups to fail."
+      ],
+      "112": [
+        "Omitted",
+        "The report discusses common reasons for startup failures such as lack of market need, financial mismanagement, team issues, and competitive pressures, but does not mention ease of doing business in India, red-tapism, bad infrastructure, or corruption as contributing factors."
+      ],
+      "113": [
+        "Supported",
+        "The report explicitly states that one of the most cited reasons for startup failure is the lack of market need, which aligns with the key point that a market not ready for innovation can cause startups to fail."
+      ],
+      "114": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the lack of ownership among founders as a cause of startup failure."
+      ],
+      "115": [
+        "Omitted",
+        "The report lists several reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not explicitly mention unplanned approach or lack of business planning as causes of failure."
+      ],
+      "116": [
+        "Omitted",
+        "The report lists several reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention bad customer service as a reason for startup failure."
+      ],
+      "117": [
+        "Supported",
+        "The report mentions that 23% of startups fail due to not having the right team, including issues such as poor leadership and internal conflicts, which aligns with staff dissatisfaction and partner troubles contributing to startup failure."
+      ],
+      "118": [
+        "Omitted",
+        "The report lists common reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but does not mention comfort zone issues or failure to adapt to market changes as causes of failure."
+      ],
+      "119": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention poor marketing as a cause of failure."
+      ],
+      "120": [
+        "Supported",
+        "The report explicitly states that one of the most cited reasons for startup failure is the absence of a genuine market need for the product or service, directly supporting the key point."
+      ],
+      "121": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the founders' lack of self-awareness as a reason for failure."
+      ],
+      "122": [
+        "Supported",
+        "The report identifies 'lack of market need' as the most cited reason for startup failure, which aligns with the key point that startups fail due to wrong market or industry selection, especially in the early years."
+      ],
+      "123": [
+        "Omitted",
+        "The report lists several reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention lack of vision or wrong vision as a reason for failure."
+      ],
+      "124": [
+        "Supported",
+        "The report explains that startups fail due to various reasons including lack of market need, financial mismanagement, team issues, and competitive pressures, which aligns with the key point that if the business model fails, the startup cannot exist or compete in the market."
+      ],
+      "125": [
+        "Omitted",
+        "The report lists several reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention or discuss the impact of a weak feedback system on startup failure."
+      ],
+      "126": [
+        "Supported",
+        "The report explicitly states that 23% of startups fail due to not having the right team, including poor leadership and internal conflicts, which aligns with the key point that many startups fail due to poor management team."
+      ],
+      "127": [
+        "Supported",
+        "The report explicitly states that 42% of startups fail due to no market need for their product, highlighting the importance of thorough market research and validation before launching, which supports the key point about the necessity of proper market research to avoid failure."
+      ],
+      "128": [
+        "Omitted",
+        "The report discusses various reasons for startup failure such as lack of market need, financial mismanagement, team issues, and competitive pressures, but it does not mention the impact of the location of the business, including physical or internet location, as a factor."
+      ],
+      "129": [
+        "Supported",
+        "The report explicitly mentions that 29% of startups fail because they run out of cash, highlighting financial mismanagement and the importance of understanding cash flow, which aligns with the key point about founders not being aware of the cash burn rate leading to failure."
+      ],
+      "130": [
+        "Supported",
+        "The report explicitly states that one of the most cited reasons for startup failure is the lack of market need for the product, which aligns with the key point that startups cannot sustain or succeed if they fail to develop products as per market needs."
+      ]
+    },
+    "support_rate": 52.307692307692314,
+    "ommitted_rate": 46.92307692307692,
+    "contradicted_rate": 0.7692307692307693
+  },
+  "188169": {
+    "labels": {
+      "1": [
+        "Supported",
+        "The report states that research helps identify risk factors and causes for adverse patient outcomes, which aligns with identifying causes of medical errors. It also mentions that research provides a foundation for evidence-based practice to reduce errors and improve safety, supporting the development of models to minimize errors and mechanisms for corrective action. Although it does not explicitly mention reducing paperwork, the overall content supports the key point about research helping to identify causes of medical errors and develop methods to minimize them."
+      ],
+      "2": [
+        "Supported",
+        "The report discusses how nursing research identifies risk factors and informs evidence-based practices that improve patient safety, which aligns with the key point about identifying key aspects of nurses' work environment impacting patient safety and recommending improvements."
+      ],
+      "3": [
+        "Supported",
+        "The report explains how nursing research provides a scientific foundation for evidence-based practice, helps identify risk factors, and informs preventive measures, all of which contribute to continuous improvement in patient safety in healthcare organizations."
+      ],
+      "4": [
+        "Omitted",
+        "The report discusses the importance of nursing research in general terms such as evidence-based practice, advocacy, and identification of risk factors, but it does not specifically mention the need for research on nursing-related errors, safer work processes, patient acuity measurement, safe staffing levels, fatigue compensation, work hours limits, or collaborative care models."
+      ],
+      "5": [
+        "Supported",
+        "The report explicitly states that nursing research provides a scientific foundation for evidence-based practice, which is essential for delivering high-quality care, directly supporting the key point."
+      ],
+      "6": [
+        "Omitted",
+        "The report discusses the positive role of nursing research in improving practice and patient safety but does not mention any gap or lack of direct flow of knowledge from research into practice or bedside nursing."
+      ],
+      "7": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving patient care and safety but does not mention nurses being inquisitive, thinking critically, or their desire to know the best treatments, which are key aspects of the key point."
+      ],
+      "8": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving patient safety and evidence-based practice but does not mention the perception of research as being conducted by others removed from frontline nursing practice or its effect on integration into nursing identity."
+      ],
+      "9": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving practice and patient safety but does not mention nurses' valuation of research or the link between nurse clinicians and research development."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving patient safety and evidence-based practice but does not mention that nurses could turn many quality improvement projects into research or view research as a continuum with QI projects along it."
+      ],
+      "11": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving patient safety and evidence-based practice but does not mention factors that influence bedside nurses' engagement in research such as strengthening nursing education, allocating time for research, availability of consultant resources, or institutional support."
+      ],
+      "12": [
+        "Supported",
+        "The report emphasizes that nursing research provides a scientific foundation for evidence-based practice, which leads to safer nursing practices and higher quality care, aligning with the key point that making research part of nursing identity and practice paves the way for evidence-based practice to become the norm and enhances safety."
+      ],
+      "13": [
+        "Omitted",
+        "The report discusses how research informs nursing practice to improve patient care and safety, but it does not mention or address the protection of nurses' wellbeing."
+      ],
+      "14": [
+        "Supported",
+        "The report explicitly states that nursing research provides a scientific foundation for evidence-based practice, enabling nurses to deliver high-quality care, which aligns with the key point that nurses with research skills are equipped for evidence-based practice to ensure better caregiving standards."
+      ],
+      "15": [
+        "Omitted",
+        "The report discusses the role of nursing research in evidence-based practice, patient safety, and advocacy but does not mention nurse researchers supporting and coordinating studies across clinical, community, and education issues, nor the use of this research by providers to improve healthcare for millions."
+      ],
+      "16": [
+        "Supported",
+        "The report emphasizes that nursing research provides a scientific foundation for evidence-based practice, which is essential for delivering high-quality care and advancing nursing practice, directly supporting the key point about the importance of nursing research in advancing nursing practice."
+      ],
+      "17": [
+        "Omitted",
+        "The report discusses how nursing research improves patient safety and quality of care through evidence-based practice and advocacy, but it does not mention the influence of nursing research on health policy or the resulting improved health outcomes."
+      ],
+      "18": [
+        "Supported",
+        "The report emphasizes the importance of nursing research as a foundation for evidence-based practice, which helps nurses deliver high-quality care and advocate effectively for patients. This aligns with the key point that professional nurses need to understand research principles to undertake or consume research effectively."
+      ],
+      "19": [
+        "Supported",
+        "The report explicitly states that nursing research provides a scientific foundation for evidence-based practice, guiding professional nursing practice and improving patient care, which aligns with the key point that nursing research is the road map to professional practice."
+      ],
+      "20": [
+        "Omitted",
+        "The report discusses the role of nursing research in evidence-based practice and improving patient safety but does not explicitly mention the integration of clinical expertise and patient preferences along with systematic search and critical appraisal of evidence as described in the key point."
+      ],
+      "21": [
+        "Supported",
+        "The report emphasizes the importance of nursing research as the foundation for evidence-based practice, highlighting that nursing care is now guided by scientific evidence to improve patient outcomes, which supports the key point about the shift from tradition-based care to research-supported care."
+      ],
+      "22": [
+        "Omitted",
+        "The report discusses the importance of nursing research and evidence-based practice in general terms but does not mention the specific steps involved in applying evidence-based practice, such as defining the problem, reviewing and evaluating data, designing a practice change based on data, and implementing the change while considering nurse experience and patient preferences."
+      ],
+      "23": [
+        "Supported",
+        "The report explains that nursing research provides a scientific foundation for evidence-based practice, which guides clinical nursing practice to ensure quality care and improve patient outcomes, directly supporting the key point."
+      ],
+      "24": [
+        "Supported",
+        "The report explicitly states that nursing research provides a scientific foundation for evidence-based practice, which benefits patients and supports nursing teams. It highlights how research informs safer nursing practices and improves patient outcomes, aligning with the key point that nurses conduct research to build a solid base of evidence for stronger practices benefiting patients, families, and inter-professional teams."
+      ],
+      "25": [
+        "Omitted",
+        "The report discusses the general role of nursing research in improving patient safety and care quality but does not specifically mention understanding or adjusting medical equipment and alarms for pediatric patients to reduce stress and improve care."
+      ],
+      "26": [
+        "Supported",
+        "The report explicitly states that nursing research provides a scientific foundation for evidence-based practice, enabling nurses to deliver high-quality care and advocate effectively for patients, which aligns with the key point that nurses use research to update and change clinical practices and policies to improve patient safety and care quality."
+      ],
+      "27": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving patient care and safety but does not mention the collaborative or inter-professional nature of nursing research or how it enriches research outcomes."
+      ],
+      "28": [
+        "Omitted",
+        "The report discusses the role of nursing research in evidence-based practice, patient safety, and advocacy but does not mention the legitimization of nursing as a profession, education reform based on research, or the proportion of nurses using research in practice."
+      ],
+      "29": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving patient safety and evidence-based practice but does not mention nurses' perceptions of research or barriers such as lack of access to information and skills in critical appraisal."
+      ],
+      "30": [
+        "Supported",
+        "The report explains that nursing research provides a scientific foundation for evidence-based practice, which helps nurses deliver high-quality care. This aligns with the key point that evidence-based nursing aims to bridge the gap between researchers and practitioners to make research more accessible and useful for nursing practice."
+      ],
+      "31": [
+        "Omitted",
+        "The report discusses the importance of nursing research and evidence-based practice but does not mention the need for different types of evidence such as scientific knowledge, social sciences evidence, and experiential knowledge."
+      ],
+      "32": [
+        "Omitted",
+        "The report discusses the importance of nursing research in improving patient safety and evidence-based practice but does not mention the need for different research designs for different nursing questions, nor does it discuss scientific methods for causation and effectiveness or interpretist approaches for understanding patient experiences."
+      ],
+      "33": [
+        "Omitted",
+        "The report discusses the importance of nursing research and evidence-based practice but does not mention the need for nurses to develop skills to critique scientific evidence, design trials, or value naturalistic studies and experiential knowledge."
+      ],
+      "34": [
+        "Supported",
+        "The report emphasizes the crucial role of nursing research in providing a scientific foundation for evidence-based practice, which is essential for delivering high-quality care and improving patient safety. This aligns with the key point that nursing research has a tremendous influence on current and future professional nursing practice and is an essential component of the educational process."
+      ],
+      "35": [
+        "Supported",
+        "The report explicitly states that nursing research provides a scientific foundation for evidence-based practice (EBP), which is essential for delivering high-quality care. It also mentions that EBP is informed by research, clinical expertise, and patient safety considerations, aligning with the key point that EBP is a patient-centered approach founded on independent scientific research, clinical expertise, standardized practice, and patient experiences."
+      ],
+      "36": [
+        "Omitted",
+        "The report discusses the role of nursing research in improving patient safety and evidence-based practice but does not mention nurse researchers' roles in policy development, nurse education, or community health best practices."
+      ],
+      "37": [
+        "Supported",
+        "The report emphasizes the role of nursing research in providing a scientific foundation for evidence-based practice, identifying risk factors, and improving patient safety, which aligns with the need for health care providers to evaluate current best practices and develop new protocols based on findings."
+      ],
+      "38": [
+        "Supported",
+        "The report discusses how nursing research provides a scientific foundation for evidence-based practice, which improves the quality of care and safety. This implies that nursing research identifies ways to make nurse education and practice more effective by informing clinical decisions and safety practices."
+      ],
+      "39": [
+        "Omitted",
+        "The report discusses how nursing research improves patient safety, quality of care, and evidence-based practice, but it does not mention how nursing research looks at how health care is delivered or how it influences the cost and experience of patients and families."
+      ],
+      "40": [
+        "Supported",
+        "The report explains that nursing research provides a scientific foundation for evidence-based practice, which helps nurses deliver high-quality care and identify risk factors, aligning with the key point that nurse research seeks to identify the most effective treatment protocols for patients."
+      ],
+      "41": [
+        "Omitted",
+        "The report discusses the role of nursing research in evidence-based practice, patient safety, advocacy, and identifying risk factors, but it does not mention the consideration of disease within the lenses of health promotion, rehabilitation, and restoration, nor does it discuss looking for better ways to provide care and comfort that meet patients’ needs as described in the key point."
+      ],
+      "42": [
+        "Omitted",
+        "The report discusses the role of nursing research in evidence-based practice, patient advocacy, and identifying risk factors, but it does not mention nurse researchers expanding medical research to investigate social, emotional, and behavioral aspects to develop protocols for improving outcomes and quality of life."
+      ],
+      "43": [
+        "Supported",
+        "The report explains that nursing research provides a scientific foundation for evidence-based practice, empowers nurses to advocate effectively for patients, and helps identify risk factors and preventive measures, which aligns with the key point that nurse research helps nurses become more effective health care leaders and advocates for patients and health care improvement."
+      ],
+      "44": [
+        "Omitted",
+        "The report discusses the role of nursing research in improving patient safety and advocacy through evidence-based practice, but it does not specifically mention research nurses acting as patient advocates or ensuring patient safety and support throughout the research study."
+      ],
+      "45": [
+        "Omitted",
+        "The report focuses on the role of nursing research in improving patient safety and quality of care but does not mention or discuss critical thinking skills as essential for nurses or their necessity for safe, high-quality clinical care."
+      ]
+    },
+    "support_rate": 44.44444444444444,
+    "ommitted_rate": 55.55555555555556,
+    "contradicted_rate": 0.0
+  },
+  "745702": {
+    "labels": {
+      "1": [
+        "Supported",
+        "The report discusses that knowledge, such as mathematics and science, can be independent of culture, while also acknowledging the significant influence of culture on knowledge. This aligns with the key point that beliefs are dependent on culture, whereas knowledge can be independent of culture."
+      ],
+      "2": [
+        "Omitted",
+        "The report discusses the independence of knowledge from culture, focusing on mathematics and science, but does not define culture or mention its characteristics such as language, religion, cuisine, social habits, music, and arts, nor does it state that individuals become part of a culture from birth."
+      ],
+      "3": [
+        "Omitted",
+        "The report discusses the influence of culture on knowledge and mentions cultural impact on knowledge creation and interpretation, but it does not specifically address whether opinions are driven by culture or individual responsibility, nor does it discuss views on social issues like migration and gay marriage."
+      ],
+      "4": [
+        "Supported",
+        "The report discusses various perspectives showing that some knowledge (like mathematics and science) can be independent of culture, while also acknowledging the significant influence of culture on knowledge. This aligns with the key point that knowledge, emotions, reasoning, and logic do not depend entirely on culture."
+      ],
+      "5": [
+        "Supported",
+        "The report explicitly discusses that mathematics and science are often cited as examples of knowledge that transcends cultural boundaries, affirming that scientific methods and mathematical truths can be independent of culture."
+      ],
+      "6": [
+        "Omitted",
+        "The report discusses the influence of culture on knowledge and mentions areas like mathematics and science as potentially culturally independent, but it does not mention biological knowledge or facial expressions as examples of knowledge independent of culture."
+      ],
+      "7": [
+        "Supported",
+        "The report discusses the significant impact of culture on knowledge and identity, affirming that knowledge is a product of human beings who are themselves products of their cultures, which supports the key point."
+      ],
+      "8": [
+        "Supported",
+        "The report discusses mathematics as knowledge that transcends cultural boundaries, citing the view that mathematical knowledge is universal. It also acknowledges the significant impact of culture on knowledge creation and interpretation, indicating a complex relationship between mathematics and culture, which aligns with the key point."
+      ],
+      "9": [
+        "Supported",
+        "The report discusses the complexity of knowledge in relation to culture, highlighting that while some knowledge like mathematics and science may appear culturally independent, culture significantly influences knowledge creation and interpretation. This aligns with the key point that there is no universal absolute truth on issues involving subjective knowledge and cultural references, and that knowledge and truth can be relative to context."
+      ],
+      "10": [
+        "Supported",
+        "The report explicitly discusses the question of whether knowledge can be independent of culture, focusing on mathematics and anthropology-related fields like science, and presents structured arguments and examples from various sources."
+      ],
+      "11": [
+        "Supported",
+        "The report discusses cases where knowledge such as mathematics and science is considered culturally independent, while also emphasizing the significant influence of culture on knowledge, thus illustrating that the link between knowledge and culture can be strong or weak depending on the case, aligning with the key point."
+      ],
+      "12": [
+        "Omitted",
+        "The report discusses the cultural independence of knowledge in areas like mathematics and science and the influence of culture on knowledge in general, but it does not mention art or academic integrity, nor does it compare their cultural dependence or independence."
+      ],
+      "13": [
+        "Supported",
+        "The report explicitly discusses mathematics and science as examples of knowledge that transcend cultural boundaries, describing mathematical truths as universal and scientific principles as independent of cultural context, which aligns with the key point that mathematical and scientific laws are objective, universally understood, and independent of culture."
+      ],
+      "14": [
+        "Omitted",
+        "The report discusses knowledge independent of culture mainly in terms of mathematics and science, and the influence of culture on knowledge, but does not mention spiritual knowledge or beliefs transcending culture and reaching individuals regardless of upbringing or education."
+      ],
+      "15": [
+        "Omitted",
+        "The report discusses whether knowledge, including mathematics, can be independent of culture, but it does not mention simultaneous discoveries in mathematics across different cultures or suggest that mathematics determines culture rather than being a product of it."
+      ]
+    },
+    "support_rate": 60.0,
+    "ommitted_rate": 40.0,
+    "contradicted_rate": 0.0
+  },
+  "471082": {
+    "labels": {
+      "1": [
+        "Omitted",
+        "The report discusses factors influencing high gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention President Biden's statement about OPEC and Russia not increasing production sufficiently."
+      ],
+      "2": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention the specific role of OPEC and Russia in global oil production or their influence on supply and prices."
+      ],
+      "3": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs and geopolitical tensions, but does not mention OPEC and Russia's production restoration or the pace relative to U.S. desires."
+      ],
+      "4": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices such as crude oil costs, refining and distribution costs, government taxes, and economic factors including inflation and supply chain issues. However, it does not mention that the coronavirus pandemic caused demand for gasoline to rise steadily while supply lagged due to delays and higher costs, contributing to higher prices."
+      ],
+      "5": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention the U.S. being the world's biggest oil producer or the constraints on increasing production."
+      ],
+      "6": [
+        "Omitted",
+        "The report discusses factors such as crude oil costs, refining and distribution costs, government taxes, and economic factors affecting gas prices, but it does not mention lower global production or supply disruptions in the U.S. as reasons for high gas prices."
+      ],
+      "7": [
+        "Omitted",
+        "The report discusses supply chain disruptions and economic factors affecting gas prices but does not specifically mention supply-chain issues caused by storms or hackers disrupting gasoline production and transport."
+      ],
+      "8": [
+        "Supported",
+        "The report mentions that increased demand as economies rebound from the COVID-19 pandemic has influenced refining and distribution costs, indicating that Americans are driving more than a year ago, which increases demand for gasoline."
+      ],
+      "9": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices, including crude oil costs, geopolitical tensions, and economic recovery from the COVID-19 pandemic, but it does not specifically mention the loosening of COVID restrictions globally leading to a rapid recovery in global demand for crude oil that exceeded expert expectations and caused tightening of global crude markets."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention OPEC+ nations or their discipline in limiting exports."
+      ],
+      "11": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention the Biden/Harris administration's policies or their impact on U.S. oil production and the global market."
+      ],
+      "12": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining and distribution costs, government taxes, and economic factors, but it does not specifically mention refinery maintenance or the changeover to summer gasoline blends and their impact on costs and gas prices."
+      ],
+      "13": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention California's policy agenda to inhibit drilling and production or its impact on gasoline costs."
+      ],
+      "14": [
+        "Omitted",
+        "The report discusses factors influencing gas prices, such as crude oil costs, refining costs, taxes, and economic factors, but does not mention U.S. energy independence, policies affecting U.S. oil production, or impacts on energy security and reliance on foreign oil."
+      ],
+      "15": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, distribution, marketing expenses, government taxes, and economic factors, but it does not mention President Biden's executive orders or regulatory changes affecting the cost of producing oil in the U.S."
+      ],
+      "16": [
+        "Supported",
+        "The report explicitly identifies the four main components of gasoline prices as the cost of crude oil (supply and demand in a global market), refining costs, distribution and marketing costs, and government taxes at federal, state, and local levels, directly aligning with the key point."
+      ],
+      "17": [
+        "Supported",
+        "The report states that the cost of crude oil is the most significant factor affecting gasoline prices, accounting for approximately 50% of the retail price, which closely aligns with the key point that oil made up 52 percent of the price at the pump in January 2021."
+      ],
+      "18": [
+        "Supported",
+        "The report explains that gasoline prices increase primarily due to the cost of crude oil, which is influenced by geopolitical tensions and increased demand as economies recover. It mentions geopolitical tensions such as U.S. sanctions against Russia and increased world demand, which aligns with the key point about OPEC+ production quotas and attacks on Saudi Arabian oil ports affecting oil prices."
+      ],
+      "19": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices such as crude oil costs, refining costs, distribution, marketing expenses, government taxes, and economic factors, but it does not mention U.S. policies like the moratorium on drilling on federal lands or the cancellation of the Keystone XL pipeline and their impact on future U.S. oil production or gasoline prices."
+      ],
+      "20": [
+        "Supported",
+        "The report states that as economies recover from the pandemic, demand for oil has spiked, putting additional pressure on prices, which supports the key point that world crude oil demand has increased after the pandemic and is greater than production, pushing oil prices up."
+      ],
+      "21": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs, refining costs, taxes, and economic factors, but does not mention U.S. crude oil production levels or federal land drilling restrictions."
+      ],
+      "22": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention OPEC+ countries restricting oil production or their caution about increasing production."
+      ],
+      "23": [
+        "Omitted",
+        "The report mentions geopolitical tensions and their impact on oil prices but does not specifically mention geopolitical unrest in the Middle East or attacks on Saudi oil ports as causes for the surge in oil prices."
+      ],
+      "24": [
+        "Omitted",
+        "The report mentions federal tax at 18.4 cents per gallon and that state and local taxes vary, but it does not specify that gasoline taxes account for 21 percent of the price of gasoline or that state/local taxes average 36.8 cents per gallon."
+      ],
+      "25": [
+        "Contradicted",
+        "The report states that distribution and marketing costs account for 11% of the price of gasoline, which contradicts the key point's claim of 15 percent."
+      ],
+      "26": [
+        "Contradicted",
+        "The report states that refining costs contribute about 25% to the price of gasoline, which contradicts the key point that refining costs make up 12 percent of the retail price."
+      ],
+      "27": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs and geopolitical tensions, but does not mention a crude oil shortage impacting retail gas prices."
+      ],
+      "28": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs, refining costs, taxes, and economic factors, but does not mention OPEC+ cutting daily oil output by 10 million barrels a day in April 2020 or their production levels relative to pre-pandemic levels."
+      ],
+      "29": [
+        "Omitted",
+        "The report discusses factors influencing current high gas prices but does not mention any expectations or forecasts about gas prices remaining high until the end of the year or into next year."
+      ],
+      "30": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the role of the president or explicitly state that gas price markets are mostly dictated by global market forces rather than the president."
+      ],
+      "31": [
+        "Supported",
+        "The report explains that gas prices have increased due to factors including increased demand as economies rebound from the COVID-19 pandemic, which aligns with the key point that gas prices have been rising due to increased demand as the pandemic recedes and more cars are on the road."
+      ],
+      "32": [
+        "Omitted",
+        "The report discusses factors influencing current gas prices, such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the low gas prices under $2 a gallon during early 2020 or attribute them to the pandemic collapsing demand or presidential action."
+      ],
+      "33": [
+        "Supported",
+        "The report states that as economies rebound from the COVID-19 pandemic, demand for oil has spiked, putting additional pressure on prices, indicating demand has rebounded faster than supply, causing prices to increase."
+      ],
+      "34": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention U.S. policies like suspension of oil and gas leases or cancellation of the Keystone XL Pipeline affecting supply recovery."
+      ],
+      "35": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, distribution, marketing expenses, and government taxes, but it does not mention policies like carbon taxes or explicitly state that such policies raise the price of gas by design."
+      ],
+      "36": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices but does not mention the increase in the energy price cap or its effect on bills for families in England, Wales, and Scotland."
+      ],
+      "37": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, distribution, marketing expenses, government taxes, and economic factors including geopolitical tensions like U.S. sanctions against Russia. However, it does not specifically mention the impact of the war in Ukraine or continuing pressure on gas supplies affecting wholesale prices paid by energy companies."
+      ],
+      "38": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices, such as crude oil costs, refining, distribution, taxes, and economic factors, but does not mention Jonathan Brearly, Ofgem, or the likelihood of bills increasing in October due to wholesale market volatility."
+      ],
+      "39": [
+        "Supported",
+        "The report explains that high gas prices are primarily due to increased crude oil costs and supply chain disruptions, which align with rising wholesale prices and supply shortages mentioned in the key point."
+      ],
+      "40": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining, distribution, taxes, and economic factors, but it does not mention or discuss how global high gas prices are reflected in UK prices specifically."
+      ],
+      "41": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices, including demand increase as economies rebound from the COVID-19 pandemic, but it does not mention global gas demand rising due to countries recovering from the pandemic and a cold winter, nor does it mention a gas market with reduced capacity."
+      ],
+      "42": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices such as crude oil costs, refining costs, distribution, marketing expenses, government taxes, and economic factors like inflation and supply chain issues. However, it does not mention energy firms buying gas and electricity wholesale or the impact of higher demand and limited supply on prices reaching record levels."
+      ],
+      "43": [
+        "Omitted",
+        "The report discusses gasoline prices and factors affecting them but does not mention natural gas prices or their surge to more than $4 per million British thermal units."
+      ],
+      "44": [
+        "Omitted",
+        "The report focuses on factors affecting gasoline prices and does not mention high temperatures or increased air conditioner use driving demand."
+      ],
+      "45": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention supply response to higher prices, the growth rate of the US gas market, or shareholder pressure on output."
+      ],
+      "46": [
+        "Omitted",
+        "The report focuses on gasoline prices and factors affecting them, such as crude oil costs, refining, distribution, taxes, and economic factors. It does not mention coal generation, gas' share of the thermal stack, or power producers switching between gas and coal."
+      ],
+      "47": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not provide specific information about the average gas price in America being $3.27 per gallon, nor does it mention the price being over $1 more than a year ago or the highest since 2014."
+      ],
+      "48": [
+        "Omitted",
+        "The report discusses factors influencing gas prices and mentions recent increases, but does not specify that prices at the pump are rising particularly steeply lately, nor does it mention some states seeing an increase of $.10 or more in one week."
+      ],
+      "49": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention recent demand trends for gasoline or its impact on prices."
+      ],
+      "50": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs influenced by geopolitical tensions and sanctions, but does not mention OPEC+ or its decision to keep output limited as a reason for high crude oil prices."
+      ],
+      "51": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs and geopolitical tensions, but does not mention the White House pressuring OPEC+ to increase oil production or the production levels relative to pre-pandemic times."
+      ],
+      "52": [
+        "Omitted",
+        "The report discusses factors influencing gas prices, including crude oil costs and geopolitical tensions, but does not mention OPEC+ decisions or the specific impact of their production levels on oil and gas prices."
+      ],
+      "53": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention Canadian gas prices specifically or the impact of U.S. production slowdown due to refinery maintenance and a pipeline leak."
+      ],
+      "54": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices such as crude oil costs, refining costs, distribution, marketing expenses, and government taxes, but it does not mention the Canadian gasoline market or its relation to the Chicago wholesale price."
+      ],
+      "55": [
+        "Supported",
+        "The report states that as economies recover from the pandemic, demand for oil has spiked, putting additional pressure on prices, which supports the key point that increased U.S. demand for gasoline is putting pressure on supply and raising prices."
+      ],
+      "56": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the U.S. gasoline inventory levels or their impact on prices."
+      ],
+      "57": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the Canadian dollar or its exchange rate with the U.S. dollar, nor does it discuss the impact of currency changes on the cost of imported gasoline."
+      ],
+      "58": [
+        "Omitted",
+        "The report discusses higher global crude oil prices and their impact on gas prices generally, but it does not specifically mention or address the effect of higher global crude oil prices on gas prices in Canada."
+      ],
+      "59": [
+        "Supported",
+        "The report explains that gas prices have increased due to factors including increased demand as economies rebound and supply chain disruptions, which aligns with the key point about increased demand and constrained supply causing a seven-year high in US gas prices."
+      ],
+      "60": [
+        "Supported",
+        "The report mentions that demand for oil has spiked as economies rebound from the COVID-19 pandemic, which implies that Americans have started driving more again, increasing demand for gas."
+      ],
+      "61": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs, refining costs, and economic factors, but does not mention US oil production or refining capacity in relation to increased demand or disruptions like Hurricane Ida."
+      ],
+      "62": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, distribution, marketing expenses, government taxes, and economic factors like inflation and supply chain issues. However, it does not mention global energy markets or OPEC decisions limiting oil supply increases as contributing to higher prices."
+      ],
+      "63": [
+        "Contradicted",
+        "The report states that crude oil costs account for approximately 50% of the retail price of gasoline, which contradicts the key point's claim that crude oil prices account for 43% of the price of regular gasoline."
+      ],
+      "64": [
+        "Supported",
+        "The report explicitly states that the cost of crude oil is the most significant factor affecting gasoline prices, accounting for about 50% of the retail price, and mentions that recent increases in oil prices have led to higher gas prices. This supports the key point that gas prices rise when oil prices rise."
+      ],
+      "65": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining and distribution costs, government taxes, and economic factors like inflation and supply chain issues, but it does not mention commodities traders or the value of the U.S. dollar as influences on gas and oil prices."
+      ],
+      "66": [
+        "Supported",
+        "The report explicitly mentions that geopolitical tensions, such as U.S. sanctions against Russia, have led to a surge in global oil prices, which supports the key point that geopolitical conflicts cause spikes in gas prices. It also references economic factors and supply chain issues, which align with natural disasters and production decisions affecting prices. Although OPEC production decisions are not specifically mentioned, the report supports the general idea that such events cause spikes in gas prices."
+      ],
+      "67": [
+        "Omitted",
+        "The report discusses factors influencing current gas prices, including crude oil costs, refining costs, and economic factors related to the post-pandemic recovery, but it does not mention the COVID-19 pandemic causing a drop in demand and a supply glut leading to a plummet in oil and gas prices in 2020."
+      ],
+      "68": [
+        "Supported",
+        "The report explains that gas prices increased due to factors including increased demand as economies rebound from the COVID-19 pandemic, inflation, and geopolitical tensions such as U.S. sanctions against Russia, which aligns with the key point about increased demand post-pandemic, limited oil production, inflation, and geopolitical tensions like the Russia-Ukraine conflict causing gas price increases in 2021 and 2022."
+      ],
+      "69": [
+        "Omitted",
+        "The report discusses factors influencing gas prices and mentions increases, but does not specify that gas prices in the UK have increased to around four times their value back in January."
+      ],
+      "70": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, distribution, marketing expenses, government taxes, inflation, and geopolitical tensions, but it does not mention a squeeze on gas and energy supplies after last year's cold winter as a cause for the price increase."
+      ],
+      "71": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention struggles with the National Grid, a fire at a key import cable, or increased dependence on gas power plants contributing to higher prices."
+      ],
+      "72": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices, such as crude oil costs, refining, distribution, taxes, and economic factors, but does not mention the impact of gas markets on the carbon dioxide supply chain."
+      ],
+      "73": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the UK's backup gas supply or its duration, nor does it discuss how this affects prices."
+      ],
+      "74": [
+        "Supported",
+        "The report explicitly states that gasoline prices have increased due to higher crude oil costs and increased demand as economies recover, which aligns with the key point that gas prices have risen due to robust gasoline demand and more expensive crude oil prices."
+      ],
+      "75": [
+        "Omitted",
+        "The report discusses factors influencing gas prices, including crude oil costs and geopolitical tensions, but does not mention OPEC negotiations or their failure leading to a surge in crude oil prices."
+      ],
+      "76": [
+        "Omitted",
+        "The report discusses factors influencing gas prices, including crude oil costs and geopolitical tensions, but does not mention the specific event of global oil production negotiations between OPEC, Russia, and its allies falling apart or its direct impact on oil prices."
+      ],
+      "77": [
+        "Omitted",
+        "The report discusses factors influencing gas prices and crude oil costs but does not mention West Texas Intermediate oil prices or the specific price of $76.98 a barrel."
+      ],
+      "78": [
+        "Omitted",
+        "The report discusses various factors influencing high gas prices, such as crude oil costs, refining costs, taxes, and economic factors, but does not mention gasoline demand over the holiday weekend or its impact on gas prices."
+      ],
+      "79": [
+        "Omitted",
+        "The report discusses factors influencing gas prices, including crude oil costs, geopolitical tensions, and economic factors, but does not mention OPEC's lack of additional oil supply or disagreements within OPEC as contributing to higher crude oil prices."
+      ],
+      "80": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention or quantify the specific increase of gas prices by 250 per cent since January 2021."
+      ],
+      "81": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining and distribution costs, government taxes, and economic factors, but does not mention a shortage caused by tight gas supplies ahead of winter."
+      ],
+      "82": [
+        "Omitted",
+        "The report discusses the rise in gas prices due to factors like crude oil costs, refining costs, and economic factors, but it does not specifically mention Brits or the wholesale cost of gas in the UK."
+      ],
+      "83": [
+        "Omitted",
+        "The report discusses gasoline prices and factors affecting them, such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention natural gas prices or their recent increase in Europe due to low supplies."
+      ],
+      "84": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining and distribution costs, government taxes, and economic factors including supply chain issues, but it does not mention lower solar and wind output as a cause."
+      ],
+      "85": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices, including crude oil costs, refining, distribution, taxes, and economic factors, but does not mention Britain's natural gas imports or the percentage of natural gas imported by Britain."
+      ],
+      "86": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices, such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the prolonged 2020-2021 winter or its impact on natural gas stocks and their replenishment during summer months."
+      ],
+      "87": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention low solar and wind output, less windy weather, or the phasing out of coal-powered plants affecting supply and natural gas prices."
+      ],
+      "88": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices, including crude oil costs and geopolitical tensions, but does not mention Russia's gas exports to Europe or the specific drop to one-fifth of pre-pandemic levels."
+      ],
+      "89": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention the UK's shift from a net exporter to a net importer of gas or the relationship between gas prices and oil prices over the last decade."
+      ],
+      "90": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices, such as crude oil costs, refining, distribution, taxes, and economic factors, but does not mention electricity prices or the UK's gas-driven power sector."
+      ],
+      "91": [
+        "Supported",
+        "The report discusses that gas prices are influenced by government taxes (federal, state, and local), which politicians can control, and mentions economic factors affecting prices. It also implies the role of investment in energy through references to supply chain and economic recovery, aligning with the key point that politicians influence energy taxes, levies, and investment in low-carbon power generation and energy efficiency."
+      ],
+      "92": [
+        "Supported",
+        "The report explicitly links the costs to the COVID-19 pandemic, global oil production (including geopolitical tensions affecting oil prices), and increasing demand as economies rebound from the pandemic, which aligns with the key point."
+      ],
+      "93": [
+        "Omitted",
+        "The report discusses the impact of crude oil costs and geopolitical tensions on gas prices but does not specifically mention the recent decision from OPEC, Russia, and other allies as a factor in higher prices, nor does it cite AAA's perspective on this combined influence."
+      ],
+      "94": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors including the pandemic's impact on demand, but it does not specifically mention the usual seasonal decline in gas prices in the fall or compare this year's trends to that usual pattern."
+      ],
+      "95": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs, refining costs, taxes, and economic factors, but does not mention the initial drop in gas demand and prices in March 2020 due to COVID, nor the subsequent flattening of production and mass layoffs by oil companies."
+      ],
+      "96": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention the arrival of vaccines, return to travel, or their impact on consumer confidence and gas demand."
+      ],
+      "97": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices, including demand increases and supply chain issues, but does not specifically mention that demand for gasoline has reached near-normal levels while oil production is lagging severely behind."
+      ],
+      "98": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention oil companies or OPEC slowing production or being slow to increase production again."
+      ],
+      "99": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs and geopolitical tensions, but does not mention OPEC+ decisions or their production adjustments."
+      ],
+      "100": [
+        "Supported",
+        "The report explicitly states that the cost of crude oil is the most significant factor affecting gasoline prices, accounting for approximately 50% of the retail price, and mentions that crude oil prices are influenced by supply-demand dynamics such as geopolitical tensions and economic recovery."
+      ],
+      "101": [
+        "Omitted",
+        "The report discusses the rise in gas prices due to crude oil prices increasing and mentions geopolitical tensions and economic factors, but it does not mention fears of storms impacting oil production as a cause."
+      ],
+      "102": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention Hurricane Ida or its impact on the U.S. oil and gas industry."
+      ],
+      "103": [
+        "Omitted",
+        "The report discusses factors influencing gas prices, including crude oil costs, refining, distribution, taxes, and economic factors like inflation and supply chain issues. However, it does not explicitly mention that higher energy prices are boosting inflation or increasing transportation, logistics, and input costs for many industries."
+      ],
+      "104": [
+        "Supported",
+        "The report discusses a surge in global oil prices due to geopolitical tensions and increased demand, indicating a bullish near-term outlook for crude oil. It also links rising crude oil costs to higher gasoline prices, supporting the key point."
+      ],
+      "105": [
+        "Omitted",
+        "The report discusses factors influencing current high gas prices, such as crude oil costs, refining costs, and economic factors, but does not mention the specific pattern of international gas prices experiencing a roller coaster ride from historic lows to unprecedented highs over the past year."
+      ],
+      "106": [
+        "Omitted",
+        "The report focuses on gasoline prices and factors affecting them such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the global LNG market or supply-side changes in LNG export capacity or outages at export plants."
+      ],
+      "107": [
+        "Omitted",
+        "The report focuses on gasoline prices, crude oil costs, refining, distribution, taxes, and economic factors affecting gasoline prices. It does not mention LNG demand outside Europe or the relationship between LNG supply growth and demand increase."
+      ],
+      "108": [
+        "Omitted",
+        "The report focuses on gasoline prices, crude oil costs, refining, distribution, taxes, and economic factors affecting gas prices, but does not mention Europe's role in LNG imports or changes in LNG volumes between 2019 and 2021."
+      ],
+      "109": [
+        "Omitted",
+        "The report focuses on gasoline prices, crude oil costs, refining, distribution, taxes, and economic factors affecting gas prices, but does not mention LNG imports, European production, pipeline imports from regional suppliers such as Russia, or demand levels in Europe."
+      ],
+      "110": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices, such as crude oil costs, refining costs, taxes, and economic factors, but does not mention European gas supply or net storage withdrawals."
+      ],
+      "111": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention a 'fear premium' related to the forthcoming winter or compare it to the cold winter of 2020/21."
+      ],
+      "112": [
+        "Omitted",
+        "The report focuses on gasoline prices and factors affecting them, such as crude oil costs, refining, distribution, taxes, and economic factors. It does not mention global supplies of natural gas, winter approaching, or electricity prices in the UK and Europe."
+      ],
+      "113": [
+        "Omitted",
+        "The report discusses gasoline prices and factors affecting them but does not mention natural gas prices in the US, UK, or Europe, nor does it discuss the energy crunch, winter blackouts, electricity retailers, or high homeowner bills related to natural gas."
+      ],
+      "114": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices such as crude oil costs, refining costs, taxes, and economic factors, but does not mention a shortfall in inventory or the impact of temperatures dipping on gas prices for home heating in the US and Europe."
+      ],
+      "115": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention gas stockpile levels in the US or Europe or their comparison to average levels."
+      ],
+      "116": [
+        "Omitted",
+        "The report focuses on factors affecting gasoline prices such as crude oil costs, refining costs, distribution, marketing expenses, government taxes, and economic conditions. It does not mention the specific factors listed in the key point related to natural gas supply constraints, such as the cold winter, low gas prices during the pandemic, Hurricane Ida, low exports from Russia, LNG competition, or low hydropower and wind generation."
+      ],
+      "117": [
+        "Omitted",
+        "The report discusses various factors influencing gas prices such as crude oil costs, refining and distribution costs, government taxes, and economic factors like inflation and supply chain issues. However, it does not mention Biden's policies or explicitly state that the rising cost of gasoline is due to high demand and low supply rather than Biden's policies."
+      ],
+      "118": [
+        "Omitted",
+        "The report discusses factors influencing gas prices such as crude oil costs, refining costs, taxes, and economic factors related to COVID-19 and market conditions, but it does not mention or attribute the rise in gasoline prices specifically to Biden's time in office or compare trends before and after his tenure."
+      ],
+      "119": [
+        "Supported",
+        "The report explains that gasoline prices are influenced by supply and demand factors, mentioning that increased demand as economies rebound has put pressure on prices, which aligns with the key point that low supply and high demand cause prices to rise."
+      ],
+      "120": [
+        "Omitted",
+        "The report discusses factors affecting gasoline prices, including crude oil costs, but does not mention the drastic drop in crude oil prices in 2020 due to the pandemic causing oversupply and low demand."
+      ],
+      "121": [
+        "Omitted",
+        "The report discusses factors affecting gas prices, including crude oil costs, refining costs, and economic factors, but does not mention oil producers cutting production in response to low demand or their readiness to meet renewed demand in 2021."
+      ],
+      "122": [
+        "Omitted",
+        "The report discusses factors influencing gasoline prices such as crude oil costs, refining costs, taxes, and economic factors including increased demand as economies recover from the pandemic. However, it does not specifically mention that demand increased more quickly than production in 2021, leading to drawing more on gasoline storage and higher prices."
+      ],
+      "123": [
+        "Omitted",
+        "The report discusses various factors influencing gasoline prices such as crude oil costs, refining and distribution costs, government taxes, and economic factors, but it does not mention the role of the president or compare the influence of presidential policies versus market factors on gasoline prices."
+      ],
+      "124": [
+        "Supported",
+        "The report explains that gas prices have been influenced by factors such as pandemic recovery and increased demand as economies rebound, which aligns with the key point that gas prices were rising before Biden took office due to pandemic recovery and seasonal travel demand."
+      ],
+      "125": [
+        "Omitted",
+        "The report discusses various factors influencing gas prices, such as crude oil costs, refining costs, taxes, and economic factors, but does not mention the Colonial Pipeline ransomware attack or its impact on gas prices in 2021."
+      ],
+      "126": [
+        "Omitted",
+        "The report discusses factors affecting gas prices such as crude oil costs, refining costs, taxes, and economic factors, but it does not mention Biden's cancellation of the Keystone XL pipeline or other energy policies and their effects on gas prices."
+      ]
+    },
+    "support_rate": 16.666666666666664,
+    "ommitted_rate": 80.95238095238095,
+    "contradicted_rate": 2.380952380952381
+  },
+  "354532": {
+    "labels": {
+      "1": [
+        "Omitted",
+        "The report discusses the impact of COVID-19 on international business, including supply chain disruptions and potential growth, but does not specifically mention that international business partnerships are likely to grow despite calls for protectionism, nor does it mention businesses diversifying overseas suppliers and partners to prevent future supply chain disruptions and increase resilience."
+      ],
+      "2": [
+        "Omitted",
+        "The report discusses the impact of COVID-19 on international business, focusing on digital transformation, growth potential, and supply chain disruptions, but does not mention international partnerships or their benefits such as cost-saving, access to talent, scaling operations, or accessing new markets."
+      ],
+      "3": [
+        "Omitted",
+        "The report discusses the impact of the COVID-19 pandemic on international business, including digital transformation, growth potential, and supply chain disruptions, but it does not mention the US-China trade war, increased diversification, regionalization, or reshoring trends."
+      ],
+      "4": [
+        "Omitted",
+        "The report discusses changes in international business post-COVID-19, including digital transformation and supply chain disruptions, but does not mention teleworking, virtual offices, or the increase in remote work."
+      ],
+      "5": [
+        "Omitted",
+        "The report discusses changes in international business post-COVID-19, focusing on digital transformation, supply chain disruptions, and growth potential, but does not mention changes in how organizations think about workspaces, cybersecurity, meetings, travel, events, policies, or employee work-life balance, nor the shift to flexible work."
+      ],
+      "6": [
+        "Omitted",
+        "The report discusses the impact of COVID-19 on international business, including supply chain disruptions and digital transformation, but does not explicitly mention the essential role of trade during the COVID-19 crisis to save lives and livelihoods, nor does it discuss the need for international cooperation to keep global supply chains open, avoid export restrictions, or the balance between diversification and strategic stockpiles."
+      ],
+      "7": [
+        "Supported",
+        "The report explicitly states that the pandemic has accelerated the need for digital strategies and digital transformation in international business, which aligns with the key point about accelerated digital transformation across industries. Although it does not list all the specific industries mentioned in the key point, it supports the overall idea of accelerated digital transformation due to the pandemic."
+      ],
+      "8": [
+        "Supported",
+        "The report discusses how businesses have accelerated digital transformation and focused on digital strategies post-COVID-19, which aligns with transitioning to online operations and enhancing digital commerce. It also mentions adapting to new global dynamics, which implies changes in business strategies. Although it does not explicitly mention workforce reduction or detailed online market research, the overall emphasis on rapid adaptation and digital focus supports the key point."
+      ],
+      "9": [
+        "Omitted",
+        "The report focuses on the impact of COVID-19 on international business, including digital transformation, supply chain disruptions, and growth potential, but does not mention remote work, its strategic importance, communication and socialization processes, or related benefits and challenges."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses the impact of the pandemic on international business, including digital transformation, supply chain disruptions, and growth potential, but does not mention business travel, virtual meetings, safety measures, or traveler preferences."
+      ],
+      "11": [
+        "Omitted",
+        "The report discusses digital transformation, supply chain disruptions, and growth potential in international business post-COVID-19, but it does not mention the adoption of new policies and technologies such as video interviews, remote work, virtual meetings, or increased consciousness of ethics and social responsibility."
+      ],
+      "12": [
+        "Omitted",
+        "The report discusses the impact of the pandemic on international business, including supply chain disruptions and digital transformation, but does not mention the major economic disruptions globally, uneven impacts across sectors, or the need for government support, stimulus, and long-term strategies for recovery and debt management."
+      ],
+      "13": [
+        "Supported",
+        "The report explicitly discusses the importance of digital transformation and strategy as a key focus for businesses post-pandemic. It also mentions the need for supportive environments and entrepreneurial ventures, which aligns with workforce well-being and resilience. The report addresses adapting to new global dynamics, which relates to agility and sustainability in the global economy. Therefore, the report supports the key point that businesses must focus on resilience, agility, digital transformation, workforce well-being, and sustainability to emerge stronger post-pandemic and adapt to the new normal."
+      ]
+    },
+    "support_rate": 23.076923076923077,
+    "ommitted_rate": 76.92307692307693,
+    "contradicted_rate": 0.0
+  },
+  "795422": {
+    "labels": {
+      "1": [
+        "Supported",
+        "The report states that only about 6.87% of recorded historical conflicts had religion as their primary cause, which aligns closely with the key point's claim of about 7%. It also discusses the complexity of religious wars and the influence of other factors, supporting the idea that religion causes a surprisingly low percentage of wars."
+      ],
+      "2": [
+        "Supported",
+        "The report states that only a small percentage of wars have religion as their primary cause and that many conflicts attributed to religion have underlying secular motivations such as political and economic factors. This aligns with the key point that religion was not a motivating factor in the wars with the most loss of life and that non-religious motivations are responsible for nearly all wars, including genocides based on political ideologies."
+      ],
+      "3": [
+        "Supported",
+        "The report states that religion is not the predominant cause of wars, with only about 6.87% of conflicts having religion as the primary cause, and that religion is often intertwined with political, economic, and ethnic factors. This aligns with the key point that religion is not the primary cause of war and is often used as a tool or excuse, with the principal cause being human nature and the sinful human condition."
+      ],
+      "4": [
+        "Supported",
+        "The report states that only a small percentage of wars are primarily caused by religion and that many conflicts labeled as religious wars have underlying political, economic, and ethnic motivations. It also mentions that religion sometimes supports but rarely instigates wars, aligning with the key point."
+      ],
+      "5": [
+        "Omitted",
+        "The report discusses the complexity of religion's role in war and notes that religion is not the predominant cause of wars, but it does not specifically mention religion dividing people into groups, justification for violence, promises of reward for martyrs, or clergy leadership in religious wars."
+      ],
+      "6": [
+        "Supported",
+        "The report explains that the concept of religious violence is complex and often intertwined with secular factors, indicating that the distinction between religious and secular violence is not clear-cut. It also mentions that the idea of religion as separate from culture and politics is a modern interpretation, supporting the key point's claim that the distinction is arbitrary and misleading."
+      ],
+      "7": [
+        "Omitted",
+        "The report discusses the complexity of religion's role in war and mentions that religion is not the predominant cause of wars, but it does not mention the debate between critics who argue religion is the greatest source of human-caused wars and those who argue secular ideologies cause greater violence."
+      ],
+      "8": [
+        "Omitted",
+        "The report discusses the complexity of religion's role in war and mentions that religion is a factor in a minority of conflicts, intertwined with other factors, but it does not specifically mention historical examples such as Hitler's religious justification for the Holocaust or religious complicity in genocides like Rwanda."
+      ],
+      "9": [
+        "Supported",
+        "The report explains that religion is often intertwined with political, economic, and ethnic factors in conflicts, and that religion can be used to justify wars, aligning with the key point that religion provides moral justification and facilitates war despite underlying causes being non-religious."
+      ],
+      "10": [
+        "Omitted",
+        "The report discusses the role of religion in causing wars and the complexity of religious conflicts but does not mention religious scriptures, traditions, or just war theories providing moral legitimacy or restraints on war."
+      ],
+      "11": [
+        "Omitted",
+        "The report discusses the relationship between religion and war, focusing on whether religion causes war and the complexity of religious conflicts. However, it does not mention the close tie between religion and society and state, nor does it discuss religion supporting the state and its wars or reflecting community support for war or peace."
+      ],
+      "12": [
+        "Supported",
+        "The report explicitly states that religion is often intertwined with political, economic, and ethnic factors in wars, making it difficult to separate religious motives from other motives. It also acknowledges that religious motives are not innocent of violence, as it discusses the concept of religious violence and religious wars."
+      ],
+      "13": [
+        "Omitted",
+        "The report discusses the relationship between religion and war, focusing on whether religion causes war, but it does not mention religion's role in reducing or stopping war, acting as a corrective to state violence, or promoting peace through teachings like the golden rule."
+      ],
+      "14": [
+        "Supported",
+        "The report discusses that the concept of religious wars is often a modern Western interpretation and that religion is intertwined with political and cultural factors, aligning with the key point that religion as a discrete category separable from culture and politics is a modern Western invention and that institutions function similarly whether labeled religious or secular."
+      ],
+      "15": [
+        "Omitted",
+        "The report discusses the complexity of religion's role in war and mentions Western perspectives, but it does not specifically state that the idea that religion causes violence is prevalent because it is comforting and ideologically useful in the West, nor does it mention silencing certain faiths or justifying Western policies abroad."
+      ],
+      "16": [
+        "Omitted",
+        "The report discusses the role of religion in wars and mentions some conflicts involving religious elements, such as Afghanistan and Iraq, but it does not specifically list or mention the historical conflicts named in the key point (Crusades, Thirty Years War, conflicts in Yugoslavia, Northern Ireland, England, and France)."
+      ],
+      "17": [
+        "Omitted",
+        "The report discusses the relationship between religion and war, focusing on the causes of war and the role of religion in conflicts. However, it does not mention religious attendance, religiosity, or their complex relationships with violence, nor does it discuss social psychological group behavior processes related to religiosity and violence."
+      ],
+      "18": [
+        "Omitted",
+        "The report focuses on the relationship between religion and war, discussing the causes of conflicts and the role of religion in warfare. It does not mention beliefs about heaven, hell, the soul, their evolution, or their psychological effects."
+      ],
+      "19": [
+        "Omitted",
+        "The report discusses the relationship between religion and war, focusing on the causes of war and the role of religion, but it does not mention biblical war texts, literary conventions, hyperbole, or the Bible's rules against killing innocent people."
+      ],
+      "20": [
+        "Supported",
+        "The report states that religion has been a factor in some wars but is not the predominant cause, and that religious conflicts are often intertwined with political, economic, and ethnic factors, aligning with the key point that religion influences behavior and sometimes promotes violence but is never the sole cause of war and is mixed with other factors."
+      ],
+      "21": [
+        "Omitted",
+        "The report discusses the complexity of religion's role in war and mentions political, economic, and ethnic factors, but it does not specifically address fear, terror, and violence arising from social and political conditions such as imperialism, repression, marginalization, and extremist leadership in religious contexts."
+      ],
+      "22": [
+        "Omitted",
+        "The report discusses the role of religion in war and the complexity of religious conflicts but does not mention interpretations of religious texts justifying violence or the advocacy for peace by religious teachings and prophets."
+      ],
+      "23": [
+        "Supported",
+        "The report explicitly states that religion is often intertwined with political, economic, and ethnic factors in conflicts, making it difficult to isolate as the sole cause. It also mentions historical conflicts like the Israeli-Palestinian conflict and wars in Afghanistan and Iraq as examples where religion is one of multiple causes, aligning with the key point about the American Civil War and other historical conflicts involving religion alongside money, power, and political issues."
+      ],
+      "24": [
+        "Omitted",
+        "The report discusses the relationship between religion and war in general terms and does not mention ISIS, extremist Muslim groups, or the perception of Islam and violence."
+      ]
+    },
+    "support_rate": 41.66666666666667,
+    "ommitted_rate": 58.333333333333336,
+    "contradicted_rate": 0.0
+  },
+  "31522": {
+    "labels": {
+      "1": [
+        "Supported",
+        "The report explicitly states that the mainstream scientific consensus is that race is a social construct without biological meaning, created and maintained by societal norms and power structures, and not a valid proxy for genetic diversity."
+      ],
+      "2": [
+        "Supported",
+        "The report explicitly states that the concept of race has historical roots in justifying social hierarchies and enslavement, highlighting its role in maintaining power dynamics and social inequalities, which aligns with the key point that race has been used to justify oppression, violence, and social inequalities intertwined with power structures."
+      ],
+      "3": [
+        "Supported",
+        "The report states that race is a social construct without biological meaning and that genetic variation occurs mostly within racial groups rather than between them, implying that observed health and genetic differences attributed to race are due to social and other factors, not inherent racial biology."
+      ],
+      "4": [
+        "Supported",
+        "The report explicitly states that race is a social construct without biological basis, discusses its historical roots and social implications, and acknowledges that the concept varies across societies and historical periods, aligning with the key point that race is a fluid, socially defined concept influenced by social, political, and psychological factors."
+      ],
+      "5": [
+        "Supported",
+        "The report explicitly states that race is a social construct without biological meaning and cites genetic research indicating that most human genetic variation occurs within so-called racial groups rather than between them, which supports the key point that no single gene or cluster of genes defines traditional racial groups and that genetic variation within groups is often greater than between groups."
+      ],
+      "6": [
+        "Supported",
+        "The report explicitly states that race is a social construct created and maintained by societal norms and power structures, including historical use to justify social hierarchies and control power, which aligns with the key point that race categories are arbitrary, socially imposed, and maintained by collective agreement often by dominant groups to control power and status."
+      ],
+      "7": [
+        "Supported",
+        "The report clearly states that race lacks a biological basis and is a social construct, supported by scientific consensus and genetic research, which aligns with the key point that race is not a reliable or precise biological concept and can lead to incorrect scientific or clinical conclusions."
+      ],
+      "8": [
+        "Supported",
+        "The report explicitly states that race is a social construct with significant social consequences, including its impact on social hierarchies, identity, and experiences, which aligns with the key point that race influences identity, social status, and experiences of racism."
+      ],
+      "9": [
+        "Supported",
+        "The report explicitly states the scientific consensus that race is a social construct rather than a biological fact, supported by genetic research showing most human genetic variation occurs within racial groups rather than between them, aligning with the key point."
+      ],
+      "10": [
+        "Supported",
+        "The report explicitly discusses the use of race as a social construct linked to historical contexts such as the 18th century rationalization of enslavement, which aligns with the key point about race being used as a tool for social categorization and control, often linked to colonialism, slavery, and systemic racism."
+      ]
+    },
+    "support_rate": 100.0,
+    "ommitted_rate": 0.0,
+    "contradicted_rate": 0.0
+  }
+}
