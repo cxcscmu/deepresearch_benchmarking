@@ -1,118 +1,130 @@
-# Report on the Causes of Rising Crude Oil Prices
+# Why Are Crude Oil Prices Rising? An In-Depth Analysis
 
-## Introduction
-
-Crude oil prices are a critical economic indicator, influencing global energy markets, economic growth, and geopolitical stability. The recent surge in crude oil prices has garnered significant attention from policymakers, investors, and consumers alike. This report provides a comprehensive and detailed analysis of the factors driving the rise in crude oil prices, drawing on recent empirical data, market analyses, and geopolitical developments. The aim is to elucidate the underlying causes with quantitative and qualitative evidence, offering an objective and well-structured explanation.
-
-## Overview of Recent Price Trends
-
-In 2021, crude oil prices experienced a marked increase, with Brent crude oil—a global benchmark—starting the year at approximately $50 per barrel and peaking at $86 per barrel in late October before a slight decline towards year-end. The annual average price of Brent crude in 2021 was $71 per barrel, the highest in three years. West Texas Intermediate (WTI) crude followed a similar pattern, averaging about $3 per barrel less than Brent ([EIA, 2022](https://www.eia.gov/todayinenergy/detail.php?id=50698)).
-
-## Key Drivers of Rising Crude Oil Prices
-
-### 1. Demand Outpacing Supply
-
-The primary driver of rising crude oil prices in recent years has been the imbalance between global demand and supply. Several factors contributed to this dynamic:
-
-- **Post-Pandemic Economic Recovery:** As COVID-19 vaccination rates increased and pandemic-related restrictions eased globally, economic activities resumed, leading to a surge in petroleum demand. The global economy's growth accelerated energy consumption, outpacing supply capabilities ([EIA, 2022](https://www.eia.gov/todayinenergy/detail.php?id=50698)).
-
-- **Supply Constraints:** Global petroleum production increased at a slower pace due to deliberate production cuts by OPEC+ (Organization of the Petroleum Exporting Countries and allies, including Russia). These cuts, initiated in late 2020, were maintained throughout 2021 to support higher crude oil prices. Additionally, U.S. crude oil production declined slightly in 2021, influenced by adverse weather events and reduced investment in oil production infrastructure ([EIA, 2022](https://www.eia.gov/todayinenergy/detail.php?id=50698)).
-
-- **Inventory Drawdowns:** The persistent demand-supply gap led to continuous withdrawals from global petroleum inventories, with an estimated global inventory decline of 469 million barrels in 2021—the largest annual drawdown since 2007. This reduction in stockpiles further tightened supply and supported price increases ([EIA, 2022](https://www.eia.gov/todayinenergy/detail.php?id=50698)).
-
-### 2. Geopolitical Risks and Uncertainties
-
-Geopolitical events have historically influenced crude oil prices by creating supply disruptions or raising concerns about future availability. Recent studies highlight the nuanced impact of geopolitical risks, distinguishing between threats (potential risks) and acts (realized events such as wars or terrorist attacks):
-
-- **Positive Correlation with Geopolitical Acts:** Empirical evidence shows a strong positive relationship between oil prices and realized geopolitical acts during periods of heightened uncertainty. For instance, conflicts involving major oil producers or regions critical to supply chains have led to price surges ([Bouoiyour et al., 2019](https://doi.org/10.1016/j.eneco.2019.104523)).
-
-- **Moderate or Non-Significant Impact of Threats:** Interestingly, the market's response to geopolitical threats without actual disruptions tends to be less pronounced or statistically insignificant. This may be due to market participants' ability to anticipate and absorb potential risks, as well as the stabilizing role of organizations like OPEC ([Bouoiyour et al., 2019](https://doi.org/10.1016/j.eneco.2019.104523)).
-
-- **Recent Geopolitical Hotspots:** Events such as the Gulf War, 9/11 attacks, Iraq invasion, Russia-Ukraine crisis, and tensions involving Iran and Venezuela have historically influenced oil prices. The ongoing geopolitical tensions in oil-producing regions continue to contribute to market volatility and price levels ([Rigzone, 2022](https://www.rigzone.com/news/geopolitics_always_important_driver_of_commodity_prices-10-jan-2022-168086-article/)).
-
-### 3. Weather and Natural Disruptions
-
-Weather-related events have intermittently constrained oil production and distribution, contributing to supply tightness:
-
-- **Extreme Weather Events:** Cold weather in the U.S. during February 2021 and hurricanes in the Gulf of Mexico in August 2021 caused production declines by freezing wells and damaging infrastructure, reducing output by approximately 1.3 million barrels per day during peak disruption ([EIA, 2022](https://www.eia.gov/todayinenergy/detail.php?id=50698)).
-
-- **Seasonal Demand Fluctuations:** Winter heating demand, particularly in the northeastern U.S., affects crude oil consumption patterns, influencing prices seasonally ([EBF 301, 2022](https://canvas.instructure.com/courses/123456/pages/factors-influencing-crude-oil-price)).
-
-### 4. Substitution Effects and Energy Market Interactions
-
-The rise in natural gas and coal prices has led to increased oil demand as a substitute, especially in Asia:
-
-- **Coal Shortages in Asia:** Countries facing coal supply constraints have increased oil consumption to meet energy needs, adding upward pressure on oil prices ([Marca, 2021](https://www.marca.com/en/economy/2021/10/24/617a7d6b22601d3a6e8b45a2.html)).
-
-- **Natural Gas Price Surge:** Elevated natural gas prices globally have driven demand for oil-based fuels, particularly in power generation, further tightening oil markets ([Marca, 2021](https://www.marca.com/en/economy/2021/10/24/617a7d6b22601d3a6e8b45a2.html)).
-
-### 5. Currency and Financial Market Factors
-
-The strength of the U.S. dollar inversely affects oil prices, as oil is priced in dollars globally:
-
-- **Dollar Depreciation:** A weaker U.S. dollar makes oil cheaper for holders of other currencies, boosting demand and prices. Conversely, a stronger dollar can dampen oil prices ([EBF 301, 2022](https://canvas.instructure.com/courses/123456/pages/factors-influencing-crude-oil-price)).
-
-### 6. Market Structure and Speculative Behavior
-
-Oil markets exhibit complex dynamics influenced by inventory levels, futures markets, and speculative trading:
-
-- **Backwardation and Inventory Levels:** The oil futures market has shown a backwardated structure, where near-term prices exceed future prices, encouraging release of stored oil and indicating tight supply conditions ([Reuters, 2022](https://www.reuters.com/article/oil-prices-inventories-idUSL1N2UQ0F7)).
-
-- **Speculative Persistence:** Studies reveal multifractal and persistent behaviors in oil price fluctuations, suggesting that speculative trading and market inefficiencies contribute to price volatility ([Bouoiyour et al., 2019](https://doi.org/10.1016/j.eneco.2019.104523)).
-
-### 7. Production Policies and Capacity Constraints
-
-- **OPEC+ Production Cuts:** OPEC+ has strategically maintained production cuts to support prices, limiting supply growth despite rising demand ([EIA, 2022](https://www.eia.gov/todayinenergy/detail.php?id=50698)).
-
-- **Capacity Limitations:** Some smaller producers face difficulties increasing output due to investment constraints and infrastructure bottlenecks, limiting supply responsiveness ([Reuters, 2022](https://www.reuters.com/article/oil-prices-inventories-idUSL1N2UQ0F7)).
-
-### 8. Broader Economic and Trade Factors
-
-- **Global Economic Growth:** Stronger-than-expected global GDP growth has increased energy consumption, supporting higher oil prices ([ECB, 2018](https://www.ecb.europa.eu/pub/economic-bulletin/focus/2018/html/ecb.ebbox201802_02~2a5f4f1e6f.en.html)).
-
-- **Trade Tensions and Sanctions:** Trade disputes, such as the U.S.-China trade war, and sanctions on countries like Iran and Venezuela have disrupted supply chains and contributed to price volatility ([Bouoiyour et al., 2019](https://doi.org/10.1016/j.eneco.2019.104523)).
-
-## Quantitative Summary of Key Data
-
-| Factor                         | Impact on Price                          | Quantitative Evidence                                     |
-|--------------------------------|----------------------------------------|-----------------------------------------------------------|
-| Brent crude price (2021)        | Increased from $50 to $86 per barrel   | Annual average $71/b, highest in 3 years ([EIA, 2022])    |
-| Global inventory drawdown       | 469 million barrels in 2021            | Largest annual withdrawal since 2007 ([EIA, 2022])        |
-| U.S. production decline         | 0.1 million b/d from 2020              | Due to weather and investment decline ([EIA, 2022])       |
-| OPEC+ production cuts           | Continued through 2021                  | Strategic supply limitation ([EIA, 2022])                  |
-| Geopolitical acts impact        | Positive and strong correlation        | Empirical copula models ([Bouoiyour et al., 2019])        |
-| Geopolitical threats impact     | Non-significant or modest               | Market anticipates threats ([Bouoiyour et al., 2019])     |
-| Natural gas price surge         | Increased oil demand                    | Substitute demand effect ([Marca, 2021])                   |
-| Weather disruptions             | 1.3 million b/d production drop        | February cold snap and hurricanes ([EIA, 2022])           |
-
-## Discussion and Opinion
-
-Based on the comprehensive review of empirical data and market analyses, the rise in crude oil prices is principally driven by a sustained imbalance between demand and supply, exacerbated by geopolitical risks and production constraints. The post-pandemic economic recovery has rapidly increased oil demand, while supply has been deliberately restrained by OPEC+ and hampered by weather-related disruptions and infrastructure limitations.
-
-Geopolitical risks play a significant role, particularly when actual disruptive events occur, leading to immediate supply concerns and price spikes. However, the market's muted response to mere threats suggests a degree of resilience and anticipatory adjustment, possibly due to diversified supply sources and strategic reserves.
-
-Furthermore, the interplay between oil and other energy commodities, such as natural gas and coal, influences demand patterns, with substitution effects amplifying oil consumption when alternative fuels become expensive or scarce.
-
-Financial market structures, including futures market backwardation and speculative trading, contribute to price dynamics and volatility, reflecting the complex nature of oil as both a physical commodity and a financial asset.
-
-In conclusion, the current rise in crude oil prices is multifactorial, with demand recovery, supply management, geopolitical events, and market behavior all contributing. This complex interplay suggests that prices may remain elevated or volatile in the near term, especially if geopolitical tensions persist or intensify, and if supply constraints continue.
-
-## References
-
-- Bouoiyour, J., Selmi, R., & Wohar, M. E. (2019). What are the categories of geopolitical risks that could drive oil prices higher? Acts or threats? *Energy Economics*, 84, 104523. https://doi.org/10.1016/j.eneco.2019.104523
-
-- EIA. (2022, January 4). Crude oil prices rose in 2021 as global demand for crude oil exceeded supply. *U.S. Energy Information Administration*. https://www.eia.gov/todayinenergy/detail.php?id=50698
-
-- Marca. (2021, October 24). US inflation: Why are oil prices increasing in 2021? *Marca*. https://www.marca.com/en/economy/2021/10/24/617a7d6b22601d3a6e8b45a2.html
-
-- Rigzone. (2022, January 10). Geopolitics Always Important Driver of Commodity Prices. *Rigzone*. https://www.rigzone.com/news/geopolitics_always_important_driver_of_commodity_prices-10-jan-2022-168086-article/
-
-- Reuters. (2022, January 10). Oil price structures show firm demand, depleting inventories. *Reuters*. https://www.reuters.com/article/oil-prices-inventories-idUSL1N2UQ0F7
-
-- European Central Bank. (2018). Are the recent oil price increases set to last? *ECB Economic Bulletin*. https://www.ecb.europa.eu/pub/economic-bulletin/focus/2018/html/ecb.ebbox201802_02~2a5f4f1e6f.en.html
-
-- EBF 301. (2022). Factors Influencing Crude Oil Price. *University Course Material*. https://canvas.instructure.com/courses/123456/pages/factors-influencing-crude-oil-price
+Crude oil prices have experienced significant fluctuations over the past decade, influenced by a complex interplay of supply, demand, geopolitical events, and regulatory changes. Since the early 2020s, crude oil prices have shown a marked upward trajectory, reaching multi-year highs by late 2021 and beyond. This report aims to provide a comprehensive, data-driven analysis of the key factors driving the rise in crude oil prices, drawing on reliable and recent sources to present an objective view.
 
 ---
 
-This report aims to provide an evidence-based, objective, and comprehensive understanding of the factors influencing the recent rise in crude oil prices, integrating quantitative data and scholarly research for informed decision-making.
+## 1. Supply Constraints and OPEC+ Production Policies
+
+One of the primary drivers behind rising crude oil prices has been the deliberate supply restraint exercised by the Organization of Petroleum Exporting Countries (OPEC) and its allies, collectively known as OPEC+. In response to the sharp price collapse in 2020 caused by the COVID-19 pandemic and associated demand shocks, OPEC+ implemented coordinated production cuts starting in late 2020. These cuts were designed to stabilize the market and support prices ([Ajot, 2021](https://ajot.com/news/crude-oil-prices-increased-in-2021-as-global-crude-oil-demand-outpaced-supply)).
+
+### OPEC Production Cuts and Impact
+
+- OPEC reduced production from approximately 35 million barrels per day (b/d) in 2019 to an expected 32.8 million b/d by 2024, reflecting a long-term strategy to balance the market amid uncertain demand growth ([Capital.com, 2019](https://capital.com/crude-oil-price-forecast)).
+- In 2021, OPEC+ maintained output cuts and planned only gradual increases, with modest production rises of 400,000 b/d in December 2021 and further incremental increases in subsequent months ([Invezz, 2021](https://invezz.com/news/2021/11/12/crude-oil-price-prediction-twist-demand-outlook/)).
+- Saudi Arabia’s voluntary additional cuts of 1 million b/d between February and April 2021 further tightened supply, with only partial restoration in the following months ([Indian Express, 2021](https://indianexpress.com/article/explained/explained-why-oil-prices-are-rising-and-how-it-will-impact-india-7341460/)).
+
+These supply constraints have directly contributed to upward price pressure by limiting the availability of crude oil in the global market, especially as demand began to recover.
+
+---
+
+## 2. Demand Recovery Post-COVID-19 Pandemic
+
+The COVID-19 pandemic caused an unprecedented collapse in global oil demand in early 2020, with consumption dropping by nearly 30 million b/d in mid-April 2020 ([Capital.com, 2020](https://capital.com/oil-price-analysis-in-may-2020)). However, as vaccination campaigns progressed and economies reopened, demand rebounded strongly:
+
+- By mid-2021, global petroleum demand had outpaced supply growth, contributing to price increases ([Ajot, 2021](https://ajot.com/news/crude-oil-prices-increased-in-2021-as-global-crude-oil-demand-outpaced-supply)).
+- Economic recovery in major markets, including the US, Europe, and Asia, has led to increased industrial activity and transportation fuel consumption ([Livemint, 2021](https://www.livemint.com/market/commodities/five-reasons-why-global-oil-prices-have-jumped-to-3-year-high-11633953731294.html)).
+- The surge in demand has been further amplified by substitute effects, where rising prices of natural gas and coal have pushed consumers, especially in Asia, to increase oil consumption for power generation ([Marca, 2021](https://www.marca.com/en/lifestyle/us-news/2021/10/24/617520d222601d10078b45ab.html)).
+
+---
+
+## 3. Geopolitical and Regulatory Factors
+
+### Geopolitical Tensions
+
+Geopolitical risks have historically influenced oil prices by threatening supply stability. Recent years have seen:
+
+- Sanctions on Iran limiting its oil exports and raising concerns about supply disruptions in the Persian Gulf ([CaixaBank Research, 2018](https://www.caixabankresearch.com/en/economics-markets/commodities/what-behind-rise-oil-prices)).
+- Production challenges in Libya and Venezuela due to political instability and sanctions, reducing global supply capacity ([Capital.com, 2019](https://capital.com/crude-oil-price-forecast)).
+
+### IMO 2020 Regulation
+
+The International Maritime Organization’s 2020 regulation banning high sulfur fuel oil (HSFO) for marine bunker fuel has reshaped the oil products market:
+
+- This regulation forced a shift to low sulfur fuels, altering demand patterns for different crude oil grades and refinery outputs ([Capital.com, 2019](https://capital.com/crude-oil-price-forecast)).
+- Compliance challenges and infrastructure adjustments have contributed to market uncertainty and price volatility.
+
+---
+
+## 4. Market Dynamics: Inventories, Infrastructure, and Substitution Effects
+
+### Inventory Levels
+
+Inventory buffers play a critical role in moderating price volatility:
+
+- In early 2017, significant crude oil stockpiles had accumulated, providing a buffer that stabilized prices around $55 per barrel ([CaixaBank Research, 2018](https://www.caixabankresearch.com/en/economics-markets/commodities/what-behind-rise-oil-prices)).
+- However, as OPEC+ cuts and demand recovery depleted these buffers, markets became more sensitive to supply-demand imbalances, contributing to price increases ([Capital.com, 2019](https://capital.com/crude-oil-price-forecast)).
+
+### Infrastructure Constraints
+
+- US shale oil production, which had been expected to surge and cap prices between $50 and $60 per barrel, has faced bottlenecks and infrastructure constraints, limiting its ability to offset OPEC cuts ([CaixaBank Research, 2018](https://www.caixabankresearch.com/en/economics-markets/commodities/what-behind-rise-oil-prices)).
+- Weather events such as hurricanes Ida and Nicholas damaged US Gulf of Mexico oil infrastructure, temporarily reducing supply and supporting higher prices ([Marca, 2021](https://www.marca.com/en/lifestyle/us-news/2021/10/24/617520d222601d10078b45ab.html)).
+
+### Substitution Effects
+
+- Rising prices of natural gas and coal have increased oil demand as a substitute for power generation, particularly in Asia, further tightening the oil market ([Marca, 2021](https://www.marca.com/en/lifestyle/us-news/2021/10/24/617520d222601d10078b45ab.html)).
+
+---
+
+## 5. Macroeconomic Factors and Currency Effects
+
+### Global Economic Growth
+
+- Stronger-than-expected global GDP growth forecasts have supported higher oil demand projections, underpinning price increases ([CaixaBank Research, 2018](https://www.caixabankresearch.com/en/economics-markets/commodities/what-behind-rise-oil-prices)).
+- Conversely, periods of economic nationalism and trade tensions have previously dampened demand growth and contributed to price stagnation ([Capital.com, 2019](https://capital.com/crude-oil-price-forecast)).
+
+### US Dollar Strength
+
+- The value of the US dollar inversely affects oil prices, as oil is priced in dollars globally. A weaker dollar tends to support higher oil prices by making oil cheaper for holders of other currencies ([Investopedia, 2022](https://www.investopedia.com/articles/investing/102215/4-reasons-why-price-crude-oil-dropped.asp)).
+
+---
+
+## 6. Summary of Key Factors Driving Oil Price Increases
+
+| Factor                         | Description                                                                                      | Impact on Prices                  |
+|-------------------------------|------------------------------------------------------------------------------------------------|---------------------------------|
+| OPEC+ Production Cuts          | Coordinated supply reductions limiting crude availability                                      | Upward pressure                 |
+| Demand Recovery Post-Pandemic | Economic reopening and increased fuel consumption                                              | Upward pressure                 |
+| Geopolitical Risks            | Sanctions, conflicts, and instability in key producing regions                                 | Upward pressure                 |
+| IMO 2020 Regulation           | Shift in marine fuel standards affecting crude demand and refinery operations                   | Increased market uncertainty    |
+| Inventory Depletion           | Reduced crude stockpiles lowering market buffers                                               | Increased volatility and prices |
+| Infrastructure Constraints    | US shale bottlenecks and weather-related supply disruptions                                    | Upward pressure                 |
+| Substitution Effects          | Higher coal and gas prices driving oil demand for power generation                             | Upward pressure                 |
+| Global Economic Growth        | Strong GDP growth supporting demand expansion                                                  | Upward pressure                 |
+| US Dollar Fluctuations        | Currency movements affecting oil affordability globally                                        | Variable, often inverse         |
+
+---
+
+## 7. Conclusion
+
+The rise in crude oil prices since the early 2020s is the result of a multifaceted set of factors, with supply constraints imposed by OPEC+ and allied producers playing a central role. This supply discipline, combined with a robust recovery in global demand following the easing of COVID-19 restrictions, has created a market environment characterized by tight supply-demand balances.
+
+Geopolitical tensions and regulatory changes, such as the IMO 2020 fuel standards, have further complicated the supply landscape, while infrastructure limitations and substitution effects have added to upward price pressures. Macroeconomic factors, including global economic growth and currency fluctuations, have also influenced price dynamics.
+
+Overall, the convergence of these factors has led to sustained increases in crude oil prices, reaching levels not seen since the mid-2010s. While some volatility remains due to ongoing uncertainties, the fundamental market drivers suggest that prices are likely to remain elevated in the near to medium term, barring significant geopolitical disruptions or demand shocks.
+
+---
+
+## References
+
+Ajot. (2021). *Global petroleum production increased more slowly than demand, driving higher prices*. https://ajot.com/news/crude-oil-prices-increased-in-2021-as-global-crude-oil-demand-outpaced-supply
+
+CaixaBank Research. (2018). *What is behind the rise in oil prices?* https://www.caixabankresearch.com/en/economics-markets/commodities/what-behind-rise-oil-prices
+
+Capital.com. (2019). *Crude oil price forecast: what to expect from the global oil market in 2020 and beyond*. https://capital.com/crude-oil-price-forecast
+
+Capital.com. (2020). *Oil price analysis in May 2020: everything you need to know about the market*. https://capital.com/oil-price-analysis-in-may-2020
+
+Indian Express. (2021). *Why are crude oil prices rising?* https://indianexpress.com/article/explained/explained-why-oil-prices-are-rising-and-how-it-will-impact-india-7341460/
+
+Invezz. (2021). *Crude oil price prediction twist demand outlook*. https://invezz.com/news/2021/11/12/crude-oil-price-prediction-twist-demand-outlook/
+
+Investopedia. (2022). *Why Crude Oil Prices Fall: 5 Lessons from the Past*. https://www.investopedia.com/articles/investing/102215/4-reasons-why-price-crude-oil-dropped.asp
+
+Livemint. (2021). *Five reasons why global oil prices have jumped to 3-year high*. https://www.livemint.com/market/commodities/five-reasons-why-global-oil-prices-have-jumped-to-3-year-high-11633953731294.html
+
+Marca. (2021). *Crude oil rallied to seven years high on strong fundamentals*. https://www.marca.com/en/lifestyle/us-news/2021/10/24/617520d222601d10078b45ab.html
+
+---
+
+This report has synthesized the most relevant and recent information to provide a detailed understanding of the factors behind the rise in crude oil prices. The interplay of supply discipline, demand recovery, geopolitical risks, and regulatory changes forms the core narrative explaining current market conditions.

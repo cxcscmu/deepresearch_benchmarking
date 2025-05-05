@@ -1,125 +1,109 @@
-# Why Are People Taking Ivermectin for COVID-19? A Comprehensive Analysis
+# Why Are People Taking Ivermectin for COVID-19? An In-Depth Analysis
 
-## Introduction
+Since the onset of the COVID-19 pandemic, ivermectin, an antiparasitic drug with a long history of use in humans and animals, has attracted significant attention as a potential treatment or prophylactic agent against COVID-19. Despite widespread skepticism from the scientific and medical communities, many individuals have sought out ivermectin for COVID-19, often in the absence of robust clinical evidence supporting its efficacy. This report aims to provide a comprehensive, evidence-based analysis of the reasons behind the public’s use of ivermectin for COVID-19, drawing from a broad range of scientific literature, regulatory statements, and social phenomena observed during the pandemic.
 
-Ivermectin, an antiparasitic drug widely used in both humans and animals, gained unexpected attention during the COVID-19 pandemic as a potential treatment or preventive agent against SARS-CoV-2 infection. Despite its established use for parasitic infections, ivermectin's role in COVID-19 has been highly controversial, marked by misinformation, political polarization, and conflicting scientific evidence. This report aims to provide a detailed, evidence-based analysis of why people have taken ivermectin for COVID-19, exploring the scientific, social, political, and economic factors that contributed to its widespread, albeit unsupported, use.
+---
 
 ## Background on Ivermectin
 
-Ivermectin is a broad-spectrum antiparasitic agent approved by the U.S. Food and Drug Administration (FDA) for treating parasitic worms, head lice, and rosacea in humans, and widely used in veterinary medicine for parasite control in animals ([Molyneux & Ward, 2015](https://doi.org/10.1016/j.pt.2015.10.008)). It functions by interfering with nerve and muscle functions of parasites. The drug was discovered in the 1970s and has been credited with significant public health impacts, including the eradication of river blindness in some regions.
+Ivermectin is an antiparasitic medication approved for use in humans for decades, primarily to treat parasitic infections such as onchocerciasis and strongyloidiasis, and in veterinary medicine for parasite control in animals ([Wikipedia, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic)). It has an excellent safety profile when used at approved doses, with billions of doses administered worldwide and a very low incidence of serious adverse events ([American Council on Science and Health, 2021](https://www.acsh.org/news/2021/05/04/who%E2%80%99s-afraid-ivermectin-15529)).
 
-## Emergence of Ivermectin as a COVID-19 Treatment Candidate
+---
 
-Early in the COVID-19 pandemic, laboratory studies indicated that ivermectin might inhibit replication of SARS-CoV-2 in vitro. For instance, Caly et al. (2020) demonstrated that ivermectin could reduce viral RNA in cell cultures by 5,000-fold after 48 hours ([Caly et al., 2020](https://doi.org/10.1016/j.antiviral.2020.104787)). This sparked interest in repurposing ivermectin for COVID-19 treatment.
+## Scientific and Clinical Context of Ivermectin for COVID-19
 
-However, the effective concentrations observed in vitro required doses much higher than those approved or safely achievable in humans, raising concerns about toxicity ([Popp et al., 2021](https://doi.org/10.1002/14651858.cd015017.pub2)). The antiviral mechanism is thought to involve inhibition of nuclear transport by importin α/β1, a host cellular process, which is not virus-specific and may cause systemic toxicity at high doses ([Yang et al., 2020](https://doi.org/10.1016/j.antiviral.2020.104760)).
+### Early Laboratory Evidence and Initial Enthusiasm
 
-## Scientific Evidence and Clinical Trials
+Interest in ivermectin as a COVID-19 treatment was initially sparked by in vitro studies demonstrating that ivermectin could inhibit the replication of SARS-CoV-2 in cell cultures. For example, a study published in *Antiviral Research* showed a 5,000-fold reduction in viral RNA at 48 hours post-treatment in vitro ([MSN, 2021](https://www.msn.com/en-us/health/medical/why-do-people-want-to-take-ivermectin-for-covid/ar-AAOr5R3)). This laboratory evidence led to hypotheses that ivermectin might have clinical utility against COVID-19.
 
-Numerous clinical trials and systematic reviews have been conducted to evaluate ivermectin's efficacy against COVID-19. The majority of high-quality studies and meta-analyses have found no significant benefit in treating or preventing COVID-19 with ivermectin. For example:
+However, experts quickly cautioned that in vitro efficacy does not necessarily translate to clinical effectiveness in humans, especially given the high doses required to achieve similar antiviral concentrations in vivo, which may not be safe or achievable ([MSN, 2021](https://www.msn.com/en-us/health/medical/why-do-people-want-to-take-ivermectin-for-covid/ar-AAOr5R3); [Inverse, 2021](https://www.inverse.com/science/ivermectin-drug-covid-19)).
 
-| Study/Review | Findings | Evidence Quality |
-|--------------|----------|------------------|
-| Popp et al. (2021) Cochrane Review | No evidence supporting ivermectin for COVID-19 prevention or treatment | High-quality systematic review |
-| Reis et al. (2022) NEJM RCT | No significant effect on hospitalization or symptom resolution | Randomized controlled trial |
-| NIH COVID-19 Treatment Guidelines | Insufficient evidence to recommend for or against ivermectin | Expert panel consensus |
+### Clinical Trials and Evidence Limitations
 
-Several studies initially suggesting benefit were later retracted due to data falsification or ethical concerns ([Davey, 2021](https://www.theguardian.com/science/2021/jul/15/huge-study-supporting-ivermectin-as-covid-treatment-withdrawn-over-ethical-concerns)). This has contributed to confusion and mistrust among the public.
+A large number of clinical studies, including randomized controlled trials (RCTs), observational studies, and meta-analyses, have investigated ivermectin’s efficacy for COVID-19. However, many of these studies have been criticized for serious methodological limitations such as small sample sizes, heterogeneity in patient populations, variable dosing regimens, uncontrolled cointerventions, and high risks of bias ([BMJ Evidence-Based Medicine, 2021](https://ebm.bmj.com/content/early/2021/05/26/bmjebm-2021-111678); [Wikipedia, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic)).
 
-## Why Are People Taking Ivermectin for COVID-19?
+Several high-profile studies initially reporting positive effects were later retracted due to concerns about data falsification, unverifiable data, or ethical violations ([Wikipedia, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic); [NPR, 2021](https://www.npr.org/sections/health-shots/2021/09/19/1038369557/ivermectin-anti-vaccine-movement-culture-wars)). These retractions contributed to public confusion and polarized opinions.
 
-Despite the lack of robust evidence and warnings from health authorities, many individuals have taken ivermectin for COVID-19. The reasons are multifaceted:
+Regulatory agencies including the U.S. Food and Drug Administration (FDA), World Health Organization (WHO), European Medicines Agency (EMA), and national health bodies have consistently advised against the use of ivermectin for COVID-19 outside clinical trials due to insufficient evidence of efficacy and potential safety concerns ([Wikipedia, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic); [Inverse, 2021](https://www.inverse.com/science/ivermectin-drug-covid-19)).
 
-### 1. Early Laboratory Findings and Hope for a "Miracle Cure"
+---
 
-The initial in vitro studies generated hope that ivermectin could be a cheap, widely available treatment. This hope was amplified by anecdotal reports and preprints suggesting efficacy, even though these were methodologically flawed or unverified ([Garegnani et al., 2021](https://doi.org/10.1136/bmjebm-2021-111678)).
+## Reasons Why People Are Taking Ivermectin for COVID-19
 
-### 2. Misinformation and Social Media Advocacy
+Despite the lack of conclusive evidence and official warnings, many people continue to seek and use ivermectin for COVID-19. The reasons for this phenomenon are multifaceted and can be grouped into the following categories:
 
-Social media platforms played a significant role in spreading misinformation about ivermectin. Influencers, podcasters (e.g., Joe Rogan), and anti-vaccine groups promoted ivermectin as a "miracle drug" or alternative to vaccines ([Huang, 2021](https://www.npr.org/2021/09/19/1038536150/how-ivermectin-became-the-new-focus-of-the-anti-vaccine-movement)). The Front Line COVID-19 Critical Care Alliance (FLCCC), led by Dr. Pierre Kory, aggressively advocated for ivermectin despite lack of conclusive evidence ([Wikipedia contributors, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic)).
+### 1. **Desperation and Search for Treatment Options**
 
-### 3. Political Polarization and Distrust in Authorities
+At various points in the pandemic, especially early on and during surges, patients and clinicians faced limited treatment options for COVID-19. The urgent need for effective therapies, combined with the slow pace of vaccine rollout and antiviral development, led some to consider repurposed drugs like ivermectin as potential solutions ([TrialSite News, 2021](https://trialsitenews.com/fact-checking-the-fact-checkers-the-case-of-ivermectin-for-publicly-subsidized-research/); [MSN, 2021](https://www.msn.com/en-us/news/us/what-is-ivermectin-and-how-did-people-get-the-idea-it-can-treat-covid/ar-AAOibe2)).
 
-In the United States and elsewhere, ivermectin use became politicized. Republican-leaning areas showed higher prescription rates, correlating with skepticism toward vaccines and official health guidance ([Barnett et al., 2022](https://doi.org/10.1001/jamainternmed.2022.0200)). Distrust in government and pharmaceutical companies fueled beliefs that ivermectin was being suppressed for profit motives.
+Dr. David Boulware, an infectious disease expert, noted that ivermectin’s popularity partly reflects this desperation: people want a therapy and may latch onto any available option with some preliminary data, even if the evidence is weak or inconclusive ([MSN, 2021](https://www.msn.com/en-us/news/us/what-is-ivermectin-and-how-did-people-get-the-idea-it-can-treat-covid/ar-AAOibe2)).
 
-### 4. Accessibility and Off-Label Use
+### 2. **Misinformation and Social Media Amplification**
 
-Some countries and local governments authorized or tolerated off-label ivermectin use for COVID-19, especially where vaccine access was limited ([Mega, 2020](https://doi.org/10.1038/d41586-020-02958-2)). This official endorsement, even if limited, legitimized its use in the eyes of the public.
+Ivermectin’s profile was significantly boosted by misinformation campaigns and social media advocacy. Groups such as the Front Line COVID-19 Critical Care Alliance (FLCCC) promoted ivermectin as a “miracle cure,” and their messaging went viral, especially among COVID-19 skeptics, anti-vaccination proponents, and conspiracy theorists ([Wikipedia, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic)).
 
-### 5. Desperation and Lack of Alternatives
+High-profile media personalities and influencers, including some right-wing media figures and podcasters, publicly endorsed ivermectin, further amplifying its reputation despite the lack of scientific consensus ([NPR, 2021](https://www.npr.org/sections/health-shots/2021/09/19/1038369557/ivermectin-anti-vaccine-movement-culture-wars)).
 
-In regions with overwhelmed healthcare systems and limited treatment options, people turned to ivermectin as a last resort. The drug's availability and low cost made it an attractive option despite uncertain efficacy ([Molento, 2021](https://doi.org/10.1016/j.onehlt.2021.100250)).
+### 3. **Misinterpretation of Scientific Studies**
 
-### 6. Use of Veterinary Preparations
+Many people outside the medical community have misunderstood or overinterpreted early laboratory findings and preliminary clinical data. The in vitro antiviral activity of ivermectin was often cited as evidence of clinical benefit, ignoring the pharmacokinetic challenges and lack of consistent clinical trial support ([MSN, 2021](https://www.msn.com/en-us/health/medical/why-do-people-want-to-take-ivermectin-for-covid/ar-AAOr5R3)).
 
-Due to difficulties obtaining human formulations, some individuals resorted to veterinary ivermectin (e.g., horse dewormer), leading to poisonings and shortages for animal use. The FDA issued warnings such as "You are not a horse" to discourage this practice ([FDA, 2021](https://twitter.com/US_FDA/status/1428878116951823363)).
+Meta-analyses and systematic reviews that initially suggested benefit were later questioned or retracted due to data quality issues, but these nuances were often lost in public discourse ([Wikipedia, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic)).
 
-### 7. Psychological and Social Factors
+### 4. **Distrust in Official Guidance and Government Agencies**
 
-Belief in ivermectin often aligns with broader conspiracy theories and anti-vaccine sentiments. The desire for control, fear of COVID-19, and community reinforcement within social media echo chambers perpetuate its use ([Kolin et al., 2021](https://www.kpbs.org/news/2021/sep/19/how-ivermectin-became-new-focus-anti-vaccine-move/)).
+Distrust of government health agencies, pharmaceutical companies, and mainstream scientific consensus has fueled ivermectin’s appeal among certain groups. For some, ivermectin became a symbol of resistance against perceived overreach or censorship by authorities ([NPR, 2021](https://www.npr.org/sections/health-shots/2021/09/19/1038369557/ivermectin-anti-vaccine-movement-culture-wars)).
 
-## Risks and Consequences of Ivermectin Use for COVID-19
+This distrust was compounded by the politicization of COVID-19 measures, leading individuals to seek alternative treatments aligned with their ideological beliefs.
 
-Ivermectin is generally safe at approved doses for parasitic infections but can cause serious side effects when misused or overdosed, including:
+### 5. **Availability and Off-Label Use**
 
-- Neurological symptoms: seizures, confusion, coma
-- Gastrointestinal symptoms: nausea, vomiting, diarrhea
-- Cardiovascular effects: low blood pressure
-- Toxicity from veterinary formulations due to higher potency and contaminants ([Miller, 2021](https://www.healthline.com/health-news/ivermectin-horse-dewormer-covid-19)).
+Ivermectin is widely available as a prescription drug for parasitic infections and is also used extensively in veterinary medicine. The availability of veterinary formulations, which are often more concentrated and not intended for human use, led some individuals to self-medicate with these products, sometimes resulting in poisoning or adverse effects ([MSN, 2021](https://www.msn.com/en-us/health/medical/why-do-people-want-to-take-ivermectin-for-covid/ar-AAOr5R3); [Inverse, 2021](https://www.inverse.com/science/ivermectin-drug-covid-19)).
 
-Increased ivermectin poisoning cases prompted CDC health alerts and FDA warnings ([CDC, 2021](https://emergency.cdc.gov/han/2021/han00449.asp)).
+The FDA issued warnings against using ivermectin intended for animals and emphasized that ivermectin is not authorized for COVID-19 treatment ([Wikipedia, 2024](https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic)).
 
-Moreover, reliance on ivermectin may delay or replace proven interventions such as vaccination and approved therapeutics, potentially leading to worse outcomes.
+---
 
-## Summary Table: Factors Influencing Ivermectin Use for COVID-19
+## Summary of Ivermectin’s Clinical Evidence and Safety Profile
 
-| Factor                          | Description                                                                                 | Impact                                                                                  |
-|--------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Early Lab Studies               | In vitro antiviral activity suggested potential benefit                                     | Sparked initial interest despite dosing issues                                         |
-| Misinformation & Advocacy      | Social media influencers and groups promoted ivermectin as a "miracle cure"                 | Widespread public belief and self-medication                                           |
-| Political Polarization         | Correlation with political affiliation and distrust in authorities                          | Increased use in certain demographics                                                  |
-| Off-Label and Official Use     | Some governments authorized or tolerated ivermectin use                                    | Legitimized use in some regions                                                        |
-| Accessibility & Cost           | Low cost and availability, including veterinary forms                                      | Facilitated use, sometimes unsafe                                                      |
-| Psychological/Social Dynamics  | Desire for control, conspiracy beliefs, community reinforcement                             | Sustained and polarized ivermectin use                                                |
-| Health Risks                   | Potential for toxicity and side effects, especially with veterinary products                | Increased poisonings and hospitalizations                                              |
-| Delay in Proven Treatments     | False sense of security leading to vaccine hesitancy and delayed medical care               | Potentially increased morbidity and mortality                                          |
+| Aspect                     | Summary                                                                                         | Source                                                                                   |
+|----------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Efficacy in COVID-19**   | No conclusive evidence supports ivermectin’s efficacy in preventing or treating COVID-19.       | BMJ Evidence-Based Medicine (2021); Cochrane Review; NIH Guidelines                      |
+| **Safety Profile**         | Generally safe at approved doses for parasitic infections; adverse effects include dizziness, nausea, blurred vision, but serious events are rare. Overdose or veterinary use can cause toxicity. | American Council on Science and Health (2021); FDA Warnings                             |
+| **Regulatory Status**      | Not approved or authorized for COVID-19 treatment by FDA, WHO, EMA, or other major health bodies. | Wikipedia (2024); FDA; WHO                                                               |
+| **Research Limitations**   | Many studies suffer from methodological flaws, small sample sizes, heterogeneity, and data integrity issues. | BMJ Evidence-Based Medicine (2021); Wikipedia (2024)                                    |
+| **Public Perception**      | Popular among certain groups due to misinformation, distrust in authorities, and anecdotal reports. | NPR (2021); Wikipedia (2024); TrialSite News (2021)                                      |
 
-## Conclusion
+---
 
-People have taken ivermectin for COVID-19 due to a complex interplay of early scientific findings, misinformation, political and social factors, accessibility, and psychological motivations. While initial laboratory studies suggested antiviral potential, clinical evidence has consistently failed to demonstrate meaningful efficacy at safe doses. The drug's promotion by influential figures and groups, coupled with distrust in official guidance, has fueled its widespread off-label use, including dangerous self-medication with veterinary formulations.
+## Conclusion and Opinion
 
-The ivermectin phenomenon underscores the challenges of managing public health communication during a crisis, especially in the context of social media and political polarization. It also highlights the importance of rigorous scientific evaluation and clear, transparent communication to prevent harm from unproven treatments.
+The widespread use of ivermectin for COVID-19 is primarily driven by a combination of scientific uncertainty, misinformation, social and political factors, and a desperate search for effective treatments during a global health crisis. Early laboratory findings and preliminary clinical data created hope, but rigorous clinical trials have failed to confirm meaningful benefits. The presence of flawed, retracted, or fraudulent studies further complicated public understanding.
 
-Vaccination remains the most effective and evidence-based method to prevent severe COVID-19 outcomes. Health authorities worldwide continue to advise against the use of ivermectin for COVID-19 outside of clinical trials.
+Despite ivermectin’s generally favorable safety profile at approved doses, the misuse of veterinary formulations and self-medication pose significant risks. Regulatory agencies and the scientific community continue to emphasize that ivermectin should only be used within well-designed clinical trials until conclusive evidence emerges.
+
+In my assessment, the phenomenon of ivermectin use in COVID-19 highlights the critical importance of clear, transparent communication from health authorities and the need to combat misinformation effectively. While it is understandable that individuals seek any possible protection or treatment during a pandemic, reliance on unproven therapies can lead to harm and distract from proven interventions such as vaccination and supportive care.
 
 ---
 
 ## References
 
-Barnett, M. L., Gaye, M., Jena, A. B., & Mehrotra, A. (2022). Association of County-Level Prescriptions for Hydroxychloroquine and Ivermectin With County-Level Political Voting Patterns in the 2020 US Presidential Election. *JAMA Internal Medicine, 182*(4), 452–454. https://doi.org/10.1001/jamainternmed.2022.0200
+American Council on Science and Health. (2021, May 4). Who’s Afraid of Ivermectin? American Council on Science and Health. https://www.acsh.org/news/2021/05/04/who%E2%80%99s-afraid-ivermectin-15529
 
-Caly, L., Druce, J. D., Catton, M. G., Jans, D. A., & Wagstaff, K. M. (2020). The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro. *Antiviral Research, 178*, 104787. https://doi.org/10.1016/j.antiviral.2020.104787
+BMJ Evidence-Based Medicine. (2021). Misleading clinical evidence and systematic reviews on ivermectin for COVID-19. BMJ Evidence-Based Medicine. https://ebm.bmj.com/content/early/2021/05/26/bmjebm-2021-111678
 
-Centers for Disease Control and Prevention. (2021). Rapid Increase in Ivermectin Prescriptions and Reports of Severe Illness Associated with Use of Products Containing Ivermectin to Prevent or Treat COVID-19. Health Alert Network. https://emergency.cdc.gov/han/2021/han00449.asp
+Inverse. (2021). Ivermectin: Why in the hell are people are taking it for Covid-19? Inverse. https://www.inverse.com/science/ivermectin-drug-covid-19
 
-Davey, M. (2021, July 15). Huge study supporting ivermectin as Covid treatment withdrawn over ethical concerns. *The Guardian*. https://www.theguardian.com/science/2021/jul/15/huge-study-supporting-ivermectin-as-covid-treatment-withdrawn-over-ethical-concerns
+MSN. (2021, September 14). Why Do People Want to Take Ivermectin for COVID? MSN Health. https://www.msn.com/en-us/health/medical/why-do-people-want-to-take-ivermectin-for-covid/ar-AAOr5R3
 
-Garegnani, L. I., Madrid, E., & Meza, N. (2021). Misleading clinical evidence and systematic reviews on ivermectin for COVID-19. *BMJ Evidence-Based Medicine*. https://doi.org/10.1136/bmjebm-2021-111678
+MSN. (2021, September 14). What Is Ivermectin and How Did People Get the Idea It Can Treat COVID? MSN News. https://www.msn.com/en-us/news/us/what-is-ivermectin-and-how-did-people-get-the-idea-it-can-treat-covid/ar-AAOibe2
 
-Huang, P. (2021, September 19). How Ivermectin Became The New Focus Of The Anti-Vaccine Movement. *NPR*. https://www.npr.org/2021/09/19/1038536150/how-ivermectin-became-the-new-focus-of-the-anti-vaccine-movement
+NPR. (2021, September 19). Ivermectin, Anti-Vaccine Movement, Culture Wars. NPR. https://www.npr.org/sections/health-shots/2021/09/19/1038369557/ivermectin-anti-vaccine-movement-culture-wars
 
-Miller, K. (2021, September 14). Why Do People Want to Take Ivermectin for COVID? *Healthline*. https://www.healthline.com/health-news/ivermectin-horse-dewormer-covid-19
+TrialSite News. (2021). Fact-Checking the Fact-Checkers: The Case of Ivermectin for Publicly Subsidized Research. TrialSite News. https://trialsitenews.com/fact-checking-the-fact-checkers-the-case-of-ivermectin-for-publicly-subsidized-research/
 
-Molento, M. B. (2021). Ivermectin against COVID-19: The unprecedented consequences in Latin America. *One Health, 13*, 100250. https://doi.org/10.1016/j.onehlt.2021.100250
-
-Popp, M., Stegemann, M., Metzendorf, M. I., Gould, S., Kranke, P., Meybohm, P., & et al. (2021). Ivermectin for preventing and treating COVID-19. *The Cochrane Database of Systematic Reviews, 7*(8), CD015017. https://doi.org/10.1002/14651858.cd015017.pub2
-
-Reis, G., Silva, E. A. S. M., Silva, D. C. M., Thabane, L., Milagres, A. C., Ferreira, T. S., dos Santos, C. V. Q., Campos, V. H. S., Nogueira, A. M. R., de Almeida, A. P. F. G., & Callegari, E. D. (2022). Effect of Early Treatment with Ivermectin among Patients with Covid-19. *New England Journal of Medicine*. https://doi.org/10.1056/NEJMoa2115869
-
-Yang, S. N., Atkinson, S. C., Wang, C., Lee, A., Bogoyevitch, M. A., Borg, N. A., & Jans, D. A. (2020). The broad spectrum antiviral ivermectin targets the host nuclear transport importin α/β1 heterodimer. *Antiviral Research, 177*, 104760. https://doi.org/10.1016/j.antiviral.2020.104760
-
-Wikipedia contributors. (2024, April 27). Ivermectin during the COVID-19 pandemic. *Wikipedia*. https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic
+Wikipedia contributors. (2024). Ivermectin during the COVID-19 pandemic. Wikipedia. https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic
 
 ---
 
-*Note: All URLs were accessed as of April 28, 2025.*
+This report is intended to provide an objective, comprehensive understanding of why ivermectin has been used by many during the COVID-19 pandemic, grounded in the best available evidence and authoritative sources as of 2025.

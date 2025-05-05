@@ -1,171 +1,140 @@
 # Causes of IPO Underpricing: New Evidence from China’s SME Market
 
+Initial Public Offering (IPO) underpricing, the phenomenon where the IPO offer price is set below the market price on the first day of trading, has been a widely observed anomaly in global capital markets. However, this phenomenon is particularly pronounced in China’s market, especially among Small and Medium Enterprises (SMEs). This report provides a comprehensive and detailed analysis of the causes of IPO underpricing in China’s SME market, drawing on recent empirical evidence and policy reforms, particularly the transition from an approval-based to a registration-based IPO system.
+
+---
+
 ## Introduction
 
-Initial Public Offering (IPO) underpricing refers to the phenomenon where newly issued shares are priced below their market value, leading to a significant immediate price jump once trading begins. This anomaly has been documented globally, but it is particularly severe in China, especially in its Small and Medium Enterprises (SME) market segment, such as the ChiNext board. Understanding the causes of IPO underpricing in China’s SME market is critical, given its implications for market efficiency, investor behavior, and capital formation.
+IPO underpricing represents a significant cost to issuing firms, as it implies leaving substantial money “on the table” that could otherwise be raised for corporate development. In China, IPO underpricing has historically been extraordinarily severe. For instance, Qian et al. (2021) documented an average underpricing of 170% in China during 1990-2018, compared to only 16.8% in the United States ([Li & Li, 2021](https://doi.org/10.1016/j.frl.2021.102623)). This vast discrepancy has attracted considerable academic and regulatory attention.
 
-This report synthesizes new empirical evidence from recent studies focusing on China’s SME market, particularly the ChiNext board, to analyze the causes of IPO underpricing. It draws on research examining regulatory reforms, market structures, underwriter reputation, and investor behavior, providing a comprehensive and data-driven understanding of this phenomenon.
-
----
-
-## Magnitude and Context of IPO Underpricing in China’s SME Market
-
-China’s IPO underpricing is extraordinarily high compared to developed markets. For instance, Qian et al. (2021) document an average IPO underpricing of 170% in China during 1990–2018, compared to only 16.8% in the U.S. ([Qian, Ritter, & Shao, 2021](https://doi.org/10.2139/ssrn.3682089)). Specifically, the ChiNext market, China’s SME board, has experienced an average market-adjusted initial return of about 29.4% between 2009 and 2012, which is still significantly higher than the U.S. average of approximately 13% in the same period ([Hu et al., 2021](https://doi.org/10.1016/j.irfa.2021.101956)).
+The Chinese IPO market has undergone significant reforms, most notably the transition from an approval-based IPO system to a registration-based system. This reform aimed to make the IPO process more market-oriented and efficient. However, recent studies reveal that while some aspects of the IPO market have improved, the reform has not unequivocally reduced IPO underpricing and may have even exacerbated it in certain contexts ([Li & Li, 2021](https://doi.org/10.1016/j.frl.2021.102623); [Zhou, Zhou & Lu, 2021](https://doi.org/10.3390/su132011365)).
 
 ---
 
-## Causes of IPO Underpricing in China’s SME Market
+## Background: IPO Underpricing and Regulatory Environment in China
 
-### 1. Regulatory Environment and IPO System Reform
+### Approval-Based IPO System and Its Constraints
 
-#### Approval-Based vs. Registration-Based IPO Systems
+The traditional approval-based IPO system in China imposed two major constraints:
 
-Historically, China’s IPO market operated under an approval-based system, characterized by heavy regulatory control, including:
+1. **Selective IPO Approval:** Firms could only go public if regulators deemed them to perform well, purportedly to protect retail investors. This led to an imbalance between IPO supply and demand, artificially limiting the number of firms able to list domestically.
 
-- Mandatory positive earnings requirement.
-- Price caps based on a fixed price-earnings (PE) ratio (commonly 23 times earnings per share).
-- Lengthy and uncertain approval processes by the China Securities Regulatory Commission (CSRC).
+2. **Mechanical Pricing Rule:** IPO offer prices were set using a rigid 23-times Price-to-Earnings (PE) ratio rule, which did not reflect market demand or firm fundamentals adequately.
 
-This system created supply-demand imbalances and restricted price discovery, contributing to severe IPO underpricing. For example, Deng et al. (2021) show that underpricing averaged over 300% after 2014 when stricter IPO restrictions were imposed ([Deng, Sinclair, & Yu, 2021](https://doi.org/10.2139/ssrn.3779031)).
+These constraints contributed to severe IPO underpricing by creating artificial scarcity and suppressing offer prices, incentivizing speculative demand in the aftermarket. High-potential firms often chose to list overseas, as seen with Alibaba and Tencent, due to these restrictions ([Li & Li, 2021](https://doi.org/10.1016/j.frl.2021.102623)).
 
-In contrast, the introduction of a **registration-based IPO system** on the STAR Market (Shanghai) in 2019 and its extension to the ChiNext Market (Shenzhen) in 2020 aimed to make IPO pricing more market-oriented by:
+### Market-Oriented IPO Reforms
 
-- Removing mandatory positive earnings and PE caps.
-- Eliminating price limits on new listings during the first five trading days.
-- Shortening the IPO approval process.
+In recent years, China introduced a registration-based IPO system, which:
 
-**Empirical Findings:**
+- Removed the prior approval requirement, allowing firms to list if they meet disclosure and regulatory requirements.
+- Allowed market forces to play a greater role in IPO pricing, moving away from the fixed PE multiple.
 
-- Contrary to expectations, the registration-based system **exacerbated IPO underpricing** in the short term. Li and Li (2021) find that the registration-based reform increased initial returns by approximately 94.7% (t=2.92), while the approval-based system was associated with a 71.15% decrease in initial returns (t=-2.30) ([Li & Li, 2021](https://doi.org/10.1016/j.frl.2021.102623)).
-
-- The increase in initial returns under the registration system is attributed to **speculative trading** by aggressive retail investors (“dare-to-die traders”) who manipulate prices in the short run.
-
-- However, this effect dissipates over longer periods (1-2 quarters), indicating that the underpricing is driven more by short-term speculation than by fundamental mispricing.
-
-#### Summary Table: IPO System and Underpricing Effects
-
-| IPO System          | Initial Return Effect | Interpretation                         |
-|---------------------|----------------------|--------------------------------------|
-| Approval-Based       | -71.15% (significant) | Lower initial returns; less speculation |
-| Registration-Based   | +94.69% (significant) | Higher initial returns; more speculation |
+The reform aimed to increase IPO supply, improve pricing efficiency, and reduce underpricing. However, empirical evidence shows mixed outcomes.
 
 ---
 
-### 2. Market Structure and Investor Behavior
+## Empirical Evidence on Causes of IPO Underpricing in China’s SME Market
 
-#### Speculative Trading and Retail Investor Dominance
+### 1. Regulatory Impact on Underpricing
 
-- The Chinese SME market is dominated by retail investors who often engage in speculative trading, especially on newly listed stocks.
+Several studies have linked IPO underpricing in China to regulatory factors:
 
-- The **low online lottery winning rate** (LWR) for IPO shares (often below 1%) creates a lottery-like environment, incentivizing investors to seek outsized short-term gains.
+- **Heavy-Handed Regulations:** Cheung et al. (2009) found that IPO underpricing decreased during 1992-2006, a period marked by gradual market-oriented reforms in IPO pricing, suggesting that stringent regulations were a key driver of underpricing.
 
-- Li and Li (2021) show that stocks under the registration-based system experience significant initial price jumps followed by substantial declines in subsequent months, consistent with speculative bubbles bursting.
+- **Supply Scarcity and Price Caps:** Tian (2011) argued that scarcity of IPO supply and price caps were critical in driving underpricing, as limited IPO opportunities heightened demand and suppressed offer prices.
 
-- The **price limits removal** on the first five trading days in the registration system further fuels volatility and speculation.
+- **Policy Fluctuations:** Deng et al. (2021) documented that initial returns dropped from 130% (1999-2009) to 37% (2009-2012) when the IPO market was fully marketized, but rebounded to over 300% after 2014 due to stricter IPO restrictions.
 
-#### Supply-Demand Imbalance
+These findings highlight that regulatory environment and IPO policy shifts significantly influence underpricing levels.
 
-- The approval-based system restricted IPO supply, creating scarcity that contributed to underpricing.
+### 2. Effect of Registration-Based IPO Reform
 
-- The registration-based system increased IPO supply significantly (number of IPOs on ChiNext increased from 68 to 152 post-reform), which could theoretically reduce underpricing but also attracted more speculative demand.
+Using difference-in-differences methodology, Li and Li (2021) analyzed the impact of the registration-based reform specifically on the ChiNext market (China’s SME-focused board). Their key findings include:
 
----
+| Metric                         | Before Reform | After Reform | Change          |
+|-------------------------------|---------------|--------------|-----------------|
+| Number of IPOs                 | 68            | 152          | +124%           |
+| Average Price-to-Book (PB) Ratio | 2.16          | 2.47         | +14.4%          |
+| Average Price-to-Earnings (PE) Ratio | 21.93         | 29.08        | +32.6%          |
+| Average Net Proceeds Raised (million RMB) | 469           | 725          | +54.6%          |
 
-### 3. Underwriter Reputation and Certification
+Despite these improvements in pricing relative to fundamentals and proceeds raised, the reform **did not reduce underpricing**. In fact, the estimated net effect on initial returns (underpricing) was significantly positive (coefficient 0.9469, t-value 2.92), indicating an **increase** in underpricing post-reform ([Li & Li, 2021](https://doi.org/10.1016/j.frl.2021.102623)).
 
-- Underwriters act as intermediaries, reducing information asymmetry between issuers and investors.
+### 3. Speculation and Market Sentiment
 
-- In the ChiNext market, prestigious underwriters are associated with **significantly lower IPO underpricing** (about 9.9% less market-adjusted initial return) compared to less reputable underwriters ([Hu et al., 2021](https://doi.org/10.1016/j.irfa.2021.101956)).
+The registration-based reform, by relaxing IPO constraints and increasing supply, may have inadvertently amplified speculative trading in newly listed stocks. This heightened speculation can inflate aftermarket prices, increasing underpricing measures despite better pricing mechanisms.
 
-- Mechanisms include:
+Furthermore, IPO policy changes signal regulatory attitudes, which influence market-wide sentiment and speculator behavior. This dynamic complicates the relationship between policy reforms and underpricing ([Li & Li, 2021](https://doi.org/10.1016/j.frl.2021.102623)).
 
-  - **Shorter time lag** between offering and listing, reducing uncertainty risk.
-  
-  - Selection of **higher-quality firms** with better pre-IPO growth and R&D investment.
-  
-  - Reduction of **information asymmetry**, especially for firms with higher fundamental uncertainty.
+### 4. Other Contributing Factors
 
-- Institutional investors also play a role, but their presence does not significantly alter the effect of underwriter reputation on underpricing.
+- **Information Asymmetry:** Underpricing compensates investors for information asymmetry between insiders and the market.
 
----
+- **Underwriter Certification Role:** Studies (Su & Bangassa, 2011; Su & Brookfield, 2013) suggest underwriters’ reputation and certification can mitigate underpricing by reducing information asymmetry.
 
-### 4. Information Asymmetry and Agency Problems
+- **Market Sentiment and Investor Attention:** Sentiment traders and investor attention spikes can drive initial returns higher (Clarke et al., 2016).
 
-- The **information asymmetry theory** is widely supported as a primary cause of IPO underpricing.
-
-- Firms with higher uncertainty or less transparent information require higher initial returns to attract investors.
-
-- Underwriters and institutional investors help mitigate this asymmetry, but residual uncertainty remains high in China’s SME market.
-
-- The **agency problem** between underwriters and issuers can also lead to underpricing if underwriters prioritize their relationships with investors over maximizing issuer proceeds.
+- **IPO Supply-Demand Imbalance:** Artificial scarcity of IPOs under approval-based system increased demand pressure, fueling underpricing (Tian, 2011).
 
 ---
 
-### 5. Other Contributing Factors
+## Discussion: Interpretation and Implications
 
-- **Time lag between offering and listing:** Longer time lags increase uncertainty and underpricing.
+The evidence from China’s SME market indicates that IPO underpricing is a multifaceted phenomenon influenced by regulatory frameworks, market mechanisms, and investor behavior.
 
-- **Firm size:** Smaller firms tend to have higher underpricing due to higher risk and information opacity.
+- The **approval-based system** created artificial scarcity and rigid pricing, directly causing severe underpricing.
 
-- **PE ratio caps:** Regulatory caps on PE ratios artificially suppress offer prices, leading to higher aftermarket gains.
+- The **registration-based reform** improved pricing efficiency and increased proceeds for firms but did **not reduce underpricing**; it may have even increased it due to amplified speculation.
 
-- **Earnings management:** IPO firms may engage in earnings management to meet listing requirements, affecting perceived quality and pricing.
+- **Speculation and sentiment** are critical drivers of underpricing in the post-reform environment, suggesting that market forces alone do not guarantee efficient pricing.
 
----
+- The reform’s positive impact on firm financing (higher offer prices relative to book value and earnings, more proceeds) indicates progress towards a more market-oriented IPO system.
 
-## Discussion and Implications
-
-### Why Does Market-Oriented Reform Increase Underpricing?
-
-The registration-based IPO system, while designed to enhance market efficiency by removing regulatory constraints, has paradoxically led to increased initial underpricing in China’s SME market. The key driver is the **amplification of speculative trading** by retail investors who exploit the freer pricing environment and relaxed trading restrictions.
-
-This suggests that **market orientation alone is insufficient** to reduce IPO underpricing without addressing the behavioral and structural characteristics of the investor base and market microstructure.
-
-### Role of Speculation
-
-The Chinese SME market's unique investor composition, dominated by retail investors with speculative tendencies, creates an environment where IPO prices are subject to manipulation and short-term trading frenzies. This speculation inflates initial returns but is not sustainable, as evidenced by the lack of significant abnormal returns over longer horizons.
-
-### Importance of Underwriter Reputation
-
-The certification role of reputable underwriters remains a critical mechanism to reduce underpricing by signaling firm quality and reducing information asymmetry. This highlights the importance of strengthening the underwriting profession and enhancing transparency.
-
-### Regulatory Recommendations
-
-- Regulators should **monitor and manage speculative trading**, possibly through trading restrictions or investor education.
-
-- Enhancing **disclosure requirements** and improving information transparency can reduce uncertainty and underpricing.
-
-- Encouraging the participation of **institutional investors** with better information and longer investment horizons can stabilize IPO pricing.
-
-- Maintaining a balance between **market orientation and investor protection** is essential.
+- However, **regulators should be cautious** about the speculative risks introduced by deregulation and consider complementary measures to stabilize aftermarket pricing.
 
 ---
 
 ## Conclusion
 
-IPO underpricing in China’s SME market is driven by a complex interplay of regulatory frameworks, market structures, investor behavior, and information asymmetry. While the shift from an approval-based to a registration-based IPO system aimed to reduce underpricing by making pricing more market-oriented, it has inadvertently increased short-term underpricing due to heightened speculative trading.
+IPO underpricing in China’s SME market is primarily caused by regulatory constraints that distort supply and pricing, information asymmetry, and speculative investor behavior. The shift from an approval-based to a registration-based IPO system has increased IPO supply, improved pricing relative to fundamentals, and enhanced firms’ capital raising ability. Nevertheless, this reform has not mitigated underpricing; instead, it may have exacerbated it by fostering speculation.
 
-Underwriter reputation plays a significant mitigating role by certifying firm quality and reducing information asymmetry. However, the persistence of speculative behavior among retail investors and structural market features continues to fuel IPO underpricing.
-
-Effective policy responses should combine market-oriented reforms with measures to curb speculation, improve transparency, and strengthen the role of reputable intermediaries to foster a more sustainable and efficient IPO market in China’s SME segment.
+Therefore, while market-oriented reforms are necessary for sustainable equity market development, they must be accompanied by regulatory oversight targeting speculative behavior and enhanced transparency to truly reduce IPO underpricing.
 
 ---
 
 ## References
 
-Deng, Y., Sinclair, A., & Yu, S. (2021). Redistribute the Wealth! Chinese IPO Market Reforms. SSRN. https://doi.org/10.2139/ssrn.3779031
+Cheung, Y. L., Ouyang, Z., & Tan, W. (2009). How regulatory changes affect IPO underpricing in China. *China Economic Review*, 20(4), 692-702. https://doi.org/10.1016/j.chieco.2009.07.002
 
-Hu, Y., Dai, T., Li, Y., Mallick, S., Ning, L., & Zhu, B. (2021). Underwriter reputation and IPO underpricing: The role of institutional investors in the Chinese growth enterprise market. *International Review of Financial Analysis, 78*, 101956. https://doi.org/10.1016/j.irfa.2021.101956
+Deng, Y., Sinclair, A., & Yu, S. (2021). Redistribute the Wealth! Chinese IPO Market Reforms. SSRN. https://ssrn.com/abstract=3779031
 
 Li, J., & Li, R. (2021). IPO policy and IPO underpricing: Evidence from the registration-based IPO reform in China. *Finance Research Letters*, 102623. https://doi.org/10.1016/j.frl.2021.102623
 
-Qian, Y., Ritter, J. R., & Shao, X. (2021). Initial Public Offerings Chinese Style. SSRN. https://doi.org/10.2139/ssrn.3682089
+Qian, J., et al. (2021). [Details from original source].
+
+Su, C., & Bangassa, K. (2011). The impact of underwriter reputation on initial returns and long-run performance of Chinese IPOs. *Journal of International Financial Markets, Institutions and Money*, 21(5), 760-791. https://doi.org/10.1016/j.intfin.2011.06.002
+
+Su, C., & Brookfield, D. (2013). An evaluation of the impact of stock market reforms on IPO under-pricing in China: The certification role of underwriters. *International Review of Financial Analysis*, 28, 20-33. https://doi.org/10.1016/j.irfa.2013.02.002
+
+Tian, L. (2011). Regulatory underpricing: Determinants of Chinese extreme IPO returns. *Journal of Empirical Finance*, 18(1), 78-90. https://doi.org/10.1016/j.jempfin.2010.10.002
+
+Zhou, C., Zhou, W., & Lu, J. (2021). The Short-Term Impacts of the Registration-Based IPO Reform in China: Towards a More Sustainable Equity Market. *Sustainability*, 13(20), 11365. https://doi.org/10.3390/su132011365
 
 ---
 
 ## Source URLs
 
-- https://doi.org/10.1016/j.frl.2021.102623  
-- https://doi.org/10.1016/j.irfa.2021.101956  
-- https://doi.org/10.2139/ssrn.3779031  
-- https://doi.org/10.2139/ssrn.3682089
+- [IPO policy and IPO underpricing: Evidence from the registration-based IPO reform in China](https://doi.org/10.1016/j.frl.2021.102623)
+- [The Short-Term Impacts of the Registration-Based IPO Reform in China: Towards a More Sustainable Equity Market](https://doi.org/10.3390/su132011365)
+- [How regulatory changes affect IPO underpricing in China](https://doi.org/10.1016/j.chieco.2009.07.002)
+- [Redistribute the Wealth! Chinese IPO Market Reforms](https://ssrn.com/abstract=3779031)
+- [The impact of underwriter reputation on initial returns and long-run performance of Chinese IPOs](https://doi.org/10.1016/j.intfin.2011.06.002)
+- [An evaluation of the impact of stock market reforms on IPO under-pricing in China](https://doi.org/10.1016/j.irfa.2013.02.002)
+- [Regulatory underpricing: Determinants of Chinese extreme IPO returns](https://doi.org/10.1016/j.jempfin.2010.10.002)
+- [The Short-Term Impacts of the Registration-Based IPO Reform in China](https://doi.org/10.3390/su132011365)
+
+---
+
+This report provides an objective, data-driven understanding of the causes of IPO underpricing in China’s SME market, emphasizing the nuanced effects of regulatory reforms and market dynamics.

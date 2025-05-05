@@ -1,190 +1,146 @@
-# What Makes Someone Immunosuppressed? A Comprehensive Analysis
+# What Makes Someone Immunosuppressed: A Comprehensive Report
 
-## Introduction
+Immunosuppression refers to a state in which the immune system's ability to fight infections and other diseases is impaired or reduced. This condition can arise from a variety of causes including diseases, medications, medical treatments, lifestyle factors, and physiological changes such as aging. Understanding the factors that lead to immunosuppression is crucial for identifying at-risk populations, managing their health, and tailoring preventive and therapeutic strategies effectively.
 
-Immunosuppression refers to a state in which the immune system's ability to fight infections and diseases is diminished or impaired. This condition can arise from various causes, including diseases, medications, medical procedures, and lifestyle factors. Understanding what makes someone immunosuppressed is crucial for clinical management, infection prevention, and improving patient outcomes. This report provides an in-depth, evidence-based analysis of the causes, mechanisms, and implications of immunosuppression, drawing on recent and authoritative sources.
+This report provides an in-depth, evidence-based exploration of the causes of immunosuppression, drawing upon recent and reliable sources. The aim is to present a detailed, structured, and comprehensive overview of what makes someone immunosuppressed, supported by scientific data and clinical insights.
+
+---
 
 ## Definition and Overview of Immunosuppression
 
-Immunosuppression, also known as immunocompromise, is characterized by a reduced function or number of immune system components, such as white blood cells, antibodies, and lymphoid organs. This impairment compromises the body's innate and adaptive immune responses, increasing susceptibility to infections, opportunistic pathogens, and certain malignancies ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+Immunosuppression is the state in which the immune system is not functioning optimally, resulting in a decreased ability to defend the body against pathogens such as bacteria, viruses, fungi, and parasites, as well as abnormal cells like cancer cells ([Saleh, 2021](https://www.verywellhealth.com/different-causes-of-immunosuppression-explained-4047405)). This condition can be either acquired or congenital and may be temporary or chronic depending on the underlying cause.
 
-The immune system comprises cells (e.g., T and B lymphocytes, phagocytes), tissues (e.g., bone marrow, lymph nodes), and organs (e.g., spleen, thymus), all of which coordinate to identify and eliminate pathogens and abnormal cells. Immunosuppression can be transient or chronic, partial or profound, depending on the underlying cause and severity.
+---
 
 ## Causes of Immunosuppression
 
-Immunosuppression arises from a diverse array of factors broadly categorized into:
+### 1. **Diseases and Medical Conditions**
 
-1. **Diseases and Conditions**
-2. **Medications**
-3. **Medical Procedures**
-4. **Lifestyle Factors**
+Several systemic illnesses can impair immune function, either directly by targeting immune cells or indirectly by causing physiological stress or organ dysfunction.
 
-### 1. Diseases and Conditions Causing Immunosuppression
+- **Human Immunodeficiency Virus (HIV)/AIDS**: HIV specifically targets CD4+ T cells, leading to progressive immune deficiency and increased susceptibility to opportunistic infections ([Wilson & Thomas, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
 
-#### Infectious Diseases
+- **Cancer**: Both the disease itself and its treatments (e.g., chemotherapy) can compromise immune function. Cancer patients often have reduced white blood cell counts and impaired immune responses ([Healthgrades, 2023](https://www.healthgrades.com/right-care/symptoms-and-conditions/what-does-it-mean-to-be-immunocompromised)).
 
-- **Human Immunodeficiency Virus (HIV):** HIV targets CD4+ T lymphocytes, leading to progressive depletion and dysfunction. A CD4 count below 500 cells/mm³ indicates immunosuppression, and below 200 cells/mm³ defines AIDS, with high vulnerability to opportunistic infections such as candidiasis, tuberculosis, and Pneumocystis jiroveci pneumonia ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+- **Autoimmune Diseases**: Conditions such as systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), and other autoimmune disorders can cause immune dysregulation. Additionally, treatments for these diseases often involve immunosuppressive drugs ([Wilson & Thomas, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
 
-- **Other Viral and Bacterial Infections:** Influenza and mononucleosis can cause temporary immunosuppression. Pneumonia, often caused by *Staphylococcus aureus* or *Streptococcus pneumoniae*, damages lung tissue and impairs immune responses, increasing future infection risk ([Tarantino et al., 2024](https://www.osmosis.org/learn/Suppressed_Immune_System)).
+- **Diabetes Mellitus**: Both type 1 and type 2 diabetes are associated with impaired immune responses, increasing infection risk ([Healthgrades, 2023](https://www.healthgrades.com/right-care/symptoms-and-conditions/what-does-it-mean-to-be-immunocompromised)).
 
-#### Hematologic and Immune Disorders
+- **Renal and Hepatic Failure**: Organ failure can lead to systemic immune dysfunction through accumulation of toxins and altered metabolism ([Wilson & Thomas, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
 
-- **Lymphoma and Leukemia:** These cancers affect blood and lymphatic cells, causing abnormal proliferation and dysfunction of immune cells. They can also enlarge and impair spleen function, leading to splenic dysfunction and immunosuppression ([Tarantino et al., 2024](https://www.osmosis.org/learn/Suppressed_Immune_System)).
+- **Infections of the Central Nervous System**: These can indirectly suppress immune function due to systemic inflammation and neurological impairment ([Wilson & Thomas, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
 
-- **Sickle Cell Disease:** Abnormal sickle-shaped red blood cells can occlude splenic vessels, causing functional asplenia and increased infection risk, especially from encapsulated bacteria ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+- **Age-Related Immunosenescence**: Aging is a major factor that naturally diminishes immune system efficacy. Individuals over 65 years experience reduced immune responses, and those over 80 are often considered immunocompromised by definition ([HealthyWomen, 2023](https://www.healthywomen.org/content/article/who-counts-immunocompromised-guide-high-risk-individuals); [RACGP, 2020](https://www1.racgp.org.au/ajgp/2020/march/elderly-patients-taking-immunosuppressive-medicati)).
 
-- **Primary Immunodeficiency Disorders (PID):** Rare inherited conditions (e.g., chronic granulomatous disease, common variable immunodeficiency, severe combined immunodeficiency) lead to inadequate production or function of immune cells and antibodies. PID often presents in childhood and increases infection susceptibility progressively ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+---
 
-#### Chronic Systemic Diseases
+### 2. **Medications and Therapeutic Interventions**
 
-- **Diabetes Mellitus:** Both type 1 and type 2 diabetes impair immune function through hyperglycemia-induced neutrophil dysfunction and vascular complications ([Wilson, 2018](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
+Medications are among the most common causes of immunosuppression, either intentionally prescribed or as adverse effects.
 
-- **Renal and Hepatic Failure:** These conditions disrupt immune homeostasis and clearance of pathogens, leading to immunosuppression ([Wilson, 2018](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
+| **Class of Medication**          | **Examples**                          | **Purpose**                                      | **Effects on Immune System**                           |
+|---------------------------------|------------------------------------|-------------------------------------------------|-------------------------------------------------------|
+| **Corticosteroids**              | Prednisone, Dexamethasone          | Reduce inflammation, treat autoimmune diseases | Suppress immune cell function and cytokine production |
+| **Immunosuppressive Drugs**     | Cyclosporin, Tacrolimus            | Prevent organ transplant rejection               | Inhibit T-cell activation and proliferation           |
+| **Biologic Agents**              | TNF inhibitors, Rituximab          | Treat autoimmune diseases like RA, psoriasis     | Target specific immune pathways, reduce immune activity|
+| **Chemotherapy Agents**          | Alkylating agents, Antimetabolites | Treat cancer                                     | Destroy rapidly dividing cells including immune cells  |
+| **Radiation Therapy**            | Ionizing radiation                 | Treat cancer                                     | Damage bone marrow, reduce immune cell production      |
+| **Immunoglobulins**              | IVIG                              | Modulate immune response in autoimmune diseases | Can have immunomodulatory effects                       |
 
-- **Autoimmune Diseases:** Conditions such as systemic lupus erythematosus and rheumatoid arthritis involve immune dysregulation and often require immunosuppressive treatments, compounding immune deficiency ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+These medications can cause varying degrees of immunosuppression depending on dosage, duration, and patient factors ([Saleh, 2021](https://www.verywellhealth.com/different-causes-of-immunosuppression-explained-4047405); [Wilson & Thomas, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx); [RACGP, 2020](https://www1.racgp.org.au/ajgp/2020/march/elderly-patients-taking-immunosuppressive-medicati)).
 
-### 2. Medications Causing Immunosuppression
+---
 
-Medications are a leading cause of iatrogenic immunosuppression, often deliberately used to control immune responses in autoimmune diseases, prevent organ transplant rejection, or treat cancers.
+### 3. **Medical Procedures**
 
-#### Corticosteroids
+Certain surgical and medical procedures can induce immunosuppression:
 
-- Widely used for their anti-inflammatory and immunosuppressive properties in diseases like asthma, rheumatoid arthritis, and autoimmune disorders.
+- **Organ and Tissue Transplantation**: Patients receive immunosuppressive therapy to prevent graft rejection, which intentionally suppresses immune function ([Wilson & Thomas, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
 
-- Long-term use, especially at high doses (e.g., prednisone ≥40 mg/day), significantly increases infection risk. Even low doses (5 mg prednisone) increase infection risk from 18% after one year to 76% after ten years ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+- **Bone Marrow Transplantation**: The procedure itself and the preparatory conditioning regimens cause profound immunosuppression, leaving patients vulnerable to infections ([Healthgrades, 2023](https://www.healthgrades.com/right-care/symptoms-and-conditions/what-does-it-mean-to-be-immunocompromised)).
 
-- Side effects include candidiasis (oral thrush), bacterial, viral, and fungal infections.
+- **Splenectomy**: Removal of the spleen, an important immune organ, increases susceptibility to infections ([PatientCareOnline, 2013](https://www.patientcareonline.com/view/strategies-protecting-and-treating-immunosuppressed-patients)).
 
-#### Chemotherapy Agents
+---
 
-- Target rapidly dividing cells, including cancer cells and bone marrow progenitors, leading to neutropenia and lymphopenia.
+### 4. **Lifestyle and Environmental Factors**
 
-- Resultant bone marrow suppression severely compromises immune defenses, increasing risk for bacterial, viral, and fungal infections ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+While less prominent than diseases or medications, lifestyle factors can contribute to immune suppression:
 
-#### Monoclonal Antibodies
+- **Chronic Alcohol Misuse**: Long-term alcohol abuse impairs immune cell function and increases infection risk ([Osmosis, 2023](https://www.osmosis.org/answers/suppressed-immune-system)).
 
-- Laboratory-produced proteins mimicking natural antibodies, used in autoimmune diseases, cancers, and transplant rejection prevention.
+- **Severe Malnutrition**: Deficiencies in essential nutrients compromise immune responses ([Osmosis, 2023](https://www.osmosis.org/answers/suppressed-immune-system)).
 
-- Can disrupt immune cell balance, increasing susceptibility to specific infections. For example:
+- **Stress and Lack of Sleep**: Chronic stress and sleep deprivation are linked to weakened immune defenses ([HealthyWomen, 2023](https://www.healthywomen.org/content/article/who-counts-immunocompromised-guide-high-risk-individuals)).
 
-| Drug (Generic Name) | Indications | Increased Infection Risks |
-|---------------------|-------------|--------------------------|
-| Bevacizumab (Avastin) | Various cancers | Sepsis |
-| Cetuximab (Erbitux) | Head, neck, colorectal cancers | *Staphylococcus aureus* skin infections, sepsis |
-| Alemtuzumab (Lemtrada) | CLL, MS | CMV, herpes zoster, pneumocystis pneumonia, toxoplasmosis, candidiasis |
-| Basiliximab (Simulect) | Organ transplant rejection | CMV, HSV, aspergillosis, candidiasis |
-| Daclizumab (Zinbryta) | MS | Tuberculosis, CMV, HSV, influenza, aspergillosis, candidiasis |
+---
 
-([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227))
+## Clinical Manifestations and Risks Associated with Immunosuppression
 
-#### Tumor Necrosis Factor (TNF) Inhibitors
+Immunosuppressed individuals are at increased risk for:
 
-- Used in inflammatory conditions like rheumatoid arthritis and Crohn's disease.
+- **Opportunistic Infections**: Infections caused by organisms that do not typically cause disease in healthy individuals, such as Pneumocystis jirovecii, cytomegalovirus, and fungal pathogens ([News-Medical, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
 
-- Increase risk of opportunistic infections such as tuberculosis and fungal infections (histoplasmosis, coccidioidomycosis) ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+- **Frequent and Severe Infections**: Respiratory, gastrointestinal, and systemic infections tend to be more frequent, severe, and prolonged ([Nature’s Best, 2023](https://www.naturesbest.co.uk/pharmacy/pharmacy-health-library/immunosuppression-causes-symptoms-and-treatments/)).
 
-- Common TNF inhibitors include:
+- **Increased Risk of Sepsis**: Immunosuppressed patients are more prone to sepsis, a life-threatening systemic inflammatory response to infection ([Nature’s Best, 2023](https://www.naturesbest.co.uk/pharmacy/pharmacy-health-library/immunosuppression-causes-symptoms-and-treatments/)).
 
-| Drug Name | Common Use |
-|-----------|------------|
-| Certolizumab pegol (Cimzia) | Rheumatoid arthritis, Crohn's disease |
-| Etanercept (Enbrel) | Rheumatoid arthritis, psoriasis |
-| Adalimumab (Humira) | Rheumatoid arthritis, psoriatic arthritis |
-| Infliximab (Remicade) | Crohn's disease, rheumatoid arthritis |
-| Golimumab (Simponi) | Rheumatoid arthritis |
+- **Delayed Recovery and Complications**: Due to impaired immune responses, healing and recovery from infections and injuries are often delayed ([News-Medical, 2021](https://www.news-medical.net/health/What-is-Immunosuppression.aspx)).
 
-#### Other Immunosuppressants
+- **Higher Mortality**: Particularly in elderly patients and those undergoing organ transplantation, infections are a leading cause of morbidity and mortality ([RACGP, 2020](https://www1.racgp.org.au/ajgp/2020/march/elderly-patients-taking-immunosuppressive-medicati)).
 
-- Azathioprine, mycophenolate mofetil, methotrexate, cyclosporine, tacrolimus, sirolimus, cyclophosphamide, and leflunomide are also significant contributors to immunosuppression in various clinical contexts ([Pregerson, 2013](https://www.acep.org/clinical---practice-management/immunosuppressants-and-immunomodulators-in-the-ed/)).
+---
 
-### 3. Medical Procedures Leading to Immunosuppression
+## Special Considerations: Aging and Immunosenescence
 
-#### Splenectomy and Asplenia
+Aging leads to a natural decline in both innate and adaptive immunity, a process known as immunosenescence. This results in:
 
-- The spleen plays a critical role in filtering blood and mounting immune responses against encapsulated bacteria.
+- Reduced production and function of immune cells.
+- Impaired response to vaccines.
+- Increased susceptibility to infections, cancer, and autoimmune diseases ([RACGP, 2020](https://www1.racgp.org.au/ajgp/2020/march/elderly-patients-taking-immunosuppressive-medicati)).
 
-- Removal (splenectomy) or functional impairment (asplenia) due to diseases like sickle cell anemia or lymphoma increases susceptibility to infections by *Streptococcus pneumoniae*, *Haemophilus influenzae*, and *Neisseria meningitidis* by up to 200-fold ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+Elderly patients often require tailored immunosuppressive regimens due to altered pharmacokinetics and increased risk of over-immunosuppression ([RACGP, 2020](https://www1.racgp.org.au/ajgp/2020/march/elderly-patients-taking-immunosuppressive-medicati)).
 
-#### Radiation Therapy
+---
 
-- Used for cancer treatment, radiation can damage bone marrow and lymphoid tissues, leading to immunosuppression.
+## Summary Table: Causes of Immunosuppression
 
-- Newer targeted modalities (e.g., stereotactic body radiotherapy) reduce but do not eliminate this risk ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
+| **Category**               | **Examples**                                         | **Mechanism**                                               |
+|----------------------------|-----------------------------------------------------|-------------------------------------------------------------|
+| Diseases                   | HIV/AIDS, cancer, diabetes, autoimmune diseases     | Direct immune cell damage, dysregulation, organ dysfunction |
+| Medications                | Corticosteroids, chemotherapy, biologics            | Suppression of immune cell function and proliferation       |
+| Medical Procedures         | Organ transplant, bone marrow transplant, splenectomy | Deliberate immune suppression to prevent rejection          |
+| Lifestyle Factors          | Alcohol misuse, malnutrition, stress, sleep deprivation | Impaired immune cell function and systemic weakness          |
+| Aging (Immunosenescence)   | Natural decline in immune function with age          | Reduced immune cell production and responsiveness            |
 
-#### Bone Marrow Ablation and Transplantation
-
-- High-dose chemotherapy or radiation ablates bone marrow to prepare for stem cell transplantation.
-
-- This results in profound immunosuppression until marrow recovery, with high risk for fungal infections (cryptococcosis, candidiasis), CMV, and respiratory viruses ([Saleh, 2021](https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227)).
-
-### 4. Lifestyle Factors
-
-- Severe malnutrition and chronic alcohol misuse can impair immune function by reducing the production and efficacy of immune cells and antibodies ([Tarantino et al., 2024](https://www.osmosis.org/learn/Suppressed_Immune_System)).
-
-- Advanced age is associated with immunosenescence, a decline in immune responsiveness, increasing infection risk ([CDC, 2020](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance/immunocompromised.html)).
-
-## Mechanisms of Immunosuppression
-
-Immunosuppression results from:
-
-- **Quantitative Deficits:** Reduced numbers of immune cells (e.g., neutropenia, lymphopenia).
-
-- **Qualitative Deficits:** Impaired function of immune cells (e.g., defective phagocytosis, T-cell dysfunction).
-
-- **Organ Dysfunction:** Loss or impairment of lymphoid organs (e.g., spleen, thymus).
-
-- **Cytokine Dysregulation:** Altered production of signaling molecules affecting immune activation.
-
-Medications and diseases may affect one or multiple of these mechanisms, leading to varied clinical presentations.
-
-## Clinical Implications
-
-Individuals who are immunosuppressed are at increased risk for:
-
-- **Opportunistic Infections:** Infections by organisms that rarely cause disease in immunocompetent hosts (e.g., Pneumocystis jiroveci, CMV, fungal pathogens).
-
-- **Severe and Prolonged Infections:** Common infections may be more severe, recurrent, or resistant to treatment.
-
-- **Certain Cancers:** Immunosuppression increases the risk of virus-associated cancers such as non-Hodgkin lymphoma (linked to Epstein-Barr virus), Kaposi sarcoma (human herpesvirus 8), and cervical cancer (human papillomavirus) ([NCI, 2015](https://www.cancer.gov/about-cancer/causes-prevention/risk/immunosuppression-fact-sheet)).
-
-- **Delayed Healing and Poor Vaccine Response:** Reduced ability to mount effective immune responses to vaccines and tissue repair.
-
-## Diagnosis of Immunosuppression
-
-- **Clinical History:** Recurrent or unusual infections, chronic diseases, medication use.
-
-- **Laboratory Tests:** Complete blood count (CBC) with differential, immunoglobulin levels, lymphocyte subset analysis (e.g., CD4 count in HIV).
-
-- **Functional Assays:** Phagocytic function, T-cell activation tests.
-
-- **Imaging:** May assist in identifying organ involvement or complications.
-
-## Management and Prevention
-
-- **Treat Underlying Cause:** Control infections, adjust immunosuppressive medications where possible.
-
-- **Infection Prevention:** Vaccinations (avoiding live vaccines in some cases), prophylactic antibiotics or antifungals, hygiene measures.
-
-- **Immunomodulation:** Use of immunoglobulin infusions, interferons, and growth factors to boost immunity.
-
-- **Patient Education:** Avoidance of exposure to contagious individuals, hand hygiene, and prompt medical attention for infections.
+---
 
 ## Conclusion
 
-Immunosuppression is a multifactorial condition resulting from diseases, medications, medical procedures, and lifestyle factors that impair the immune system's ability to defend the body. The most significant causes include HIV infection, cancer and its treatments, autoimmune diseases and their therapies, splenic dysfunction, and primary immunodeficiencies. Understanding these causes and their mechanisms is essential for diagnosis, prevention, and management to reduce morbidity and mortality associated with immunosuppression.
+Immunosuppression is a multifactorial condition resulting from a complex interplay of diseases, medications, medical procedures, lifestyle factors, and aging. Diseases such as HIV, cancer, and autoimmune disorders directly impair immune function or necessitate immunosuppressive treatments. Medications, particularly corticosteroids, chemotherapy, and biologics, intentionally or inadvertently suppress immune responses. Medical procedures like organ transplantation require deliberate immunosuppression to prevent graft rejection. Lifestyle factors and aging further contribute to immune system weakening.
+
+Understanding these causes is essential for clinicians to identify immunosuppressed individuals, anticipate complications, and implement appropriate preventive and therapeutic strategies. Given the increasing prevalence of immunosuppression due to aging populations and expanding use of immunosuppressive therapies, ongoing research and clinical vigilance remain paramount.
 
 ---
 
 ## References
 
-- Saleh, N. (2021, May 20). *Immunosuppression: Causes and Risk Factors*. Verywell Health. https://www.verywellhealth.com/immunosuppression-causes-and-risk-factors-4178227
+- Saleh, N. (2021, May 20). Immunosuppression: Causes and Risk Factors. Verywell Health. https://www.verywellhealth.com/different-causes-of-immunosuppression-explained-4047405
 
-- Tarantino, C., Haag, A., LaFayette, K., & Mapes, J. (2024). *Suppressed Immune System: What Is It, Causes, and More*. Osmosis. https://www.osmosis.org/learn/Suppressed_Immune_System
+- Wilson, D. J., & Thomas, L. (2021). What is Immunosuppression? News-Medical. https://www.news-medical.net/health/What-is-Immunosuppression.aspx
 
-- Pregerson, B. (2013, October 23). *Strategies for Protecting and Treating Immunosuppressed Patients*. American College of Emergency Physicians. https://www.acep.org/clinical---practice-management/immunosuppressants-and-immunomodulators-in-the-ed/
+- Healthgrades. (2023). Immunocompromised: What It Means & Who Has It. https://www.healthgrades.com/right-care/symptoms-and-conditions/what-does-it-mean-to-be-immunocompromised
 
-- National Cancer Institute. (2015, April 29). *Immunosuppression and Cancer Risk*. https://www.cancer.gov/about-cancer/causes-prevention/risk/immunosuppression-fact-sheet
+- RACGP. (2020, March). Elderly Patients Taking Immunosuppressive Medications. Australian Journal of General Practice. https://www1.racgp.org.au/ajgp/2020/march/elderly-patients-taking-immunosuppressive-medicati
 
-- Wilson, D. J. (2018, November 28). *What is Immunosuppression?* News-Medical.Net. https://www.news-medical.net/health/What-is-Immunosuppression.aspx
+- Nature’s Best. (2023). Immunosuppression: Causes, Symptoms and Treatments. https://www.naturesbest.co.uk/pharmacy/pharmacy-health-library/immunosuppression-causes-symptoms-and-treatments/
 
-- Centers for Disease Control and Prevention. (2020, July 20). *Clinical Guidance for Immunocompromised People*. https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance/immunocompromised.html
+- Osmosis. (2023). Suppressed Immune System. https://www.osmosis.org/answers/suppressed-immune-system
+
+- PatientCareOnline. (2013, October 23). Strategies for Protecting and Treating Immunosuppressed Patients. https://www.patientcareonline.com/view/strategies-protecting-and-treating-immunosuppressed-patients
+
+- HealthyWomen. (2023). Who Counts as Immunocompromised? Guide for High-Risk Individuals. https://www.healthywomen.org/content/article/who-counts-immunocompromised-guide-high-risk-individuals
+
+---
+
+This report is intended to provide a detailed, evidence-based understanding of the causes of immunosuppression, integrating current knowledge from trusted medical sources to inform clinical practice and public health awareness.

@@ -1,209 +1,136 @@
-# Improving Medicaid While Delivering Cost Effectiveness: A Comprehensive Report
+# Improving Medicaid While Delivering Cost Effectiveness: A Comprehensive Analysis
 
-## Introduction
-
-Medicaid, a public health insurance program for low-income Americans, plays a critical role in providing access to health care for vulnerable populations, including children, pregnant women, older adults, and people with disabilities. However, Medicaid accounts for nearly 30% of total state spending, and its beneficiaries often have a higher prevalence of chronic conditions compared to privately insured individuals, leading to significant treatment and management costs ([National Association of State Budget Officers, 2018](https://www.nasbo.org/mainsite/reports-data/state-expenditure-report)). Improving Medicaid's cost-effectiveness while maintaining or enhancing health outcomes is thus a pressing policy priority.
-
-This report synthesizes evidence-based strategies, payment reforms, and integration models to propose concrete approaches for improving Medicaid's efficiency and effectiveness. It draws extensively from the CDC’s 6|18 Initiative, CMS value-based care guidance, and international bundled-payment models, among other sources, to provide a detailed, data-driven analysis.
+Medicaid, a vital public health insurance program in the United States, covers nearly one in five Americans, including low-income adults, children, pregnant women, older adults, and people with disabilities. It accounts for almost 30% of total state spending, making cost containment a critical policy goal for states ([National Conference of State Legislatures, 2021](https://www.ncsl.org/research/health/improving-health-and-controlling-costs-in-medicaid-the-6-18-initiative.aspx)). Despite its importance, Medicaid faces persistent challenges related to rising costs, high prevalence of chronic conditions among enrollees, and the need to improve health outcomes efficiently. This report provides an in-depth, evidence-based analysis of strategies to improve Medicaid while achieving cost effectiveness, drawing on recent research, federal initiatives, and state-level innovations.
 
 ---
 
-## 1. Evidence-Based Interventions Targeting High-Burden Conditions
+## 1. Context and Challenges in Medicaid Cost and Quality Management
 
-The CDC's 6|18 Initiative identifies six common, preventable health conditions that disproportionately affect Medicaid populations and drive high healthcare costs: tobacco use, high blood pressure, inappropriate antibiotic use, asthma, unintended pregnancies, and type 2 diabetes. Eighteen evidence-based interventions have been developed to address these conditions, focusing on improving health outcomes and reducing costs within a short timeframe ([CDC, 2021](https://www.cdc.gov/sixeighteen/index.htm)).
+Medicaid serves a disproportionately high-risk population with complex health needs, including chronic diseases such as diabetes, asthma, and hypertension. These conditions are among the most costly to treat and manage, contributing significantly to Medicaid expenditures ([National Conference of State Legislatures, 2021](https://www.ncsl.org/research/health/improving-health-and-controlling-costs-in-medicaid-the-6-18-initiative.aspx)).
 
-### 1.1 Tobacco Use
+Historically, Medicaid operated under a fee-for-service (FFS) payment model, which incentivized volume over value, often leading to inefficiencies and fragmented care. Since the 1980s, there has been a gradual shift toward managed care and value-based payment models aimed at improving care coordination, quality, and cost control ([Annual Review of Public Health, 2020](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-040119-094345)).
 
-- **Prevalence & Impact**: Tobacco use is nearly twice as prevalent among Medicaid beneficiaries (24%) compared to privately insured individuals (10.5%), making it the leading cause of preventable disease and death ([CDC, 2020](https://www.cdc.gov/tobacco/data_statistics/sgr/2020-smoking-cessation/index.html)).
-- **Cost-effective Strategies**:
-  - Comprehensive cessation coverage including counseling and FDA-approved medications.
-  - Removal of barriers such as copayments and prior authorizations.
-  - Promotion of cessation benefits to increase utilization.
-  
-Despite all states covering some cessation services, many impose limits on treatment duration and access, impeding effectiveness ([DiGiulio et al., 2020](http://dx.doi.org/10.15585/mmwr.mm6906a2)).
-
-### 1.2 High Blood Pressure Control
-
-- **Prevalence & Impact**: Nearly 50% of U.S. adults have high blood pressure, but only half have it under control ([CDC, 2019](https://www.cdc.gov/bloodpressure/facts.htm)).
-- **Cost-effective Strategies**:
-  - Self-measured blood pressure (SMBP) monitoring with clinical support.
-  - Use of fixed-dose combination medications to improve adherence.
-  - Low copayments and extended medication refills.
-  - Innovative pharmacy packaging and care coordination.
-
-In 2014, only 10% of blood pressure medications filled by Medicaid were fixed-dose combinations, indicating room for improvement ([Ritchey et al., 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159366)).
-
-### 1.3 Antibiotic Stewardship
-
-- **Problem**: Approximately 30% of hospital antibiotic use is unnecessary or inappropriate, contributing to resistance and increased costs ([Fridkin et al., 2014](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6309a3.htm)).
-- **Strategies**:
-  - Mandatory Antibiotic Stewardship Programs (ASPs) in hospitals and nursing homes.
-  - Provider incentives to adhere to outpatient stewardship guidelines.
-  
-CMS has mandated ASPs in Medicare and Medicaid participating hospitals since 2019, improving prescribing practices ([CMS, 2019](https://www.federalregister.gov/documents/2019/09/30/2019-20736/medicare-and-medicaid-programs-regulatory-provisions-to-promote-program-efficiency-transparency-and)).
-
-### 1.4 Asthma Management
-
-- **Prevalence & Impact**: Asthma affects over 24 million Americans, with low-income populations disproportionately burdened ([CDC, 2021](https://www.cdc.gov/asthma/asthma_stats/Health_Care_Coverage_among_Children.htm)).
-- **Strategies**:
-  - Adoption of National Asthma Education and Prevention Program (NAEPP) guidelines.
-  - Enhanced access to controller medications and devices.
-  - Intensive self-management education and home visits to reduce triggers.
-  
-Rhode Island’s Home Asthma Response Program demonstrated a 75% reduction in asthma-related hospital and emergency department costs ([Cloutier et al., 2009](https://www.ajmc.com/journals/issue/2009/2009-06-vol15-n6/ajmc_09jun_cloutier_345to351)).
-
-### 1.5 Preventing Unintended Pregnancies
-
-- **Context**: Medicaid finances about 46% of births in the U.S., with nearly half of pregnancies unintended, leading to adverse outcomes and costs ([Kaiser Family Foundation, 2021](https://www.kff.org/medicaid/state-indicator/births-financed-by-medicaid/)).
-- **Strategies**:
-  - Full reimbursement for contraceptive services and FDA-approved methods.
-  - Unbundling payment for long-acting reversible contraceptives (LARC) from delivery services.
-  - Removing administrative barriers to contraceptive access.
-  
-Colorado’s program increased LARC use among young women from 5% to 19%, reducing unintended pregnancies by 40% in teens ([Ricketts et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24961366/)).
-
-### 1.6 Preventing Type 2 Diabetes
-
-- **Prevalence**: 30 million Americans have diabetes; 84 million have prediabetes ([CDC, 2021](https://www.cdc.gov/diabetes/basics/type2.html)).
-- **Strategy**:
-  - Expansion of Medicaid coverage for the National Diabetes Prevention Program (National DPP) lifestyle change program.
-  
-Twenty states offer some Medicaid coverage for National DPP, with ongoing efforts to expand access ([NACDD, 2020](https://coveragetoolkit.org/participating-payers/)).
+Despite these reforms, evidence on cost savings remains mixed. Some studies report modest savings and quality improvements in specific states or populations, while others find limited or no cost reductions at the national level ([Annual Review of Public Health, 2020](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-040119-094345)). This variability underscores the need for targeted, evidence-based strategies tailored to Medicaid’s unique population and state contexts.
 
 ---
 
-## 2. Payment Reform and Delivery System Integration
+## 2. The CDC’s 6|18 Initiative: Targeting High-Burden Conditions with Evidence-Based Interventions
 
-Transitioning Medicaid from fee-for-service (FFS) to value-based payment (VBP) models is essential to incentivize cost-effective, high-quality care. Key reforms include bundled payments, accountable care organizations (ACOs), and alternative payment methodologies (APMs).
+A promising approach to improving Medicaid cost effectiveness is the Centers for Disease Control and Prevention’s (CDC) 6|18 Initiative. This initiative focuses on six common, preventable health conditions—tobacco use, high blood pressure, inappropriate antibiotic use, asthma, unintended pregnancies, and type 2 diabetes—and 18 evidence-based interventions that have demonstrated health and cost benefits within 18 months of implementation ([CDC, 2021](https://www.ncsl.org/research/health/improving-health-and-controlling-costs-in-medicaid-the-6-18-initiative.aspx)).
 
-### 2.1 Bundled Payments
+### Key Features of the 6|18 Initiative:
 
-- **Definition**: Single payments covering all services during an episode of care, encouraging coordination and efficiency.
-- **Evidence**: Systematic reviews show bundled payments reduce costs and maintain or improve quality, particularly in joint replacement surgeries ([Agarwal et al., 2020](https://pubmed.ncbi.nlm.nih.gov/31905061/); [Struijs et al., 2020](https://doi.org/10.26099/936s-0y65)).
-- **Implementation**: CMS’s Bundled Payments for Care Improvement (BPCI) initiative includes retrospective and prospective models, covering inpatient stays and post-acute care.
-- **Benefits**:
-  - Reduces fragmentation by aligning provider incentives.
-  - Encourages evidence-based care pathways.
-  - Demonstrated cost savings and quality improvements in multiple states and countries.
+| Condition           | Examples of Evidence-Based Interventions                          | Potential Impact                                  |
+|---------------------|------------------------------------------------------------------|-------------------------------------------------|
+| Tobacco Use         | Tobacco cessation counseling, nicotine replacement therapy       | Reduced smoking rates, decreased healthcare costs |
+| High Blood Pressure | Hypertension screening, medication adherence programs            | Lower incidence of cardiovascular events        |
+| Inappropriate Antibiotic Use | Provider education, prescribing guidelines                      | Reduced antibiotic resistance and costs          |
+| Asthma              | Asthma action plans, environmental trigger reduction             | Fewer emergency visits and hospitalizations      |
+| Unintended Pregnancies | Access to long-acting reversible contraception (LARC)           | Reduced unintended pregnancies and associated costs |
+| Type 2 Diabetes     | Diabetes self-management education, medication adherence          | Improved glycemic control, reduced complications |
 
-| Payment Model | Description | Risk Type | Services Covered | Example |
-|---------------|-------------|-----------|------------------|---------|
-| Retrospective Bundled Payment | Payments made after services, reconciled against target price | Shared risk | Hospital stay + post-acute care | BPCI Models 2 & 3 |
-| Prospective Bundled Payment | Lump sum payment upfront for episode | Full provider risk | Hospital + physician services + readmissions | BPCI Model 4 |
-
-### 2.2 Accountable Care Organizations (ACOs)
-
-- **Concept**: Groups of providers jointly accountable for cost and quality of care for a defined population.
-- **Medicare Experience**: Over 360 ACOs serve 5.3 million beneficiaries, generating $128 million in net savings ([CMS, 2014](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/sharedsavingsprogram/index.html)).
-- **Medicaid Application**: New York State’s Medicaid Payment Reform Roadmap aligns Medicaid and Medicare ACOs, promoting multi-payer integration and reducing administrative burden ([NYS DOH, 2015](https://www.health.ny.gov/health_care/medicaid/redesign/dsrip/)).
-
-### 2.3 Alternative Payment Methodologies (APMs)
-
-- **Definition**: Payment models that incentivize value over volume, including shared savings, downside risk, and capitation.
-- **CMS Guidance**: Encourages states to adopt APMs consistent with Health Care Payment Learning and Action Network (HCP-LAN) framework to drive Medicaid VBC ([CMS, 2020](https://www.medicaid.gov/federal-policy-guidance/downloads/smd20003.pdf)).
+The 6|18 Initiative has engaged over 40 state, local, and territorial Medicaid and public health teams, facilitating collaboration, technical assistance, and peer learning to implement these interventions effectively ([CDC, 2021](https://www.ncsl.org/research/health/improving-health-and-controlling-costs-in-medicaid-the-6-18-initiative.aspx)).
 
 ---
 
-## 3. Delivery System Integration and Health Information Technology (HIT)
+## 3. Delivery System and Payment Reforms: Shifting from Volume to Value
 
-Fragmented care delivery leads to inefficiencies, poor outcomes, and higher costs. Integration through coordinated care models and HIT is crucial.
+State Medicaid programs have increasingly adopted delivery system and payment reforms to align incentives with quality and cost outcomes. Common models include:
 
-### 3.1 Care Coordination and Integration
+- **Managed Care Organizations (MCOs):** As of 2019, 33 states reported that 75% or more of Medicaid beneficiaries were enrolled in risk-based MCOs, which integrate behavioral and physical health services and incorporate quality incentives such as pay-for-performance (P4P) ([Kaiser Family Foundation, 2022](https://www.kff.org/medicaid/issue-brief/state-delivery-system-and-payment-strategies-aimed-at-improving-outcomes-and-lowering-costs-in-medicaid/)).
 
-- **Challenges**: Medicaid beneficiaries often navigate multiple providers and settings, leading to duplication and errors ([Toussaint, 2010](https://www.ncbi.nlm.nih.gov/books/NBK53926/)).
-- **Successful Models**:
-  - ThedaCare’s Collaborative Care Unit reduced inpatient costs by 25%.
-  - Gundersen Lutheran’s end-of-life care coordination halved Medicare costs per enrollee.
-- **Strategies**:
-  - Implement patient-centered medical homes (PCMH).
-  - Use standardized protocols and care pathways.
-  - Enhance communication among providers.
+- **Patient-Centered Medical Homes (PCMHs):** These models emphasize coordinated, comprehensive primary care with a focus on prevention and chronic disease management.
 
-### 3.2 Health Information Technology
+- **Accountable Care Organizations (ACOs):** Medicaid ACOs hold providers accountable for cost and quality across a population. Early evidence from states like Colorado, Minnesota, Oregon, and Vermont shows promising cost savings and quality improvements, including $77 million net savings in Colorado over four years and a 23% reduction in emergency department visits in Oregon ([National Conference of State Legislatures, 2016](https://www.ncsl.org/research/health/accountable-care-organizations-health-costs.aspx)).
 
-- **Role**: EHRs and health information exchanges (HIEs) enable data sharing, reduce duplication, and support quality improvement ([Wiesenthal, 2010](https://www.ncbi.nlm.nih.gov/books/NBK53926/)).
-- **Limitations**: HIT alone does not guarantee integration; organizational commitment and payment incentives are necessary.
-- **Recommendations**:
-  - Promote meaningful use of EHRs.
-  - Establish regional HIEs aligned with referral patterns.
-  - Remove regulatory barriers to data sharing.
-  - Address patient privacy concerns to build trust.
+- **Episodes of Care and Global Budgets:** Emerging payment models that bundle payments for episodes of care or set global budgets to incentivize efficiency.
 
----
+### Payment Model Spectrum and Provider Risk
 
-## 4. State-Level Examples and Lessons Learned
+| Payment Model Type                     | Provider Financial Risk | Incentive Focus                         |
+|--------------------------------------|------------------------|---------------------------------------|
+| Fee-for-Service (FFS)                 | None                   | Volume of services                    |
+| Pay-for-Performance (P4P)             | Low                    | Quality and efficiency bonuses       |
+| Shared Savings (One-sided Risk)       | Moderate               | Savings sharing without penalties    |
+| Shared Risk (Two-sided Risk)           | High                   | Savings sharing and penalties for losses |
+| Global Capitation                     | Very High              | Fixed payment for all care            |
 
-### 4.1 South Carolina
-
-- **Focus**: Tobacco cessation.
-- **Actions**:
-  - Eliminated copays and prior authorizations for cessation services.
-  - Standardized benefits across Medicaid managed care organizations.
-  - Used federal funds to support Quitline counseling.
-- **Outcomes**: Increased access and utilization of cessation services; recognized by American Lung Association ([CDC, 2016](https://nam.edu/wp-content/uploads/2016/05/CDCs-618-Initiative-Accelerating-Evidence-into-Action.pdf)).
-
-### 4.2 New York
-
-- **Focus**: Preventing unintended pregnancies.
-- **Actions**:
-  - Unbundled LARC payments from delivery services.
-  - Educated providers to dispel myths about LARC.
-  - Partnered with professional organizations to improve access.
-- **Outcomes**: Increased LARC use and reduced unintended pregnancy rates ([CDC, 2016](https://nam.edu/wp-content/uploads/2016/05/CDCs-618-Initiative-Accelerating-Evidence-into-Action.pdf)).
+States are increasingly incorporating Alternative Payment Models (APMs) in managed care contracts to encourage value-based care, though the impact varies by state and model maturity ([Kaiser Family Foundation, 2022](https://www.kff.org/medicaid/issue-brief/state-delivery-system-and-payment-strategies-aimed-at-improving-outcomes-and-lowering-costs-in-medicaid/)).
 
 ---
 
-## 5. Recommendations for Improving Medicaid Cost-Effectiveness
+## 4. Medicaid Managed Care: Opportunities and Limitations
 
-Based on the evidence and examples presented, the following recommendations are proposed:
+Medicaid managed care has been promoted as a mechanism to improve access, quality, and cost control by shifting risk to managed care organizations. Nearly two-thirds of Medicaid recipients are enrolled in health maintenance organizations (HMOs) or similar managed care plans ([Annual Review of Public Health, 2020](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-040119-094345)).
 
-| Recommendation | Description | Expected Impact |
-|----------------|-------------|-----------------|
-| Expand coverage of evidence-based preventive services | Fully cover tobacco cessation, asthma management, contraceptive services, and diabetes prevention programs with minimal barriers | Improved health outcomes; reduced costly complications |
-| Implement bundled payment models for high-cost episodes | Adopt prospective or retrospective bundled payments for conditions like joint replacement, maternity care, and chronic disease management | Reduced fragmentation; cost savings; improved care coordination |
-| Foster Medicaid-Medicare alignment | Align payment reforms and care models across Medicaid and Medicare to reduce administrative burden and improve care for dual eligibles | Increased efficiency; better care continuity |
-| Invest in HIT and care coordination infrastructure | Promote EHR adoption, regional HIEs, and care coordination teams | Enhanced data sharing; reduced duplication; improved quality |
-| Remove administrative barriers | Eliminate copays, prior authorizations, and restrictive policies that limit access to effective treatments | Increased utilization of beneficial services; better adherence |
-| Support provider education and engagement | Train providers on evidence-based guidelines and value-based care models | Improved clinical practice; increased provider buy-in |
+### Evidence Summary:
+
+- **Cost Savings:** National studies show mixed results, with some states achieving cost savings and others not. For example, Oregon’s Medicaid managed care program demonstrated reduced costs and improved outcomes, while other states showed limited savings ([Annual Review of Public Health, 2020](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-040119-094345)).
+
+- **Quality and Access:** Managed care can improve access and quality, especially for high-risk populations, but results vary widely across states.
+
+- **Budget Predictability:** Managed care may offer states more predictable budgeting, though fully capitated programs have not consistently improved this ([Perez, 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC)).
+
+- **Pharmacy Benefits:** Carving in drug benefits to managed care contracts has shown efficiency gains through lower drug prices and increased generic use ([Annual Review of Public Health, 2020](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-040119-094345)).
 
 ---
 
-## Conclusion
+## 5. Policy Recommendations for Improving Medicaid Cost Effectiveness
 
-Improving Medicaid while delivering cost-effectiveness requires a multifaceted approach that combines evidence-based clinical interventions, innovative payment reforms, delivery system integration, and robust health information technology. The CDC’s 6|18 Initiative provides a valuable framework targeting high-burden conditions with proven strategies. Payment reforms such as bundled payments and ACOs align incentives to promote value over volume. Integration of care and HIT facilitate coordination and reduce waste.
+Based on the evidence and initiatives reviewed, the following recommendations can guide Medicaid improvements toward cost effectiveness:
 
-State-level experiences, such as those in South Carolina and New York, demonstrate the feasibility and benefits of these approaches. Policymakers should prioritize expanding coverage of preventive services, adopting alternative payment models, aligning Medicaid and Medicare reforms, and investing in infrastructure and education to achieve sustainable improvements in Medicaid.
+### 5.1. Expand Implementation of the CDC’s 6|18 Initiative
+
+- **Rationale:** Targeting high-burden, preventable conditions with proven interventions can yield rapid health improvements and cost savings.
+
+- **Action Steps:** States should integrate 6|18 interventions into Medicaid benefit designs, coverage policies, and care delivery models, leveraging CDC technical assistance and peer collaboration.
+
+### 5.2. Strengthen Value-Based Payment Models
+
+- **Rationale:** Transitioning from volume-based FFS to value-based payment aligns incentives with quality and cost control.
+
+- **Action Steps:** States should expand risk-based managed care enrollment, incorporate APMs such as shared savings and global budgets, and require managed care plans to participate in value-based initiatives like ACOs and PCMHs.
+
+- **Considerations:** Payment reforms must be carefully designed to avoid unintended consequences like provider consolidation and ensure adequate risk adjustment.
+
+### 5.3. Enhance Care Coordination and Integration
+
+- **Rationale:** Coordinated care improves management of chronic conditions, reduces unnecessary utilization, and improves patient outcomes.
+
+- **Action Steps:** Expand PCMHs, ACA Health Homes, and integrated behavioral health services within Medicaid.
+
+### 5.4. Leverage Data and Quality Measurement
+
+- **Rationale:** Timely access to claims and clinical data enables providers to monitor performance and implement improvements.
+
+- **Action Steps:** Invest in health information technology, standardize quality measures across states, and align Medicaid metrics with Medicare and private payers to reduce provider burden.
+
+### 5.5. Address Social Determinants of Health (SDOH)
+
+- **Rationale:** SDOH significantly impact health outcomes and costs, particularly in Medicaid populations.
+
+- **Action Steps:** Incorporate SDOH screening and interventions into Medicaid programs, incentivize managed care plans to address social needs, and collaborate with community-based organizations.
+
+---
+
+## 6. Conclusion
+
+Improving Medicaid while achieving cost effectiveness requires a multifaceted approach that combines evidence-based clinical interventions, innovative payment and delivery reforms, and robust data infrastructure. The CDC’s 6|18 Initiative offers a practical framework for targeting high-impact conditions with proven strategies. Meanwhile, expanding value-based payment models such as managed care, PCMHs, and ACOs can align incentives toward better outcomes and cost control. States must tailor these approaches to their unique populations and contexts, continuously evaluate outcomes, and address broader determinants of health to realize sustainable improvements.
 
 ---
 
 ## References
 
-- Agarwal, R., Liao, J. M., Gupta, A., & Navathe, A. S. (2020). The impact of bundled payment on health care spending, utilization, and quality: A systematic review. *Health Affairs*, 39(1), 50-57. https://pubmed.ncbi.nlm.nih.gov/31905061/
+Centers for Disease Control and Prevention. (2021, May 19). *Improving Health and Controlling Costs in Medicaid: The 6|18 Initiative*. National Conference of State Legislatures. https://www.ncsl.org/research/health/improving-health-and-controlling-costs-in-medicaid-the-6-18-initiative.aspx
 
-- Centers for Disease Control and Prevention. (2021). The 6|18 Initiative: Accelerating evidence into action. https://www.cdc.gov/sixeighteen/index.htm
+Kaiser Family Foundation. (2022, January 12). *State Delivery System and Payment Strategies Aimed at Improving Outcomes and Lowering Costs in Medicaid*. https://www.kff.org/medicaid/issue-brief/state-delivery-system-and-payment-strategies-aimed-at-improving-outcomes-and-lowering-costs-in-medicaid/
 
-- Centers for Disease Control and Prevention. (2020). Smoking cessation: A report of the Surgeon General. https://www.cdc.gov/tobacco/data_statistics/sgr/2020-smoking-cessation/index.html
+National Conference of State Legislatures. (2016, February). *Medicaid Accountable Care Organizations: State Profiles and Cost Savings*. https://www.ncsl.org/research/health/accountable-care-organizations-health-costs.aspx
 
-- Centers for Medicare & Medicaid Services. (2014). Medicare Shared Savings Program. https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/sharedsavingsprogram/index.html
+Annual Review of Public Health. (2020). Medicaid Managed Care: Costs, Access, and Quality. https://www.annualreviews.org/doi/10.1146/annurev-publhealth-040119-094345
 
-- Centers for Medicare & Medicaid Services. (2019). Medicare and Medicaid programs; regulatory provisions to promote program efficiency, transparency, and burden reduction. https://www.federalregister.gov/documents/2019/09/30/2019-20736/medicare-and-medicaid-programs-regulatory-provisions-to-promote-program-efficiency-transparency-and
-
-- DiGiulio, A., Jump, Z., Babb, S., et al. (2020). State Medicaid coverage for tobacco cessation treatments and barriers to accessing treatments — United States, 2008–2018. *MMWR Morb Mortal Wkly Rep*, 69, 155–160. http://dx.doi.org/10.15585/mmwr.mm6906a2
-
-- National Association of State Budget Officers. (2018). 2018 State Expenditure Report. https://www.nasbo.org/mainsite/reports-data/state-expenditure-report
-
-- National Association of Chronic Disease Directors. (2020). National DPP Coverage Toolkit. https://coveragetoolkit.org/participating-payers/
-
-- New York State Department of Health. (2015). Value Based Payment Reform in New York State: A Proposal to align Medicare’s and NYS Medicaid’s Reforms. https://www.health.ny.gov/health_care/medicaid/redesign/dsrip/
-
-- Ritchey, M., Tsipas, S., Loustalot, F., & Wozniak, G. (2016). Use of pharmacy sales data to assess changes in prescription- and payment-related factors that promote adherence to medications commonly used to treat hypertension, 2009 and 2014. *PLoS One*, 11(7), e0159366. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159366
-
-- Ricketts, S., Klingler, G., & Schwalberg, R. (2014). Game change in Colorado: Widespread use of long-acting reversible contraceptives and rapid decline in births among young, low-income women. *Perspectives on Sexual and Reproductive Health*, 46(3), 125–132. https://pubmed.ncbi.nlm.nih.gov/24961366/
-
-- Toussaint, J. (2010). Delivery system integration. In *The Healthcare Imperative: Lowering Costs and Improving Outcomes* (pp. 251-280). National Academies Press. https://www.ncbi.nlm.nih.gov/books/NBK53926/
-
-- Wiesenthal, A. M. (2010). Health information technology to promote integration. In *The Healthcare Imperative: Lowering Costs and Improving Outcomes* (pp. 281-300). National Academies Press. https://www.ncbi.nlm.nih.gov/books/NBK53926/
+Perez, D. J. (2018). Medicaid Managed Care and Budget Predictability. *Health Affairs*. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC
 
 ---
 
-*Note: All URLs are hyperlinked in the text above for direct access.*
+*Note: All URLs are hyperlinked in the references above for direct access to the source documents.*

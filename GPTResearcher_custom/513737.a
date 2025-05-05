@@ -1,161 +1,143 @@
-# Should Central Banks Issue Digital Currency? A Comprehensive Analysis
+# Should Central Banks Issue Digital Currency? An In-Depth Analysis
+
+The advent of digital currencies has sparked intense debate among policymakers, economists, and financial institutions worldwide. Central Bank Digital Currencies (CBDCs), digital forms of fiat money issued and regulated by central banks, have emerged as a potential transformative force in the global financial system. This report provides a comprehensive, objective analysis of whether central banks should issue digital currencies, drawing on recent research, policy discussions, and pilot projects. The analysis weighs the benefits and risks, explores monetary policy and financial stability implications, and considers practical challenges, culminating in a reasoned conclusion.
+
+---
 
 ## Introduction
 
-Central bank digital currencies (CBDCs) have emerged as a pivotal topic in monetary policy, financial stability, and payment system innovation. With rapid technological advancements and the declining use of physical cash, central banks worldwide are considering issuing digital versions of their fiat currencies. This report provides an in-depth, objective analysis of whether central banks should issue digital currencies, drawing on recent academic research, policy analyses, and real-world pilot projects. It evaluates the economic, financial, technological, and social implications of CBDCs, weighing their advantages and disadvantages, and offers a reasoned conclusion based on the current state of knowledge.
+Central banks worldwide are increasingly exploring CBDCs as digital alternatives to physical cash. This interest has been propelled by declining cash usage, the rise of cryptocurrencies, and the need to modernize payment systems. According to a Bank for International Settlements (BIS) survey cited by the International Monetary Fund (IMF), approximately 80% of central banks are investigating CBDCs at some level ([Ledger Insights, 2020](https://www.ledgerinsights.com/imf-pros-cons-central-bank-digital-currency-cbdc/)).
+
+CBDCs differ fundamentally from cryptocurrencies like Bitcoin in that they are sovereign-backed and regulated, offering a digital form of legal tender. However, their introduction entails profound consequences for monetary policy, financial stability, and the banking sector ([BPI, 2020](https://bpi.com/central-bank-digital-currencies-costs-benefits-and-major-implications-for-the-u-s-economic-system/)).
 
 ---
 
-## Background and Definitions
+## Advantages of Issuing CBDCs
 
-CBDCs are digital forms of central bank money accessible to the general public (retail CBDC) or restricted to financial institutions (wholesale CBDC). Unlike cryptocurrencies such as Bitcoin, CBDCs are liabilities of the central bank and represent legal tender in digital form. They differ from existing central bank reserves, which are digital but accessible only to banks, and from commercial bank deposits, which are private money.
+### 1. Modernizing Payment Systems and Enhancing Efficiency
 
-CBDCs can be designed with different features, including whether they bear interest, their privacy protections, and their technological architecture (token-based vs. account-based, centralized vs. distributed ledger technology) ([Assenmacher, 2019](https://www.suerf.org/policynotes/165)).
+CBDCs can improve the efficiency, speed, and security of payment systems. They provide a digital alternative to cash, facilitating instant peer-to-peer transactions, reducing transaction costs, and potentially enabling offline payments ([101 Blockchains, 2021](https://101blockchains.com/central-bank-digital-currency-pros-and-cons/)). This modernization is critical as economies increasingly shift towards digital payments, especially highlighted during the COVID-19 pandemic when electronic transactions surged ([Finextra, 2020](https://www.finextra.com/the-long-read/37/the-pros-and-cons-of-cbdcs)).
 
----
+### 2. Financial Inclusion
 
-## Arguments in Favor of Issuing CBDCs
+CBDCs can enhance financial inclusion by providing access to central bank money for unbanked or underbanked populations who may lack access to traditional banking infrastructure but have mobile devices ([Raconteur, 2019](https://www.raconteur.net/finance/cryptocurrency/digital-currencies-cbdcs/)). This can promote equitable access to safe and reliable payment methods.
 
-### 1. Modernizing the Monetary System and Payment Infrastructure
+### 3. Monetary Policy Implementation
 
-The digital economy demands efficient, secure, and accessible payment systems. CBDCs can provide a state-backed digital payment method that complements or replaces declining cash usage, ensuring the continued relevance of central bank money ([Niepelt, 2021](https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook)).
+An interest-bearing CBDC could, in theory, improve monetary policy transmission by allowing central banks to implement non-linear transfers and more direct stimulus measures. For example, CBDCs could help central banks break through the effective lower bound (ELB) on interest rates by enabling negative interest rates on digital holdings, which is difficult with physical cash ([Bank of Canada, 2020](https://www.bankofcanada.ca/2020/02/staff-analytical-note-2020-4/)).
 
-CBDCs can reduce transaction costs and settlement times, facilitating real-time payments and improving overall payment system efficiency. For example, Sweden's e-krona project aims to provide 24/7 access to digital central bank money, addressing the marginalization of cash ([Geroni, 2021](https://101blockchains.com/pros-and-cons-of-central-bank-digital-currency/)).
+### 4. Countering Private Digital Currency Risks
 
-### 2. Enhancing Financial Inclusion
+CBDCs provide a sovereign alternative to private digital currencies and stablecoins, which may pose risks to monetary sovereignty and financial stability. By issuing CBDCs, central banks can "fill the void" left by declining cash usage and prevent excessive power concentration in private payment providers ([Raconteur, 2019](https://www.raconteur.net/finance/cryptocurrency/digital-currencies-cbdcs/)).
 
-CBDCs can potentially extend access to digital financial services to unbanked or underbanked populations, particularly in emerging markets where physical banking infrastructure is limited. By providing a low-cost, widely accessible digital payment option, CBDCs could reduce barriers to financial participation ([Bull et al., 2021](https://www.cgap.org/blog/financial-inclusion-reason-push-central-bank-digital-currencies)).
+### 5. Cross-Border Payments and International Use
 
-However, this potential depends on complementary infrastructure such as digital identity systems and last-mile distribution networks.
-
-### 3. Strengthening Monetary Policy Tools
-
-CBDCs offer new monetary policy instruments. For instance, interest-bearing CBDCs could allow central banks to implement negative interest rates more effectively by eliminating the zero lower bound imposed by cash. Additionally, CBDCs enable direct monetary transfers ("helicopter drops") to citizens, potentially improving stimulus effectiveness ([Rundell, 2019](https://www.ft.com/content/7b6a2a8a-3c5a-11e9-b72b-2c7f526ca5d0)).
-
-### 4. Promoting Competition and Innovation
-
-CBDCs can break the dominance of large banks and private payment providers by offering a public digital money alternative. This can foster competition, reduce payment fees, and encourage innovation in financial services ([Geroni, 2021](https://101blockchains.com/pros-and-cons-of-central-bank-digital-currency/)).
-
-### 5. Enhancing Financial Stability and Reducing Risks
-
-By providing a risk-free digital asset, CBDCs can reduce the reliance on commercial bank deposits, which carry default risk. This could decrease the need for deposit insurance and reduce systemic risk concentration in large banks ([Bank of England, 2019](https://positivemoney.org/wp-content/uploads/2019/02/Digital-Cash-Report.pdf)).
+CBDCs have the potential to simplify and reduce the cost of cross-border payments, which are currently slow and expensive. For example, China's Digital Currency Electronic Payment (DCEP) project aims to facilitate digital renminbi use domestically and internationally, including during global events like the Winter Olympics ([CNBC, 2021](https://www.cnbc.com/2021/03/06/why-central-banks-want-digital-currencies.html)).
 
 ---
 
-## Arguments Against Issuing CBDCs
+## Risks and Challenges of Issuing CBDCs
 
-### 1. Potential Disintermediation of Banks and Financial Instability
+### 1. Financial Stability Risks and Bank Disintermediation
 
-A key concern is that CBDCs could crowd out bank deposits, raising banks' funding costs and reducing their lending capacity, which may negatively impact economic growth ([Gross & Schiller, 2021](https://ssrn.com/abstract=3721965)).
+One of the most significant concerns is that CBDCs could disrupt the traditional banking model. By providing a risk-free alternative to bank deposits, CBDCs might encourage depositors to shift funds from commercial banks to the central bank, especially during financial stress, potentially triggering rapid digital bank runs ([BIS, 2020](https://www.bis.org/cpmi/publ/d174.htm); [Raconteur, 2019](https://www.raconteur.net/finance/cryptocurrency/digital-currencies-cbdcs/)).
 
-Rapid shifts from bank deposits to CBDCs during crises could exacerbate bank runs, increasing financial instability ([Niepelt, 2021](https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook)).
+This disintermediation could reduce banks' lending capacity, raising borrowing costs and slowing economic growth. Banks might respond by increasing deposit rates or shifting to wholesale funding, which is less stable ([101 Blockchains, 2021](https://101blockchains.com/central-bank-digital-currency-pros-and-cons/)).
 
-### 2. Privacy and Surveillance Risks
+### 2. Monetary Policy Complications
 
-CBDCs inherently create digital footprints of transactions, potentially enabling government surveillance of individual financial behavior. Balancing privacy with regulatory compliance (e.g., anti-money laundering) is a significant design and ethical challenge ([Auer et al., 2021](https://www.bis.org/publ/work976.pdf)).
+While CBDCs offer theoretical benefits for monetary policy, practical implementation challenges remain. For instance, to break the ELB, cash would need to be restricted or removed, which is politically and socially sensitive. Moreover, the magnitude of monetary policy improvements from CBDCs is uncertain and may be small in practice ([Bank of Canada, 2020](https://www.bankofcanada.ca/2020/02/staff-analytical-note-2020-4/)).
 
-### 3. Technological and Operational Challenges
+CBDCs could also cause volatility in reserve balances, requiring central banks to maintain larger balance sheets and engage in substantial lending to banks and financial institutions during crises ([BPI, 2020](https://bpi.com/central-bank-digital-currencies-costs-benefits-and-major-implications-for-the-u-s-economic-system/)).
 
-Implementing CBDCs requires robust, scalable, and secure technological infrastructure. Emerging economies may lack the necessary regulatory capacity and technological readiness, posing risks of system failures or exclusion of vulnerable populations ([Rundell, 2019](https://www.ft.com/content/7b6a2a8a-3c5a-11e9-b72b-2c7f526ca5d0)).
+### 3. Privacy and Surveillance Concerns
 
-### 4. Limited Evidence of Clear Monetary Policy Benefits
+CBDCs raise significant privacy issues. Unlike cash, digital currencies can enable central banks and governments to track transactions, potentially infringing on individual privacy. Balancing transparency for regulatory purposes with privacy protections is a complex challenge ([VOX, 2021](https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook)).
 
-Many central banks currently see insufficient monetary policy motivation to issue CBDCs. The existing two-tier banking system effectively transmits monetary policy, and the impact of CBDCs on interest rates and economic activity remains uncertain ([Assenmacher, 2019](https://www.suerf.org/policynotes/165)).
+### 4. Technological and Operational Risks
 
-### 5. Costs and Complexity of Distribution
+Implementing CBDCs requires robust technological infrastructure that ensures security, resilience, and accessibility. There are risks related to cyberattacks, system failures, and the complexity of integrating CBDCs with existing financial systems. Additionally, design choices such as centralized vs. decentralized ledgers affect usability and privacy ([BPI, 2020](https://bpi.com/central-bank-digital-currencies-costs-benefits-and-major-implications-for-the-u-s-economic-system/)).
 
-CBDCs often rely on existing financial intermediaries for customer onboarding and transactions, meaning that cost savings for consumers may be limited. Central banks may also face significant administrative burdens if they provide direct accounts ([Bull et al., 2021](https://www.cgap.org/blog/financial-inclusion-reason-push-central-bank-digital-currencies)).
+### 5. Geographic and Jurisdictional Limitations
 
----
-
-## Comparative Overview of CBDC Pros and Cons
-
-| Aspect                        | Pros                                                        | Cons                                                         |
-|-------------------------------|-------------------------------------------------------------|--------------------------------------------------------------|
-| **Payment Efficiency**         | Faster, cheaper, real-time payments                          | Infrastructure demands, technological risks                  |
-| **Financial Inclusion**        | Access for unbanked, lower costs                             | Digital divide, identity requirements, last-mile challenges  |
-| **Monetary Policy**            | New tools (negative rates, helicopter drops)                | Uncertain impact, potential disruption to bank lending       |
-| **Financial Stability**        | Risk-free alternative to deposits, reduces moral hazard     | Possible bank disintermediation, increased run risks         |
-| **Privacy**                    | Potential for controlled anonymity                           | Risk of surveillance and loss of privacy                      |
-| **Competition and Innovation**| Breaks bank/payment provider dominance                       | May crowd out private sector innovation                       |
-| **Cost**                      | Reduced cash handling and production costs                   | Distribution and compliance costs remain                      |
+CBDCs typically have geographic restrictions, being valid only within the issuing country. This limits their utility in international transactions unless cross-border interoperability is achieved, which remains a work in progress ([101 Blockchains, 2021](https://101blockchains.com/central-bank-digital-currency-pros-and-cons/)).
 
 ---
 
-## International Experience and Projects
+## Comparative Overview of Pros and Cons
 
-Several countries have piloted or implemented CBDCs with varying approaches:
-
-- **China**: The Digital Currency Electronic Payment (DCEP) project is one of the largest CBDC initiatives, with extensive trials in major cities ([Kim, 2021](https://www.cnbc.com/video/2021/03/02/why-central-banks-around-the-world-want-to-get-into-digital-currencies.html)).
-
-- **Sweden**: The e-krona project addresses declining cash use with a non-DLT digital currency accessible 24/7 ([Geroni, 2021](https://101blockchains.com/pros-and-cons-of-central-bank-digital-currency/)).
-
-- **Canada and Singapore**: Collaborative projects (Project Jasper and Project Ubin) explore DLT for payments and settlements ([Geroni, 2021](https://101blockchains.com/pros-and-cons-of-central-bank-digital-currency/)).
-
-- **United States**: The Federal Reserve is researching a digital dollar but remains cautious about risks and unclear benefits ([Waller, 2021](https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook)).
-
----
-
-## Critical Considerations for CBDC Implementation
-
-### Design Choices
-
-- **Interest-bearing vs. non-interest-bearing**: Interest-bearing CBDCs can enhance monetary policy but risk disintermediation; non-interest-bearing CBDCs limit these risks but reduce policy flexibility.
-
-- **Privacy levels**: Balancing anonymity with regulatory compliance is essential.
-
-- **Two-tier architecture**: Central banks issue CBDCs, but private sector intermediaries handle customer interactions, reducing central bank operational burdens ([Auer et al., 2021](https://www.bis.org/publ/work976.pdf)).
-
-### Legal and Political Factors
-
-- Legal mandates may need updating to authorize CBDC issuance with functionalities beyond cash.
-
-- Political risks include potential politicization of banking and central banking functions ([Niepelt, 2021](https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook)).
-
-### Financial Stability Safeguards
-
-- Limits on CBDC holdings or tiered remuneration can mitigate bank run risks.
-
-- Central banks may need contingency plans to support banks during transitions.
+| **Aspect**                     | **Pros**                                                                                      | **Cons**                                                                                           |
+|-------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Payment Efficiency**         | Faster, cheaper, secure payments; offline capabilities                                       | Technological complexity; potential operational failures                                         |
+| **Financial Inclusion**        | Access for unbanked populations                                                              | Digital divide may exclude some users                                                            |
+| **Monetary Policy**            | Potential to break ELB; direct stimulus delivery                                             | Uncertain benefits; requires cash restrictions; may increase central bank balance sheet volatility|
+| **Financial Stability**        | Sovereign alternative to private digital currencies                                          | Risk of bank disintermediation and digital bank runs; reduced bank lending                        |
+| **Privacy**                   | Potential for regulated transparency                                                        | Privacy concerns; risk of surveillance and data misuse                                           |
+| **Cross-Border Payments**      | Simplified, cheaper international transactions                                              | Limited interoperability; jurisdictional constraints                                             |
+| **Economic Growth**            | Potential to support digital economy                                                        | Possible negative impact on bank lending and credit availability                                 |
 
 ---
 
-## Opinion and Conclusion
+## Case Studies and Current Developments
 
-Based on the comprehensive evidence and analyses, **central banks should cautiously pursue the issuance of digital currencies, but only when clear public policy objectives justify their introduction and when the necessary technological, legal, and institutional frameworks are in place**.
+### China’s DCEP Project
 
-CBDCs offer significant potential benefits in modernizing payment systems, enhancing financial inclusion, and expanding monetary policy tools. However, these benefits are not guaranteed and come with substantial risks, particularly concerning financial stability, privacy, and operational complexity.
+China has been a pioneer in CBDC development with its Digital Currency Electronic Payment (DCEP) initiative, backed by the government and undergoing large-scale trials in cities like Shenzhen and Chengdu. The project aims to modernize payments, enhance monetary control, and promote the digital renminbi internationally ([CNBC, 2021](https://www.cnbc.com/2021/03/06/why-central-banks-want-digital-currencies.html)).
 
-Countries with rapidly declining cash usage and advanced digital infrastructure (e.g., Sweden, China) are better positioned to implement CBDCs effectively. In contrast, jurisdictions with limited technological readiness or where cash remains dominant should prioritize strengthening payment infrastructure and regulatory capacity before issuing CBDCs.
+### Sweden’s e-Krona
 
-Moreover, CBDCs should complement—not replace—existing payment methods and banking services, maintaining a balanced ecosystem that leverages both public and private sector strengths.
+Sweden’s Riksbank is piloting the e-Krona to address the rapid decline in cash usage. The project focuses on ensuring payment system resilience and financial inclusion but remains cautious about the risks to financial stability ([AISel, 2020](https://aisel.aisnet.org/pacis2020/131/)).
 
-Finally, the decision to issue a CBDC must involve transparent public debate and democratic oversight, given its profound implications for monetary sovereignty, privacy, and the financial system.
+### United States and Europe
+
+The U.S. Federal Reserve and the European Central Bank are actively researching CBDCs but have not committed to issuance. The Fed emphasizes public engagement and careful study of implications, while the ECB highlights the need to balance usability and system stability ([Ledger Insights, 2020](https://www.ledgerinsights.com/imf-pros-cons-central-bank-digital-currency-cbdc/); [VOX, 2021](https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook)).
+
+---
+
+## Policy Considerations and Recommendations
+
+### 1. Careful Design and Implementation
+
+Central banks should adopt a cautious, phased approach to CBDC issuance, emphasizing robust risk management, privacy protections, and technological resilience. Design choices such as two-tier remuneration systems and caps on CBDC holdings can mitigate financial stability risks ([Tandfonline, 2019](https://www.tandfonline.com/doi/full/10.1080/08911916.2019.1693160)).
+
+### 2. Public Engagement and Legal Frameworks
+
+Transparent communication and legislative oversight are essential to address privacy concerns and secure public trust. Parliaments and voters should have a decisive role in CBDC adoption decisions ([VOX, 2021](https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook)).
+
+### 3. International Coordination
+
+To maximize benefits in cross-border payments, international collaboration on standards and interoperability is crucial. This will prevent fragmentation and enhance global financial integration ([BIS, 2020](https://www.bis.org/cpmi/publ/d174.htm)).
+
+### 4. Monitoring and Mitigating Economic Impacts
+
+Central banks must monitor the impact of CBDCs on commercial banks and credit availability, implementing measures such as holding limits or tiered remuneration to prevent excessive disintermediation ([BPI, 2020](https://bpi.com/central-bank-digital-currencies-costs-benefits-and-major-implications-for-the-u-s-economic-system/)).
+
+---
+
+## Conclusion: Should Central Banks Issue Digital Currency?
+
+The decision for central banks to issue digital currency is complex, involving trade-offs between innovation and stability. CBDCs offer substantial advantages in modernizing payments, enhancing financial inclusion, and potentially improving monetary policy transmission. However, they also pose significant risks to financial stability, privacy, and the traditional banking system.
+
+Given the current evidence and pilot experiences, central banks should cautiously proceed with CBDC development, prioritizing thorough research, risk mitigation, and public engagement. Issuance should be contingent on demonstrating clear benefits that outweigh the risks, with robust safeguards in place.
+
+In essence, **central banks should issue digital currencies only when they have the institutional capacity to manage the associated risks effectively and when the design aligns with the country’s specific economic, legal, and social context**. Premature or poorly designed issuance could destabilize financial systems and erode public trust.
 
 ---
 
 ## References
 
-- Assenmacher, K. (2019). Monetary policy implications of digital currencies. *SUERF Policy Notes*, (165). https://www.suerf.org/policynotes/165
-
-- Auer, R., Frost, J., Gambacorta, L., Monnet, C., Rice, T., & Shin, H. S. (2021). Central bank digital currencies: motives, economic implications and the research frontier. *BIS Working Papers*, No. 976. https://www.bis.org/publ/work976.pdf
-
-- Bull, G., Cook, W., Kerse, M., & Staschen, S. (2021, May 13). Is financial inclusion a reason to push central bank digital currencies? *CGAP Blog*. https://www.cgap.org/blog/financial-inclusion-reason-push-central-bank-digital-currencies
-
-- Geroni, D. (2021, February 20). Pros and cons of central bank digital currency. *101 Blockchains*. https://101blockchains.com/pros-and-cons-of-central-bank-digital-currency/
-
-- Gross, J., & Schiller, J. (2021). A model for central bank digital currencies: Implications for bank funding and monetary policy. *SSRN*. https://ssrn.com/abstract=3721965
-
-- Kim, S. (2021, March 2). Why central banks around the world want to get into digital currencies. *CNBC*. https://www.cnbc.com/video/2021/03/02/why-central-banks-around-the-world-want-to-get-into-digital-currencies.html
-
-- Niepelt, D. (2021, November 24). Central bank digital currency: Considerations, projects, outlook. *VOX CEPR Policy Portal*. https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook
-
-- Rundell, S. (2019, March 14). Digital currencies: The pros and cons. *Financial Times*. https://www.ft.com/content/7b6a2a8a-3c5a-11e9-b72b-2c7f526ca5d0
-
-- Waller, C. (2021). Central bank digital currency considerations. *VOX CEPR Policy Portal*. https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook
-
-- Bank of England. (2019). Digital cash: Why central banks should start issuing electronic money. *Positive Money*. https://positivemoney.org/wp-content/uploads/2019/02/Digital-Cash-Report.pdf
+- Ledger Insights. (2020, March 23). IMF outlines pros and cons of Central Bank Digital Currency. Ledger Insights. https://www.ledgerinsights.com/imf-pros-cons-central-bank-digital-currency-cbdc/
+- 101 Blockchains. (2021, February 20). Pros and Cons of Central Bank Digital Currency. 101 Blockchains. https://101blockchains.com/central-bank-digital-currency-pros-and-cons/
+- Bank of Canada. (2020, February). CBDC and Monetary Policy - Staff Analytical Note 2020-4. Bank of Canada. https://www.bankofcanada.ca/2020/02/staff-analytical-note-2020-4/
+- BPI. (2020). Central Bank Digital Currencies: Costs, Benefits and Major Implications for the U.S. Economic System. BPI. https://bpi.com/central-bank-digital-currencies-costs-benefits-and-major-implications-for-the-u-s-economic-system/
+- Finextra. (2020, April 27). The pros and cons of CBDCs. Finextra. https://www.finextra.com/the-long-read/37/the-pros-and-cons-of-cbdcs
+- Raconteur. (2019, March 14). Digital currencies: the arguments for and against CBDCs. Raconteur. https://www.raconteur.net/finance/cryptocurrency/digital-currencies-cbdcs/
+- CNBC. (2021, March 6). Why central banks want to get into digital currencies. CNBC. https://www.cnbc.com/2021/03/06/why-central-banks-want-digital-currencies.html
+- BIS. (2020). Central Bank Digital Currencies: Foundational Principles and Core Features. Bank for International Settlements. https://www.bis.org/cpmi/publ/d174.htm
+- VOX. (2021, November 24). Central bank digital currency: Considerations, projects, outlook. VOX, CEPR Policy Portal. https://voxeu.org/article/central-bank-digital-currency-considerations-projects-outlook
+- AISel. (2020). Towards Central Bank Digital Currency – A Systematic Literature Review. AISel. https://aisel.aisnet.org/pacis2020/131/
+- Tandfonline. (2019). Central Bank Digital Currency: Risks and Controls. Tandfonline. https://www.tandfonline.com/doi/full/10.1080/08911916.2019.1693160
 
 ---
 
-*Report prepared on April 28, 2025.*
+*This report was prepared objectively based on the latest available literature and research as of May 2025.*

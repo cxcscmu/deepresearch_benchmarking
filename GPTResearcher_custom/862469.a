@@ -1,143 +1,116 @@
 # Report on the Prevalence of Late-Term Abortions in the United States
 
-## Introduction
+Late-term abortions, generally defined as abortions occurring at or beyond 20 to 21 weeks of gestation, remain a subject of significant public and political debate in the United States. Understanding the prevalence and context of these procedures requires careful examination of available data from reputable sources such as the Centers for Disease Control and Prevention (CDC), the Guttmacher Institute, and state health agencies. This report provides a comprehensive analysis of how common late-term abortions are in the U.S., supported by detailed statistics and contextual information.
 
-Late-term abortion, commonly defined as abortion occurring after 20 weeks of gestation, is a subject of considerable public and political debate in the United States. Despite the contentious nature of the topic, accurate and comprehensive data on the incidence of late-term abortions are limited due to inconsistent reporting requirements and varying state policies. This report aims to provide a detailed, data-driven analysis of how common late-term abortions are in the U.S., drawing from multiple reliable sources including the Centers for Disease Control and Prevention (CDC), the Guttmacher Institute, and state health agencies. The report also addresses the reasons for late-term abortions, associated survival probabilities of fetuses at these gestational ages, and the economic impact of late-term abortion services.
+## Definition and Terminology of Late-Term Abortions
 
-## Definition and Data Challenges
+The term "late-term abortion" lacks a precise medical or legal definition but is commonly used to refer to abortions performed at or after 20 to 21 weeks of gestation. The CDC's abortion surveillance system uses a threshold of greater than or equal to 21 weeks of gestation (approximately 19 weeks post-fertilization) to categorize late-term abortions ([Charlotte Lozier Institute, 2019](https://lozierinstitute.org/late-term-abortion-stats/)).
 
-Late-term abortions are generally defined as those performed after 20 weeks of gestation. However, some states use probable post-fertilization (PPF) age, which is approximately two weeks less than gestational age. This discrepancy complicates data comparison across states.
+Medical professionals often avoid the term "late-term" due to its imprecision and potential to mislead, as it may imply abortions occur near full-term pregnancy (37 weeks or later), which is not the case for most late-term abortions ([Washington Post, 2019](https://www.washingtonpost.com/us-policy/2019/02/06/tough-questions-answers-late-term-abortions-law-women-who-get-them/)).
 
-Abortion reporting in the U.S. is voluntary and inconsistent. The CDC relies on state-reported data, but some states do not report or have incomplete data, notably California, Maryland, Florida, Massachusetts, and New Hampshire, which collectively account for about 30% of all U.S. abortions. The Guttmacher Institute supplements official data with provider surveys but reports data only every few years and estimates missing years through interpolation. These limitations create uncertainty in national estimates, especially for late-term abortions.
-
-## Incidence of Late-Term Abortions
+## Overall Frequency of Late-Term Abortions
 
 ### National Estimates
 
-According to the CDC and supplemented by state health data, the estimated number of late-term abortions (>20 weeks gestation) in the U.S. has been relatively stable over the past two decades. The Charlotte Lozier Institute (CLI) estimates for late-term abortions are as follows:
+According to the CDC, late-term abortions (at or after 21 weeks) constitute approximately 1.0% to 1.3% of all reported abortions annually. For example, in 2018, the CDC reported 5,341 abortions at or after 21 weeks, representing about 1% of all abortions with known gestational age ([Live Action News, 2019](https://www.liveaction.org/news/cdc-report-later-abortions-often-public-believe/)).
 
-| Year | Estimated Number of Late-Term Abortions (>20 weeks) | Plausible Range |
-|-------|---------------------------------------------|-----------------|
-| 2008  | 17,500                                      | 13,800 – 23,000 |
-| 2015  | 12,300                                      | 9,600 – 16,400  |
-| 2018  | 11,500                                      | 9,100 – 15,400  |
+Using the total number of reported abortions in 2018 (619,591), estimates suggest that approximately 6,196 abortions occurred at 21 weeks or greater. When considering the second trimester and beyond (14 weeks or later), estimates rise to nearly 50,000 abortions annually ([Live Action News, 2019](https://www.liveaction.org/news/cdc-report-later-abortions-often-public-believe/)).
 
-These figures represent approximately 1.3% to 1.4% of all abortions in those years ([Johnston, 2019a](https://lozierinstitute.org)).
+The Johnston's Archive, which compiles state-level data from the CDC and other health agencies, estimates the number of late-term abortions (defined as >20 weeks gestation) in the U.S. as follows:
 
-The Guttmacher Institute's 2017 data aligns with this, reporting that 1.3% of abortions occurred at or after 21 weeks gestation, out of approximately 862,320 total abortions ([Jones et al., 2019](https://www.guttmacher.org)).
+| Year | Estimated Number of Late-Term Abortions | Plausible Range          |
+|-------|----------------------------------------|-------------------------|
+| 2008  | 17,500                                | 13,800 to 23,000        |
+| 2015  | 12,300                                | 9,600 to 16,400         |
+| 2018  | 11,500                                | 9,100 to 15,400         |
 
-### Gestational Age Breakdown Beyond 20 Weeks
+These figures indicate a decline in late-term abortions over the past decade, although data gaps exist due to inconsistent reporting from several key states that account for approximately 30% of total U.S. abortions (California, Florida, Massachusetts, Maryland, and New Hampshire) ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
-Data on abortions beyond 24 and 28 weeks are more limited but indicate a steep decline in numbers as gestational age increases:
+### Percentage of Late-Term Abortions Relative to All Abortions
 
-| Gestational Age | 2008 Estimate | 2015 Estimate | 2018 Estimate | Plausible Range (2018) |
-|-----------------|---------------|---------------|---------------|-----------------------|
-| >24 weeks       | 1,400         | 1,100         | 900           | 400 – 1,600           |
-| >28 weeks       | 270           | 190           | 160           | 50 – 260              |
+The fraction of late-term abortions relative to all abortions has remained relatively stable over decades. CDC data show that for abortions with known gestational age:
 
-This exponential drop-off reflects both medical practice and legal restrictions in many states ([Johnston, 2019a](https://lozierinstitute.org)).
+- From 1970 to 1990, late-term abortions (>20 weeks) averaged 0.95%.
+- From 1992 to 2004, this fraction increased to an average of 1.41%.
+- From 2005 to 2015, it slightly declined to an average of 1.30% ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
-### State-Level Variation
+This stability suggests that despite changes in abortion laws and access, the proportion of late-term abortions has not increased significantly.
 
-Late-term abortion rates vary significantly by state, influenced by state laws, availability of providers, and interstate travel for services. States are grouped as follows based on late-term abortion fractions:
+## Gestational Age Breakdown Beyond 20 Weeks
 
-| Group | States Included (Examples)                                  | Late-Term Abortion Percentage (Approx.) |
-|-------|------------------------------------------------------------|------------------------------------------|
-| High  | California, Colorado, Georgia, Kansas, New Jersey, New Mexico, New York, Oregon, Washington | ~2.5%                                   |
-| Medium| Hawaii, Illinois, Kentucky, Louisiana, Massachusetts, Michigan, Minnesota, Missouri, Ohio, Pennsylvania, Texas, Wisconsin | 0.5% – 1.4%                             |
-| Low   | Remaining states plus D.C. (excluding Florida and New Hampshire) | 0.2% – 0.5%                             |
+While the CDC does not provide detailed national data for abortions beyond 20 weeks, some states report abortions at later gestational ages:
 
-For example, New Mexico has a notably high late-term abortion fraction, reaching 7.44% in 2015, reflecting its role as a regional provider for late-term abortions ([Johnston, 2019a](https://lozierinstitute.org)).
+| Gestational Age | Estimated Number of Abortions (2018) | Plausible Range         |
+|-----------------|-------------------------------------|------------------------|
+| >20 weeks       | 11,500                             | 9,100 to 15,400        |
+| >24 weeks       | 900                                | 400 to 1,600           |
+| >28 weeks       | 160                                | 50 to 260              |
 
-### Comparison with Total Abortions
+These numbers reflect that abortions beyond 24 weeks are exceedingly rare, and those beyond 28 weeks are even more uncommon ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
-Late-term abortions constitute a small fraction of total abortions. The vast majority occur before 13 weeks gestation, with over 90% of abortions performed by this time. Abortions after 20 weeks represent roughly 1.3% of all abortions, indicating that late-term abortions are rare relative to earlier procedures ([CDC, 2018](https://www.cdc.gov/mmwr)).
+State-specific data show variability, with some states reporting zero abortions beyond 24 weeks during certain periods. For instance, Alaska, Indiana, and Pennsylvania reported zero abortions at >24 weeks in some years, while Iowa, Michigan, and Minnesota provided data on abortions beyond 28 weeks ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
 ## Reasons for Late-Term Abortions
 
-Contrary to some public perceptions, a significant proportion of late-term abortions are elective rather than strictly for maternal or fetal health reasons. Data from Arizona, Florida, and Utah illustrate this:
+Data from Arizona, Florida, and Utah indicate the following distribution of reasons for late-term abortions:
 
-| State   | Number of Late-Term Abortions | Maternal Health (%) | Fetal Health (%) | Elective (%) |
-|---------|-------------------------------|--------------------|------------------|--------------|
-| Arizona | 714                           | 3                  | 18               | 79           |
-| Florida | 230                           | 6–13               | 39               | 39–55        |
-| Utah    | 134                           | 6–26               | 63               | 2–28         |
+| Reason           | Percentage Range (%) |
+|------------------|---------------------|
+| Elective (non-health related) | 30 – 80            |
+| Fetal health issues           | 20 – 60            |
+| Maternal health issues        | 3 – 10             |
 
-Studies by Foster and Kimport (2013) and Foster et al. (2012) further support that most women seeking later abortions do so for reasons other than fetal anomaly or life endangerment, often citing logistical challenges such as difficulty accessing providers or financial constraints ([Foster & Kimport, 2013](https://www.guttmacher.org)).
+These figures align with findings from Guttmacher Institute surveys and testimonies from abortion providers, suggesting that the majority of late-term abortions are either elective or due to fetal health concerns, with a smaller fraction related to maternal health ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
-Testimonies from abortion providers performing partial-birth abortions in the 1990s also indicated that a large majority of such procedures were elective ([Johnston, 2007](http://www.johnstonsarchive.net)).
+## Comparison with Early-Term Abortions
 
-## Survival Potential of Fetuses in Late-Term Abortions
+The vast majority of abortions occur early in pregnancy:
 
-The viability of fetuses at gestational ages beyond 20 weeks has improved with medical advances. Survival rates reported by Rysavy et al. (2015) are:
+| Gestational Age       | Percentage of Total Abortions (2018) | Estimated Number of Abortions |
+|----------------------|-------------------------------------|------------------------------|
+| 9 weeks or less       | 77.7%                               | 481,422                      |
+| 13 weeks or less      | 92.2%                               | 571,263                      |
+| 14-20 weeks          | 6.9%                                | 42,752                       |
+| 21 weeks or greater   | 1.0%                                | 6,196                        |
 
-| Gestational Age | Survival Rate (%) |
-|-----------------|-------------------|
-| 22 weeks        | 5.1               |
-| 23 weeks        | 23.6              |
-| 24 weeks        | 54.9              |
-| 25 weeks        | 72.0              |
-| 26 weeks        | 81.4              |
+This distribution highlights that late-term abortions constitute a very small fraction of all abortions, with most occurring in the first trimester ([Live Action News, 2019](https://www.liveaction.org/news/cdc-report-later-abortions-often-public-believe/)).
 
-Assuming 10–50% of aborted fetuses have health issues reducing survival likelihood, it is estimated that annually between 800 and 2,100 babies aborted after 20 weeks could have survived if carried to term ([Johnston, 2019a](https://lozierinstitute.org)).
+## Trends Over Time and Reporting Challenges
 
-## Economic Impact of Late-Term Abortions
+The reporting of abortion data, especially late-term abortions, is inconsistent across states and years. Some states do not report gestational age data or do not report to the CDC at all, leading to uncertainty in national estimates. For example, California, Florida, Massachusetts, Maryland, and New Hampshire account for about 30% of all U.S. abortions but provide little or no gestational age data ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
-Late-term abortions are significantly more expensive than early abortions. Cost estimates adjusted to 2018 dollars include:
+Despite these data limitations, trends indicate that the proportion of late-term abortions has remained relatively stable, with no clear evidence that recent state restrictions on abortion have increased the fraction of late-term abortions ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
-| Study                  | Reported Cost (Median or Mean) | Year(s)      |
-|------------------------|-------------------------------|--------------|
-| Jones & Kooistra       | Mean $1,822                   | 2008         |
-| Foster & Kimport       | Mean $2,359                   | 2008–2010    |
-| Jerman & Jones         | Median $1,477                 | 2011–2012    |
-| Jones et al.           | Median $1,268                 | 2014         |
-| Anecdotal (3rd Trimester) | >$5,000                     | Recent       |
+## Contextualizing Late-Term Abortion Numbers
 
-Applying these costs to the estimated number of late-term abortions yields an estimated annual revenue of $12 million to $40 million for late-term abortion services, accounting for approximately 5% of the total abortion industry revenue, which is near half a billion dollars annually ([Johnston, 2019a](https://lozierinstitute.org)).
+Though late-term abortions constitute a small percentage of total abortions, the absolute numbers are not insignificant. For instance, in 2018, approximately 11,500 abortions occurred after 20 weeks gestation, with about 900 after 24 weeks. To put this in perspective, these numbers exceed many causes of death that individually account for less than 1% of total deaths annually in the U.S. ([Live Action News, 2019](https://www.liveaction.org/news/cdc-report-later-abortions-often-public-believe/)).
 
-## Policy Context and International Comparison
+## Legal and Medical Considerations
 
-As of early 2019, seven U.S. states and the District of Columbia permit abortion on demand at any point in pregnancy, including through birth: Alaska, Colorado, New Hampshire, New Jersey, New Mexico, Oregon, Vermont, and D.C. Eighteen other states allow abortion through viability, often defined subjectively by providers.
+Most states restrict abortions after 20 to 26 weeks of gestation, but exceptions exist, typically to save the mother's life or in cases of severe fetal anomalies. Late-term abortions are medically more complex and riskier, and few providers perform them. Some states permit abortion on demand through birth, but these are rare and represent a small fraction of all abortions ([Johnston’s Archive, 2020](http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html)).
 
-This makes the U.S. an outlier globally, with only a few countries such as Canada, North Korea, and Vietnam having similarly permissive late-term abortion policies. Most other developed countries restrict late-term abortions to cases involving fetal or maternal health issues ([Baglini, 2014](https://lozierinstitute.org)).
+## Summary and Opinion
 
-## Trends Over Time
+Based on the comprehensive review of available data, late-term abortions in the United States are relatively rare, constituting approximately 1% to 1.3% of all abortions annually. The absolute numbers, while small relative to total abortions, are significant in human terms, with an estimated 11,500 late-term abortions occurring in 2018 at greater than 20 weeks gestation.
 
-The fraction of late-term abortions in the U.S. has been relatively stable for decades, averaging about 1.3% of all abortions. Some fluctuations are linked to changes in state reporting practices rather than actual incidence. There is no evidence supporting claims that recent abortion restrictions have increased the proportion of late-term abortions ([Johnston, 2019a](https://lozierinstitute.org)).
+The data indicate that the majority of late-term abortions occur for elective reasons or due to fetal health issues, with a smaller proportion related to maternal health. The fraction of late-term abortions has remained relatively stable over the past several decades, and there is no clear evidence that recent legislative restrictions have increased their incidence.
 
-## Conclusion and Opinion
+Data limitations, particularly inconsistent reporting from key states, introduce uncertainty into national estimates. However, the convergence of multiple data sources, including CDC reports, state health agency data, and independent analyses, supports the conclusion that late-term abortions are uncommon but persistent components of abortion care in the U.S.
 
-Late-term abortions in the United States are relatively rare, constituting approximately 1.3% of all abortions annually, with an estimated 11,500 such procedures performed in 2018. The majority of abortions occur well before 20 weeks gestation. Despite political rhetoric suggesting otherwise, late-term abortions are not commonly performed "moments before birth," and the number of abortions at very late gestational ages (>24 or >28 weeks) is even smaller.
-
-Data indicate that a significant portion of late-term abortions are elective rather than strictly for maternal or fetal health reasons, although the reasons for these abortions are complex and often involve barriers to earlier access.
-
-Given the limitations in reporting and data collection, these estimates carry uncertainty, but the convergence of multiple sources supports the conclusion that late-term abortions are uncommon relative to total abortions.
-
-From a public health perspective, understanding the true incidence and reasons for late-term abortions is essential for informed policy-making. The data suggest that efforts to reduce barriers to early abortion access and improve reproductive health services could reduce the need for later abortions.
+Given the medical complexity and ethical considerations surrounding late-term abortions, their rarity underscores the importance of nuanced, evidence-based policy discussions rather than inflammatory rhetoric. Accurate data collection and transparent reporting remain essential for informed public understanding and policymaking.
 
 ---
 
-# References
+## References
 
-Baglini, A. (2014, February 1). Gestational limits on abortion in the United States compared to international norms. Charlotte Lozier Institute. https://lozierinstitute.org/internationalabortionnorms/
+Charlotte Lozier Institute. (2019, September 9). *Fact Sheet: Late-Term Abortion Stats*. Charlotte Lozier Institute. https://lozierinstitute.org/late-term-abortion-stats/
 
-Centers for Disease Control and Prevention. (2018). Abortion surveillance — United States, 2015. Morbidity and Mortality Weekly Report, 67(13), 1–48. https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm
+Johnston, J. (2020). *Data on late-term abortions in the United States*. Johnston's Archive. http://www.johnstonsarchive.net/policy/abortion/late_term_abortion_usa.html
 
-Foster, D. G., & Kimport, K. (2013). Who seeks abortions at or after 20 weeks? Perspectives on Sexual and Reproductive Health, 45(4), 210–218. https://doi.org/10.1363/4521013
+Live Action News. (2019). *CDC report: Later abortions often more common than public believes*. Live Action News. https://www.liveaction.org/news/cdc-report-later-abortions-often-public-believe/
 
-Johnston, W. R. (2019a). Data on late-term abortions in the United States. Charlotte Lozier Institute. https://lozierinstitute.org/data-on-late-term-abortions-in-the-united-states/
-
-Jones, R. K., Witwer, E., & Jerman, J. (2019). Abortion incidence and service availability in the United States, 2017. Perspectives on Sexual and Reproductive Health, 49(1), 17–27. https://doi.org/10.1363/psrh.12071
-
-Rysavy, M. A., et al. (2015). Between-hospital variation in treatment and outcomes in extremely preterm infants. New England Journal of Medicine, 372(19), 1801–1811. https://doi.org/10.1056/NEJMoa1410689
+The Washington Post. (2019, February 6). *Tough questions and answers on late-term abortions, law, and women who get them*. https://www.washingtonpost.com/us-policy/2019/02/06/tough-questions-answers-late-term-abortions-law-women-who-get-them/
 
 ---
 
-# Source URLs
-
-- https://lozierinstitute.org/internationalabortionnorms/
-- https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm
-- https://doi.org/10.1363/4521013
-- https://lozierinstitute.org/data-on-late-term-abortions-in-the-united-states/
-- https://doi.org/10.1363/psrh.12071
-- https://doi.org/10.1056/NEJMoa1410689
+*Note: All URLs were accessed and verified as of May 4, 2025.*

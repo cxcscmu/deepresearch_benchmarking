@@ -1,96 +1,127 @@
-# Are Vaccinated People Dying More Than Unvaccinated? An In-Depth Analysis
+# Are Vaccinated People Dying More Than Unvaccinated? A Comprehensive Analysis
 
-## Introduction
+The question of whether vaccinated individuals are dying at a higher rate than unvaccinated individuals has been a topic of significant public interest and debate throughout the COVID-19 pandemic. This report provides a detailed, evidence-based analysis of this issue, drawing upon multiple reliable sources, including government health agencies and fact-checking organizations. The goal is to clarify misconceptions, present relevant data, and offer an informed conclusion based on the best available evidence as of 2025.
 
-The question of whether vaccinated individuals are dying at a higher rate than unvaccinated individuals has been a subject of public debate and misinformation throughout the COVID-19 pandemic. Various claims have circulated, some suggesting that vaccinated people die more frequently from COVID-19 than those unvaccinated, while others assert the opposite. This report aims to provide a comprehensive, evidence-based analysis of this question using reliable data and scientific evaluations available up to 2025.
+---
 
-## Overview of Claims and Context
+## Understanding the Context: Raw Numbers vs. Death Rates
 
-Several sources have made claims about death rates among vaccinated versus unvaccinated populations, often citing raw numbers without proper context. For example, a claim circulated in late 2021 that COVID-19 death rates in England were "4 to 1, vaccinated to unvaccinated," implying vaccinated individuals were dying at a higher rate ([Mic Drop Politics, 2021](https://www.politifact.com/factchecks/2021/nov/30/facebook-posts/viral-facebook-post-covid-19-death-rates-england-are-highe/)). This claim was based on raw death counts: 2,822 deaths among vaccinated people versus 587 among unvaccinated during a specific three-week period. However, this comparison ignored the vastly different sizes of the vaccinated and unvaccinated populations.
+A common source of confusion arises from comparing raw numbers of deaths among vaccinated and unvaccinated people without accounting for the size of each group. For instance, some reports have cited that during a specific three-week period in England, more deaths occurred among vaccinated individuals than unvaccinated ones (e.g., 2,822 vaccinated deaths vs. 587 unvaccinated deaths) ([Curet, 2021](https://news.yahoo.com/fact-check-vaccinated-people-dying-143012895.html)).
 
-## Importance of Rate vs. Raw Numbers
+However, this comparison is misleading because it fails to consider the vastly different sizes of the vaccinated and unvaccinated populations. In England, well over 90% of the adult population was double vaccinated during that period, making the vaccinated cohort more than nine times larger than the unvaccinated cohort ([Weeks, 2021](https://www.msn.com/en-us/money/other/fact-check-are-vaccinated-people-dying-at-a-faster-rate-than-unvaccinated-people/ar-AARojz4)). Therefore, even a small death rate in a large vaccinated population can produce a higher absolute number of deaths compared to a smaller unvaccinated population with a higher death rate.
 
-The critical statistical error in such claims is the failure to account for population size differences. England had over 90% of adults double vaccinated at the time, meaning the vaccinated group was over nine times larger than the unvaccinated group. Therefore, even a small death rate in a large population can produce more deaths in absolute numbers than a higher death rate in a smaller population.
+---
 
-### Death Rates per 100,000 People
+## Death Rates Per 100,000 People: Vaccinated vs. Unvaccinated
 
-The UK Health Security Agency (UKHSA) report for a three-week period in October-November 2021 provides death rates per 100,000 people:
+When death rates are adjusted for population size, data consistently show that unvaccinated individuals have significantly higher mortality rates from COVID-19 than vaccinated individuals.
 
-| Group         | Deaths per 100,000 People |
-|---------------|---------------------------|
-| Vaccinated    | 54.9                      |
-| Unvaccinated  | 125.4                     |
+### UK Data (England, October-November 2021)
 
-This shows that unvaccinated individuals had more than double the death rate compared to vaccinated individuals during the period analyzed ([UK Health Security Agency, 2021](https://www.gov.uk/government/publications/covid-19-vaccine-surveillance-report)).
+| Group          | Deaths per 100,000 people |
+|----------------|---------------------------|
+| Vaccinated     | 54.9                      |
+| Unvaccinated   | 125.4                     |
 
-## Vaccine Effectiveness Against Death
+This data from the UK Health Security Agency clearly indicates that unvaccinated people were dying at more than twice the rate of vaccinated people during the period analyzed ([PolitiFact, 2021](https://www.politifact.com/factchecks/2021/nov/30/blog-posting/vaccinated-people-england-are-not-dying-faster-rat/)).
 
-The UKHSA report and other studies consistently show that COVID-19 vaccines offer more than 90% protection against mortality from the virus. This aligns with data from other countries, including the United States and Israel, where vaccinated individuals have significantly lower risks of severe outcomes and death.
+---
 
-For example, CDC data from the U.S. indicate that unvaccinated people were about 11 times more likely to die from COVID-19 than vaccinated people during the Delta variant period ([NPR, 2021](https://www.npr.org/sections/health-shots/2021/09/10/1035615527/unvaccinated-people-are-11-times-more-likely-to-die-of-covid-19-than-vaccinated-new-r)).
+## Vaccine Effectiveness Against Mortality
 
-## Confounding Factors and Biases
+The vaccines have been shown to offer more than 90% protection against mortality from COVID-19 according to the UK Health Security Agency’s reports ([Weeks, 2021](https://www.msn.com/en-us/money/other/fact-check-are-vaccinated-people-dying-at-a-faster-rate-than-unvaccinated-people/ar-AARojz4)). This high level of protection is consistent across multiple studies and countries.
 
-### Age and Health Status
+---
 
-Vaccinated and unvaccinated groups differ in age distribution and health status. Older and more vulnerable individuals were prioritized for vaccination, which can skew raw death numbers. Older vaccinated people may still die at higher absolute numbers due to age-related risks, but their death rates relative to their population size remain lower than unvaccinated groups.
+## Misinterpretations and Misinformation
 
-### Time Period and Seasonal Effects
+Several articles and social media posts have misinterpreted or misrepresented data, leading to false claims that vaccinated people are dying at higher rates than unvaccinated people. For example:
 
-The timing of vaccination rollout and fluctuating COVID-19 incidence affect death rates. Early in 2021, most people were unvaccinated during a period of high COVID-19 mortality, while later, as vaccination coverage increased, overall death rates declined. This temporal confounding can bias comparisons if not properly adjusted ([Oke & Heneghan, 2021](https://www.cebm.net/covid-19/measuring-vaccine-efficacy-from-population-data/)).
+- **Mic Drop Politics** and **The Expose** published claims that COVID death rates were 4 to 1 in favor of vaccinated individuals dying more than unvaccinated ones. These claims were based on raw death numbers without adjusting for population size and were rated false by fact-checkers ([PolitiFact, 2021](https://www.politifact.com/factchecks/2021/nov/30/blog-posting/vaccinated-people-england-are-not-dying-faster-rat/)).
 
-### Breakthrough Infections and Waning Immunity
+- Independent journalist Alex Berenson claimed that individuals under 60 who were vaccinated were twice as likely to die as unvaccinated individuals, based on Office of National Statistics data. However, this study looked at all-cause mortality and did not adjust for confounding factors such as age and underlying health conditions, which are critical for accurate interpretation ([Trib247, 2021](https://trib247.com/articles/uk-government-data-significantly-higher-death-rate-for-the-vaccinated-over-the-unvaccinated)).
 
-Breakthrough infections occur but are generally less severe. Waning immunity and variant evolution can reduce vaccine effectiveness over time, but vaccines still substantially reduce the risk of death.
+---
 
-## Analysis of Contradictory Claims
+## The Importance of Age and Other Confounding Factors
 
-Some sources, such as Alex Berenson and WND News Center, have claimed vaccinated individuals die at higher rates, particularly under age 60, citing raw death counts or misleading statistics ([Berenson, 2021](https://www.wnd.com/2021/11/vaccinated-dying-twice-rate-unvaccinated-uk/)). However, these claims often rely on flawed methodology:
+Age is a major confounding factor in mortality data. Older populations are more likely to be vaccinated and also have a higher baseline risk of death from any cause, including COVID-19. Therefore, comparing death rates without adjusting for age can skew results.
 
-- Ignoring population size differences.
-- Not adjusting for age or health status.
-- Using raw death counts instead of death rates.
-- Failing to consider confounding factors.
+- Vaccinated populations tend to be older and have more underlying health conditions, which inherently increases their risk of mortality.
 
-Such claims have been fact-checked and rated false by reputable organizations like PolitiFact and Health Feedback ([PolitiFact, 2021](https://www.politifact.com/factchecks/2021/nov/30/facebook-posts/viral-facebook-post-covid-19-death-rates-england-are-highe/); [Health Feedback, 2021](https://healthfeedback.org/claimreview/unvaccinated-individuals-now-account-for-the-vast-majority-of-covid-19-hospitalizations-and-deaths-in-the-u-s-according-to-available-data/)).
+- Studies that adjust for age show that vaccinated individuals have significantly lower death rates than unvaccinated individuals across all age groups ([WBTV, 2021](https://www.wbtv.com/2021/08/27/report-unvaccinated-people-are-more-than-15-times-more-likely-die-covid-19/)).
 
-## Summary of Key Findings
+---
 
-| Aspect                         | Finding                                                                                       |
-|--------------------------------|----------------------------------------------------------------------------------------------|
-| Raw death counts                | More deaths among vaccinated due to larger population size                                  |
-| Death rates per 100,000        | Higher among unvaccinated individuals                                                       |
-| Vaccine protection             | >90% effective against COVID-19 mortality                                                   |
-| Confounding factors            | Age, health status, timing of vaccination, and infection rates affect death statistics      |
-| Breakthrough infections        | Occur but rarely lead to death; vaccines reduce severity                                    |
-| Credibility of claims          | Claims that vaccinated die more often are based on statistical errors and misinterpretation |
+## US Data on Vaccination and Mortality
+
+The Centers for Disease Control and Prevention (CDC) data from the United States corroborate the findings from the UK:
+
+| Metric                         | Vaccinated    | Unvaccinated  |
+|--------------------------------|---------------|---------------|
+| Likelihood to test positive     | Baseline      | 6 times higher|
+| Likelihood to die from COVID-19 | Baseline      | 11 to 14 times higher |
+
+- Unvaccinated adults were nearly six times more likely to test positive for COVID-19 and 14 times more likely to die from the virus compared to vaccinated individuals ([Beckers Hospital Review, 2021](https://www.beckershospitalreview.com/patient-safety-outcomes/unvaccinated-people-14-times-more-likely-to-die-from-covid-19-cdc-says.html)).
+
+- CDC Director Rochelle Walensky noted that 99.5% of COVID-19 deaths in the US were among unvaccinated people during recent months ([Business Insider, 2021](https://www.businessinsider.com/us-coronavirus-deaths-nearly-all-among-unvaccinated-cdc-head-2021-7)).
+
+---
+
+## Breakthrough Infections and Deaths
+
+Breakthrough infections (COVID-19 infections in vaccinated individuals) do occur, especially with variants such as Delta and Omicron. However:
+
+- Vaccinated individuals who die from COVID-19 tend to be older or have compromised immune systems ([MSN, 2021](https://www.msn.com/en-us/news/world/verify-claim-that-vaccinated-people-more-likely-to-die-from-delta-variant-a-classic-case-of-the-misuse-of-statistics/ar-AALTEST)).
+
+- The death rate among vaccinated individuals remains significantly lower than that of unvaccinated individuals when adjusted for age and health status.
+
+---
+
+## Summary of Key Points
+
+| Aspect                              | Vaccinated Individuals                      | Unvaccinated Individuals                    |
+|-----------------------------------|--------------------------------------------|---------------------------------------------|
+| Population proportion (UK example) | >90% of adults                             | <10% of adults                              |
+| COVID-19 death rate per 100,000    | ~54.9 (England, Oct-Nov 2021)              | ~125.4 (England, Oct-Nov 2021)              |
+| Protection against mortality       | >90% effective                             | No vaccine protection                       |
+| Likelihood of testing positive     | Baseline                                  | 4 to 6 times higher (US data)               |
+| Likelihood of death from COVID-19  | Baseline                                  | 11 to 14 times higher (US data)             |
+| Age and health confounders         | Older, more comorbidities                  | Younger, fewer comorbidities                 |
+| Misinterpretation risk              | High if raw numbers used without context  | High if raw numbers used without context    |
+
+---
 
 ## Conclusion
 
-Based on the comprehensive evaluation of data from England, the United States, and other countries, vaccinated people are **not** dying at a faster rate than unvaccinated people. In fact, death rates from COVID-19 are significantly higher among unvaccinated populations when accounting for population sizes and confounding factors.
+Based on a comprehensive review of reliable data from the UK and the US, vaccinated individuals are **not** dying at a higher rate than unvaccinated individuals. The apparent higher number of deaths among vaccinated people in some reports is a statistical artifact caused by the much larger size of the vaccinated population and the older age profile of vaccinated individuals.
 
-Claims that suggest vaccinated individuals die more frequently are primarily based on raw death counts without proper context, leading to misleading conclusions. Reliable data consistently demonstrate that COVID-19 vaccines provide strong protection against death and severe disease.
+When death rates are properly adjusted for population size and confounding factors such as age and health status, vaccinated people have significantly lower mortality rates from COVID-19 compared to unvaccinated people. Vaccination offers strong protection against severe disease and death, reducing the risk by more than 90% in many cases.
 
-Therefore, the assertion that vaccinated people are dying more than unvaccinated people is **false** and unsupported by the evidence.
+Claims that vaccinated people are dying more than unvaccinated people are based on misinterpretations of raw data and lack critical context. Trusted health agencies and fact-checking organizations have consistently debunked these claims.
+
+Therefore, the evidence strongly supports that COVID-19 vaccines are effective in reducing mortality and that vaccinated individuals are dying at a substantially lower rate than unvaccinated individuals.
 
 ---
 
 ## References
 
-Austin American-Statesman. (2021, December 2). *Fact-check: Are vaccinated people dying at a faster rate than unvaccinated people?* PolitiFact. https://www.politifact.com/factchecks/2021/nov/30/facebook-posts/viral-facebook-post-covid-19-death-rates-england-are-highe/
+- Curet, M. (2021, December 2). Fact-check: Are vaccinated people dying at a faster rate than unvaccinated people? *Austin American-Statesman*. https://news.yahoo.com/fact-check-vaccinated-people-dying-143012895.html
 
-Mic Drop Politics. (2021, November 19). *COVID Death Rates 4 To 1, Vaccinated to Unvaxxed.* https://www.micdroppolitics.com/covid-death-rates-4-to-1-vaccinated-to-unvaxxed
+- PolitiFact. (2021, November 30). Vaccinated people in England are not dying at a faster rate than the unvaccinated. https://www.politifact.com/factchecks/2021/nov/30/blog-posting/vaccinated-people-england-are-not-dying-faster-rat/
 
-NPR. (2021, September 10). *Unvaccinated People Are 11 Times More Likely To Die Of COVID-19, New Research Finds.* https://www.npr.org/sections/health-shots/2021/09/10/1035615527/unvaccinated-people-are-11-times-more-likely-to-die-of-covid-19-than-vaccinated-new-r
+- Weeks, L. (2021, November 26). Senior communications officer, UK Health Security Agency. Interview.
 
-Oke, J., & Heneghan, C. (2021, October 25). *Measuring vaccine efficacy from population data.* Centre for Evidence-Based Medicine. https://www.cebm.net/covid-19/measuring-vaccine-efficacy-from-population-data/
+- Trib247 Staff. (2021, November 22). UK government data: Significantly higher death rate for the vaccinated over the unvaccinated. *Trib247*. https://trib247.com/articles/uk-government-data-significantly-higher-death-rate-for-the-vaccinated-over-the-unvaccinated
 
-UK Health Security Agency. (2021, November 11). *COVID-19 vaccine surveillance report: Week 45.* https://www.gov.uk/government/publications/covid-19-vaccine-surveillance-report
+- WBTV Web Staff. (2021, August 27). Report: Unvaccinated people are more than 15 times more likely to die from COVID-19. *WBTV*. https://www.wbtv.com/2021/08/27/report-unvaccinated-people-are-more-than-15-times-more-likely-die-covid-19/
 
-Health Feedback. (2021, July 7). *Unvaccinated individuals now account for the vast majority of COVID-19 hospitalizations and deaths in the U.S., according to available data.* https://healthfeedback.org/claimreview/unvaccinated-individuals-now-account-for-the-vast-majority-of-covid-19-hospitalizations-and-deaths-in-the-u-s-according-to-available-data/
+- Beckers Hospital Review. (2021, November 24). Unvaccinated people 14 times more likely to die from COVID-19, CDC says. https://www.beckershospitalreview.com/patient-safety-outcomes/unvaccinated-people-14-times-more-likely-to-die-from-covid-19-cdc-says.html
 
-Berenson, A. (2021, November 23). *Vaccinated dying at twice rate of unvaccinated in U.K.* WND News Center. https://www.wnd.com/2021/11/vaccinated-dying-twice-rate-unvaccinated-uk/
+- Business Insider. (2021, July 9). CDC Head: 99.5% of COVID-19 Deaths Among Unvaccinated in US. https://www.businessinsider.com/us-coronavirus-deaths-nearly-all-among-unvaccinated-cdc-head-2021-7
+
+- MSN. (2021, November). Verify claim that vaccinated people more likely to die from Delta variant a classic case of the misuse of statistics. https://www.msn.com/en-us/news/world/verify-claim-that-vaccinated-people-more-likely-to-die-from-delta-variant-a-classic-case-of-the-misuse-of-statistics/ar-AALTEST
 
 ---
 
-*This report was prepared on April 28, 2025, based on the most current and reliable data available.*
+This report aims to provide an objective, data-driven understanding of COVID-19 mortality among vaccinated and unvaccinated populations, clarifying that vaccination significantly reduces the risk of death from COVID-19.

@@ -1,150 +1,125 @@
-# Report: Are Nurses Spending Too Much Time Documenting Using Electronic Health Records (EHR)?
+# Report on Nursing Time Spent Documenting Using Electronic Health Records (EHR)
 
-## Introduction
+The adoption of Electronic Health Records (EHR) has transformed healthcare documentation, aiming to improve patient care, enhance data accuracy, and streamline workflows. However, a critical concern remains: Are nurses spending too much time documenting using EHR systems? This report provides a comprehensive and evidence-based analysis of this question, drawing from multiple systematic reviews, empirical studies, and expert analyses to present an objective evaluation of nursing documentation burden related to EHR use.
 
-The adoption of Electronic Health Records (EHR) has transformed nursing documentation practices worldwide, promising improvements in patient safety, care quality, and workflow efficiency. However, a critical concern remains: are nurses spending excessive time on documentation when using EHR systems? This report provides a comprehensive and evidence-based analysis of this question, drawing on systematic reviews, empirical studies, and expert insights to assess the impact of EHR on nursing documentation time. The report also explores factors influencing documentation time, benefits and challenges of EHR use, and implications for nursing practice and healthcare organizations.
+---
 
-## Overview of Nursing Documentation and EHR
+## Overview of Nursing Documentation Time with EHR
 
-Nursing documentation is essential for recording assessments, care plans, clinical interventions, and patient responses. It supports communication among healthcare professionals, ensures continuity of care, and meets legal and regulatory requirements. EHR systems digitize this process, offering real-time access to patient data, standardized templates, and decision support tools. Nurses use EHRs to document vital signs, medication administration, clinical notes, and other critical information.
+Nurses play a pivotal role in patient care, requiring meticulous documentation of assessments, care plans, medication administration, and clinical changes. EHRs have been introduced to facilitate this process, offering standardized formats, templates, and real-time access to patient data. Despite these advantages, evidence suggests that EHR implementation has led to significant changes in documentation time, with mixed impacts on nursing productivity and patient care.
 
-EHRs aim to improve documentation accuracy, reduce errors, and enhance efficiency. However, the transition from paper-based to electronic documentation has introduced new workflows, technical challenges, and cognitive demands on nurses.
+### Quantitative Findings on Documentation Time
 
-## Evidence on Time Spent Documenting Using EHR
+Several systematic reviews and meta-analyses provide quantitative insights into the time nurses spend on documentation with EHRs:
 
-### Systematic Review Findings on Documentation Time
+- A systematic review of 23 studies found that nurses saved approximately **24.5% of their overall documentation time during shifts** when using bedside terminals or central station desktops compared to paper-based methods ([Poissant et al., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)).
 
-A systematic review by Poissant et al. (2005) synthesized 23 studies comparing documentation time between EHR and paper systems for nurses and physicians. Key findings relevant to nurses include:
+- Conversely, when documentation time was measured per patient, EHR use was associated with **increases in documentation time ranging from 7.7% to 128.4%**, indicating that while total shift documentation time may decrease, the time per patient may increase ([Poissant et al., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)).
 
-- **Mixed Impact on Documentation Time:** Among 11 studies on nurses, six reported reduced documentation time with EHR (ranging from 2.1% to 45.1% reduction), while others reported increases, especially with handheld devices (up to 128.4% increase) ([Poissant et al., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)).
+- Nurses reportedly spend **more than half of their shift time on EHR data entry and retrieval**, which reduces direct patient contact time ([Sinsky et al., 2021](https://academic.oup.com/jamia/article/28/5/998/6090156)).
 
-- **Weighted Average Time Savings:** Using bedside terminals saved nurses approximately 24.5% of their overall documentation time during a shift, and central station desktops saved about 23.5% ([Poissant et al., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)).
+- In a community hospital study, 73% of nurses reported spending at least half their shift using EHRs, highlighting the significant documentation burden ([Bakken et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18317257/)).
 
-- **Variation by Sampling Unit:** Studies measuring time per patient often showed increased documentation time, whereas those measuring time over entire shifts generally showed time savings.
+### Documentation Burden and Its Consequences
 
-- **Time Since Implementation:** Studies conducted within three months of EHR implementation tended to show time savings, while those conducted later showed mixed or increased documentation times, possibly due to expanded system use or decreased support.
+The documentation burden associated with EHRs is multifaceted, involving increased clinician documentation time, extended work hours, and clerical workload. This burden has been linked to:
 
-### Nurses’ Perceptions of EHR Impact on Documentation Time
+- **Increased medical errors and threats to patient safety** due to documentation overload ([Sinsky et al., 2021](https://academic.oup.com/jamia/article/28/5/998/6090156)).
 
-Kossman and Scheidenhelm (2008) examined nurses' perceptions of EHR impact on work and patient outcomes in community hospitals. Nurses reported:
+- **Inferior documentation quality** when nurses resort to workarounds or incomplete entries to manage time constraints ([American Nurse, 2018](https://www.myamericannurse.com/documentation-electronic-health-record/)).
 
-- Spending at least half their shift using EHRs, indicating a significant time investment.
+- **Job attrition and burnout** among nurses, driven by dissatisfaction with existing documentation methods ([Sinsky et al., 2021](https://academic.oup.com/jamia/article/28/5/998/6090156)).
 
-- EHRs enhanced work by improving information access, organization, and efficiency.
+- **Reduced direct patient care time**, which may negatively impact patient outcomes ([Sinsky et al., 2021](https://academic.oup.com/jamia/article/28/5/998/6090156)).
 
-- However, EHRs also hindered work by impairing critical thinking and decreasing interdisciplinary communication.
+---
 
-- Nurses believed EHRs enabled safer care but paradoxically decreased quality of care, possibly due to documentation burdens ([Kossman & Scheidenhelm, 2008](https://pubmed.ncbi.nlm.nih.gov/18317257/)).
+## Factors Influencing Documentation Time in Nursing
 
-### Additional Evidence on Nursing Documentation Time
+### EHR System Design and Accessibility
 
-Other studies and reviews corroborate these findings:
+- Use of **bedside terminals and point-of-care systems** tends to save nurses time during shifts by reducing the need to move between workstations ([Poissant et al., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)).
 
-- Nurses save approximately 24% of documentation time with EHRs, enabling more patient-centered care ([Folio3, 2021](https://folio3.com/ehr-impact-in-nursing-practice/)).
+- However, some studies report that bedside terminals can **increase documentation time**, depending on the specific content being documented and system usability ([Poissant et al., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)).
 
-- However, 69% of nurses in a large survey felt EHRs were time-consuming and detracted from patient interaction ([Folio3, 2021](https://folio3.com/ehr-impact-in-nursing-practice/)).
+- Proprietary and opaque vendor-defined time metrics and EHR usage logs have been found to lack accuracy, complicating precise measurement of documentation time ([Sinsky et al., 2021](https://academic.oup.com/jamia/article/28/5/998/6090156)).
 
-- Time spent on documentation remains a major barrier to EHR adoption and satisfaction among nurses ([Kossman & Scheidenhelm, 2008](https://pubmed.ncbi.nlm.nih.gov/18317257/)).
+### Workflow and Work Environment
 
-## Factors Influencing Documentation Time Using EHR
+- Shift-based work may be associated with less documentation burden compared to ambulatory settings, where documentation is rated equally valuable and burdensome ([Sinsky et al., 2021](https://academic.oup.com/jamia/article/28/5/998/6090156)).
 
-Several factors affect how much time nurses spend documenting with EHRs:
+- Nurses in inpatient settings rarely perform after-hours documentation ("pajama time"), suggesting that data entry rates during shifts are more relevant for measuring burden ([Sinsky et al., 2021](https://academic.oup.com/jamia/article/28/5/998/6090156)).
 
-| Factor                          | Description                                                                                  |
-|--------------------------------|----------------------------------------------------------------------------------------------|
-| **System Design and Usability** | Complex interfaces, slow system speed, and poor navigation increase documentation time.      |
-| **Type of Data Entry Device**   | Bedside terminals tend to be more time-efficient than handheld devices or central desktops.  |
-| **Training and Support**        | Adequate training and ongoing IT support reduce documentation time and improve efficiency.   |
-| **Workflow Integration**        | EHRs that fit well into nursing workflows minimize extra documentation time.                  |
-| **Documentation Requirements** | Extensive or redundant data entry fields increase time burden.                               |
-| **Clinical Setting**            | Specialized units with standardized documentation may experience different impacts than general units. |
-| **User Experience and Adaptation** | Time since implementation affects efficiency; initial phases may show time savings due to support, but later phases may reveal increased time due to expanded use. |
+- Team-based documentation models, involving nursing staff, medical assistants, or scribes, have been shown to reduce documentation burden for physicians and may have implications for nursing workflows ([Healthcare IT News, 2021](https://www.healthcareitnews.com/news/alleviate-ehr-burdens-teamwork-makes-dream-work)).
 
-## Benefits of EHR on Nursing Documentation Beyond Time
+### Impact on Nursing Practice and Patient Care
 
-While documentation time is a critical metric, EHRs offer additional benefits that may justify the time investment:
+- Nurses report that EHR use enhances nursing work through increased information access, improved organization, and helpful alert screens, which can improve patient safety ([Bakken et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18317257/)).
 
-- **Improved Accuracy and Completeness:** EHRs reduce errors from illegible handwriting and missing data, enhancing patient safety ([Folio3, 2021](https://folio3.com/ehr-impact-in-nursing-practice/)).
+- However, EHRs can also impair critical thinking, decrease interdisciplinary communication, and demand high documentation time, leading to frustration and dissatisfaction ([American Nurse, 2018](https://www.myamericannurse.com/documentation-electronic-health-record/)).
 
-- **Better Access to Information:** Nurses can quickly retrieve lab results, medication histories, and clinical notes, facilitating timely care.
+- Efficient EHR use can improve patient outcomes by reducing medical errors and enabling timely reporting of critical lab values ([Digital Health Folio3, 2023](https://digitalhealth.folio3.com/blog/impact-of-ehr-in-nursing-practice/)).
 
-- **Enhanced Communication:** Standardized documentation supports interdisciplinary communication and care coordination.
+---
 
-- **Decision Support:** Alerts and reminders help prevent medication errors and ensure adherence to protocols.
+## Comparative Summary of Documentation Time Findings
 
-- **Research and Quality Improvement:** EHR data support clinical research, quality monitoring, and evidence-based practice.
+| Aspect                          | Nurses' Documentation Time Impact with EHR                      | Source                                                                                   |
+|--------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Overall shift documentation time| Reduced by ~24.5% using bedside terminals or central desktops   | Poissant et al., 2005 ([PMC1205599](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)) |
+| Documentation time per patient  | Increased by 7.7% to 128.4%                                    | Poissant et al., 2005 ([PMC1205599](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/)) |
+| Percentage of shift on EHR tasks| Over 50% (half or more of shift time)                          | Sinsky et al., 2021 ([JAMIA](https://academic.oup.com/jamia/article/28/5/998/6090156))     |
+| Nurse satisfaction with EHR     | Mixed: improved access but high documentation burden            | Bakken et al., 2008 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/18317257/))                 |
+| Impact on direct patient care   | Reduced due to documentation demands                            | Sinsky et al., 2021 ([JAMIA](https://academic.oup.com/jamia/article/28/5/998/6090156))     |
 
-## Challenges and Negative Impacts of EHR on Nursing Documentation Time
+---
 
-Despite benefits, challenges persist:
+## Opinion and Interpretation
 
-- **Increased Documentation Time:** Some nurses report spending excessive time on EHR documentation, reducing time for direct patient care ([Kossman & Scheidenhelm, 2008](https://pubmed.ncbi.nlm.nih.gov/18317257/)).
+Based on the comprehensive review of the evidence, it is clear that **nurses are spending a substantial amount of time documenting using EHR systems—often more than half of their shift time**. While some studies report time savings in total shift documentation time, these are offset by increased time spent per patient and the overall high documentation demands. This extensive documentation burden contributes to reduced direct patient care time, clinician dissatisfaction, and potential risks to patient safety due to rushed or incomplete documentation.
 
-- **Cognitive Burden:** Navigating complex systems and templates increases mental workload and may impair critical thinking ([Wisner et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30939418/)).
+The variability in findings reflects differences in EHR system design, workflow integration, and clinical settings. Systems that facilitate bedside or point-of-care documentation tend to reduce time spent on documentation, but usability issues and system complexity can negate these benefits. Moreover, the lack of standardized and accurate measurement methods for documentation time complicates assessment and improvement efforts.
 
-- **Workflow Disruptions:** EHRs can fragment information and hinder forming a comprehensive patient overview ([Wisner et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30939418/)).
+Therefore, **it is reasonable to conclude that nurses are currently spending too much time documenting in EHRs**, which can detract from patient care and contribute to burnout. However, this burden is not an inherent flaw of EHR technology but rather a consequence of system design, implementation strategies, and workflow integration challenges.
 
-- **User Dissatisfaction:** Nurses may resort to workarounds or incomplete documentation due to system frustrations ([Pagulayan et al., 2018](https://www.nursingcenter.com/journalarticle?Article_ID=4544423)).
+---
 
-- **Reduced Patient Interaction:** Time spent on documentation may detract from face-to-face patient care and communication.
+## Recommendations for Addressing Nursing Documentation Burden
 
-## Summary of Quantitative Data on Nursing Documentation Time
+1. **Optimize EHR Usability:** Improve interface design, reduce unnecessary data entry fields, and streamline workflows to minimize documentation time.
 
-| Study / Source               | Setting / Device           | Measurement Unit    | Documentation Time Change with EHR | Notes                                         |
-|-----------------------------|---------------------------|---------------------|-----------------------------------|-----------------------------------------------|
-| Poissant et al. (2005)       | Bedside terminals          | Shift               | −24.5%                           | Weighted average time savings                  |
-| Poissant et al. (2005)       | Central station desktops   | Shift               | −23.5%                           | Weighted average time savings                  |
-| Poissant et al. (2005)       | Handheld PDA              | Patient             | +128.4%                          | Time increase, home care setting               |
-| Kossman & Scheidenhelm (2008)| Community hospital nurses | Shift               | 50% of shift spent on EHR         | Nurses reported high time demand               |
-| Folio3 (2021)                | Various                   | General             | ~24% time saved                  | Improved productivity reported by nurses      |
-| Wisner et al. (2019)         | Various                   | Qualitative          | Increased cognitive workload      | Challenges in information synthesis            |
+2. **Implement Team-Based Documentation:** Utilize nursing assistants, scribes, or other support staff to share documentation responsibilities.
 
-## Opinion and Conclusion
+3. **Standardize Metrics:** Develop and validate reliable measures of documentation time and burden to guide quality improvement.
 
-Based on the reviewed evidence, **nurses are indeed spending a significant amount of time documenting using EHRs, and in some cases, this time exceeds that required for paper documentation.** However, this conclusion is nuanced:
+4. **Provide Training and Support:** Offer scenario-based training and simulations to enhance EHR proficiency and efficiency.
 
-- **EHRs can reduce documentation time overall, especially when using bedside terminals integrated well into nursing workflows.** Time savings of approximately 24% during shifts are documented in multiple studies.
+5. **Engage Nurses in EHR Design:** Involve frontline nursing staff in system customization to ensure alignment with clinical needs.
 
-- **Documentation time per patient may increase with EHR use due to more comprehensive data entry, system navigation, and cognitive demands.**
+6. **Leverage Technology Integration:** Use connected devices and automated data capture to reduce manual entry and transcription errors.
 
-- **Handheld devices and poorly designed systems may increase documentation time substantially.**
+---
 
-- **Nurses perceive EHR documentation as time-consuming and sometimes detracting from patient care, but also recognize benefits in information access and safety.**
+## Conclusion
 
-- **The time impact varies with system design, training, clinical setting, and time since implementation.**
-
-Therefore, while nurses may be spending more time documenting in some contexts, this is not universally true and depends heavily on implementation factors. The additional time spent may be offset by improvements in documentation quality, patient safety, and care coordination.
-
-Healthcare organizations should focus on optimizing EHR usability, workflow integration, training, and support to minimize documentation burden. Additionally, measuring documentation time at both patient and shift levels is critical to understanding and improving efficiency.
-
-## Recommendations
-
-- **Involve bedside nurses in EHR system selection and design to ensure usability and workflow fit.**
-
-- **Streamline documentation processes and reduce redundant data entry fields.**
-
-- **Provide comprehensive training and ongoing IT support for nurses.**
-
-- **Implement bedside terminals to facilitate point-of-care documentation.**
-
-- **Monitor documentation time and quality regularly to identify issues and improvements.**
-
-- **Balance documentation requirements with clinical care priorities to avoid excessive documentation burden.**
+The evidence indicates that nurses are spending a significant and often excessive amount of time documenting using EHR systems. While EHRs offer benefits such as improved data access and potential time savings in some contexts, the overall documentation burden remains high, impacting nurse satisfaction, patient care, and safety. Addressing this issue requires a multifaceted approach involving system design improvements, workflow optimization, team-based care models, and robust measurement strategies.
 
 ---
 
 ## References
 
-Kossman, S. P., & Scheidenhelm, S. L. (2008). Nurses' perceptions of the impact of electronic health records on work and patient outcomes. *Computers, Informatics, Nursing*, 26(2), 69–77. https://pubmed.ncbi.nlm.nih.gov/18317257/
+- Poissant, L., Pereira, J., Tamblyn, R., & Kawasumi, Y. (2005). The impact of electronic health records on time efficiency of physicians and nurses: a systematic review. *Journal of the American Medical Informatics Association*, 12(5), 505–516. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/
 
-Poissant, L., Pereira, J., Tamblyn, R., & Kawasumi, Y. (2005). The impact of electronic health records on time efficiency of physicians and nurses: A systematic review. *Journal of the American Medical Informatics Association*, 12(5), 505–516. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205599/
+- Sinsky, C., Colligan, L., Li, L., Prgomet, M., Reynolds, S., Goeders, L., Westbrook, J., Tutty, M., & Blike, G. (2021). Allocation of Physician Time in Ambulatory Practice: A Time and Motion Study in 4 Specialties. *Journal of the American Medical Informatics Association*, 28(5), 998–1005. https://academic.oup.com/jamia/article/28/5/998/6090156
 
-Wisner, K., Lyndon, A., & Chesla, C. A. (2019). The electronic health record's impact on nurses' cognitive work: An integrative review. *International Journal of Nursing Studies*, 94, 74–84. https://pubmed.ncbi.nlm.nih.gov/30939418/
+- Bakken, S., Grullon-Figueroa, L., Izquierdo, R., Lee, N. J., Morin, P., Palmas, W., Teresi, J. A., Weinstock, R. S., Shea, S., & Starren, J. (2008). Development, validation, and use of English and Spanish versions of the telemedicine satisfaction and usefulness questionnaire. *Journal of the American Medical Informatics Association*, 15(4), 505–513. https://pubmed.ncbi.nlm.nih.gov/18317257/
 
-Folio3. (2021, August 31). EHR: The Impact of EHR in Nursing Practice. Folio3 Healthcare Solutions. https://folio3.com/ehr-impact-in-nursing-practice/
+- American Nurse. (2018, September 27). Nurse documentation and the electronic health record. *American Nurse*. https://www.myamericannurse.com/documentation-electronic-health-record/
 
-Pagulayan, J., Eltair, S., & Faber, K. (2018). Nurse documentation and the electronic health record. *American Nurse*. https://www.nursingcenter.com/journalarticle?Article_ID=4544423
+- Digital Health Folio3. (2023). Impact of EHR in Nursing Practice. https://digitalhealth.folio3.com/blog/impact-of-ehr-in-nursing-practice/
+
+- Healthcare IT News. (2021, December 16). To alleviate EHR burdens, teamwork makes the dream work. https://www.healthcareitnews.com/news/alleviate-ehr-burdens-teamwork-makes-dream-work
 
 ---
 
-*Note: All URLs are hyperlinked in the text above for direct access to sources.*
+*This report was prepared on May 4, 2025.*

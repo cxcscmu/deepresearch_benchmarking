@@ -1,123 +1,113 @@
-# Report on the Decline in the Velocity of Money in the United States
+# The Decline in the Velocity of Money: Causes and Implications
 
-## Introduction
+The velocity of money, defined as the frequency at which one unit of currency is used to purchase domestically-produced goods and services within a given time period, has been a critical economic indicator for assessing the health and dynamism of an economy. It is typically calculated as the ratio of nominal Gross Domestic Product (GDP) to the money supply (V = PQ/M), where P is the price level, Q is the quantity of goods and services produced, and M is the money supply. A higher velocity indicates more transactions per unit of money, suggesting robust economic activity, whereas a declining velocity often signals economic stagnation or contraction.
 
-The velocity of money, a critical economic indicator, measures the frequency at which one unit of currency is used to purchase domestically-produced goods and services within a given time period. It is commonly expressed as the ratio of Gross Domestic Product (GDP) to the money supply (M1 or M2). Over the past two decades, the United States has witnessed a persistent decline in the velocity of both M1 and M2 money supplies, reaching historic lows. This report provides a comprehensive analysis of the causes behind this decline, explores its implications, and offers an informed opinion based on trusted and recent economic analyses.
-
-## Understanding Money Velocity
-
-Money velocity (V) is mathematically defined as:
-
-\[
-V = \frac{GDP}{M}
-\]
-
-where \(GDP\) is the gross domestic product (nominal) and \(M\) is the money supply (M1 or M2). A higher velocity indicates that money circulates rapidly through the economy, implying robust economic activity and spending. Conversely, a decline in velocity suggests that money changes hands less frequently, potentially signaling economic stagnation or increased saving behavior.
-
-## Observed Trends in the U.S. Money Velocity
-
-The velocity of M1 money stock has fallen to its lowest level since 1975, while the velocity of M2 is at its lowest since data recording began in 1959 ([Disruptive Investor, 2015](https://seekingalpha.com/article/3046576-why-money-velocity-continues-to-decline)). The decline has been steady over the past 20 years, with an accelerated drop during the COVID-19 pandemic in 2020 ([Demsher, 2021](https://usceconomicsreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
-
-## Causes of the Decline in Money Velocity
-
-### 1. Robust Increase in Money Supply Relative to GDP Growth
-
-One of the primary reasons for the decline in velocity is the significant expansion of the money supply (both M1 and M2) relative to the pace of GDP growth. Post the 2008 financial crisis and during the COVID-19 pandemic, the Federal Reserve and U.S. Treasury injected trillions of dollars into the economy through monetary easing and fiscal stimulus programs.
-
-- M1 and M2 money stock surged dramatically after the financial crisis and again in 2020, with M2 growing over 23% year-on-year from 2019 to 2020 ([Demsher, 2021](https://usceconomicsreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
-- Despite this surge, GDP growth remained comparatively slower, causing the ratio \( \frac{GDP}{M} \) to fall, and thus velocity declined.
-
-This dynamic indicates that more money is required to sustain a unit of GDP, reflecting a decoupling of money supply growth from real economic output.
-
-### 2. Increased Saving and Reduced Spending Behavior
-
-During periods of economic uncertainty, such as the COVID-19 pandemic, consumers tend to increase savings and reduce spending. This behavior reduces the frequency of monetary transactions, directly lowering the velocity of money.
-
-- Savings rates in the U.S. rose to as high as 13.1% in early 2020 ([Demsher, 2021](https://usceconomicsreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
-- Lockdowns and economic uncertainty led to fewer transactions and subdued demand across many sectors.
-
-This shift in consumer behavior results in money sitting idle in bank accounts rather than circulating through the economy.
-
-### 3. Monetary Policy and Excess Bank Reserves
-
-The Federal Reserve's expansionary monetary policies have led to a buildup of excess reserves held by banks, which has constrained the flow of liquidity into the real economy.
-
-- Banks have been conservative and risk-averse, holding large excess reserves with the Fed rather than lending aggressively ([Disruptive Investor, 2015](https://seekingalpha.com/article/3046576-why-money-velocity-continues-to-decline)).
-- This behavior restricts credit growth and reduces the velocity of money, as funds do not circulate through loans and investments as robustly as expected.
-
-### 4. Structural Changes in Payment Methods and Financial Technology
-
-The velocity of M1 money has also been affected by changes in payment methods, such as a shift from cash to cards and online payments, which may alter the measurement of velocity but do not necessarily reflect a decline in economic activity ([Comptonburger, 2016](https://economics.stackexchange.com/questions/18206/implications-of-declining-money-velocity)).
-
-### 5. Economic Stagnation and Sectoral Constraints
-
-Some analyses suggest that the stagnation in key sectors, such as conventional oil production, has limited the potential for further economic growth despite monetary injections ([Comptonburger, 2016](https://economics.stackexchange.com/questions/18206/implications-of-declining-money-velocity)).
-
-## Implications of Declining Money Velocity
-
-### Economic Activity and Growth
-
-While a declining velocity traditionally signals weakening economic activity, recent evidence suggests a more nuanced interpretation:
-
-| Aspect                                | Interpretation                                           |
-|-------------------------------------|---------------------------------------------------------|
-| Decline in velocity with GDP growth | Indicates slower GDP growth relative to money supply    |
-| Decline in velocity with stable GDP | Suggests increased money supply without proportional output growth |
-| Decline in velocity with rising savings | Reflects consumer caution and liquidity preference      |
-
-Thus, the decline in velocity does not necessarily mean the economy is contracting but may highlight inefficiencies in money utilization and shifts in spending behavior.
-
-### Inflationary Pressures
-
-According to the quantity theory of money, inflation occurs when money supply growth outpaces real output growth. The inverse relationship between increasing money supply and declining velocity raises concerns about future inflation:
-
-- The surge in money supply during the pandemic, coupled with low velocity, has not immediately triggered inflation due to suppressed demand.
-- However, as economic recovery progresses and spending rebounds, inflationary pressures may emerge if money supply growth remains elevated ([Demsher, 2021](https://usceconomicsreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
-
-### Interest Rates and Credit Markets
-
-Declining velocity correlates with lower interest rates, influenced by:
-
-- Increased liquidity and excess reserves in the banking system.
-- Reduced demand for credit due to diminished investment incentives amid low returns on capital ([Comptonburger, 2016](https://economics.stackexchange.com/questions/18206/implications-of-declining-money-velocity)).
-
-This environment fosters a supply-demand imbalance in credit markets, with ample liquidity but subdued borrowing.
-
-### Policy Considerations
-
-The Federal Reserve’s response to declining velocity includes:
-
-- Maintaining accommodative monetary policies to support economic growth.
-- Monitoring inflation and adjusting balance sheet operations to prevent overheating ([Demsher, 2021](https://usceconomicsreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
-- Recognizing that velocity is a dynamic measure, sensitive to economic cycles and consumer confidence.
-
-## Summary Table of Key Factors Influencing Money Velocity Decline
-
-| Factor                         | Description                                                                                 | Impact on Velocity                        |
-|--------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------|
-| Money Supply Growth            | Rapid expansion of M1 and M2 relative to GDP growth                                        | Lowers velocity                          |
-| Consumer Saving Behavior       | Increased saving and reduced spending during economic uncertainty                           | Lowers velocity                          |
-| Bank Excess Reserves           | High reserves held by banks limiting credit flow                                           | Lowers velocity                          |
-| Payment Method Shifts          | Transition from cash to electronic payments affecting M1 velocity measurement              | Alters velocity measurement, may lower M1 velocity |
-| Sectoral Economic Constraints  | Stagnation in key sectors limiting output growth                                           | Limits GDP growth, lowering velocity    |
-
-## Opinion and Conclusion
-
-Based on the comprehensive review of the data and analyses, the decline in the velocity of money in the United States is primarily attributable to a combination of structural and cyclical factors:
-
-- The unprecedented growth in money supply post-2008 and during the COVID-19 pandemic has outpaced GDP growth, mechanically reducing velocity.
-- Consumer behavior shifts towards higher savings and cautious spending during uncertain times have further suppressed velocity.
-- Banking sector conservatism, reflected in excess reserves, has restrained the transmission of monetary expansion into real economic activity.
-- While the decline signals subdued circulation of money, it does not unequivocally indicate a severe economic contraction but rather a complex interplay of liquidity preference, monetary policy, and economic confidence.
-
-Looking forward, the velocity of money is expected to remain low until consumer confidence and spending recover sustainably. Policymakers must balance supporting growth with vigilance against inflationary risks as the economy normalizes.
-
-## References
-
-- Comptonburger. (2016, February 25). *Implications of declining money velocity*. Economics Stack Exchange. https://economics.stackexchange.com/questions/18206/implications-of-declining-money-velocity
-- Demsher, C. (2021, April 15). *The U.S. decline in money velocity*. USC Economics Review. https://usceconomicsreview.com/2021/04/15/the-u-s-decline-in-money-velocity/
-- Disruptive Investor. (2015, April 13). *Why Money Velocity Continues To Decline?* Seeking Alpha. https://seekingalpha.com/article/3046576-why-money-velocity-continues-to-decline
+Over the past two decades, and particularly since the global financial crisis of 2008 and the COVID-19 pandemic, the velocity of money in the United States has experienced a pronounced and sustained decline. This report aims to provide a detailed, comprehensive, and data-supported analysis of why the velocity of money has declined, drawing on multiple reputable sources to offer an objective understanding of the phenomenon.
 
 ---
 
-*Note: All URLs are hyperlinked in the references for direct access.*
+## Overview of the Decline in Money Velocity
+
+The velocity of both M1 and M2 money supplies in the U.S. has been declining for over a decade, reaching historic lows. Specifically, the velocity of M1 money stock is at its lowest level since 1975, and the velocity of M2 money stock is at its lowest since data recording began in 1959 ([Disruptive Investor, 2015](https://seekingalpha.com/article/3066146-why-money-velocity-continues-to-decline)).
+
+The decline has been steady over the past 20 years, with a sharp acceleration during the COVID-19 pandemic in 2020. The pandemic-induced economic shock, combined with expansive monetary and fiscal policies, has created an environment where money supply has grown exponentially, yet the velocity of money has plummeted ([Demsher, 2021](https://usceconreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
+
+---
+
+## Key Causes of the Decline in Money Velocity
+
+### 1. **Expansionary Monetary Policy and Increased Money Supply**
+
+A primary driver of declining velocity is the robust increase in the money supply (M1 and M2), which has outpaced nominal GDP growth. The Federal Reserve's disinflationary policies, including quantitative easing and near-zero interest rates, have significantly increased the money supply. For example, in 2020, the U.S. money supply grew by over 23% year-on-year, nearly double the prior peak growth rate ([Demsher, 2021](https://usceconreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
+
+According to the quantity theory of money, if the money supply grows faster than nominal GDP, the velocity of money will decline because there is more money circulating relative to the volume of transactions. This inverse relationship is a fundamental reason for the observed decline.
+
+### 2. **Economic Uncertainty and Increased Savings**
+
+The COVID-19 pandemic heightened economic uncertainty, leading consumers and businesses to increase their savings and reduce spending. This behavioral shift means that money is held longer and changes hands less frequently, directly reducing velocity. During peak COVID-19 lockdowns, core inflation actually fell by 0.4%, and headline inflation was negative at -1.1%, reflecting subdued spending despite increased money supply ([Demsher, 2021](https://usceconreview.com/2021/04/15/the-u-s-decline-in-money-velocity/)).
+
+### 3. **Shift from Cash to Digital Payments and Changes in Payment Behavior**
+
+The decline in the velocity of M1 money can be partly explained by the shift away from cash to cards and online payments. Digital payments, while increasing transaction efficiency, have altered the nature of money circulation. Banks and fintech companies have seen a transformation in payment behaviors, with more consumers adopting mobile wallets and online banking, especially accelerated by the pandemic ([The Financial Brand, 2020](https://thefinancialbrand.com/96502/coronavirus-covid-19-changing-banking-payments-digital-behavior-trends/)).
+
+While this shift increases transaction volume in some respects, it also reduces the need for holding physical cash, which traditionally circulates faster. The net effect is a complex alteration of velocity dynamics, often contributing to lower measured velocity.
+
+### 4. **Lack of Viable Investment and Spending Opportunities**
+
+Despite the increase in money supply, much of the additional liquidity has remained in bank reserves rather than being actively deployed in the economy. This is due to a lack of viable uses for the cash, as economic growth opportunities have been limited by structural factors such as stagnation in conventional oil production and diminishing returns on capital investments ([D J Sims, 2016](https://economics.stackexchange.com/questions/10843/implications-of-declining-money-velocity)).
+
+This liquidity glut has led to a situation where money sits idle, reducing the frequency of transactions and thus velocity.
+
+### 5. **Demographic and Structural Economic Changes**
+
+Long-term demographic trends, including aging populations, have contributed to more conservative spending and investment behaviors. Older populations tend to save more and spend less, which reduces the velocity of money. Additionally, structural changes in the economy, such as increased automation and shifts toward service-based industries, may also affect the velocity by changing transaction patterns and the nature of economic exchanges.
+
+---
+
+## Implications of the Declining Velocity of Money
+
+The decline in money velocity carries significant implications for economic policy, inflation, and growth prospects.
+
+| Implication                        | Description                                                                                              | Source                                                                                      |
+|----------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Inflationary Pressure**         | Despite rapid money supply growth, low velocity has suppressed inflation, leading to disinflation or deflation risks. | ([Brusuelas, 2020](https://realeconomy.rsmus.com/velocity-of-money-pandemic-induced-slowing/)) |
+| **Economic Growth Concerns**      | Declining velocity signals weak real economic activity and potential stagnation or contraction.          | ([Demsher, 2021](https://usceconreview.com/2021/04/15/the-u-s-decline-in-money-velocity/))   |
+| **Monetary Policy Effectiveness** | Expansionary monetary policy may be less effective if increased money supply does not translate into higher spending. | ([Disruptive Investor, 2015](https://seekingalpha.com/article/3066146-why-money-velocity-continues-to-decline)) |
+| **Liquidity and Credit Markets** | Excess liquidity and low velocity coincide with low interest rates and reduced incentives for credit expansion. | ([D J Sims, 2016](https://economics.stackexchange.com/questions/10843/implications-of-declining-money-velocity)) |
+| **Fiscal Space and Policy Options** | Low velocity and disinflationary pressures provide room for further unorthodox monetary and fiscal policies. | ([Brusuelas, 2020](https://realeconomy.rsmus.com/velocity-of-money-pandemic-induced-slowing/)) |
+
+---
+
+## Detailed Analysis of Monetary Policy and Velocity
+
+The Federal Reserve's policies over the past two decades have aimed to stimulate economic growth through increased liquidity. However, the velocity of money has declined steadily, suggesting that the additional money has not circulated rapidly through the economy.
+
+The Federal Reserve Bank of St. Louis notes that if velocity declines rapidly during an expansionary monetary policy period, it can offset the increase in money supply and even lead to deflation instead of inflation ([Federal Reserve Bank of St. Louis, 2014](https://www.stlouisfed.org/on-the-economy/2014/september/what-does-money-velocity-tell-us-about-low-inflation-in-the-us)).
+
+This phenomenon has been observed in the post-2008 period and during the COVID-19 pandemic. The increased money supply has largely been absorbed as excess reserves in banks rather than fueling consumer spending or investment. This dynamic has contributed to the low velocity despite high liquidity.
+
+---
+
+## The Role of the COVID-19 Pandemic
+
+The pandemic has been a critical accelerant of the velocity decline. The unprecedented fiscal stimulus and monetary expansion increased money supply sharply, but lockdowns and economic uncertainty led to reduced consumer spending and increased savings.
+
+The velocity of money fell to a modern low of 1.1 during the pandemic, reflecting a sharp deceleration in economic transactions despite strong M2 growth ([Brusuelas, 2020](https://realeconomy.rsmus.com/velocity-of-money-pandemic-induced-slowing/)).
+
+This situation suggests that the economy may face slow growth even after reopening, with risks skewed toward disinflation or deflation in the near to medium term.
+
+---
+
+## The Shift to Digital Payments and Its Impact
+
+The transition from cash to digital payments has altered the velocity landscape. Digital payments increase transaction efficiency but reduce the physical exchange of money, which traditionally contributed to higher velocity.
+
+Banks and fintech companies are adapting to this shift, but the reduced reliance on cash means that traditional measures of velocity may not fully capture the new dynamics of money circulation ([The Financial Brand, 2020](https://thefinancialbrand.com/96502/coronavirus-covid-19-changing-banking-payments-digital-behavior-trends/); [BCG, 2017](https://www.bcg.com/publications/2017/banks-thrive-digital-payments-grow)).
+
+---
+
+## Conclusion
+
+The decline in the velocity of money in the United States is a multifaceted phenomenon driven primarily by:
+
+- Expansionary monetary policy increasing money supply faster than nominal GDP,
+- Economic uncertainty leading to higher savings and reduced spending,
+- Structural shifts in payment methods from cash to digital,
+- Lack of viable investment opportunities causing liquidity to remain idle,
+- Demographic and structural economic changes influencing spending behavior.
+
+This decline signals weaker real economic activity and challenges the effectiveness of traditional monetary policy tools. While it suppresses inflationary pressures in the short term, it also raises concerns about economic growth and the potential for disinflation or deflation.
+
+Policymakers must consider these dynamics when designing fiscal and monetary interventions, recognizing that increasing the money supply alone may not stimulate economic activity without addressing the underlying causes of low velocity.
+
+---
+
+## References
+
+- Brusuelas, J. (2020, September 14). CHART OF THE DAY: The velocity of money and recession | The Real Economy Blog. Real Economy Blog. https://realeconomy.rsmus.com/velocity-of-money-pandemic-induced-slowing/
+- Demsher, C. (2021, April 15). The U.S. decline in money velocity - USC Economics Review. USC Economics Review. https://usceconreview.com/2021/04/15/the-u-s-decline-in-money-velocity/
+- Disruptive Investor. (2015, April 13). Why Money Velocity Continues To Decline? Seeking Alpha. https://seekingalpha.com/article/3066146-why-money-velocity-continues-to-decline
+- D J Sims. (2016, February 25). Implications of declining money velocity - Economics Stack Exchange. Economics Stack Exchange. https://economics.stackexchange.com/questions/10843/implications-of-declining-money-velocity
+- Federal Reserve Bank of St. Louis. (2014, September). What Does Money Velocity Tell Us About Low Inflation in the US? On the Economy. https://www.stlouisfed.org/on-the-economy/2014/september/what-does-money-velocity-tell-us-about-low-inflation-in-the-us
+- The Financial Brand. (2020, June 17). Coronavirus & COVID-19: Changing Banking & Payments Digital Behavior Trends. The Financial Brand. https://thefinancialbrand.com/96502/coronavirus-covid-19-changing-banking-payments-digital-behavior-trends/
+- Boston Consulting Group (BCG). (2017, May). Banks Thrive as Digital Payments Grow. BCG Publications. https://www.bcg.com/publications/2017/banks-thrive-digital-payments-grow
