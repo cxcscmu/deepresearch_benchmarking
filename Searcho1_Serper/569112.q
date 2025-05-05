@@ -1,0 +1,1 @@
+how psychology applies to daily living

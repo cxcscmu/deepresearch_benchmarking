@@ -1,0 +1,1 @@
+how did the cold war influence american foreign and domestic policy?

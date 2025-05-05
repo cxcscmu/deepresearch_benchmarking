@@ -1,0 +1,1 @@
+why are people getting vaccinated

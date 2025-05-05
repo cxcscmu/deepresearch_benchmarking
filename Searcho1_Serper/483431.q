@@ -1,0 +1,1 @@
+what made native american peoples vulnerable to conquest by european adventurers?

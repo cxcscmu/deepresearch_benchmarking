@@ -1,0 +1,1 @@
+is it ethical for doctors to strike? if so, under what conditions?

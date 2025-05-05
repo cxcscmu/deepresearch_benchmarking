@@ -1,0 +1,1 @@
+how an organization's future plans impact the organizational culture

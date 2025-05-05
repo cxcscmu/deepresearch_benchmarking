@@ -1,0 +1,1 @@
+how did the gilded age force americans to confront traditional understandings of freedom
