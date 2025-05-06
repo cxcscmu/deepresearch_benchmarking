@@ -1,0 +1,290 @@
+Alright, I've got this question: "What processes need to be implemented and authorities notified of discrepancies in trust accounting?" Okay, first things first, I need to understand what trust accounting is. From what I recall, trust accounting refers to the management and record-keeping of funds that are held in trust by one party for another. This is common in various professions like law, real estate, and banking, where practitioners often handle clients' money for specific purposes.
+
+So, the question is asking about processes that need to be put in place to handle discrepancies in these trust accounts and who needs to be notified when such discrepancies are found. Discrepancies could mean anything from errors in recording transactions to actual misappropriation of funds. It's a serious matter because trust accounting involves clients' money, and there are strict legal and ethical obligations to handle it correctly.
+
+I think the first step is to identify the standard procedures or best practices for trust accounting. Different jurisdictions might have different requirements, so it's important to consider that. For instance, in the legal profession in the United States, the American Bar Association has rules governing trust accounts, often referred to as IOLTA (Interest on Lawyers' Trust Accounts) accounts. Similarly, real estate agents have their own set of rules governed by state licensing bodies.
+
+Let me try to break this down. First, processes to implement:
+
+1. **Segregation of Duties:** Ensure that the person handling the funds is not the same person recording the transactions. This is a basic internal control to prevent fraud.
+
+2. **Regular Reconciliations:** Trust accounts should be reconciled regularly, ideally monthly, to ensure that all transactions are accurately recorded and that the account balance matches the recorded amounts.
+
+3. **Independent Reviews:** Have periodic audits or reviews by independent parties to check the accuracy of the accounting and the adherence to procedures.
+
+4. **Training:** Provide training to staff involved in trust accounting to ensure they understand the importance of accurate record-keeping and the potential consequences of discrepancies.
+
+5. **Clear Policies:** Establish clear written policies and procedures for handling trust funds, including how to handle discrepancies when they arise.
+
+Now, regarding notification of authorities, this would depend on the nature and severity of the discrepancy. Minor errors, perhaps due to human mistake, might be corrected internally without needing to notify external authorities. However, if the discrepancy is significant or suggests possible fraud or misappropriation, then it becomes necessary to involve regulatory bodies or even law enforcement.
+
+For example, in the legal profession, if a lawyer discovers that funds have been mishandled, they may need to report this to the state bar association or the ethics committee. In real estate, the local real estate commission or board might need to be informed.
+
+It's also possible that financial regulators, such as state banking departments or the Securities and Exchange Commission (SEC), may need to be notified, depending on the circumstances.
+
+I should probably look up some specific regulations to get a better understanding. Let me consider searching for "trust accounting procedures" and "notifying authorities for trust account discrepancies."
+
+<|begin_search_query|>trust accounting procedures and notifying authorities for discrepancies<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://lso.ca/lawyers/practice-supports-and-resources/topics/managing-money/trust-accounts/reconciling-a-trust-account, ClueWebID: clueweb22-en0008-14-17036)
+Reconciling a Trust Account - Lawyer | Law Society of Ontario
+Home Lawyers Practice Supports & Resources Practice Management Topics Managing Money Trust Accounts Reconciling a Trust Account
+Print Version
+Reconciling a Trust Account
+Updated November 2013
+What is a bank reconciliation?
+What causes differences between my records and that of my financial institution?
+Why do I need to reconcile bank accounts?
+What documents to I need to prepare the reconciliation?
+How do I perform the reconciliation?
+What are some tips that may be useful to me for preparing or reviewing trust reconciliations?
+Resources
+Statutes and Rules
+1 What is a bank reconciliation?
+A bank reconciliation is a process undertaken to ensure that your records and the records of your financial institution are in agreement. The information contained in a reconciliation also enables you to determine whether there were any errors made receiving or disbursing funds or posting transactions to your accounting records.
+The balance of your bank account as reflected in your accounting records (journals and sub-ledgers) can differ from the balance according to your bank statement for many reasons. For example, your bank may have failed to record a transaction correctly, or a cheque that you issued might not have cleared your bank account (other items that may cause a difference are addressed in the next section).
+Specifically, a bank reconciliation is the action of
+comparing the balance of your bank account, according to your bank statement, with the balance of the account according to your accounting records
+identifying the causes of any difference in the bank balance according to your records and those of the financial institution
+correcting any errors made by you or the bank in recording transactions
+The results of this activity are recorded in a formal statement also called a bank reconciliation (See the sample trust reconciliation in the Resources section of this How-To Brief).
+2 What causes differences between my records and that of my financial institution?
+Bank processing errors
+A bank processing error occurs when your financial institution records a transaction different from what is reflected in your source documents and financial records. Some common processing errors include:
+a cheque/payment issued from your account clears your bank statement for an amount that is greater or less than the amount written on the actual cheque/payment request
+a different total amount of a deposit is credited to your bank account than the amount that appears on your deposit slip and/or journal
+payments from or deposits to the account that were made in error—this could include a deposit directed to the wrong account or a cheque cleared from the wrong account by the financial institution.*
+*Depending on the nature of your practice, you may receive funds from clients (or from third parties on behalf of clients) via wire transfer, electronic/Internet transfer or direct deposit to your account. Since you are not making the deposit, you will not have any original record to record that the deposit was made. These amounts may just "appear" on your bank statement. Therefore, it is important that you make arrangements with all parties to notify you in advance of any deposits they will be making to your account. Ask them to send you confirmation that the deposit or transfer was made to your account.
+Service charges and fees
+Financial institutions often impose service charges for items such as cheque certification or "non-sufficient funds" (NSF) cheques. You may not be made aware of these charges until after they appear in your statement from the financial institution.
+If the services charges allocated to a mixed trust account are taken directly from the trust account, you must make arrangements to repay the charges as soon as they are identified. Make sure that the agreement you sign when opening a mixed trust account directs the institution to deduct any service charges for your trust account from your general operating account and does not allow the financial institution to remove any money from your trust account on its own.
+NOTE: If you deposit a cheque to your trust account and it is returned NSF, your financial institution will deduct the amount for the charge as well as the full amount of the cheque.
+Timing differences
+A timing difference is the result of a cheque/payment issued from your account, or a deposit made by you to your account, that is not processed by the financial institution until a later date.
+For example, when you issue a cheque for $500 from a bank account, you would record the amount of that cheque as a disbursement in your accounting records. According to your records, your bank balance is now $500 less. However, it may be several days, weeks or even months before the cheque is cashed by the party to whom it was issued. Until that cheque is cashed, your accounting records, which reflect the $500 payment as being made, will indicate an account balance that is less than the actual balance of your account. This is also referred to as an outstanding cheque.
+Similarly, if you make a deposit to your bank account late in the day, on a weekend or on a holiday, it is likely that the bank's records may not reflect that the deposit is made until the next business day. Your records would indicate a bank balance that is greater than the actual balance in your bank account until the receipt is recorded by your financial institution. This is also referred to as an outstanding receipt or outstanding deposit.
+Posting errors
+It is also possible that the amount you record in your accounting records does not match the actual transaction.
+For example, you wrote a cheque for $70.70, which cleared your bank account correctly, but, in your accounting records, you recorded the cheque as $70.07. Your records for this account would reflect a cheque for $0.63 less than the actual amount cleared from your account and would be overstated (i.e., the balance is too high). The only way to identify these types of errors would be to compare your bank statement against your journal.
+3 Why do I need to reconcile bank accounts?
+A monthly reconciliation of all trust accounts is required under By-Law 9.
+If you hold funds in trust for your clients, you have a fiduciary duty to account for the amount you effectively owe to clients. This duty is formalized under s. 14 of By-Law 9, which requires you to maintain a sufficient balance of funds in your trust bank account to meet all of your trust obligations at any given time.
+The only way to ensure that you hold a sufficient balance of funds in trust is to reconcile each trust account on a regular basis and correct any differences that occur as a result of any item, as noted in Section 2, above. The mechanics of how to prepare the reconciliation and comparison is addressed below in Section 5, below.
+Subsections 18(8) and 22(2) of By-Law 9 together require that the reconciliations and comparisons of all of your firm's trust accounts be prepared monthly and completed within 25 days of the end of the period covered by the financial institution's monthly statement. For example, your reconciliation for the month of March 2013 (the period from March 1 to March 31, 2013) must be prepared by April 25, 2013.
+NOTE: You must reconcile each trust bank account, including interest-bearing accounts, GICs and term deposits every month, even if you did not have any trust activity for a particular month.
+A reconciliation will enable you to evaluate the integrity of your procedures over your accounting for bank accounts.
+If you delegate any of the duties of operating and maintaining a bank account (preparing documents, recording transactions or handling funds) to any other members or employees of your firm, the reconciliation can serve as a method of evaluating whether these duties are performed correctly. The errors and/or differences that are identified in a reconciliation may help you to identify concerns with any internal controls that you have in place over all bank accounts. Additional delegation issues are addressed in Section 6, below.
+NOTE: There are no requirements to formally reconcile a general operating account. However, it is prudent to reconcile all of your bank accounts to ensure that your records and your bank records agree. Reconciling the general account is also important if you delegate any control over the account (signing authority or handling of funds) to an employee.
+4 What documents do I need to prepare the trust account comparison and reconciliation?
+In order to prepare a reconciliation of your trust account, you will need the following records, each of which is required under s. 18 of By-Law 9 (sample documents are available in the Law Society’s Bookkeeping Guide ):
+Trust bank statement (By-Law 9, s. 18(10))
+Statement of activity or other confirmation of the balance of funds held in a trust account (mixed trust, separate interest bearing accounts and investments) as provided by the financial institution where the funds are physically held.
+NOTE: It is critical that you ensure you have a complete and original copy of your account statement activity in order to reconcile your account. If you do not receive paper statements from your institution and/or access account information electronically, ensure that you obtain and make a copy (electronic or paper) of the account activity statement directly from your institution's banking system.
+Cancelled cheques and payment confirmations (By-Law 9, s. 18(10))
+Original or electronic image copies of all cheques and the confirmation of electronic withdrawals (if applicable) that have been processed through the account.
+If you choose to maintain imaged cheques in an electronic format, check with your financial institution to determine how long the images will be accessible through the financial institution's website, and if necessary, make arrangements to download the images for compliance purposes. You must ensure that the cheque images (both front and back of the cheque) can be printed, if required, during the 10-year retention period and that printed images will be legible. For more information on cheque images and record keeping requirements please view the Books and Records FAQs.
+Detailed deposit slips and deposit confirmations (By-Law 9, s. 18(10))
+The original copies of records that show deposits made to your account.
+This can also include any confirmations received from your financial institution, including slips from an automated banking machine (ABM), or from third parties who make deposits to the credit of your account.
+Deposit slips for your practice bank accounts must be detailed showing
+the source of the money received, i.e., the person from whom you received the money
+the name of the client on whose behalf you are depositing the money
+If you deposit funds through an ABM), the bank receipt should be attached to the deposit slip for that deposit, or the source and client name should be written on the ABM receipt and included with your financial records.
+Trust journals (By-Law 9, ss. 18(1)–(2))
+A book of original entry identifying
+each date on which money is received or disbursed in trust for a client
+the method by which the money is received or disbursed (e.g., cheque, bank draft, cash, wire transfer, etc.)
+the purpose for which the money is received or disbursed
+the person from whom money is received or to whom funds are disbursed
+the amount of money received or disbursed
+the client for whom money is received in trust or disbursed
+number of the document you used to make the payment (e.g., cheque number, bank draft number, electronic trust transfer requisition number, etc)
+The balance of all transactions (total receipts less total disbursements) recorded in the journals should be determined at the end of each month.
+Client trust sub-ledgers (By-Law 9, s. 18(3))
+A final book of entry maintained separately for each client or each client matter recording
+all money received in trust
+all money disbursed from trust
+any remaining balance
+The sources of these entries are the trust receipt and disbursement journals. All transactions from the trust journals that pertain to a particular client matter are grouped together in the sub-ledger.
+5 How do I perform the trust reconciliation and comparison?
+Computerized vs. manual environments
+If you use a computerized accounting system, your system may be equipped with a reporting feature that allows you to prepare and store reconciliations in the system. Please be sure to read your user guide and/or seek assistance from your bookkeeper, accountant or software provider prior to using the reporting function for reconciliation purposes.
+Whether you prepare the reconciliation manually or within your accounting system, you must be sure that the report generates sufficient detail to meet the minimum requirements of s.18(8) of By-Law 9:
+A record showing a comparison made monthly of the total of balances held in the trust account(s) and the total of all unexpended balances of funds held in trust for clients as they appear from the financial records (journals and sub-ledgers) together with the reasons for any differences between the totals, and the following records to support the monthly comparisons:
+a detailed listing made monthly showing the amount of money held in trust for each client and identifying each client for whom money is held in trust (client trust list)
+a detailed reconciliation made monthly of each trust bank account
+Prepare the client trust list
+A client trust list identifies the total of all funds held on behalf of each client as at a particular point in time. Each client sub-ledger with a balance as at the end of the month reconciled is placed on the list. The client name and balance of funds held in trust according to the sub-ledger are listed on the report, with a total of all client trust sub-ledger balances at the end of the report.
+Here are the specific steps to prepare the list:
+From the clients' trust ledger, identify any client balances that existed at the specific month end and list the client names in a logical order (e.g., alphabetically or by file number) along with the unexpended trust balance as at the month end.
+Include the last activity date for each client's trust balance on the list to help you to monitor inactive or dormant amounts.
+Add the amounts of each sub-ledger in the client trust listing and identify the total amount for all clients at the bottom of the list.
+Note that the total of all client trust sub-ledger balances on the client trust list should equal the balance of the trust cash receipts and disbursement journals. Any difference between the two could indicate the existence of a posting error. See the sample trust reconciliation to view a complete trust listing.
+Verify receipts and cheques processed by the bank against the journal
+With your bank statement, cashed cheques, deposit confirmations and journals, do the following:
+check all returned cheques or cheque images against the amounts on the bank statement for the previous month, noting any discrepancies
+check off all of the deposits credited on your bank account statement against your duplicate deposit slips and other deposit confirmations and your trust bank journal, noting any differences
+identify any cheques you have issued that have not yet cleared the bank
+list the outstanding cheques by cheque number, date of issue, payee and amount
+list any deposits for the previous month, by date and amount, that are not recorded on the bank statement—these are your outstanding deposits
+list any bank errors and/or posting errors individually by date of occurrence and provide a brief explanation and the date of correction (which should be before the following month end)—a copy of any supporting documentation, such as a bank memo, should be attached to your reconciliation.
+Reconcile and compare bank balance with journal and trust listing balances
+To obtain a reconciled bank balance, take the ending balance of the trust bank statement and
+subtract the amount of the outstanding cheques
+add any outstanding deposits
+adjust for any bank and posting errors
+Take your journal balance for the end of the period and compare this to the total balance on your client trust list (total of all unexpended balances in your client trust sub-ledgers). These two amounts should be the same. From your journal balance, add or subtract any posting errors to arrive at your reconciled journal/trust sub-ledger balance.
+Now compare the reconciled bank balance and the journal/trust listing balance.
+Compare Reconciled Bank Balance with Journal/Trust Listing Balance
+Ending balance from bank statement
+- Outstanding cheques
++ Outstanding deposits
++ Bank service charges
++/- Any other bank errors
+Ending journal balance = Trust List Balance
++ Deposits made but not posted
+- Cheques issued but not posted
++/- Any other corrections for posting errors
+= Reconciled Bank Balance*
+= Reconciled Journal/Trust Sub-ledger balance *
+* If there is any difference between these two totals, you must investigate and provide an explanation for that difference regardless of the amount. Every cent in the trust account must be accounted for.
+Explain and correct any differences
+As noted above, all differences must be explained. Under s. 14 of By-Law 9, you are required to have a sufficient balance of funds in your trust bank account to meet all of your trust obligations at any given time. Therefore, you must make arrangements to correct any discrepancies identified in reconciling your trust account as soon as they are identified.
+NOTE: Most financial institutions will only correct errors if they are notified within 30 days from the date the statement is issued. Therefore, to avoid having to deposit your own funds to correct errors made by your financial institution, you must reconcile your account as soon as possible, following receipt of your monthly account statement.
+6 What are some tips that may be useful to me in preparing or reviewing trust reconciliations and comparisons?
+Look at last month's reconciliation and comparison
+When preparing or reviewing a trust reconciliation and comparison, it is helpful to have the previous month's reconciliation and comparison on hand to identify what items outstanding in that month have not been cleared as of the present month.
+Choose a statement end date
+When you set up your account, the bank or financial institution will ask you to choose the frequency of your statements as well as the end date for your statements. Since you are required to reconcile your trust account on a monthly basis, it is best if you arrange to have account statements mailed to you on a monthly basis or arrange to pick them up at your financial institution. You may also need to specify whether you want the monthly period to be from the first day of a month to the end of a month, rather than a four-week period that spans over two calendar months. A statement that shows the activity for the calendar month is ideal.
+Depending on the volume of activity in your account, you may wish to reconcile the account more often than once a month. While this is not required, you may request statements on a weekly basis rather than on a monthly basis. You also may have the option of viewing your account activity online (covered below).
+Access a bank account using the Internet (online)
+Most major financial institutions will offer you on-line access to your account, whether it is a trust or general operating account. This is an excellent tool for monitoring the balance of your account at various points in time, e.g., to identify whether a deposit made or a cheque written has cleared your account. It is also helpful if you find that your institution takes too long to send out your monthly statement and you would like to reconcile your account promptly after your month end. Receiving your trust bank statements late in the month does not relieve you of your obligation to complete the reconciliation and comparison within 25 days of the month end. You may also find that opting out of paper-based statements may reduce your service charges.
+If you have a trust account with online access, please be sure to establish password controls over the account to prevent any unauthorized access to the account by a member of your staff, or anyone else without signing authority. Also, if you withdraw or transfer funds electronically from your trust account, it must be in accordance with the requirements of s. 12 of By-Law 9.
+Carefully review the work of others
+Depending on the structure of your firm, you may choose to delegate the preparation of the monthly reconciliations and comparisons to a staff member, your bookkeeper or accountant. When you delegate some or all of the tasks in reconciling a trust account, it is critical that you review each reconciliation and comparison in detail each month.
+Take extra caution to ensure that you are provided with original copies of bank statements or reports when reviewing your monthly reconciliation. If you do not receive paper statements, be sure to access and print off your account information for the reconciliation period personally, rather than rely on copies of statements provided by those who prepared the reconciliation.
+Always remember: It is your responsibility to ensure that there are sufficient funds in trust to meet all of your trust obligations. Although someone else may prepare the reconciliation and comparison, any shortages or errors are ultimately your responsibility, and you are required to make up for any shortages. If you do not understand items on the reconciliation prepared by someone else, ask the person(s) who prepared the reconciliation and comparison for clarification with supporting documentation.
+The following are some things to look for when completing your review:
+Recurring bank or processing errors that are outstanding from month to month: These should be addressed as soon as possible to ensure that any errors caused by the financial institution are rectified by the institution. If they are recurring, it may indicate that the bank was never made aware of the errors. You should ask any responsible staff for confirmation that they sent instructions to the bank to correct the items.
+Unexplained items that appear in order to balance your records: These could signal that the person preparing the reconciliation is manipulating the records or not properly identifying the cause of any difference. No amount is too small to investigate—you must be able to account for every cent in a trust account.
+Frequent requests to cover shortages in trust: Regardless of the amount, any request made of you to cover shortages should be explained in detail and should be supported with documentation. If there are frequent requests made, it may suggest some manipulation of the account by a staff member or failure to record transactions properly.
+Overdrawn client sub-ledgers balances that reoccur from month to month: When you review your trust list, you should question why any trust sub-ledger became overdrawn. It may be that you or a staff member is not properly reviewing the balance of the sub-ledger for a client before issuing a payment from trust for that client. It may also be that all of the transactions are not recorded as they occur (i.e., not posted current). Any reoccurrence of overdrawn sub-ledgers should be a concern to you, regardless of the amount.
+Trust account disbursements posted with blank payee names or with generic names like "client" or "bank": For all disbursements, you should see the actual name of the payee and the reason for the payment in the journal entry.
+Resources
+Law Society of Ontario FAQs,
+Books and Records FAQs
+Opening a Trust Account FAQs
+Interest on the Trust Account FAQs
+Trust Account Signing Authority FAQs
+Trust Account Operation FAQs
+Trust Deposits, Transfers, Withdrawals FAQs
+Closing a Trust Account FAQs
+Law Society of Ontario Bookkeeping Guide
+Sample trust reconciliation
+Statutes and Rules
+Law Society Act, R.S.O. 1990, c. L.8
+By-Law 9, Financial Transactions and Records, made under the Law Society Act
+
+Doc 2 (URL: https://trustbooks.com/resources/5-easy-steps-of-trust-reconciliation/, ClueWebID: clueweb22-en0037-80-03992)
+5 Easy Steps of Trust Reconciliation - Trust Accounting Software | TrustBooks
+5 Easy Steps of Trust Reconciliation
+October 11th, 2017
+As the end of every month rolls around, you should be taking some time out to complete a trust reconciliation. One of the most important reports in trust account management, a two-way trust reconciliation compares your internal trust accounting records to the activity in your trust bank account, allowing you to confirm that your records are accurate, complete, and free from intentional or unintentional misappropriation.
+The ultimate goal of the trust reconciliation process is to match, or clear, the transactions in your trust accounting records by comparing them to the transactions listed on your bank statement, which provides an independent accounting of the activity that flows into and out of your bank account. In a healthy trust account, the two records should be in perfect sync.
+To help you determine whether your trust accounting is accurate and error-free, we’ve broken out the trust reconciliation process into five easy steps:
+Step 1: Make sure your deposit records are complete.
+Start with the cash inflows, or deposits, listed on your bank statement and compare them to the deposits in your trust accounting records. Ideally, each transaction on the bank statement will match a deposit entry in your trust accounting records, and you can mark these as cleared. If you come across a transaction on your bank statement that does not match any of the deposit entries in your files, that means your trust accounting records are incomplete. You’ll need to add the missing entry to your records, but you’ll also need to examine your accounting processes to see how it could have been overlooked in the first place. Remember, the goal is to have your trust accounting records reflect every transaction that flows through the bank account, so you need to address any issues as soon as they arise.
+Step 2: Locate any uncleared deposit transactions.
+It’s possible to have transactions that are recorded in your trust accounting records but that have yet to clear the bank account at month-end. Banks need time—around 1 – 3 business days—to process deposits, and so uncleared transactions typically occur when deposits are made on the very last days of the month. While these uncleared deposits should show up on the next month’s bank statement, you will still need to account for them in your month-end reconciliation, so be sure to make a note of them for reference later on. If you see a deposit transaction that continually shows up as uncleared from month to month, it’s likely that an error was made with the deposit transaction and an adjustment is necessary.
+Step 3: Confirm your disbursement records.
+Now that you’ve cleared your deposit records, you’ll need to perform the same process for cash outflows, or disbursements, as well. Compare the cleared checks and withdrawal transactions listed on the bank statement to the disbursements recorded in your trust accounting records. As with the deposits, most withdrawals listed on the bank statement should match the disbursement entries noted in your trust accounting records and these you can mark as cleared. If a withdrawal listed on the bank statement does not match any disbursement entries in your records, you’ll need to updated your files to address the error.
+Step 4: Identify uncleared disbursement transactions.
+With disbursements, it’s quite common to have transactions recorded in your trust accounting records that have not yet cleared the bank. For example, you may write and mail a check for an insurance settlement, but then the payee loses the check or changes their address or simply forgets to deposit it. All of these would cause a delay in the check being cashed, and if the check has not cleared the bank at month-end, it is considered an uncleared disbursement. Any outstanding checks will need to be carried forward from each trust reconciliation until the disbursement appears on the bank statement and the transaction can be cleared. Until then, outstanding disbursements will need to be accounted for in your monthly reconciliation.
+Step 5: Account for uncleared transactions.
+You’ve checked the deposits and withdrawals on the bank statement against your trust accounting records and you have isolated your list of uncleared transactions. The next step is to adjust the bank statement balance so that it accounts for the pending transactions you identified. To calculate your adjusted end balance, add any uncleared deposits and subtract any uncleared disbursements from the total given by the bank statement. This adjusted end balance should then match the month-end balance in your trust accounting records, making your trust account reconciliation a success. If the two balances don’t match up, you’ll need to go back and redo each step in the process, this time keeping a close eye out for mistakes.
+Intuitive Product
+TrustBooks has been wildly successful in designing an intuitive product. This is so much better than trying to balance my trust account in Quickbooks!
+Andy Cowan
+Law Office of Andrew Cowan
+The Risks of Putting Your Trust in QuickBooks
+
+Doc 3 (URL: https://www.ncrec.gov/Resources/TrustAccount, ClueWebID: clueweb22-en0022-53-06294)
+Trust Accounting
+Trust Accounting
+Trust Account Tutorials from the Real Estate Bulletin’s Auditor’s Corner
+Open or download for future reference Trust Account Tutorials to understand and learn the process of
+                maintaining trust account records that comply with Real Estate Commission rules. The three one-page tutorials cover Deposits, Disbursements and Monthly Account
+                Reconciliations and are displayed in numbered steps with ledgers and other documents shown as examples.
+Accounting for Earnest Money Deposits (video)
+Accounting for the Deposit of Earnest Money
+Watch on
+Trust Account Articles From Past Bulletins
+What Not to Do With Your Trust Account
+Rec on Cile
+Security Risks When Using ACH Transfers
+New BIC To Review Trust Account Records
+Broker Software Evaluation Forms
+Broker Software Evaluation for Sales
+Broker Software Evaluation for Long Term Rentals
+Broker Software Evaluation for Vacation Rentals
+Spot Inspection Waiver Program
+Commission staff randomly performs spot inspections of trust accounts belonging to Brokers-in-Charge/firms. The purpose of the random spot inspection program is to reduce the incidence of misappropriation and mishandling of trust funds by monitoring compliance with the procedures and record keeping requirements established by the Commission. The focus is on record keeping and, when needed, education of brokers in the proper management of trust monies and trust accounts. Although the program often uncovers gross improprieties such as commingling, deficit spending, and conversion, it is also successful in raising the overall level of compliance with and understanding of the rules governing broker trust accounts.
+The Commission has instituted a waiver program for random audits of broker trust accounts. Brokers-in-Charge/Firms may seek an exemption from the random audit program by having a CPA perform an examination of the trust accounts pursuant to Agreed-Upon Procedures and submission of the CPA’s report to the Commission.  The exemption is valid for 1 year.  The report includes representations signed by the Broker-in-Charge, a copy of the CPA engagement letter, a list of Agreed- Upon Procedures, and the CPA’s report pursuant to the Agreed-Upon Procedures, all of which must be submitted to the Commission within 90 days of the examination. The waiver does not apply if a complaint is received that warrants an audit.
+Steps to obtain a waiver:
+Bank Directive on NSF Trust Checks – This form is required to be eligible for the spot inspection waiver program. A Broker-in-Charge/Firm seeking exemption would have to complete this form and give it to the bank where trust accounts are maintained. A copy would be provided to the Commission. The form directs the bank to notify the Real Estate Commission when any item drawn on any trust account is presented for payment against insufficient funds. In the event the Commission receives notification of an NSF issue with a trust account, the Commission would proceed with an audit regardless of the fact that the exemption might have been obtained by the Broker-in-Charge/firm.
+Broker-in-Charge’s Representation Form – This form is required for the Broker-in-Charge to make certifications to the Commission as to compliance with the requirements for the waiver program.
+CPA Engagement Letter - A Broker-in-Charge is required to receive this engagement letter from any CPA selected to perform the review required for the waiver program. Attached to the letter is the Agreed-Upon Procedures, which are the procedures the CPA must comply with when performing the review.  A copy of the letter and attachment must be provided to the Commission for any Broker-in- Charge/firm seeking the waiver.
+Report Pursuant to Agreed-Upon Procedures for CPA Examination of Broker-in- Charge’s Trust Accounts – This report must be supplied to the Commission by the CPA.
+After all items have been submitted, the Broker-in-Charge will be notified if the waiver is granted.
+
+Doc 4 (URL: https://www.reinsw.com.au/Web/Posts/Latest_News/201408/Trust_accounting_audit_responsibilities.aspx, ClueWebID: clueweb22-en0023-06-12238)
+Trust accounting audit responsibilities
+Latest News
+Trust accounting audit responsibilities
+12 August 2014
+Under the Property Stock and Business Agents Act 2002, licensees’ records in relation to the handling of trust money must be audited.
+Recent amendments to the Act have resulted in a new framework for how property professionals handle their trust accounting audit responsibilities. Below is the framework for all trust accounting audit responsibilities.
+Who is required to submit an audit?
+All licensees, former licensees or personal representatives of a licensee must submit an audit of their trust account to the Director-General if they received or held trust money during the financial year ending 30 June 2014.
+When must the audit be lodged?
+The qualified audit must be lodged within three months after the end of the audit period. The qualified audit for most agents must be lodged no later than 30 September 2014.
+If a qualified trust account audit is not lodged by the due date, licensees could be disqualified from holding a licence and possibly prevented from renewing a licence.
+What is a 'qualified' audit report?
+The term “qualified audit report” is now defined by the Act as “a discovery by the auditor of a breach of the Act or Regulations, any discrepancy relating to the trust account or a failure to keep records in a manner that enables them to be properly audited.”
+While all licensees who held or received trust money during their audit year still need to have their trust accounts audited, only those audits that are qualified by the auditor are required to be lodged by the auditor and licensee with NSW Fair Trading. This process is new under the Act.
+What if no trust money is held in 2013/14?
+Previously, licensees were required to have their trust account audited and lodged whether the audit was qualified or not. The Act has amendment this process. Licensees who do not hold or receive trust money during the audit year will no longer be required to lodge a statutory declaration. Instead, licensees will be required to note whether or not they did so when they next re-apply for their licence.
+For more information on your trust account audit requirements, go to the NSW Fair Trading website.
+RELATED ARTICLES
+Week-long NSW Fair Trading compliance program begins today!(23/11/2020)
+Winter is coming: are your properties smoke alarm safe?(4/08/2020)
+NSW Fair Trading Proof of Identity Checklist(20/09/2018)
+REINSW responds to NSW Fair Trading's proposal to de-license auctioneers(3/09/2018)
+Government must act to prevent consumer danger(21/08/2018)
+
+Doc 5 (URL: http://www.gillettpublishing.com/trust-accounting.php, ClueWebID: clueweb22-en0024-00-09935)
+GEMS - Trust Accounting
+Trust Accountings
+There was a common law duty to report trust activities to the beneficiaries. Since the beneficiaries hold beneficial interest to the property held in trust, they must be apprised of the trustee's actions to permit them to protect their interests. There was no common law duty to report to the courts.
+There is no uniformity as to the proper form for an accounting. Most statutes describe the reporting requirements in general terms without specifying either the account's form or the scope of its contents. As a result, trust accountings differ significantly even within the same jurisdiction.
+The Committee on National Fiduciary Accounting Standards was established in 1972 to study the fiduciary's general accounting obligations, to establish fiduciary accounting standards, and to make more uniform the principles applied in fiduciary accountings prepared for submission primarily to the courts. The Committee consisted of representatives from the American Bar Association, the American Institute of Certified Public Accountants, the National Center for State Courts, the National College of Probate Judges, the Uniform Probate Code Project, the American Bankers Association, and the American College of Probate Counsel.
+In establishing the national standards, the Committee determined that an accounting's objective should be to provide essential and useful information in a meaningful format. Although the account should be complete, it should not be so massive that interested parties would not read it, and should be sufficiently simple to enable the fiduciary to prepare it without unreasonable expense to the trust. For trust accountings, it is imperative that the trustee maintain accurate records of both income and principal and correctly classify receipts and disbursements.
+GEMAcct has been designed to comply with the National Fiduciary Accounting Standards. Although some jurisdictions require specific accounting techniques or formats, the reports established in the National Fiduciary Accounting Standards are either the prescribed or an acceptable format in most jurisdictions.
+
+<|end_search_result|>
+
+Okay, so from the search results, it seems like trust accounting is a critical area with strict regulations, especially concerning the handling and reporting of discrepancies. The first document from the Law Society of Ontario provides detailed guidance on reconciling trust accounts, which is essential for ensuring that all transactions are accurately recorded and that the account balances match the records.
+
+One key point is the segregation of duties to prevent fraud. Having different individuals handle the funds and record the transactions can act as a check and balance system. Regular reconciliations are also vital; ideally, these should be done monthly to catch any discrepancies early. Additionally, having independent reviews or audits periodically can provide an extra layer of assurance that everything is in order.
+
+Training is another important aspect. Ensuring that all staff involved in trust accounting understand the importance of accurate record-keeping and the potential consequences of discrepancies is crucial. Clear written policies and procedures should be in place to guide their actions and to provide a framework for handling any issues that arise.
+
+Regarding notification of authorities, it appears that the severity of the discrepancy determines who needs to be informed. Minor errors might be correctable internally, but more significant issues or those suggesting misappropriation would likely require reporting to regulatory bodies. For example, in the legal profession, the state bar association or ethics committee might need to be notified. In real estate, it could be the local real estate commission.
+
+It's also noteworthy that different jurisdictions may have varying requirements, so it's essential to be familiar with the specific regulations applicable in the area where the trust accounting is being handled.
+
+In summary, implementing robust processes such as segregating duties, conducting regular reconciliations, having independent reviews, providing training, and maintaining clear policies are crucial for managing trust accounts effectively. Notifying the appropriate authorities is necessary when discrepancies suggest serious issues or potential misconduct.
+
+**Final Answer**
+
+\[ \boxed{\text{Implement robust processes such as segregating duties, regular reconciliations, independent reviews, training, and clear policies for trust accounting, and notify authorities for significant discrepancies or potential misconduct.}} \]

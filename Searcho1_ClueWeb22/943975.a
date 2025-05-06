@@ -1,0 +1,517 @@
+When should a dependency be raised as a program risk? Hmm, this is about project management and risk assessment, right? So, I need to think about what dependencies are and how they can impact a program or project.
+
+First off, dependencies are basically relationships between tasks or components where one depends on another to function properly or to be completed before the other can start. In programming, this could be libraries or modules that your code relies on. In a broader project context, it could be dependencies on other teams, suppliers, or external factors.
+
+Now, a risk in project management terms is anything that could potentially negatively affect the project's objectives. So, a dependency becomes a risk when there's a possibility that it might not perform as expected, causing problems for the project.
+
+But when exactly should you raise such a dependency as a risk? I think it's important to consider several factors:
+
+1. **Criticality**: How crucial is this dependency to the project's success? If the project cannot proceed without it, then it's probably a high-risk dependency.
+
+2. **Vulnerability**: How likely is it that this dependency could fail or cause issues? This could be due to bugs in software dependencies, delays from suppliers, or changes in external conditions.
+
+3. **Impact**: What would be the consequence if this dependency fails? Would it cause minor delays or complete project failure?
+
+4. **Control**: How much control does the project team have over this dependency? If it's an external dependency, like a third-party service, the team might have less control and therefore it's riskier.
+
+5. **Mitigation Options**: Are there ways to mitigate the risk, such as having backups, alternatives, or contingency plans? If not, then the dependency is riskier.
+
+So, I think a dependency should be raised as a program risk when it meets certain criteria related to these factors. For example, if a dependency is critical, has a high likelihood of failure, would have severe impacts, is outside the team's control, and there are no mitigation options, then it definitely should be raised as a risk.
+
+Moreover, it's not just about the dependency itself but also about the uncertainty associated with it. If there's a lot of uncertainty about whether the dependency will be available, perform as expected, or meet the required standards, that uncertainty itself is a risk.
+
+It's also important to consider the stage of the project. Early in the project, many dependencies might be identified, but not all may be immediate risks. However, as the project progresses, some dependencies might become more critical, and their potential to cause problems becomes clearer.
+
+Therefore, continuously assessing dependencies throughout the project lifecycle is crucial. Regular reviews can help in identifying when a dependency should be raised as a risk.
+
+Additionally, industry best practices and standards might provide guidelines on when to flag dependencies as risks. It could be helpful to look into project management methodologies like PMBOK, Agile, or others to see their recommendations.
+
+Maybe I should look up some resources to get a better understanding. Let me try searching for "when to raise dependencies as risks in project management."
+
+<|begin_search_query|>when to raise dependencies as risks in project management<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://www.pmmajik.com/project-management-tools-dependency-management/, ClueWebID: clueweb22-en0020-92-06743)
+Project management tools – dependency management -
+Project management tools – dependency management
+Listen to this content
+Dependency management is a very important discipline for a project manager.  It is the “D” in RAIDs management.
+What is a dependency?
+In simple terms, a dependency is where a task, milestone or activity is dependent on another task or milestone being completed before it can start or be completed.
+It is possible for a project to have intra-dependencies. This is where tasks, milestones, etc within the same project are dependent on each other. The other type of dependency is external. This is where the dependency is on a different project, programme or even business as usual.
+A project manager must be aware of all of the dependencies for their project.  The reason is simple, if a dependency is not met, the successful delivery of the project may be threatened.
+A smart project manager should call on the services of the  PMO, a good, value adding PMO will be able to facilitate and manage external dependencies as a project manager should have the empowerment and oversight to manage intradependencies.
+Dependency tools
+In a similar way to the management of risks, issues and assumptions, the simple method of recording and monitoring dependencies is by using a dependency register. This should typically capture:
+Unique Reference – used to identify dependency
+Description – used to briefly describe the dependency
+Enabling Programme / Project – who must deliver the task, milestone, etc (sometimes known as the ‘giver’)
+Task / Milestone Description – details of the exact milestone / Task that must be delivered
+Dependent Programme – who needs the task, milestone to be delivered (sometimes known as the ‘receiver’)
+Dependent Task / Milestone – details of milestone / task that needs the delivery
+Delivery Date – date dependency must be delivered by to not cause a delay in dependent project
+Probability – probability that dependency will not be met in required timeline
+Impact – impact of dependency not being delivered in required timeline
+Status – open, closed, etc
+Owner – who owns the dependency
+Date Raised – date dependency was raised
+Other fields can be added to indicate if dependency is on the critical path, etc. However, the above fields should allow for the management of external dependencies.
+How to capture dependencies
+You will see lots of articles and diagrams that show wonderful process flows for managing dependencies. However, the real skill is identifying what are the dependencies that need to be worried about. This is not an exact science and difficult to fully document. However, the following to be a good approach.
+1. Awareness sessions
+Get all of the projects and programmes into a workshop, ideally no more than 2 hours. Ahead of the meeting get each project to prepare a one page slide using a standard format. This should provide:
+Project name
+Sponsor
+Project Manager
+Start / end dates
+Current status
+Business area / function
+Overview of the project
+Business process being changed
+Platforms being implemented / changed
+Key milestones
+Key issues / risks
+In the actual meeting, the PMO lead should set the scene by stating the purpose of the session is to identify any dependencies between projects.  Each sponsor / project manager will then briefly discus their project.  This will allow other project managers to ask questions and identify potential dependencies i.e. where 2 different projects are trying to change the same system at the same time.
+At the end of the session you should have:
+List of potential dependencies
+Possible dependencies with clear actions for the appropriate project managers to discus after meeting
+The PMO can then spend time reviewing and cleansing the list.  Working out the exact milestones where the dependency exists and then play this back to the project managers to agree
+2. Agree dependencies
+When all of the dependencies have been captured, it is then necessary to work with the project managers on either side of a dependency to confirm and agree that the dates are realistic and achievable.  If not, one of the projects will probably need to re-plan.  The aim is to have all parties in agreement on the delivery date.
+3. Monitor and control
+The now should be a clear view of dependencies and the associated milestones in the different plans.  The PMO should track progress against these critical milestones as part of the regular meetings and reporting.  When a milestone looks like it is slipping, they can quickly explore if it will be missed and then start the dialogue with the receiving project so as to assess impact and mitigating actions.
+However, it is important that each project manager monitors the dependencies that are important for their project.  The same way risks and issues should be reviewed, the project manager and / or the project team should check to make sure that all deliveries on which they are dependent, are on track.
+Summary
+Dependency management can be a very complicated, time consuming activity.  Therefore, think about how many dependencies need to be managed, the ability of the projects to communicate effectively and the impact of dates not being met.  This will then allow you to decide how much time, effort and process you wish / need to commit to dependency management.  However, running a session like the one described above will help open the channels of communication, flush out dependencies and allow for monitoring as part of the normal reporting cycle.
+
+Doc 2 (URL: https://rindle.com/blog/the-ultimate-guide-to-project-dependencies/, ClueWebID: clueweb22-en0034-55-01960)
+The Ultimate Guide to Dependencies in Project Management - Rindle Blog
+Home
+Project Management
+The Ultimate Guide to Dependencies in Project Management
+Jun 13, 2018
+No one truly operates in a silo.
+Everyone and everything is dependent on some other person or thing.
+We see it in politics ("the country's dependency on oil"), personal matters ("a child is dependent of their parent"), computer science ("adding dependencies to your applications' library") and so on so forth.
+Project management is no exception. No task or activity exists in isolation.
+Such project dependencies pose a persisting challenge for nearly every project manager.
+What Are Project Dependencies?
+Project dependencies are any tasks, events or situations that are either dependent on a previous completion of a task or on which a task is dependent on. It is the relationship between two separate activities within one larger project.
+It can be as simple as waiting for a response from another team member to more complex such as data center migrations with 3rd party providers.
+They are pervasive in every industry, technical or non-technical, and if not managed well, can result in an inundated backlog, inefficient work, overall project risk, destabilized velocity and postponed value.
+Whenever there’s a project, expect a dependency.
+Blockers, Bottlenecks and Constraints
+There are a few other terms that are often associated with dependencies as it pertains to project management.
+Blockers are factors, either internal or external, that prevents the movement of tasks through the workflow.
+Bottlenecks are constraints in the system that limits the flow of work.
+Constraints and dependencies have a direct correlation when it comes to project management. A project constraint is a restriction, limitation or setback within the scope of the task in progress.
+They can be internal such as a lack of resources like manpower, money or skills.
+Let’s say you need to trim 10 trees but only have one gardener skilled enough & equipped properly to do it. The trimming of the trees is therefore automatically dependent on the completion of the trimming at a time.
+They can also be external. For example, if you’re building a house, you need to get the right permits and building plans approved before proceeding to lay down the foundation and building the house.
+In the examples above, the constraints have produced the project dependencies but dependencies can also be the cause of a constraint.
+For example, if you’re an event planner, you can’t possibly begin setting up the venue until the materials and decorations arrive. If there is a delay in the movement of these materials, there will be a delay in everything that follows.
+The longer it takes to arrive, the less time you have to set up for the event before it is scheduled to start.
+Constraints are inevitable and every project manager operates under The Triple Constraint (or the "Iron Triangle" for some).
+Cost: the financial constraints or budget of a project
+Scope: all the tasks required to complete the project in full
+Time: the proposed timeline or schedule for the project to be completed
+For a successful completion of a project, a PM should diligently keep track of all constraints and dependencies and reallocate resources as needed.
+Projects should always be managed with the intention of producing valuable and high-quality outcomes. Blockers, bottlenecks, constraints and dependencies all prevent progress.
+But fortunately, when managed well, they don’t have to cause distress to the project manager, team or organization.
+Another important is the critical path which refers to the longest unbroken chain of sequential activities. It can alter the completion duration of the tasks, causing delays in the original project plan.
+Types of Dependencies in Project Management
+There are different types of project or task dependencies that can be categorized in many ways (such as hard logic vs. discretionary) depending on conditions, relationships, and other factors.
+Causal Dependencies - these are dependencies found in the natural flow of tasks within a project. For example, to bake a cake you need to first buy the ingredients, then mix it together, then put it in the oven and finally wait for it to bake. Each task is dependent on the completion of the previous and avoiding one step or task in the process will lead to a failed project.
+Resourced Based Dependencies - these are given by constraints and have no causal dependency. Meaning, if all resources were present, all tasks and project management activities can be completed together. For example, within technical user stories, there could be internal constraints with lack of skills of not understanding technical terms or processes.
+Preferential Dependencies - these are project dependencies determined by best practices, protocols or preferred processes. They are usually institutionalized to focus on the quality of deliverables. For example, when painting the interior of a home, the order in which the rooms and subsequently the walls are painted can be chosen based on a variety of things such as the required furniture removal, the most used room, or other preferences.
+Cross-Team Dependencies - for larger organizations, cross-team dependencies pose a serious challenge. These tend to exist when two or more teams are needed for the completion of an end-to-end project.
+External Dependencies - these are dependencies that are outside the control of project managers or teams and rely on 3rd parties or outside vendors for completion.
+FS (Finish-To-Start) Dependencies - this is the most common and logical dependency type found in project management (and the real world for that matter). It follows the natural progression or flow from one task to another. Task A must finish in order for Task B to start.
+SF (Start-To-Finish) Dependencies - this means that the successor task (Task B) cannot finish until the initiation of the predecessor project activity or task (Task A). For example, let’s say you currently have a website live and running but want it replaced with a new one. You wouldn’t take down the old website (Task A) until you have the new website designed and built out (Task or Activity B).
+SS (Start-To-Start) Dependencies - this means that the successor task (task B) can’t start until the previous project task has begun. In other words, both tasks begin at the same time and can run in parallel. For example, in cooking a 3-course meal, while the main entree is in the oven, you can begin making the salad.
+FF (Finish-To-Finish) Dependencies - this means that the successor task can’t finish unless the predecessor task is finished as well.
+Outside-Inside Dependencies - it’s not uncommon for certain tasks to have a combination of both internal and external dependencies.
+Company In – Project In Dependencies
+These are applied to sequential project tasks. For example, holding an event is dependent on booking the event space.
+Company In – Project Out Dependencies
+These are applied when dependencies exist between two different projects.  The first step in Project #1 has to be completed before Project #2 can start.
+Company Out – Project In Dependencies
+These are tasks that are outsourced to third parties. The outcome of the project still impacts your company, but the activities are not in your control.
+Company Out – Project Out Dependencies
+These include factors that are not part of the project, but they affect the outcome of the project. For example, worker unions, external agencies etc.
+NOTE: Given its root in manufacturing, Kanban is great for non-technical projects but it’s also applied in conjunction with technical frameworks like Scrum. When it comes to dealing with project dependencies in Scrum, think of them as falling within the following:
+Inter-User Story: dependencies between user stories within the same team
+Inter Team: management dependencies between teams
+Inter Product/Release: dependencies across products or releases of the same product
+External: vendors, third parties, customer dependencies, people
+Kanban Makes Dependencies Visible
+What makes Kanban not only attractive but also efficient lies in its core principles. Among the first is the concept of visualizing the tasks at hand and the flow of work for easier management.
+As high as 90% of the data that enters our brain is visual.
+The brain processes visual information 60,000 times faster than text and because 40% of all nerve fibers connected to the brain are linked to the retina, we developed a preference for images over text.
+An added benefit of visualizing work is it makes blockers, constraints and other management dependencies visible as well. Another core principle of Kanban is managing lead time - the average time it takes for one “work” or “task” to go through the entire process from start to finish, including the time waiting between sub-processes.
+An unfavorable lead time is a result of project constraints in the process and a high number of work-in-process (WIP).
+A Kanban board visually displays the work status and process constraints. This transparency is the key to achieving an organizational change. Kanban is designed to be an evolving and growing platform for ultimate efficiency and value.
+When there are project dependencies and constraints, the Kanban board has no choice but to put progress to a halt.
+As a result, these constraints are elevated and must be addressed in order to move forward.
+How to Deal With Project Dependencies in Kanban
+It should be noted that there isn’t a one-size-fits-all approach. In fact, while there are many differences between agile, scrum, kanban, waterfall, and other frameworks, many organizations have found combining a mixture of elements from various project management processes better serves their purpose.
+After all, the idea behind these practices is for a better and continuous deliverability of value. Kanban offers a flexible way to control and manage dependencies in a project.
+#1 Identify All Dependencies and Constraints in Project Management
+The good thing about using a visual tool like Kanban is that it brings a lot of dependencies and constraints to surface. Ideally, you’ll want to think through all possible dependencies and constraints in project management before creating a workflow.
+If you do it after your workflow is established, you may find yourself questioning or challenging the sequence of steps and as a result, create dependencies.
+This has the risk of leading to unnecessary complications or delays.
+The best way to excogitate potential project dependencies and constraints is through a workshop or scheduled team meeting where all members and relevant parties if possible are brought together to discuss how their work is related to each other and what could be holding them back.
+You may want to consider having these meetings cross-functional to gather different perspectives on risks and challenges associated with the project management.
+Regularly scheduled meetings, sometimes referred to as “stand-ups”, also help consistently identify management dependencies or constraints within projects.
+Whether you have daily standups or weekly standups, looking at the board helps you visually think about how workflows and where work gets stuck.
+You may need to divide work into smaller project tasks and subtasks as necessary so work can continue moving across the board at a relatively uniform pace.
+A novice PM especially can feel overwhelmed with managing task dependencies. But with proper identification and preemptive brainstorming, a project manager can mitigate the chances of project management mishaps.
+Once you feel confident in knowing what the foreseeable disruptions could be, you are positioned to take the necessary preemptive actions.
+BONUS TIP: It may be helpful to calculate the probability of something going wrong with the chained tasks and devise an overview of potential consequences that could happen if the dependency is not met.
+#2 Notate Tasks
+Once you’ve identified the various dependencies and constraints in your project, annotate each task with the names of tasks it’s dependent on and is dependent on it.
+Knowing the stream of prerequisites helps team members ensure the order stays in place and all tasks are completed in a steady stream.
+#3 Stack Tasks
+This is highly dependent on the type of Kanban board you are using but if you’re using a physical management board, stack the dependent tasks on top of each other in the order in which they should be completed.
+The top sticky note should be the first item of completion and everything following should be in subsequent order.
+If your Kanban board is digital, it’s a matter of searching for the features that offer this type of project management tool.
+#4 Prioritize Based on Schedules
+Sometimes tasks become relevant or more important around specific dates. If there are certain tasks that need to be worked on at a certain date, place them on an actual calendar. Once that date comes, take the task off the calendar and place it in the backlog.
+#5 Adding Swimlanes
+Kanban makes it easy to customize your board dynamically. You don’t have to stick to the basic 3 columns of “to-do”, “doing” and “done”.
+As you go through your workflow and hold daily/weekly meetings with your team, you should constantly be adjusting and modifying your project management board accordingly.
+Adding in horizontal “swimlanes” is an easy way to visually view and track dependencies. This is especially helpful if you have a lot of external dependencies in project management that are mercurial and out of your control.
+Parking them in a different section helps the entire team visually see which items are off the project schedule and spot trends in certain areas.
+You could also create a completely new board for handling dependencies. Though this is a more rare practice. Another option is to completely block off a task with project dependency details on top.
+This visually displays what the holdup is and blocks off the task so team members won’t get distracted.
+#6 Adding Additional “Blocked” or “Track” Columns
+Similar to “swimlanes”, creating an entirely new column dedicated to project tasks or work items that are dependent on another item can help keep your workflow moving at an efficient pace while also ensuring items don’t fall through the cracks.
+With a “Blocked” or “Track” column, you can move items that are dependent on other items out of “In Progress” and into a new column that your entire team can visually see and monitor.
+#7 Record & Continuously Monitor
+You’ll want to log and track each project dependency to not only ensure tasks are progressing but help improve the process where applicable. Start tracking 4 simple things:
+Total WIP - anything that has been started by anyone but not yet finished. This could indicate a potential constraint or dependency. For example, you may notice that projects get delayed because a majority of the team only has 3 tasks at any given time while a few other key players have much more.
+Blockers - a dependency, problem or setback. You’ll want to focus on 3 things: 1) how often are items blocked? 2) how long does it stay blocked? 3) where in the process do these blockers happen?
+Throughput - this is the number of project items completed per time period.
+Lead time - how long a card takes to travel across the entire board. For example, if your data suggests you leave items blocked for a long time, you may want to approach the item with an “all hands approach” - focusing the entire team on removing the dependency as quickly as possible.
+Within the dependency itself, you’ll want to log certain items and bits of information such as:
+A unique ID
+A description detailing what should be delivered
+Date of when it should be delivered by
+Who/What is dependent on it
+Owners - within internal tasks, the task owner is typically the dependency owner as well. For external tasks, such as a reliance on suppliers, it may make sense to have someone else within the project to monitor the relationship and ensure movement of tasks progress.
+Having a log of all of this information will help project managers plan efficiently, schedule accordingly and minimize risks. Analyzing the dependency data can help improve the way dependencies are handled. Maybe your team needs to adopt a change in policy? Perhaps you need to bring more processes internally? Or maybe you need to put a higher priority on skills gaps?
+#8 Improve Communication
+Project managers have to interact with a slew of individuals so communication can be a detriment if not done well. There are two key categories project managers are constantly dealing with: the project team and stakeholders. When it comes to dependencies, specific things PM’s should focus are on:
+The Project Team - PMs should ensure everyone understands their responsibilities and their task linking with each other. Day-to-day interactions between each member can help resolve dependencies and keep the project moving forward.
+Stakeholders - PMs should engage with clients and company executives regularly and ensure they understand how the determined dependencies can affect the progress of the project. It’s also important to keep communications on this clear to set realistic expectations and avoid unreasonable requests.
+Improving communication goes beyond the typical “meet and catch up” to understand what everyone is working on. True communication should focus on human communication.
+This means going out with the team for happy hour or coffee and connecting with each other beyond the scope of the job.
+This helps with dependency management in many ways.
+First, you are focusing on getting along with the person. Project dependencies and work talk are put on the back-burner as you learn how to communicate and get along with each other.
+Second, it fosters a relationship.
+We spend ⅓ of our lives at work. Nobody wants the work culture to be unpleasant, and coworkers have been cited as a top reason for people staying at their jobs.
+Connecting with your team members improves everyone’s willingness to collaborate and “get it done”.
+#9 Empower Teams
+Empowering your team members gives them the confidence to say “no” if they find a problem with the order of stories and chain of tasks and not truckle to unreasonable requests.
+An empowered project manager can provide effective communication to team members and all relevant stakeholders and influencers in order to resolve any dependencies.
+#10 Create a Cross-Functional Team Composition
+Cross-team dependencies are one of the biggest challenges for teams and PMs.
+When two teams need to rely on each other for the completion of a project, delays and risks are inevitable.
+Cross-functional teams can help mitigate dependencies that arise from this.
+This means making your project team more versatile by having a more cross-functional team of back-end developers, front-end developers, designers, devops, marketing, even sales if needed.
+If two teams are working towards different project goals, you may have more than one process, especially if both teams barely intersect. You can either have a separate board for each process or add a swimlane to the original board.
+#11 Clean Architecture and Code
+If you're a technical project manager, ensuring developers get in the habit of producing clean code means other team members, and even other teams or 3rd parties can easily pick up tasks without any issues.
+Modular architectures and frameworks enable a seamless deployment with less unexpected dependencies.
+Also having optimized and high-quality user stories can rid any potential dependencies.
+Your project team should whittle down stories to more granular tasks so the boundaries get minimized.
+#12 Remove Accountability on a Single Unit
+The Kanban board should be viewed as a complete project management system with everyone accountable for it as a whole.
+Each task should be assigned to certain team members, but avoid managing such tasks as a "per-person" item. Instead, approach the whole solution/product for all teams as a team.
+Remove individual accountabilities and being implementing team ownership and fostering a collaborative environment.
+When everyone is held accountable, there’s no blame or finger pointing.
+When people are accountable for individual project items, you’ll find your team playing the blame game as opposed to getting to the root cause of something.
+The Five Whys Technique, created by Eric Ries in The Lean Startup, is a simple yet effective strategy to combat this. The methodology is simple.
+You ask “Why” five times in a row, and by the end, you should have a deeper insight into the problem at hand.
+To Wrap Up
+Dependencies are the bane of every PM and organization out there. But it doesn’t have to be.
+Using Kanban, every individual, team or large enterprise in any industry can successfully manage and control dependencies within a project. The purpose of
+Kanban is to continuously improve one’s own work process. This is done by helping you eliminate bottlenecks, dependencies, and constraints in your existing project management system while improving the overall workflow and cycle time.
+To visualize dependencies in your process, you’ll want to first create an area for them on the project management board that everyone can see and track.
+Then add a dependency symbol or identifier to the corresponding items and finally add them to a project dependency matrix and cerebrate a solution.
+
+Doc 3 (URL: https://www.liquidplanner.com/blog/ask-a-pm-how-to-manage-dependencies-and-assess-risks/, ClueWebID: clueweb22-en0020-38-15684)
+Ask a PM: How to Manage Dependencies and Assess Risks
+The blog for passionate planners
+Tips, stories, and insights to better manage work, improve productivity and enhance collaboration.
+Agile
+Blog Featured Post
+Careers
+Collaboration
+Features
+Industry 4.0
+Leadership
+LiquidPlanner
+Liquidplanner 101
+Methodology
+News
+Other
+Productivity
+Project Management
+Release Notes
+Reporting
+Time Tracking
+Collaboration, Methodology, Project Management
+Ask a PM: How to Manage Dependencies and Assess Risks
+Dear Elizabeth: The project I am working on is quite complex. Our work overlaps with that of other teams, plus there are a few things in the business that might have an impact on what we are doing. Some of these dependencies might have significant impacts on the project. How do you recommend managing dependencies that put the project at risk?
+First, have a virtual high five for identifying that you’ve got dependencies on your project that could cause a problem. Knowing they are there is the first step to being able to manage them!
+For the benefit of readers who haven’t come across the term before, a dependency is the relationship that defines the order in which tasks are carried out. Task A is dependent on Task B if the start or finish date of Task B must be reached before Task A can be started.
+It’s less complicated than it sounds!
+There are a few things to do here to make sure that you can adequately manage the impact of dependencies.
+1. Identify the Types of Dependencies.
+Let’s start by identifying the types of dependencies you have on the project. That will give us a head start at looking at how they can be best managed.
+There are several different ways of thinking about dependencies. The easiest way, and the way most scheduling software works, is to think of the impact on your timeline.
+Tasks can link to each other in four common ways:
+Start to Start: The start of one task links to the start of another task; i.e., both tasks start at the same time.
+Finish to Finish: The end of one task links to the end of another task; i.e., both tasks finish at the same time.
+Finish to Start: The end of one task links to the start of another task; i.e., the tasks happen one after the other in a sequence.
+Start to Finish: The start of one task links to the end of another task; i.e., the first task must start before the other task can finish.
+You can set these types of dependencies within your project management software.
+However, these sequential, task-based types of dependencies are not the things that will derail your project. You can use the same types of dependencies on your schedule to record things that might influence the project from the outside.
+For example, create a milestone for a task that has to be finished on another project and link it with the correct dependency type to the relevant task on your own schedule. You don’t want the other team’s complete plan in your plan, but dropping in a key milestone is enough to flag up that there is something external that has the possibility of affecting your timeline.
+That brings us to the next way of categorizing dependencies, which is more useful for the kinds of things that could be risky for the project.
+Dependencies can relate to the Project or the Company and can be “In” or “Out.” The table below explains more.
+It’s the dependencies that are out of the project and fall into the Company category that have the greatest possibility of presenting a risk to your work. These are things that are not in your control and that you are unable to fully influence yourself.
+2. Consider the Risks.
+Now that you know what your dependencies are and the areas that they affect, you need to consider the risks they present to the project.
+You already have tool to do that: your risks log.
+Look at each dependency and work out what their risks would be.
+For example, if you were building an app for a client, you might be reliant on another project’s completion in order to reuse the specialist code they were creating. In this situation, there is a risk that their work doesn’t finish on time or that the code isn’t reusable after all and you have to start from scratch (adding time and cost to your project).
+Go through the risks assessment process like you would normally do. Add the risks to your risk management software. Allocate them an owner and choose what you are going to do to manage the risks.
+This gives you transparency and a decent record of what you are going to do about the potential problems.
+Personally, if the risks are things that relate to what another team is doing, I would want to keep an eye on them myself as the project manager, even if someone else was named as the risk owner. These kinds of dependency-driven risks are very important to manage.
+So, how do you manage them?
+3. Talk to Your Colleagues.
+The biggest single thing you can do to help address the risks caused by dependencies is to talk to people.
+When your project relies on someone outside the project doing something, or telling you something, go talk to them. Let them know that your project is dependent on something they are doing. They might not have a clue that their work is going to affect yours. Tell them what their actions mean to you and why you care about how their work is going.
+As you all work in the same business, let’s hope that your strategic goals are all aligned. There is no reason why they shouldn’t want to help you out through good communication and collaboration. Keep them updated with what’s happening on your project and ask them to do the same for you. Together, you should be able to manage the flow of information back and forth to keep both projects working smoothly.
+If the dependency relates to something a third party is doing for you, such as an agency delivering wireframes, then the talking principle still applies! Check in with them regularly. Talk to your counterpart in your company who works with the agency regularly, so they understand the impact of any delays.
+When Risks Become Issues
+The great thing about taking your dependencies and managing them as risks is that you are actively working to stop them becoming problems for your project. However, if they do become problems, you already have a way of dealing with them. They become project issues. You may need to change something to accommodate the new problems, but between your issue management and change management processes you’ll be able to come up with a new plan to address the situation.
+You’ve taken all the right steps to raise awareness of the dependency and what needs to be done so it doesn’t become a problem, so fingers crossed that your project will proceed without a hitch.
+Elizabeth Harrin is a project manager, author of several books, and a mentor. Find her online at her blog, A Girl’s Guide to Project Management
+
+Doc 4 (URL: https://riskfirst.org/risks/Dependency-Risk, ClueWebID: clueweb22-en0021-98-16501)
+Dependency Risk | Risk-First
+Risk-First
+Exploring the risks that ruin software projects
+Thinking Risk-First
+Risks
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Bets
+Estimating
+Complexity
+Misc
+Dependency Risk
+Dependency Risk is the risk you take on whenever you have a dependency on something (or someone) else.
+One simple example could be that the software service you write might depend on hardware to run on:  if the server goes down, the service goes down too.  In turn, the server depends on electricity from a supplier, as well as a network connection from a provider.  If either of these dependencies aren’t met, the service is out of commission.
+Dependencies can be on events, people, teams, work, processes, software, services, money and pretty much any resource, and while every project will need some of these, they also add risk to any project because the reliability of the project itself is now a function involving the reliability of the dependency.
+In order to avoid repetition, and also to break down this large topic, we’re going to look at this over 7 sections:
+This first section will look at dependencies in general, and some of the variations of Dependency Risk.
+Next, we’ll look at Scarcity Risk, because time, money and staff are scarce resources in every project.
+We’ll cover Deadline Risk, and discuss the purpose of Events and Deadlines, and how they enable us to coordinate around dependency use.
+Then, we’ll move on to look specifically at Software Dependency Risk, covering using libraries, software services and building on top of the work of others.
+Then, we’ll take a look at Process Risk, which is still Dependency Risk, but we’ll be considering more organisational factors and how bureaucracy comes into the picture.
+After that, we’ll take a closer look at Boundary Risk and Dead-End Risk.  These are the risks you face in making choices about what to depend on.
+Finally, we’ll wrap up this analysis with a look at some of the specific problems around depending on other people or businesses in Agency Risk.
+Why Have Dependencies?
+Luckily for us, the things we depend on in life are, for the most part, abundant:  water to drink, air to breathe, light, heat and most of the time, food for energy.
+This isn’t even lucky though: life has adapted to build dependencies on things that it can rely on.
+Although life exists at the bottom of the ocean around hydrothermal vents, it is a very different kind of life to ours and has a different set of dependencies given its circumstances.
+This tells us a lot about Dependency Risk right here:
+On the one hand, depending on something is very often helpful, and quite often essential.  (For example, all life seem to depend on water).
+Successful organisms adapt to the dependencies available to them (like the thermal vent creatures).
+However, as soon as you have dependencies, you need to take into account their reliability. (Living near a river or stream gives you access to fresh water, for example).
+So, dependencies are a trade-off.  They give with one hand and take with the other.  Our modern lives are full of dependency (just think of the chains of dependency needed for putting a packet of biscuits on a supermarket shelf, for example), but we accept this risk because it makes life easier.
+There is likely to be competition for a dependency when it is scarce (think of droughts and famine).
+Let’s look at four types of risk that apply to every dependency:  Fit, Reliability, Invisibility and Complexity.
+Fit Risk
+In order to illustrate some of the different Dependency Risks, let’s introduce a running example:  trying to get to work each day.  There are probably a few alternative ways to make your journey each day, such as by car, walking or by bus.  These are all alternative dependencies but give you the same feature: they’ll get you there.
+Normally, we’ll use the same dependency each day.  This speaks to the fact that each of these approaches has different Feature Fit Risk.   Perhaps you choose going by bus over going by car because of the risk that owning the car is expensive, or that you might not be able to find somewhere to park it.
+But there are a couple of problems with buses you don’t have with your own car, as shown in the above diagram. A bus might take you to lots of in-between places you didn’t want to go, which is Conceptual Integrity Risk and we saw this already in the section on Feature Risk.  Also, it might not go at the time you want it to, which is Feature-Fit-Risk.
+What this shows us is that Fit Risks are as much a problem for the suppliers of the dependency (the people running the bus service) as they are for the people (like you or I) using the dependency.
+Reliability Risk
+This points to the problem that when we use an external dependency, we are at the mercy of its reliability.
+“… Reliability describes the ability of a system or component to function under stated conditions for a specified period of time.” - Reliability Engineering, Wikipedia
+It’s easy to think about reliability for something like a bus:  sometimes, it’s late due to weather, or cancelled due to driver sickness, or the route changes unexpectedly due to road works.
+In software, it’s no different: unreliability is the flip-side of Feature Implementation Risk.  It’s caused in the gap between the real behaviour of the software and the expectations for it.
+There is an upper bound on the reliability of the software you write, and this is based on the dependencies you use and (in turn) the reliability of those dependencies:
+If a component A depends on component B, unless there is some extra redundancy around B, then A can’t be more reliable than B.
+Is A or B a Single Point Of Failure in a system?
+Are there bugs in B that are going to prevent it working correctly in all circumstances?
+This kind of stuff is encapsulated in the science of Reliability Engineering.   For example, Failure Mode and Effects Analysis (FEMA):
+“…was one of the first highly structured, systematic techniques for failure analysis. It was developed by reliability engineers in the late 1950s to study problems that might arise from malfunctions of military systems. “ - FEMA, Wikipedia
+This was applied on NASA missions, and then in the 1970’s to car design following the Ford Pinto exploding car affair.  But establishing the reliability of software dependencies like this would be hard and expensive.  We are more likely to mitigate Reliability Risk in software using testing, redundancy and reserves, as shown in the diagram above.
+Additionally, we often rely on proxies for reliability.  We’ll look at these proxies (and the way in which software projects signal their reliability) in much more detail in the section on Software Dependency Risk.
+Invisibility Risk
+Dependencies (like the bus) make life simpler for you by taking on complexity for you.
+In software, dependencies are a way to manage Complexity Risk.  The reason for this is that a dependency gives you an abstraction: you no longer need to know how to do something, (that’s the job of the dependency), you just need to interact with the dependency properly to get the job done.  Buses are perfect for people who can’t drive, after all.
+But (as shown in the above diagram) this means that all of the issues of abstractions that we covered in Communication Risk apply.  For example, there is Invisibility Risk because you probably don’t have a full view of what the dependency is doing.  Nowadays, bus stops have a digital “arrivals” board which gives you details of when the bus will arrive, and shops publish their opening hours online.  But, abstraction always means the loss of detail (the bus might be two minutes away but could already be full).
+Dependencies And Complexity
+In Rich Hickey’s talk, Simple Made Easy he discusses the difference between simple software systems and easy (to use) ones, heavily stressing the virtues of simple over easy.  It’s an incredible talk and well worth watching.
+But: living systems are not simple.  Not anymore.  They evolved in the direction of increasing complexity because life was easier that way.  In the “simpler” direction, life is first harder and then impossible, and then an evolutionary dead-end.
+Depending on things makes your job easier.  But the Complexity Risk hasn’t gone away: it’s just transferred to the dependency.  It’s just division of labour and dependency hierarchies, as we saw in Complexity Risk.
+Our economic system and our software systems exhibit the same tendency-towards-complexity.  For example, the television in my house now is vastly more complicated than the one in my home when I was a child.  But, it contains much more functionality and consumes much less power and space.
+Managing Dependency Risk
+Arguably, managing Dependency Risk is what Project Managers do.  Their job is to meet the project’s Goal by organising the available dependencies into some kind of useful order.
+There are some tools for managing dependency risk: Gantt Charts for example, arrange work according to the capacity of the resources (i.e. dependencies) available, but also the dependencies between the tasks.   If task B requires the outputs of task A, then clearly task A comes first and task B starts after it finishes.  We’ll look at this more in Process Risk.
+We’ll look in more detail at project management in Part 3, later.   But now, let’s get into specifics with Scarcity Risk.
+Add Your Star On GitHub to receive an invite to the GitHub Risk-First GitHub team for new article notifications and discussion.
+« Complexity Risk Scarcity Risk »
+
+Doc 5 (URL: https://www.brightwork.com/blog/how-successful-are-you-handling-dependencies-in-your-projects, ClueWebID: clueweb22-en0038-70-00581)
+How To Handle Dependencies In Your Projects
+| PM Best Practices
+| Project Reporting
+How To Handle Dependencies In Your Projects
+December 14, 2015 by
+Ken Martin
+Project Managers must be able to plan for and manage the dependencies among tasks in their projects they are going to have successful outcomes.
+Easily manage the project timeline with the Free SharePoint Project Management Template!
+The more complex a project is, the more dependencies there will be among project tasks that must be planned for.
+What are Project Dependencies?
+A project dependency is where a task, milestone or activity is dependent on another task or milestone being completed before it can start or be completed.
+Dependencies exist when an output from one task or another project is needed as mandatory input for another task or another project.
+Dependencies are something that must be delivered to enable a project’s delivery and these must be identified and tracked as they will impact on project success.
+Dependencies form a key part of workload prioritization during the program and are a basic agenda item for any meetings and decision-points. As such, they must be consistent with all other aspects of the plans, projects, and programs.
+Dependencies may be items that are being delivered from elsewhere, and that may not be directly under the control of a project manager.
+The dependencies log will capture at least who the project is dependent upon and what they should deliver and when.
+It is possible for a project to have interdependencies. This is where tasks, milestones, etc within the same project are dependent on each other
+The other type of dependency is external. This is where the dependency is on a different project, program, or even business as usual. PMs should also keep details of the actual agreement and when it was made along any later variations of this
+Project dependencies establish the links, and the type of links, between all the tasks of a project.
+Project managers manage project dependencies as risks.
+What Are The Project Dependency Types?
+Understanding the types of dependencies inherent in the work that needs to be completed is one of the most important elements of creating a strong project schedule.
+1. Mandatory Dependencies
+These are dependencies that are logic driven e.g, a code module cannot be tested until after it’s written.
+2. Resource-based Planning Dependencies
+These are dependencies where the task could be accomplished faster or sooner if you had more resources.
+3. Discretionary Dependencies
+These are tasks that could be scheduled differently, but the Project Manager chooses to schedule this particular order.
+4. External Dependencies
+These are dependencies that are outside the control of the project team, but nonetheless, must be reflected in the project schedule.
+Examples of external dependencies include completion of a project milestone that is linked to the completion of a milestone within another project.
+Task Dependency Relationships
+Dependency relationships are utilized to link two tasks in the most logical manner possible. The valid relationships in MS Project are:
+Finish-to-Start (FS)
+This represents the default relationship in MS Project. If you do not specify the relationship, FS is assumed.
+This relationship is utilized to establish a sequential flow of work, this activity can start when the previous activity is completed.
+Start-to-Start (SS)
+Start-to-start (SS) dependencies are used when the second task in the relationship can’t begin until after the first task in the relationship begins.
+This relationship is utilized when two activities will be launched at the same time.
+They may end at different times (depending on the duration of each activity), but they can start at the same time.
+Start-to-Finish (SF)
+When you use this type of dependency, you are saying that the second task in the relationship can’t finish until the first task starts. However, the second task can finish any time after the first task starts.
+Finish-to-Finish (FF)
+If one of your tasks can’t finish until another one finishes, you can use a finish-to-finish (FF) dependency between them. Finish-to-finish dependencies don’t require that both tasks be completed simultaneously. They simply require that the first task be finished, in order for the second task to finish. The second task can finish any time after the first task finishes.
+The two activities may start at different times (again, depending on the duration of each activity), but the completion of the two activities is coordinated.
+Project Dependency Log
+In a similar way to the management of risks, issues and assumptions, the recording and monitoring dependencies is by using a dependency Log (as part of the RAID template)
+This Dependency Log should typically capture:
+Unique Reference to identify dependency
+Description to briefly describe the dependency
+Enabling Project Name which delivers the task or milestone
+Task Description details of the exact task that must be delivered
+Dependent Programme Name which needs the task to be delivered
+Dependent details of task that needs the delivery
+Delivery Date of dependency that must be delivered by to not cause a delay in dependent project
+Probability that dependency will not be met in required timeline
+Impact of dependency not being delivered in required timeline
+Status of dependency whether open or closed, etc
+Owner who owns the dependency
+Date Raised.
+Dependency Awareness Workshop
+The real skill for a PMO is identifying what are the dependencies as most times that are not obvious even when you have a room full of subject matter experts
+This is a workshop that can be facilitated by a PMO lead where all the key stakeholders and subject matter experts of key programs and projects are brought together to walk through the proposed project to identify dependencies
+The PMO lead will start by stating the purpose of the workshop which is to identify any dependencies between projects.
+Each project should provide a one-page overview with the following:
+Project name
+Sponsor
+Project Manager
+Start/end dates
+Current status
+Business area / function
+Overview of the project
+Business process being changed
+Platforms being implemented/changed
+Key milestones
+Key issues/risks.
+In the workshop, Each project manager will have 15 minutes to briefly discuss their project.
+This will allow other project managers to ask questions and identify potential dependencies
+At the end of the workshop, the goal is to have a list of potential dependencies with a set of actions going forward
+After the workshop, the PMO can review the list and determine the milestones of where the dependencies exist
+The PMO will then publish this list and arrange a follow-up workshop to review the list as a group to align with project managers on either side of a dependency to confirm and agree that the proposed dates are realistic and achievable
+The output of the follow-up workshop is to have all parties in agreement on the delivery dates of their respective project dependencies
+Once the dependency dates are aligned and agreed, the PMO will now have a clear view of dependencies and the associated milestones in the different plans
+The PMO will track progress against these critical milestones as part of the regular meetings and reporting.
+Summary
+It is a key responsibility for project managers to record, monitor, and manage these dependencies
+Dependencies that are not properly managed quite frequently cause project failure.
+Image credit
+
+<|end_search_result|>
+
+Alright, so I've got this question: "When should a dependency be raised as a program risk?" Okay, first things first, I need to understand what a dependency is in the context of a program or project. From what I recall, dependencies are essentially relationships between tasks or components where one depends on another to function properly or to be completed before another can start. This could be in terms of time, resources, or even deliverables.
+
+So, in project management, dependencies are pretty common. For example, you can't start testing a software feature until it's been developed, right? That's a classic dependency. But when does a dependency become a risk? I think it's when there's uncertainty or potential for something to go wrong that could impact the project's objectives.
+
+Looking back at the search results, Doc 1 from PM Majik talks about dependency management and mentions that dependencies can threaten the successful delivery of a project if they're not met. It also suggests using a dependency register to track them, similar to how risks, issues, and assumptions are managed.
+
+Doc 2 from Rindle Blog provides a more detailed分类 of dependencies, including causal, resource-based, preferential, cross-team, external, and different types based on start and finish relationships. It emphasizes the importance of visibility and how Kanban boards can help manage these dependencies by making them visible.
+
+Doc 3 from LiquidPlanner suggests treating dependencies as risks and managing them accordingly. It recommends identifying the types of dependencies, assessing the risks they present, and maintaining open communication with involved parties to mitigate those risks.
+
+Doc 4 from Risk-First delves into the various risks associated with dependencies, such as fit risk, reliability risk, invisibility risk, and complexity risk. It highlights that while dependencies can make projects easier by providing necessary components or services, they also introduce risks that need to be managed.
+
+Lastly, Doc 5 from Brightwork.com discusses project dependencies in the context of project scheduling and provides a list of dependency types, including mandatory, resource-based, discretionary, and external dependencies. It also mentions the importance of maintaining a dependency log and conducting dependency awareness workshops to identify and manage dependencies effectively.
+
+From these sources, it seems that dependencies should be managed carefully, and certain dependencies should be raised as risks based on their potential impact on the project. But when exactly should a dependency be considered a risk?
+
+I think it depends on several factors:
+
+1. **Criticality:** How essential is this dependency to the project's success? If the project cannot proceed without it, it's likely a high-risk dependency.
+
+2. **Vulnerability:** How likely is it that this dependency could fail or cause issues? This could be due to unreliability, delays, or changes in external conditions.
+
+3. **Impact:** What would be the consequence if this dependency fails? Would it cause minor delays or could it lead to project failure?
+
+4. **Control:** How much control does the project team have over this dependency? If it's an external dependency, like a third-party service, the team might have less control, making it riskier.
+
+5. **Mitigation Options:** Are there ways to mitigate the risk, such as having backups, alternatives, or contingency plans? If not, the dependency is riskier.
+
+So, a dependency should be raised as a program risk when it meets certain criteria related to these factors. For instance, if a dependency is critical, has a high likelihood of failure, would have severe impacts, is outside the team's control, and there are no mitigation options, then it should definitely be raised as a risk.
+
+Moreover, it's not just about the dependency itself but also about the uncertainty associated with it. If there's a lot of uncertainty about whether the dependency will be available, perform as expected, or meet the required standards, that uncertainty itself is a risk.
+
+It's also important to consider the stage of the project. Early in the project, many dependencies might be identified, but not all may be immediate risks. However, as the project progresses, some dependencies might become more critical, and their potential to cause problems becomes clearer. Therefore, continuously assessing dependencies throughout the project lifecycle is crucial.
+
+Additionally, industry best practices and standards might provide guidelines on when to flag dependencies as risks. For example, PMBOK or Agile methodologies may have specific recommendations.
+
+In conclusion, a dependency should be raised as a program risk when it poses a significant threat to the project's objectives due to its criticality, vulnerability, potential impact, lack of control, and absence of mitigation options. Regular reviews and assessments of dependencies are essential to identify when they should be treated as risks.
+
+\boxed{\text{A dependency should be raised as a program risk when it is critical, vulnerable, has severe potential impact, is outside the team's control, and lacks mitigation options.}}

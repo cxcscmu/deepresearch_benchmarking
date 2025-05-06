@@ -1,0 +1,1 @@
+how can you apply sociology to everyday life

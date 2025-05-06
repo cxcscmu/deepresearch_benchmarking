@@ -1,0 +1,1 @@
+how did the salem witch trials affect today

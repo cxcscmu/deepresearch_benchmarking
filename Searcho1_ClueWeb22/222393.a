@@ -1,0 +1,1482 @@
+So I've got this question about how the shape of chemical data can enable data-driven materials discovery. Hmm, I'm not entirely sure what it's asking, but I think it's related to how we organize and analyze chemical data to find new materials with specific properties. Maybe it's about data visualization or machine learning in materials science. I need to break this down.
+
+First off, what do they mean by "shape of chemical data"? Is this about the structure or format of the data, like whether it's in tables, graphs, or something else? Or is it referring to the distribution of data points in a multi-dimensional space? I think it could be both, but I need to clarify.
+
+I remember that in data science, the shape of data can refer to its dimensionality—like how many features or variables are being measured. In chemistry, we might have data on molecular structures, atomic compositions, reaction rates, energies, and so on. So, the "shape" could be about how these different parameters are arranged and related to each other.
+
+Now, data-driven materials discovery probably involves using existing chemical data to predict new materials that have desired properties, like being stronger, more conductive, or more stable under certain conditions. This is where machine learning comes in, right? Algorithms can analyze large datasets to find patterns and make predictions about new materials.
+
+But how does the shape of the data influence this process? I think it's crucial because the way data is structured can affect what kinds of patterns algorithms can detect. For example, if the data is high-dimensional, with many features, it might be harder to find meaningful relationships between variables due to the curse of dimensionality. On the other hand, if the data is carefully curated and features are selected based on their relevance, the algorithms might perform better.
+
+Maybe I should look into some key concepts here. First, dimensionality reduction techniques could be important. These are methods that transform high-dimensional data into a lower-dimensional space while preserving as much relevant information as possible. Techniques like PCA (Principal Component Analysis), t-SNE, or autoencoders could be useful in this context.
+
+Also, feature selection might be crucial. Choosing the right features that are most informative for the property you're interested in can improve the performance of machine learning models. For instance, in materials science, certain atomic properties or structural features might be more predictive of a material's conductivity or hardness.
+
+Furthermore, the shape of data could refer to its distribution. If the data is normally distributed, that might be favorable for certain statistical models. But in reality, chemical data can be quite heterogeneous and non-linear, so more sophisticated models might be needed to capture the underlying relationships.
+
+I think another aspect is data visualization. Being able to visualize chemical data in a way that highlights important trends or clusters can aid both human understanding and algorithmic analysis. For example, mapping molecules onto a two-dimensional plot where similar molecules are close together could help identify promising areas for new materials.
+
+Let me try to find some specific examples or research papers that discuss this. Maybe there are case studies where the structure of chemical data played a key role in discovering new materials.
+
+<|begin_search_query|>shape of chemical data in materials discovery<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://towardsdatascience.com/uncovering-the-potential-of-materials-data-using-matminer-and-pymatgen-83126fadde1c, ClueWebID: clueweb22-en0015-87-13360)
+Uncovering the Potential of Materials Data using Matminer and Pymatgen | by Joyita Bhattacharya | Towards Data Science
+Published in
+Towards Data Science
+Joyita Bhattacharya
+Follow
+Sep 29, 2021
+·
+8 min read
+Uncovering the Potential of Materials Data using Matminer and Pymatgen
+Steps to decipher chemistry of materials by python-based materials libraries
+Materials Tetrahedron: Image by author, inspired from a photo by Markus Spiske on Unsplash
+Introduction
+T he usage of different types of devices is an integral part of our everyday life. And these devices are made of myriad combinations of elements forming materials for daily applications. Materials scientists are engaged with the processing of these materials and studying their structures and properties. For example, to develop a new semiconductor, a materials scientist requires to choose the most optimized combination of ingredients from the palette of elements in the Periodic table so that the new semiconductor has the right set of properties.
+Moreover, performance of a material depends on the trinity of P rocessing conditions, S tructure that spans from electronic scale to macro-scale, and its various structural and functional P roperties . Thus, materials scientists have come up with the concept of “ Materials Tetrahedron ” where the vertices represent Processing, Structure, Properties and Performance, and the lines connecting these vertices denote interrelations between them. These interconnections are also termed as PSPP linkages.
+A comprehensive library of discovered materials with their PSPP linkages will immensely benefit the materials scientists and engineers who aim to design the next super materials such as a battery more efficient than the existing lithium ion battery or a car lighter and stronger than the new Tesla cars.
+Hence, extracting meaningful data from these interconnected parameters becomes a crucial step in the design and discovery of high-performance cutting edge materials. The number of parameters can be so diverse that it becomes difficult to extract physics-based cause-effect relations between all these parameters. In such cases, machine learning (ML) can facilitate the development of new knowledge by extracting useful correlations between these parameters.
+Materials Data
+The very first and crucial step of ML, regardless of the algorithm used, is importing and preprocessing data. Clean data increase the reliability of training and building a machine learning model for successful deployment. This data is further categorized into input variables (also known as predictors/ descriptors in ML language) and outcome (known as target/ response).
+Image by author
+Materials data comprise a wide spectrum of descriptors. These include
+Processing conditions: Compositions with constituent elements, Temperature, Pressure, Heating and Cooling Rates, Relative Humidity, etc.
+Structural information: Arrangement of atoms or crystal structure, Microstructural and Textural patterns across length scales spanning between few Angstroms (1 Angstrom = 10 ⁻¹⁰ m) and few hundreds of microns (1 micron = 10 ⁻ ⁶ m).
+Physical properties: Density, Viscosity, Refractive index, Thermal and Electrical conductivity and so on.
+Mechanical properties: Toughness, Hardness, Yield strength, Elastic Stiffness, Fracture toughness, Ductility, Hardness and others.
+The target or the response is usually the property dictating the overall performance of the material.
+Mining important features from a given dataset is the most critical and challenging step for developing a robust data-driven model. Otherwise, the model will follow the GIGO (Garbage-In-Garbage-Out) rule.
+We can show the importance of featurization in materials datasets using a very simple example. Let us consider a dataset containing chemical formulae of several materials and their densities. A chemical formula is represented by a combination of elements and their atomic proportions. For example, the chemical formula (AᵢBⱼCₖDₗ) contains four elements A, B, C and D where their corresponding subscripts i, j, k and l represent the number of atoms of each element. For instance, the formula of water is H₂O which implies 2 atoms of hydrogen (H is the element symbol) and 1 atom of oxygen (denoted by the symbol O).
+Now, to understand the correlations between features and design a super-dense material from such data, we need to unearth the contribution of each element on density. These individual elemental contributions become features (descriptors) for the prediction of the target variable — density in this example. Hence, it is required to split the formula into its individual constituents (or elements) along with their corresponding amount. There is no direct way to achieve this task in the conventional ML technique such as encoding. However, thanks to the Python-based materials libraries, Pymatgen and Matminer, which helps in reaching this goal.
+In this article, I will demonstrate how to import constituent elements and their amount from formulae with the aid of the mentioned materials libraries.
+A Step-by-Step Guide to Preprocessing
+Tabulating the descriptor and target variables in comma-delimited (csv) or Excel file (XLSX) is a good way to organize data for machine learning. Once csv/ excel file is ready, we can import the same to any machine learning environment. Here, I will show all the steps, written and run, in Jupyter Notebook. You can also choose Google Colab Notebook for the same purpose.
+Step 1: Importing libraries
+The first and foremost step is to import all the required basic libraries such as Pandas, NumPy, Matplotlib. Moreover, exclusive libraries for materials data mining (Matminer) and materials analysis (Pymatgen) are installed and then the necessary modules are imported. Both Matminer and Pymatgen are open-source python libraries.
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+from matplotlib.pyplot import figure
+Step 2: Loading data
+(Dataset used in here is a subset of the original dataset .)
+After importing the basic libraries, we need to load and read the csv or excel file containing data using pandas from their file path. In the code snippet below, the first three columns are descriptor variables designated as X, while the last column is the target variable denoted as y.
+ds_PF_ZT = pd.read_csv('TE/csv/PF_ZT.csv')
+X = ds_PF_ZT.iloc[:, 0:3]
+y = ds_PF_ZT.iloc[:, -1]
+ds_PF_ZT
+Output snippet
+Now, we need to add the individual elements comprising the materials (denoted as Formula in the above Dataframe) as predictors. The synergistic effect of these elemental contributions along with other variables result in the outcome or the response. Here comes the application of Pymatgen and Matminer tools which have featurizers such as core.composition and featurizers.composition to split a given formula into its individual elements. Before proceeding with the coding activity, let me give a preface about Matminer and Pymatgen.
+Pymatgen and Matminer: Beneficial libraries for materials data preprocessing
+Both Pymatgen and Matminer are open-source Python libraries employed for materials data mining and analysis.
+Pymatgen has many modules and sub modules and their respective classes aiding in analysis of structural and functional characteristics of materials. We will be viewing the application of one such module: pymatgen.core.composition and its class: Composition. This class maps each composition in a dataset into individual element and its amount in immutable and hashable form and not as Python dictionary. In Python, there are two types of data: Mutable and Immutable. The values of mutable data can be altered/ mutated while that of immutable cannot. Few examples of mutable data are lists, dictionaries. On the other hand, a tuple is a quintessential example of immutable data. All immutable objects are hashable which means that these objects have unique identification number for easy tracking.
+Matminer helps in extracting complex materials attributes applying various featurizers. There are almost more than 70 featurizers (matminer.featurizers) that convert materials attributes into numerical descriptors or vectors. We will focus on Composition featurizer and its ElementFraction class to preprocess our dataset. The said class calculates element fraction of individual elements in a composition.
+Step 3: Installing Pymatgen and Matminer
+pip install pymatgen
+pip install matminer
+Note: Matminer and Pymatgen requires Python version 3.6+.
+Step 4: Mapping elements and their amount using Pymatgen
+Composition class of pymatgen splits each and every formula, in the given dataset, into constituent elements and their amount. Let’s take the first formula, Ca0.98Bi0.02Mn0.98Nb0.02O3.0, in column 1, row 1 :
+Mapping of each element and its amount
+from pymatgen.core.composition import Composition
+ds_PF_ZT['Formula']
+Comp = []
+for value in ds_PF_ZT['Formula']:
+Comp.append(Composition(value))
+Comp
+Output snippet
+An additional composition column is added to the original dataset containing only the constituent elements corresponding to each composition.
+ds_PF_ZT['Composition'] = Comp
+ds_PF_ZT
+Output snippet
+Step 5: Calculation of atomic fraction using ElementFraction class
+We now need to add the individual element along with its atomic fraction in the Dataframe to be subjected to machine learning. A class in matminer.featurizers.composition named “ElementFraction” serves the said intent.
+from matminer.featurizers.composition import ElementFraction
+ef = ElementFraction()
+We, then, create a Dataframe using the featurize_dataframe function which contains all the elements of the periodic table along with other variables. The dimension of the dataframe increased to 573 X 108 (encircled by orange in the output of the code snippet shown below).
+ds_PF_ZT = ef.featurize_dataframe(ds_PF_ZT,'Composition')
+ds_PF_ZT
+Output snippet
+Let me elaborate on element fraction calculation. Let’s consider the very first composition (in the formula column of the given dataset). The composition,Ca0.98Bi0.02Mn0.98Nb0.02O3.0, has five elements: Ca (calcium), Bi (bismuth), Mn (manganese), Nb (niobium), and O (oxygen). The amount of Ca present in the formula is 0.98, and the element fraction of Ca is calculated by taking into account the amount of other elements present in the formula. Hence, element fraction of Ca is 0.196 ((0⋅98)/(0.98+0.02+0.98+0.02+3.0) ). Similarly, element fractions of Bi, Mn, Nb, and O are 0.004, 0.196, 0.004, and 0.6 respectively. The element fraction of the rest of the elements, for this formula, in the periodic table remains zero.
+Step 6: Reduction in Dimensionality and display of final, clean, preprocessed data
+Photo by Tim Peterson on Unsplash
+Note that above Dataframe contains many columns with only zero value. This is due to the non-existence of such elements in compositions in the given dataset. Hence, these zero columns are omitted from the Dataframe which resulted in dimensionality reduction of the Dataframe from 573 rows X 108 columns to 573 rows X 57 columns.
+ds_PF_ZT = ds_PF_ZT.loc[:, (ds_PF_ZT != 0).any(axis=0)]
+ds_PF_ZT
+Output snippet
+The above preprocessed, clean Dataframe is the final form ready for machine learning. It is a good practice to keep the response or target column as the last one in the final Dataframe.
+The code is published in Github.
+Concluding Remarks
+In the contemporary world, “data is the new oil” — a phrase coined by a British mathematician Clive Humby. Hence, mining this treasure to get maximum useful latent information is necessary for technological advancement. From a materials science perspective, numerous materials attributes, processing parameters, and elemental contributions form a complete dataset. These details constitute a part of materials informatics which play an enormous role in the discovery of new high-performance materials. Uncovering the role of constituent elements on material properties is a crucial but tricky job. Matminer and Pymatgen have made this task easier. Here I described the usage of a few relevant modules of these materials libraries to gather elemental information from the original dataset. I hope this article is informative, especially for engineers and scientists working on the design and discovery of new materials.
+Please feel free to connect if you need any clarifications and do share your feedback and suggestions.
+Thank you for reading!
+1
+
+Doc 2 (URL: https://analyticsindiamag.com/ai-chemical-engineering/, ClueWebID: clueweb22-en0016-11-15518)
+AI Has Now Stepped Into Chemical Engineering
+Published onOctober 21, 2021
+In Opinions
+AI Has Now Stepped Into Chemical Engineering
+Artificial intelligence applications in chemical engineering have increased rapidly in recent years.
+By
+Recently, Google AI and Caltech researchers discovered new metal oxides using ink printers and machine learning methods. Several studies employed machine learning to forecast material qualities, but the approaches were intrinsically specialised and failed to grasp the problem’s global nature. Let’s have a look at how it all went down.
+Use of ML Algorithms
+Machine learning algorithms were used to determine a material’s suitability for a given attribute. However, they have been used to narrow down the list of outstanding materials for every given attribute. As a result, researchers are averse to using machine learning to identify materials with particular features. Additionally, chemists frequently allege an ‘intuition’ regarding the patterns of reagent properties and composition ratios that govern material creation. If such patterns exist, they can be uncovered using data mining techniques when given a database of successful and unsuccessful reactions.
+Here, the researchers have created two data science approaches for material discovery in high-order composition regions. In addition, the present research details the formulation and construction of the high-throughput process that feeds these systems data, as well as an illustration of a use case for leading discovery. The major discovery is that well-developed data science models can infer the phase behaviour of complicated materials using datasets that are not typically used for phase characterisation. Furthermore, these conclusions provide scientific value to the current datasets and aid in the development of new materials.
+Advantages
+The application of data science-driven evaluation of experimental data complements quantum mechanical and machine learning-based phase prediction. Additionally, the detection of novel systems and compositions by optical data modelling can serve as a springboard for further research into new phases and/or assessing that three-cation compositions show unique features. Moreover, the approach is founded on the principles of combinatorial materials science, where the synthesis of mixture libraries is linked to the measurement of desired attributes. While this approach provides a direct path to discovering a desirable property in a particular composition system, it constrains the discovery of many composition areas due to the increased relative cost of property measurements and the requirement to measure each composition library for each desired property.
+Other Research Contributions
+The researchers in the United States employed typical RFs to forecast structure energies based on Voronoi tessellations and atomic characteristics. (Read here)
+The Chinese researchers predicted stable full-Heusler compounds using convolutional neural networks and transfer learning. (Read here)
+A team of researchers from the United States employed a variety of regression and classification techniques to analyse a dataset of cathodes for increased solid oxide fuel cells. (Read here)
+Canadian researchers used cluster resolution feature selection to classify binary crystal formations. (Read here)
+Similarly, researchers in the United States use VAEs to predict crystal structures. (Read here)
+Conclusion
+Traditionally conducted ML research explores only one property at a time. As a result, the evaluation must be conducted multiple times on the same material. In addition, training data sets are particularly scarce in high-order composition fields, which allow for the tuning of many attributes via the development of a phase containing all three cations. However, the scarcity of training data for materials frequently limits prediction accuracy, particularly in composition areas for which no training data exists. Moreover, a handful of great reviews have been published on machine learning in materials science in general, as well as on machine learning in the chemical sciences, which might signal towards opening the road for new ventures.
+
+Doc 3 (URL: https://www.ccdc.cam.ac.uk/support-and-resources/whitepapers/, ClueWebID: clueweb22-en0017-71-01401)
+Whitepapers​ ​- The Cambridge Crystallographic Data Centre (CCDC)
+Deposit Structures
+Access Structures
+Home
+Support and Resources
+Whitepapers
+Whitepapers
+Download our free whitepapers and learn more about scientific challenges that could be solved using our tools and methodology.
+Each whitepaper provides details of the methods, results and discussion applying cheminformatics approaches to a range of challenges in drug discovery and development.
+Ultra-large GOLD docking on cloud resources
+In this whitepaper we show how GOLD docking software can be used to perform virtual screening studies at ultra-high-throughput scale at a low costs using commercially available cloud solutions.
+You will learn:
+How to run ultra-large GOLD docking projects on standard cloud computing environments.
+The methods and cloud environment used to perform the virtual screen.
+The time and cost of the 126 million ligand screen performed in this work.
+Download here.
+Solid Form Informatics For Pharmaceuticals and Fine Chemicals
+In the development of pharmaceuticals, agrochemicals and molecular materials it is important to fully understand the solid form - including an understanding of risks such as polymorphism, stability, solubility and more. This whitepaper applies the Healthcheck methodology, to fully understand solid form materials using informatics.
+You will learn:
+The potential harm that can occur because of unaddressed gaps in your solid form knowledge.
+How to manage these risks and improve stability.
+Why and how to implement the Healthcheck methodology on your solid form development.
+Download here
+CSD-CrossMiner: a versatile pharmacophore query tool for successful modern drug discovery
+The CSD-CrossMiner is a highly versatile pharmacophore-based tool that can be used to extract knowledge from structural data. Here it is applied to retrospectively study a Novartis drug, and ask if cross-target effects could have been predicted sooner.
+You will learn:
+How to mine for patterns in protein and small-molecule structures
+How to find new chemistries - via bioisosteric replacements or scaffold-hopping
+How to create tailored scripts to answer specific research questions
+Download here.
+Matwall: from crystal structures to patients
+The Matwall is a framework that connects materials properties, process development and tech transfer for commercial production, to ensure understanding of the solid form is carried through the drug development process. Here we show how to create and use a Matwall to share knowledge during drug development.
+You will learn:
+How to build and use a Matwall to share knowledge in your team
+How it guides drug development, enabling effective risk identification and management;
+How each layer of the Matwall corresponds to the different stages of the development process.
+Download here.
+Advancing MOFs R&D with Materials Informatics
+Metal–organic frameworks, MOFs, pose unique challenges to scientists. As this field continues to grow, materials informatics is increasingly used to focus efforts and generate predictions.
+In this quick PDF guide you will learn:
+Challenges: the unique difficulties working with MOFs and MOF structural data
+Strategies: how informatics can be applied in developing and utilising MOFs
+Case studies: two examples from the literature are summarised
+Download here.
+Will COVID-19 spark a data revolution in drug discovery?
+The urgency of COVID research exposed vulnerabilities and opportunities available in the pharmaceutical industry.
+In this Industry Report we explore the use of data in drug discovery with two leaders who believe this is the time to change. Learn more from Joe Donahue - Managing Director for Life Sciences at Accenture and Juergen Harter - CEO of the CCDC who manage the Cambridge Structural Database.
+The report covers:
+The use of data in present drug discovery - including COVID-19 research.
+The opportunities available to improve data handling in drug discovery.
+Practical steps the industry can take to improve research now.
+Download here.
+
+Doc 4 (URL: https://www.nature.com/articles/s41598-018-21936-3, ClueWebID: clueweb22-en0028-44-13863)
+Multi-objective Optimization for Materials Discovery via Adaptive Design | Scientific Reports
+Published: 27 February 2018
+Multi-objective Optimization for Materials Discovery via Adaptive Design
+Abhijith M. Gopakumar,
+Prasanna V. Balachandran,
+Dezhen Xue,
+James E. Gubernatis &
+Turab Lookman
+Scientific Reports 8, Article number: 3738 (2018 ) Cite this article
+7439 Accesses
+58 Citations
+3 Altmetric
+Metrics
+Abstract
+Guiding experiments to find materials with targeted properties is a crucial aspect of materials discovery and design, and typically multiple properties, which often compete, are involved. In the case of two properties, new compounds are sought that will provide improvement to existing data points lying on the Pareto front (PF) in as few experiments or calculations as possible. Here we address this problem by using the concept and methods of optimal learning to determine their suitability and performance on three materials data sets; an experimental data set of over 100 shape memory alloys, a data set of 223 M 2 AX phases obtained from density functional theory calculations, and a computational data set of 704 piezoelectric compounds. We show that the Maximin and Centroid design strategies, based on value of information criteria, are more efficient in determining points on the PF from the data than random selection, pure exploitation of the surrogate model prediction or pure exploration by maximum uncertainty from the learning model. Although the datasets varied in size and source, the Maximin algorithm showed superior performance across all the data sets, particularly when the accuracy of the machine learning model fits were not high, emphasizing that the design appears to be quite forgiving of relatively poor surrogate models.
+Introduction
+Methods from data science are being increasingly applied to materials data to make predictions of new materials with targeted properties 1,2,3,4,5,6,7,8,9,10. High throughput density functional calculations, for example, have been widely used to generate data in the tens of GigaBytes (e.g., in repositories such as materialsproject.org11, Aflowlib 12 and OQMD 13 ), and then this data is analyzed to make predictions. In addition, there is growing interest in finding methods which efficiently guide the next experiments or calculations within an active learning feedback loop 14. This approach is a departure from merely exhaustively computing in the search space of allowed materials, as most studies have undertaken. Feedback from the result of a computation or measurement can lead to a better materials selection strategy for the next computations or experiments. Here we integrate the feedback when multiple properties are involved along with uncertainty based statistical selection strategies in the materials design process.
+Recently, we demonstrated how machine learning models in conjunction with optimization strategies, can guide the next experiments or calculations towards finding materials with desired single objectives or properties 15,16. Using an adaptive learning paradigm based on active or reinforcement learning ideas from computer science, we showed how to iteratively select or recommend candidates for experiments or calculations and then update known training data with each new sample synthesized or computed to subsequently improve the search. New alloys 15 and piezoelectric compositions 16 with desired very low dissipation or phase boundary characteristics were found in this manner. Because of the vast search space and limited training data, the probability of finding these compounds by conventional trial and error approaches is exceedingly low.
+In contrast to finding materials with single optimal properties, it is usual when dealing with two or more properties, that is, objectives, to plot candidate materials on a so called Pareto plot, where the axes are the properties so that we can define a characteristic boundary on which lie materials where none of the objectives can be improved in value without degrading the other objective value. Such boundary points, the non-dominated data-points, define a Pareto front (PF) that represents the best trade-off between the objectives. Common examples of Pareto Fronts include the Ashby plots, which display two or more properties, such as Young’s modulus and density, for many materials or classes of materials 17,18. Methods to estimate such fronts, especially if an exhaustive search is too tedious, have been studied and applied for some time 19,20,21,22. We recently used Monte Carlo sampling methods, in conjunction with machine learning models, to obtain Pareto fronts for dielectric polymer data 23. However, few studies have addressed how to guide experiments or calculations to recommend optimal points in as few measurements or calculations as possible, especially where the data sizes are relatively small. Our objective is to demonstrate how such design and multi-objective optimization methods perform on differing materials data sets of varying sizes to distill guidelines for future studies for accelerated discovery of unknown compounds. We will use surrogate models, defined as computationally cheaper models or “fits”, which can be parametric or non-parametric, learned from data and commonly used in statistics and engineering design to approximate complex mechanisms 24. These have proved effective as a part of optimization algorithms for multi-objectives for nearly continuous PFs. But materials data often have a PF spanned by discrete points which can be located far away from each other. The goal of our design strategy is to find this unknown PF from initially known data with as few new measurements as possible (see Fig. 1 ). In the data sets we consider, the PF is known as all the data is known. But we will consider it to be unknown as we begin the design cycle and start to compute a sub-optimal front (sub PF) for the data. After a few design cycles, the sub PF will contain some of the points which are common to the optimal PF. The knowledge of the PF is used only as a stopping criterion for the design cycle, which is of course not possible in a real multi-objective design challenge when seeking an unknown compound. In the real scenario, the design process can be stopped either when a material with desired properties is found or when the budgeted resources have reached their limits.
+Figure 1
+The scope of the multi-objective optimization in this work involving materials data sets for shape memory alloys, M 2 AX phases and piezoelectrics. The goal is to find the Pareto front, represented by the collection of green, square data points in the plots, for the data sets in as few iterations as possible using surrogate modeling and design. A subset from the full data set is available to begin the process. We compare the performance of different algorithms.
+Full size image
+We will use methods recently adapted for multi-objective problems based on single-objective, global response surface modeling (RSM), design of experiment (DOE) techniques and kriging, a data fitting procedure based on Gaussian processes 25,26. These are being used in aerospace design to accelerate single-objective optimization approaches when expensive codes are involved 24. We will use these developments to show how we can construct multi-objective Pareto plots for limited available data in materials science by accelerating the process of finding the PF for different classes of materials. The algorithms are based on maximizing the expected improvement E[I] in choosing the next candidate data point 27, and we will study different choices for E[I ]. The improvement I refers to the possible gain in the objectives in the next design cycle, and is calculated with respect to the materials in the current PF of already available or known data. We will study a purely experimental data set for shape memory alloys and two data sets of computationally derived data using density functional calculations. The experimental data set is for the thermal dissipation and martensitic transition temperatures for NiTi-based shape memory alloys containing Ni, Ti, Cu, Fe and Pd with almost 100 compounds. Previously this data set for thermal dissipation was compiled as a result of prediction, synthesis and characterization of new NiTi-based alloys with very low thermal dissipation 15. The addition of transition temperatures to this high quality data set, constructed from measurements from one laboratory only, makes this ideal for our multi-objective study. One of our computational data sets is for the elastic properties of compounds belonging to the M 2 AX phases with hexagonal symmetry in which X atoms reside in the edge-connected M octahedral cages and the A atoms reside in slightly larger right prisms 28. Over 240 chemical compositions have been exhaustively enumerated and their elastic moduli calculated from density functional theory. We consider the problem of finding compounds with the largest bulk and shear moduli; the single objective case was previously studied 28. The final data set with over 700 compounds, compiled using the materialsproject.org database 11, is for piezoelectrics where the aim is to find those materials with the maximum piezoelectric modulus and smallest band gaps, potentially important in finding new ferroelectric photovoltaics. Figure 1 shows the overall scope and the data sets for the materials problems studied in this work.
+Our choice of experimental and computational data sets with varying sizes is guided by the need to find a robust strategy that works across the different types of data. Our objective is to compare the relative performance of the multi-objective methods on these material data sets in finding materials close to points on the Pareto front in as few iterations as possible. Our main finding is that the Maximin and Centroid based design strategies for materials discovery are more efficient than random selection, pure exploitation, in which the “best prediction” from the surrogate or learning model is used in finding points on the PF, and exploration strategies in which it is the prediction of the point with maximum variance or uncertainty from the learning model which determines points on the PF. The Maximin based design algorithm, which balances exploration and exploitation relative to the more exploratory Centroid strategy, performed better than both pure exploitation and pure exploration, especially if the training dataset is smaller. Although the datasets used in this work varied in size, fidelity and source, the Maximin optimization algorithm showed superior performance across these cases in which the accuracy of the machine learning regression model fits were too low to be considered reliable for predictions. Although we assume in this work that the Pareto front is known, our work provides the basis for choosing effective methods for guiding experiments, especially high throughput experiments with relatively fast turn around, or targeted simulations using computer codes, to iteratively find materials with multiple properties closest to the Pareto front. The work can also be extended to more than two objectives. After defining and discussing the concept of the Pareto front, in Sec. 2 we review the ideas underlying the value of information and basis for improvement in choosing the next “experiment” or data point, a key aspect of global optimization. We then describe the multi-objective strategies we employ and discuss their performance on our data sets in Sec. 3.
+Pareto front
+A Pareto front (PF) represents the data points which are not dominated by any other points in a data set. For example, consider an optimization problem where quantitative values of multiple properties are to be optimized, that is, either maximized or minimized among a set of materials. A particular material M is dominated if there exists another material which has more preferred quantitative values for all the considered properties than material M. It is highly unlikely in a real scenario that a single material has most preferred values for all the properties considered. A Pareto front for a multi-objective optimization problem is the analog of a data point with global minimum (maximum) value for a single objective minimization (maximization) problem. For m objectives or properties, if y  = { y 1(x ), y 2(x ), y 3(x ), …, ym(x )} is the set of objectives for a material identified by a material descriptor (feature) vector x  = ( x 1, x 2, … xn ), then we are interested in finding the x optimizing all objectives in y. In general, a unique solution satisfying all objectives does not exist, and we thus seek the set of optimal solutions on the Pareto front. Such solutions are based on the definition of dominance such that x is said to Pareto dominate x ′ if \({y}_{i}(x)\leqslant {y}_{i}(x^{\prime} )\) for all i  = 1, 2, …, m and yi(x ) <  yi(x ′) for at least one i  = 1, 2, …, m, that is, x is as good as x ′ in all objectives and is strictly better in at least one. An x not dominated by any other is called Pareto optimal and the set of all Pareto optimal solutions constitutes the Pareto front. A PF plot with two objectives is shown in Fig. 2.
+Figure 2
+The figure depicts a schematic representation of data and its Pareto Front based on the assumption that both the properties are to be minimized. The PF will be convex towards the origin if all the properties were to be maximized. For a mixed problem with both minimization and maximization, the concaveness of the PF will be rotated by 90 degrees. The square points in red color represent the PF of data whereas the gray color dots are the points which are dominated by the PF. The region in white is the dominated region and the green shaded region is the region of improvement. Occurrence of a new material in the green shaded region could replace at least one existing PF point and thus lead to an improvement from the current PF. The brown shaded area corresponds to the predicted Gaussian distribution of one candidate material. The distribution can have different variations along axes because of the use of independent regression models to learn and predict each property. The violet point inside the brown shaded region represents the mean point of the entire predicted distribution of that particular material. The yellow point indicates the centroid of the predicted distribution lying inside the region of improvement. It is possible that the entire predicted distribution of some candidate material may lie inside the region of improvement. In that case, the mean of the entire distribution would coincide with the centroid. The distances A and B represent Lmaximin and Lcentroid, respectively.
+Full size image
+Surrogate models and improvement criteria for multi-objective design
+Surrogate models are widely used in the design community to represent expensive computational data in order to carry out optimization studies 25,26,29. A fitted model becomes the basis for locating new and interesting combinations of features, which are then fed back into the code to update the surrogate model, and the whole process is repeated until the user runs out of resources or sufficiently improved designs are achieved. The update process tries to ensure that the model is reasonably accurate throughout the whole space, that is, there is “exploration” and that it also converges to the global minimum rapidly due to “exploitation”. Thus, there is competition amongst these goals in that to accurately learn the model we need to run our code (or perform experiments) in regions with little data and need to search in the most promising regions of the search space to exploit the solution. We have previously dealt with this problem 28 using the concepts of probability of improvement and the expected value of improvement over the current best design in selecting the next calculation or measurement 27. For a single objective, given a material property y dependent on features, also called as descriptors, x, machine learning allows us to estimate a function f(x) from the training data, such that \(\hat{y}=f(x)\). However, in order to minimize the number of new materials that need to be experimentally tested, say, to find the material with the smallest y, we can choose a newly calculated design point y(xN +1) representing an improvement over the current best design, fmin(x ) =  min[f 1(x (1) ), f 2(x (2) ), … fN(x(N))], using P[I] and E[I ], the probability and expected value of improvement. The improvement I is
+$$I={f}^{min}(x)-\hat{y}({x}^{(N+\mathrm{1)}})$$
+(1)
+with
+$$\begin{array}{rcl}P[I] & = & P[y({x}^{(N+\mathrm{1)}})\leqslant {f}^{min}(x)]\\  & = & {\int }_{-\infty }^{{f}^{min}(x)}\,\tfrac{1}{\sigma ({x}^{(N+\mathrm{1)}})\sqrt{(}2\pi )}exp(-\tfrac{{[\hat{y}-\mu ({x}^{(N+\mathrm{1)}})]}^{2}}{{\sigma }^{2}({x}^{(N+\mathrm{1)}})})\\  & = & {\rm{\Phi }}[\tfrac{{f}^{min}(x)-\mu ({x}^{(N+\mathrm{1)}})}{\sigma ({x}^{(N+\mathrm{1)}})}]\end{array}$$
+(2)
+The function Φ is the cumulant distribution function of the Gaussian integrands, and we have assumed that the new points are distributed according to a Gaussian distribution. Similarly, it can be shown that the expected improvement is
+$$E[I]=[{f}^{min}(x)-\hat{y}({x}^{(N+\mathrm{1)}})]{\rm{\Phi }}[\tfrac{{f}^{min}(x)-\mu ({x}^{(N+\mathrm{1)}})}{\sigma ({x}^{(N+\mathrm{1)}})}]+\sigma \varphi [\tfrac{{f}^{min}(x)-\mu ({x}^{(N+\mathrm{1)}})}{\sigma ({x}^{(N+\mathrm{1)}})}],$$
+(3)
+where ϕ is the Gaussian probability density function. This design prescription is effective on a number of materials problems for single properties. We have applied it to experimentally find new NiTi based alloys with the smallest dissipation 15 and shown how to minimize droop, the fall-off in the quantum yield as a function of number of quantum wells, in the design of Light Emitting Diodes (LEDs) using the industry code APSYS for semiconducting materials 30.
+The objective of experimental design is to optimally choose the next data point or sample predicted by the surrogate model (regressor) for synthesis, characterization or calculation. Efficient strategies become especially important when the costs of experiments or calculations are high and the objective becomes to minimize the number of such experiments or calculations. Our focus here is on the application to materials of the two-objective optimization problem. The green shaded region in Fig. 2 indicates the region where the occurrence of a candidate material after measurement would result in an improvement over the current front shown in blue dots. That means that the current subPareto front would be modified to include the newly measured material. The probability of improvement P[I] that the new point is an improvement over all existing points is the total probability of a candidate data-point integrated over the green shaded region in Fig. 2 and is given by
+$${\rm{Probability}}\,{\rm{of}}\,{\rm{Improvement}},\,P[I]={\int }_{Shaded}\,\varphi ({y}_{1},{y}_{2})d{y}_{1}d{y}_{2},$$
+(4)
+where y 1 and y 2 are the objectives and ϕ(y 1, y 2) is the uncorrelated Gaussian probability distribution function formed from the mean and variance of y 1 and y 2 distributions with ϕ(y 1, y 2 ) =  ϕ(y 1)ϕ(y 2 ). We have therefore assumed a Gaussian distribution for the predicted values with a mean and variance. Similarly, the equivalent two objective expected improvement E[I(x )] is the first moment of I of the joint probability distribution ϕ(y 1, y 2) over the green area in Fig. 2 about the current subPareto front. Geometrically, we can calculate E[I(x )] =  P[I(x )] L in two ways depending on how the “length” L is evaluated: using the (a) Centroid or (b) Maximin approaches. We describe both and compare their relative performance in this work.
+(a)
+Centroid approach to EI, referred to as EI-Centroid: E[I(x )] =  P[I(x )] L, where \(L=\sqrt{{({Y}_{1}(x)-{y}_{1}(x))}^{2}+{({Y}_{2}(x)-{y}_{2}(x))}^{2}}\), the distance between the centroid (Y 1(x ), Y 2(x )) at the candidate data point, x, and closest point on the subPareto front, (y 1(x ), y 2(x )). The centroid of the probability distribution for the candidate point in the green shaded region is calculated using
+$${Y}_{1}(x)={\int }_{Shaded}\,{y}_{1}\varphi ({y}_{1},{y}_{2})d{y}_{2}d{y}_{1}/P[I]$$
+(5)
+Similarly for Y 2(x ).
+(b)
+Maximin approach to EI, referred to as EI-maximin: Let the mean predicted values for a candidate material be (μ 1, μ 2 ). Then we define the distance dmaximin  =  Maxi(Min(pi 1  −  μ 1, pi 2  −  μ 2 ), 0), where Pi  = ( pi 1, pi 2) and Pi ∈ PF. The maximin Expected Improvement is then EImaximin  =  dmaximin  ×  P[I(x )].
+Thus, for each candidate point in the region of improvement, EI-Centroid is calculated by taking the product of P[I] with the minimum distance between points on the known sub pareto front and centroid of the probability distribution within the region of improvement. The candidate point with the largest EI-Centroid is then the choice for the next measurement. EI-maximin is the product of P[I] and the maximum of the minimum distance of either of the means (μ 1, μ 2) of a particular candidate point from individual sub Pareto front points pi. The former considers improvement over the properties y 1, y 2 combined, whereas EI-maximin considers each property separately, takes the one which is smaller from a particular subPareto point, and then maximizes that amongst all the subPareto points. Both strategies select a data-point such that its measurement produces maximum modification to the sub Pareto front. We implemented both EICentroid and EImaximin strategies and also compared them against (i) random selection, (ii) pure exploitation using only the mean values of predictions from machine learned model and finally (iii) pure exploration, where the selection is based on the magnitude of the variance for candidate points in the region of improvement. Our overarching design process is illustrated in Fig. 3.
+Figure 3
+Design Flow. The design process begins with the prior training data, the set of materials with known values of their properties. A search space, the set of materials whose properties are not yet measured or calculated, the candidate data points in the design process, is then constructed. The next step is to build a regression model from the training data and then predict distributions for values of properties for each material in the search space. The finite distribution of each material is used to calculate the Expected Improvement, E(I). In this work we calculate E(I) using two approaches: Centroid-based and Maximin-based. The material with highest value of E(I) is chosen for measurement of its properties. The oracle represents either experimental measurements or high fidelity calculations of the material properties. If the newly measured material satisfies the user requirements, the design process is ended, otherwise, the new data is added to the training set for the next cycle. This adaptive design incorporates feedback from new measurements to increase the efficiency of subsequent design cycles.
+Full size image
+Regressors
+The surrogate models were built by fitting a mathematical function to the available data (training data). An estimate of the function y  =  f(x) from the data x for the surrogate model is provided by using regression schemes. The underlying assumption in evaluating the expected improvement E[I] is the Gaussian nature of the surface on which the data is distributed. This naturally leads to a Bayesian approach based on Gaussian process regression with a prior in terms of a mean function and covariance matrix, from which a posterior at a new point may be evaluated. We have tested both Gaussian Process Regression (GPR) model and Support Vector Regression 31 (SVR) with Gaussian Radial Basis Function (RBF) kernel to compute the mean and variance for y. Upon fitting the function from training data, GPR produces both mean and variance for the predicted values of y; however, SVR does not generate a distribution for y. We therefore generated an ensemble of predictions for y and its variance (using bootstrapping) by training 5000 SVR models with subsets of the training data selected randomly and with replacement. Both GPR and SVR models were implemented using the Sci-Kit Learn 32 Python library. The reliability of regression fits were measured using cross-validation. In an n -fold cross validation scheme, the training data is split into n equal sized subsets and each subset is predicted from a regression model trained with other n  − 1 subsets. In this way, values are predicted for all subsets and compared with their real values. Using ten-fold cross validation for both models trained on Shape Memory Alloy data and Piezoelectric data, we find that the SVR model performs better as shown in Fig. 4. The reliability of the models was accessed using the R 2 cross-validation score defined by equation (6)
+$${\rm{Coefficient}}\,{\rm{of}}\,{\rm{determination}},\,{R}^{2}(y,\hat{y})=1-\frac{{\sum }_{i=0}^{{n}_{samples}-1}\,{({y}_{i}-\hat{y})}_{i}^{2}}{{\sum }_{i=0}^{{n}_{samples}-1}\,{({y}_{i}-{\bar{y}}_{i})}^{2}},$$
+(6)
+where y is the real data and \(\hat{y}\) is the predicted data; yi and \({\hat{y}}_{i}\) are the real and predicted values respectively for the ith data-point and \(\bar{y}\) is the mean of the real data y.
+Figure 4
+Performance of the regression models applied to (a) the shape memory alloy and (b) piezoelectric data sets. Gaussian Process Regression (GPR) and Support Vector Regression models were tested for their reliability with relatively small-size materials data. Reliability of regressors was measured in terms of their ten-fold cross validation scores for datasets with size above 20 and Leave One Out cross validation scores for smaller datasets. The size of training dataset is plotted on the horizontal axis and the average cross validation score is the ordinate. The regression models were cross validated fifty times for each training set-size for both datasets.
+Full size image
+SVR has been shown to perform better than GPR in the case of elastic moduli data for the M 2 AX phases. That said, the fits to both SVR and GPR are not particularly good due to the small size of the training data. Thus, unlike large data problems, where machine learning tools are sufficiently reliable, the small data problems often encountered in material science require in addition a statistical design approach which can help to mitigate some of the shortfalls of the model.
+Algorithm
+The optimization strategies discussed in the previous sections were tested and validated over the standard Binh-Korn 33 test function data set and the three independent materials data-sets. The algorithm, in pseudo code form, given the data, surrogate and choice of E[I ], is given below.
+Results
+Our objective is to compare design strategies to find the optimal PFs for materials data-sets in as few design cycles as possible when the design process is initiated with a smaller subset of the data assumed to be initially known. We also assume that the optimal PFs are already known. We compared the sub-PF with the optimal PF after each measurement design cycle until the sub PF converged to the optimal PF. In general, the number of design cycles can be restricted by limiting the number of new measurements or when the sub-PF after a given number of measurements meets the requirements put on the materials properties by the researcher. Each dataset was divided into prior training data with known properties and materials in the search space with unknown values for the properties, respectively. The training data is updated after each design cycle till all the points in the optimal PF are found. We calculated the average number of design cycles needed to find the optimal PF for various sizes of prior training data. For statistics, the design process was repeated several times for each prior training data size selected randomly from the entire available dataset. The three materials datasets used in this work varied in total size, fidelity and source. The SMA data set is from experiments whereas the MAX phase and Piezoelectric data are the results of density functional theory (DFT) calculations. To bench mark our method, we first employed a discretized mathematical function, the Binh-Korn function test function, as a source of a relatively large amount of data.
+Algorithm 1
+Multi-objective design algorithm
+Full size image
+Binh-Korn Function
+The Binh-Korn test function problem is defined by:
+Minimize {f 1, f 2} where,
+$${f}_{1}(x,y)=4{x}^{2}+4{y}^{2};\quad {f}_{2}(x,y)={(x-\mathrm{5)}}^{2}+{(y-\mathrm{5)}}^{2}$$
+Subject to the constraints,
+$${(x-\mathrm{5)}}^{2}+{y}^{2}\le \mathrm{25;}\quad {(x-\mathrm{8)}}^{2}+{(y+\mathrm{3)}}^{2}\ge 7.7$$
+From this function, a large dataset of size 70,471 was created within the search domain: 0 ≤  x  ≤ 5 and 0 ≤  y  ≤ 3, with x, y as features. The prior training set, assumed as a known set of points, was selected with twenty randomly selected data-points, intentionally excluding the optimal PF points. The size of the prior set was thus only 0.03% of the size of the total search-space. The goal was to find maximum number of data-points forming the optimal PF using MOO design strategies within a limited number of measurements. In total, 899 data points exist in the optimal PF, which is just nearly 1.2% of the total data-set generated. After 100 measurements, 69 points from PF were found using our design strategy, whereas an unbiased random selection strategy is expected to find only one PF point within that many measurements. This illustrates the optimization for f 1, f 2 is very effective in finding the PF points in the case of a limited number of measurements. The optimal PF of the entire dataset is shown in Fig. 5.
+Figure 5
+The Pareto Front of entire dataset is shown in red colored square dots. The points in blue color indicate the rest of the dataset dominated by the green colored PF points. In this dataset, the Maximin based design algorithm performed as well as the centroid-based algorithm.
+Full size image
+Shape Memory Alloy (SMA) Data
+The SMA data set is based on that developed in ref. 15, where compounds belonging to the multicomponent NiTi-based family, Ti 50 Ni 1− x − y − z Cux Fey Pdz, with the targeted property of low thermal hysteresis or dissipation were synthesized. The functionalities of SMAs, including the shape memory effect and superelasticity, arise from the reversible martensitic transformation between high temperature austenite and low temperature martensite phases. Heating and cooling across the martensitic transformation temperature results in hysteresis as the transformation temperatures do not coincide, giving rise to fatigue. Only the single objective, thermal hysteresis, was previously predicted and all the alloys constrained by \(50-x-y-z\geqslant \mathrm{30 \% }\), \(x\leqslant \mathrm{20 \% }\), \(y\leqslant \mathrm{5 \% }\) and \(z\leqslant \mathrm{20 \% }\) were synthesized by the same processing protocols in the same laboratory. With transition temperatures added to this data set of over 100 well characterized alloys, our goal is to find the compound in the data set which minimizes both the thermal hysteresis and the transition temperature. Each alloy is described in terms of one or more features representing aspects of structure, chemistry, bonding. There are many approaches to choosing features. Our choice was based on prior materials knowledge. It is known that the martensitic transition temperatures, which affect thermal hysteresis, are strongly correlated with the valence electron concentration and electron number per atom. In particular, the martensite and austenite start temperatures vary significantly when the valence electron concentration increases and show behavior that depends on the electron valence number/atom. Moreover, the thermal hysteresis is directly influenced by the atomic size of the alloying elements as the hysteresis increases with size at almost constant electron valence number. We thus used Zunger’s pseudopotential radii 34, Pauling electronegativity, metallic radius, valence electron number, Clementi’s atomic radii 35, and Pettifor chemical scale 36 as features for the inference model 15.
+As shown in Fig. 6(b), there are seven points in the optimal Pareto Front of this data set,. The design process was carried out using prior training data with varying sizes from 5 to 70. From Fig. 6(a), it is clear that employing MOO design strategies decreases the number of measurements required to find the optimal PF by nearly 20% compared to random selection. In addition, the MOO strategies reduced the computational effort by 40–45% compared to employing brute-force search to calculate all the candidate materials. The Centroid based design strategy and pure exploration perform similarly well; however, the Maximin approach shows superior performance compared to all other strategies, particularly if the prior datasets are smaller in size. In Fig. 7, we assess the convergence efficiency of the design strategies by plotting the cost function as a function of the number of design cycles. The cost function is defined as the average distance between the data points on the optimal front and their individual closest neighbors in the Sub-PF. The cost converges to zero within a few measurements compared to the Centroid strategy or random selection.
+Figure 6
+Shape Memory Alloy Data. (a) The size of the prior training dataset is plotted against the average number of design cycles required to find all the points in optimal PF. When the size of prior data is relatively small, the regression models deliver a less-reliable fit to the data. Thus, the Maximin design strategy in which the exploration and exploitation of data are more balanced, performs much better than all other methods. (b) Optimal Pareto Front. There are seven points in the optimal PF of this SMA data. The optimal PF is considered as unknown at the beginning of design process. Starting from a set of data-points which are considered as known, the goal is to find all the optimal PF points in as few design cycles as possible. The red colored square points form the optimal PF whereas each blue colored point is dominated by at least one point in the optimal PF.
+Full size image
+Figure 7
+Cost value is defined as the average distance between data-points in Optimal PF and their individual closest neighbors in Sub PF. The plot indicates the statistically averaged cost against the number of design cycles performed. This particular graph was plotted for the SMA data beginning with 25 data points in prior training set and 52 data-points in search space. Use of Maximin design strategy converged the cost function to zero within a few measurements when compared with Centroid-based design and random selection approach.
+Full size image
+Elastic Moduli Data for M 2 AX compounds (MAX)
+This data set consists of computed elastic moduli values for 223 M 2 AX compounds and is a subset of 240 compounds calculated by Cover et al.37 using DFT calculations as implemented in the Vienna Ab initio Simulation Package (VASP) 38,39,40,41 code using the projector-augmented wave (PAW) 42,43 core potentials. We used orbital radii of the M, A, and X-atoms from the Waber-Cromer scale as features, which include the s -, p -, and d -orbital radii for M, while the s- and p -orbital radii were used for the A and X atoms 28. This scale uses the self-consistent Dirac-Slater eigenfunctions and the radii correspond to the principal maxima in the charge-density distribution function for a specific orbital of a neutral atom. These features have been used previously and serve as good starting point because of the relationship between the electronic charge density and elastic response of materials. Factors such as elastic anisotropy that classify ductile from brittle materials have been shown to be related to the directional nature or the lack of chemical bonds formed between the s -, p -, d- or f -orbitals (near the Fermi level) of the nearest-neighbor atoms. The bulk and Young’s moduli were considered as the properties to be minimized and we performed the design process with prior data sizes ranging from 20 to 120. As shown in Fig. 8(b), three optimal PF points exist for this data-set. In Fig. 8(a), the best design strategy requires 55% fewer measurements than random selection and 65% fewer measurements than brute force to find all points in the optimal PF when the design process is initiated with a small prior training data set.
+Figure 8
+Elastic Moduli Data. (a) The size of prior training data is plotted against the average number of measurements required to find optimal PF. Maximin-based algorithm performed much better than pure exploitation, centroid-based design and random selection approaches. At the small initial training data, Maximin based design performs better than pure exploitation too. (b) Optimal Pareto Front. There are three materials in the optimal PF of this dataset of size 223. The red colored square points form the optimal PF while each blue colored point is dominated by at least one point in optimal PF.
+Full size image
+Piezoelectric Materials Data
+This data-set was created through high throughput DFT-based ab initio computations 44 and is archived in materialsproject.org11. From it, we extracted the data for materials with computed values of band gaps and maximum piezoelectric longitudinal moduli using the Pymatgen 45 Python package. In this data, the optimization objectives are to minimize the value of the bandgap and maximize the maximum piezoelectric modulus of the compounds. The piezoelectric property corresponds to the maximum attainable absolute value of the longitudinal piezoelectric modulus of the crystal in any direction. As the direction of the electric field is varied, it is the measured maximum response of the crystal over all possible directions. Ionic radii, Volume, Density, Electronegativity and Crystal point group were selected as dependent features after theoretical analysis of various structural and thermodynamic characteristics. Some of these features were directly available in the materialsproject.org while others, such as ionic radii, were calculated using Pymatgen. The full dataset had information of 941 piezoelectric materials. But for our work, it was reduced to 704 materials since the ionic radii of some materials in original set were not reliably resolved through Pymatgen. Even then, with 704 data points, the piezoelectric data is larger in size than aforementioned SMA and MAX data sets. Considering the relatively large size of the data-set, the maximum number of design cycles was limited to 200. Figure 9 shows diagonal plots illustrating the quality of the surrogate SVR models during the initial and final design cycles in which the design process was initiated with a training data size of 200. At the end of the design process with 200 cycles, the training data size increased by 200 to a total of 400 data-points. With each design cycle, more data points are added in the less explored areas of the feature space. Although the quality of the model fits is variable, the design is quite forgiving of a poorly fitting model and leads to acceptable performance. We measured the average number of optimal PF points found within this limited number of cycles. The dataset and optimal PF are shown in Fig. 10(b). The fraction of Pareto front points found after the limited number of measurements is used to compare the MOO design strategies with random selection. As shown in Fig. 10(a), both design strategies performed equally well and are more efficient than random selection. More than half of the Pareto-frontal points were found within the first 50 measurements.
+Figure 9
+Surrogate model fit plots for bandgap values for the piezoelectric data. Real values are the data obtained through DFT calculations. The fits to the other datasets were similar. The horizontal and vertical axes span the real and predicted values of data-points, respectively. The design process is initiated with 200 training data-points. Blue points indicate the training data and red points correspond to the test data. The plots were taken randomly from one of the many design steps we carried out to analyze the design performance statistically. Since the surrogate model parameter tuning in these design processes was automated, there is a certain amount of over-fitting to the data. However, this can be avoided during a design problem for an unknown compound by tuning the surrogate model parameters carefully, (a) the model fit for the first design cycle with 200 training data points, (b) fit for the 200 th design cycle. After 200 cycles, the size of the training data increased to 400. This plot emphasizes that the design does not necessarily require a very good surrogate model for acceptable performance.
+Full size image
+Figure 10
+Piezoelectric Data from materialsproject.org. (a) The size of prior training data is plotted against the averaged fraction of data-points from optimal pareto-front found after 200 measurements. In this dataset, which is the largest in size, the design methods were efficient than the pure exploration/exploitation strategies. Owing to a large feature set size and small initial training data compared to the search space, the regression models cannot fit the data with sufficient reliability for predictions. (b) Optimal Pareto Front. Piezoelectric dataset contains data of 704 materials of which 11 form the PF. The red colored square points form the optimal PF while each blue colored point is dominated by at least one point in the PF.
+Full size image
+Discussion
+The results presented for each dataset indicate that the Maximin based design strategy for materials discovery is more efficient than the Centroid strategy, random selection, pure exploitation or exploration, or just a brute force search to find materials on the PF in as few cycles as possible. It balances exploration and exploitation if the training dataset is significantly smaller than the search space. In the informatics based design approach, we are particularly concerned about such data-deficient situations where the predictive power of regression models is accompanied by large uncertainties due to large cross validation errors. For Maximin, the exploration part of the design algorithm enters through the probability of improvement P[I] and the “distance” L, which is dependent on the means, brings in the exploitation aspect. The algorithm performed well across all the data sets in which the accuracy of the machine learning regression model fits was too low to be considered reliable for predictions. Nevertheless, the optimal Pareto points could be determined within a few design cycles. This highlights an aspect of design that is increasingly becoming apparent on a number of materials problems and data sets 14,15,28; that is, the design is quite forgiving of a poor surrogate model. The interplay between the two needs to be further explored and understood. The performance plots illustrate that the pure exploration strategy is less efficient than random selection, because in pure exploration the candidate material with the highest uncertainty is chosen for the next experiment. This means that the exploration algorithm entirely ignores the predicted values of properties and forces the design cycle to select a material which is most isolated from the known data. Pure exploitation performs as well as the Centroid based design. In the Centroid based design, the exploration-exploitation balance is tilted towards exploration if the centroid is far from the mean. It is important to consider the scale of the data associated with each of the properties: While P[I] is a dimensionless quantity, independent of the magnitude of the values of the objectives, the Expected Improvement quantifies the improvement and is a dimensional quantity. The E[I] is biased towards the objective property with larger magnitudes. Thus, this bias is avoided by normalizing the property values of known data-sets before each design cycle.
+References
+Meenakshisundaram, V., Hung, J.-H. & Simmons, D. S. Neural-Network-Biased Genetic Algorithms for Materials Design: Evolutionary Algorithms That Learn. ACS Combinatorial Science 19, 96–107 (2017).
+Article PubMed Google Scholar
+Xue, D. et al. An informatics approach to transformation temperatures of NiTi-based shape memory alloys. Acta Materialia 125, 532–541, ISSN 1359–6454, https://doi.org/10.1016/j.actamat.2016.12.009 (2017).
+Lookman, T. et al. A perspective on materials informatics: state-of-the-art and challenges. In Lookman, T., Alexander, F. J. & Rajan, K. (Eds), Information Science for Materials Discovery and Design, Springer Series in Materials Science, vol. 225 (Springer International Publishing, 3–12, 2016).
+Saad, Y. et al. Data mining for materials: Computational experiments with AB compounds. Phys. Rev. B 85, 104104 (2012).
+ADS Article Google Scholar
+Balachandran, P. V., Broderick, S. R. & Rajan, K. Identifying the “inorganic gene” for high temperature piezoelectric perovskites through statistical learning. Proc. R. Soc. A: Math., Phys. Eng. Sci. 467, 2271–2290 (2011).
+ADS CAS Article Google Scholar
+Ling, J., Hutchinson, M., Antono, E., Paradiso, S. & Meredig, B. High-dimensional materials and process optimization using data-drive experimental design with well-calibrated uncertainty estimates. Integrating Materials and Manufacturing Innovation 6, 207–217 (2017).
+Article Google Scholar
+Ramprasad, R., Batra, R., Pilania, G., Mannodi-Kanakkithodi, A. & Kim, C. Machine learning in materials informatics: recent applications and prospects. npj Computational Materials 3, 54 (2017).
+Google Scholar
+Wu, H. et al. Robust FCC solute diffusion predictions from ab-initio machine learning methods. Computational Materials Science 134, 160–165 (2017).
+CAS Article Google Scholar
+Ueno, T., Rhone, T. D., Hou, Z., Mizoguchi, T. & Tsuda, K. COMBO: An efficient Bayesian optimization library for materials science. Materials Discovery 4, 18–21 (2016).
+Article Google Scholar
+Seko, A., Hayashi, H., Nakayama, K., Takahashi, A. & Tanaka, I. Representation of compounds for machine-learning prediction of physical properties. Phys. Rev. B 95, 144110 (2017).
+ADS Article Google Scholar
+Jain, A. et al. Commentary: the materials project: a materials genome approach to accelerating materials innovation. APL Mater. 1, 011002 (2013).
+ADS Article Google Scholar
+Curtarolo, S. et al. AFLOWLIB.ORG: a distributed materials property repository from high-throughput ab initio calculations. Computational Materials Science 58, 227–235 (2012).
+CAS Article Google Scholar
+Saal, J., Kirklin, S., Aykol, M., Meredig, B. & Wolverton, C. Materials design and discovery with high-throughput density functional theory: the open quantum materials database (OQMD). JOM 65, 1501–1509 (2013).
+CAS Article Google Scholar
+Lookman, T., Balachandran, P. V., Xue, D., Hogden, J. & Theiler, J. Statistical inference and adaptive design for materials discovery. Current Opinion in Solid State and Materials Science 21, 121–128 (2017).
+ADS CAS Article Google Scholar
+Xue, D. et al. Accelerated search for materials with targeted properties by adaptive design. Nature Communications 7, 11241, https://doi.org/10.1038/ncomms11241 (2016).
+Xue, D. et al. Accelerated search for BaTiO 3 -based piezoelectrics with vertical morphotropic phase boundary using Bayesian learning. Proceedings of the National Academy of Sciences 113, 13301–13306, https://doi.org/10.1073/pnas.1607412113 (2016).
+Ashby, M. Materials selection in mechanical design. Materials Selection in Mechanical Design. fourth ed., (Elsevier, Butterworth-Heinemann, 2010).
+Google Scholar
+Dieter, G. E. Overview of the materials selection process. In: ASM Handbook vol. 20 (Materials Selection and Design, ASM International, 1997).
+Deb, K. Multi-objective Optimisation Using Evolutionary Algorithms: An Introduction. (Springer London, London, 2011).
+Book Google Scholar
+Deb, K., Pratap, A., Agarwal, S. & Meyarivan, T. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Trans. Evol. Comput. 6, 182–197 (2002).
+Article Google Scholar
+Miettinen, K. Nonlinear Multiobjective Optimization 12 (Springer US, New York, NY, USA, 1998).
+MATH Google Scholar
+Viana, F. A. C., Simpson, T. W., Balabanov, V. & Toropov, V. Special section on multidisciplinary design optimization: meta modeling in multidisciplinary design optimization: how far have we really come? AIAA J 52, 670–690 (2014).
+ADS Article Google Scholar
+Mannodi-Kanakkithodi, A., Pilania, G., Ramprasad, R., Lookman, T. & Gubernatis, J. E. Multi-objective optimization techniques to design the Pareto front of organic dielectric polymers. Computational Materials Science 125, 92–99 (2016).
+CAS Article Google Scholar
+Forrester, A. I. & Keane, A. J. Recent advances in surrogate-based optimization. Prog. Aerosp. Sci. 45, 50–79 (2009).
+Article Google Scholar
+Keane, A. J. Statistical improvement criteria for use in multiobjective design optimization. AIAA Journal 44, 879–891 (2006).
+ADS Article Google Scholar
+Svenson, J. & Santner, T. Multiobjective optimization of expensive-to-evaluate deterministic computer simulator models. Computational Statistics and Data Analysis 94, 250–264 (2016).
+MathSciNet Article Google Scholar
+Jones, D. R., Schonlau, M. & Welch, W. J. Efficient Global Optimization of Expensive Black-Box Functions. J. of Global Optimization 13, 455–492 (1998).
+MathSciNet Article MATH Google Scholar
+Balachandran, P. V., Xue, D., Theiler, J., Hogden, J. M. & Lookman, T. Adaptive strategies for Materials Design using Uncertainties. Scientific Reports 6, 19660 (2016).
+ADS CAS Article PubMed PubMed Central Google Scholar
+Voutchkov, I. & Keane, A. Multi-objective optimization using surrogates. Computational Intelligence in Optimization 7, 155–175 (2010).
+MathSciNet Article MATH Google Scholar
+Rouet-Leduc, B., Barros, K., Lookman, T. & Humphreys, C. J. Optimization of GaN LEDs and the reduction of efficiency droop using active machine learning. Scientific Reports 6, 24862 (2016).
+ADS CAS Article PubMed PubMed Central Google Scholar
+Cortes, C. & Vapnik, V. Support-vector networks. Machine learning 20, 273–297 (1995).
+MATH Google Scholar
+Pedregosa, F. et al. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research 12, 2825–2830 (2011).
+Binh, T. T. & Korn, U. MOBES: A multiobjective evolution strategy for constrained optimization problems. The Third International Conference on Genetic Algorithms (Mendel 97). Vol. 25 (1997).
+Zunger, A. Systematization of the stable crystal structure of all AB-type binary compounds: A pseudopotential orbital-radii approach. Physical Review B 22, 5839 (1980).
+ADS CAS Article Google Scholar
+Clementi, E., Raimondi, D. L. & Reinhardt, W. P. Atomic Screening Constants from SCF Functions. II. Atoms with 37 to 86 Electrons. J. Chem. Phys. 47, 1300–1307 (1967).
+ADS CAS Article Google Scholar
+Pettifor, D. G. A chemical scale for crystal-structure maps. Solid State Communications 51, 31–34 (1984).
+ADS CAS Article Google Scholar
+Cover, M. F., Warschkow, O., Bilek, M. M. M. & McKenzie, D. R. A comprehensive survey of M 2 AX phase elastic properties. Journal of Physics: Condensed Matter 21, 305403 (2009).
+CAS PubMed Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals. Phys. Rev. B 47, 558 (1993).
+ADS CAS Article Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular-dynamics simulation of the liquid-metal-amorphous-semiconductor transition in germanium. Phys. Rev. B 49, 14251 (1994).
+ADS CAS Article Google Scholar
+Kresse, G. & Furthm’uller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set. Computational Materials Science 6, 15–50 (1996).
+CAS Article Google Scholar
+Kresse, G. & Furthm’uller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. Phys. Rev. B 54, 11169 (1996).
+ADS CAS Article Google Scholar
+Blochl, P. E. Projector augmented-wave method. Phys. Rev. B 50, 17953 (1994).
+ADS CAS Article Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method. Phys. Rev. B 59, 1758 (1999).
+ADS CAS Article Google Scholar
+de Jong, M., Chen, W., Geerlings, H., Asta, M. & Persson, K. A. A database to enable discovery and design of piezoelectric materials. Scientific Data 2, 150053 (2015).
+Article PubMed PubMed Central Google Scholar
+Ong, S. P. et al. Python Materials Genomics (pymatgen): A Robust, Open-Source Python Library for Materials Analysis. Computational Materials Science 68, 314–319 (2013).
+CAS Article Google Scholar
+Download references
+Acknowledgements
+We acknowledge funding support from the Center for Nonlinear Science (CNLS) at Los Alamos National Laboratory (LANL) Laboratory for A.M.G. and P.V.B., and from the Laboratory Directed Research and Development (LDRD) DR (20140013DR) program at LANL.
+Author information
+Affiliations
+Los Alamos National Laboratory, Theoretical Division, Los Alamos, 87545, USA
+Abhijith M. Gopakumar, Prasanna V. Balachandran, Dezhen Xue, James E. Gubernatis & Turab Lookman
+State Key Laboratory for Mechanical Behavior of Materials, Xian Jiaotong University, Xian, 710049, China
+Dezhen Xue
+Contributions
+The informatics ideas were formulated by A.M.G., P.V.B., J.G. and T.L. The data sets were built by A.M.G. and D.X. and all authors analyzed the results and contributed to the writing of the paper.
+Corresponding author
+Correspondence to Turab Lookman.
+Ethics declarations
+Competing Interests
+The authors declare no competing interests.
+Additional information
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Electronic supplementary material
+Supplementary Dataset 1
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and Permissions
+About this article
+Cite this article
+Gopakumar, A.M., Balachandran, P.V., Xue, D. et al. Multi-objective Optimization for Materials Discovery via Adaptive Design. Sci Rep 8, 3738 (2018). https://doi.org/10.1038/s41598-018-21936-3
+Download citation
+Received 30 August 2017
+Accepted 13 February 2018
+Published 27 February 2018
+DOI https://doi.org/10.1038/s41598-018-21936-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Provided by the Springer Nature SharedIt content-sharing initiative
+Subjects
+Coarse-grained models
+Computational methods
+Further reading
+Machine learning for alloys
+Gus L. W. Hart
+Tim Mueller
+Stefano Curtarolo
+Nature Reviews Materials (2021)
+Analysis of Multi-objective Bayesian Optimization Using Random Scalarizations for Correlated Observations
+Hiroshi Ohno
+SN Computer Science (2021)
+A new active learning approach for global optimization of atomic clusters
+Maicon Pierre Lourenço
+Breno R. L. Galvão
+Dennis R. Salahub
+Theoretical Chemistry Accounts (2021)
+An adaptive design approach for defects distribution modeling in materials from first-principle calculations
+Maicon Pierre Lourenço
+Alexandre dos Santos Anastácio
+Maurício Chagas da Silva
+Journal of Molecular Modeling (2020)
+Multi-objective Bonobo Optimizer (MOBO): an intelligent heuristic for multi-criteria optimization
+Amit Kumar Das
+Ankit Kumar Nikum
+Dilip Kumar Pratihar
+Knowledge and Information Systems (2020)
+Download PDF
+Associated Content
+Collection
+Editor's choice: Machine learning for material discovery, design and characterisation
+Collection
+Top 100 in Materials Science
+References
+Abstract
+Introduction
+Pareto front
+Results
+Discussion
+References
+Acknowledgements
+Author information
+Ethics declarations
+Additional information
+Electronic supplementary material
+Rights and permissions
+About this article
+Further reading
+Comments
+Advertisement
+
+Doc 5 (URL: https://www.sciencedirect.com/science/article/pii/S2352847817300515, ClueWebID: clueweb22-en0027-52-02763)
+Materials discovery and design using machine learning - ScienceDirect
+Table 1
+Table 2
+Table 3
+Table 4
+Journal of Materiomics
+Volume 3, Issue 3, September 2017, Pages 159-177
+Materials discovery and design using machine learning
+Yue Liu a Tianlu Zhao a Wangwei Ju a Siqi Shi b c
+https://doi.org/10.1016/j.jmat.2017.08.002 Get rights and content
+Under a Creative Commons license
+Open access
+1. Introduction
+The screening of high-performance materials, the modelling of quantitative structure-activity relationships (QSARs) and other issues related to the chemical structures of materials and their various biological effects or activities of interest are not only scientifically important but also critical to the development of many technologically relevant fields [1], [2]. Unfortunately, the repetitive experimental and theoretical characterization studies are often time-consuming and inefficient because significant progress tends to require a combination of chemical intuition and serendipity. For example, the time frame for discovering new materials is remarkably long, typically approximately 10–20 years from initial research to first use. As shown in Fig. 1, new materials research comprises seven discrete stages, namely, discovery, development, property optimization, system design and integration, certification, manufacturing and deployment, and the different stages may be conducted by different engineering or scientific teams at different institutions. Although experienced teams are involved in each stage of the process, there are few opportunities for feedback between earlier and later stages, which could accelerate the process as a whole [3].
+Download : Download high-res image (85KB)
+Download : Download full-size image
+Fig. 1. The process of finding new materials using traditional methods [3].
+It is well known that computational simulation and experimental measurement are two conventional methods that are widely adopted in the field of materials science. However, it is difficult to use these two methods to accelerate materials discovery and design because of the inherent limitations of both experimental conditions and theoretical foundations. Generally speaking, experimental measurement, which usually includes microstructure and property analysis, property measurement, synthetic experiments, and so on, is an easy and intuitive method of materials research, although it is usually conducted in an inefficient manner over a long time period. In addition, this kind of approach poses high requirements in terms of the equipment, the experimental environment, and the expertise of the researcher. Alternatively, computational simulation, ranging from electronic structure calculations based on density functional theory [4], [5], molecular dynamics [6], [7], Monte Carlo techniques [8], and the phase-field method [9], [10], [11] to continuum macroscopic approaches, is another approach in which existing theory is exploited for analysis using computer programs. Materials design guided by computation is expected to lead to the discovery of new materials and reductions in materials development time and cost [12]. Compared with experimental measurement, computational simulation requires less time and is advantageous for supplying real experiments in that one has full control over the relevant variables. Nevertheless, there are also many challenges related to computational simulation; e.g., it strongly depends on the microstructures of the materials involved; it requires high-performance computing equipment, usually in large computing clusters, on which the computational simulation programs can run; and no explicit use can be made of previous calculation results when a new system is studied. Modern materials research often requires close integration between computation and experiment to yield a fundamental understanding of the structures and properties of the materials of interest and how they are related to the synthesis and processing procedures. In particular, some experiments can be performed virtually using powerful and accurate computational tools, and thus, the corresponding time frame can be decreased from 10 or 20 years, as is required based on traditional methods, to 18 months [2], [30].
+Given the sophisticated requirements involved in understanding the basic physicochemical properties of materials and accelerating their technological applications, both experimental measurement and computational simulation are often incapable of addressing newly emerging issues. For instance, it is very complicated and inefficient to investigate the transition temperature of glass [13] through experimental measurements because the transition occurs over a wide temperature range. However, the glass transition temperature also cannot be exactly simulated using computer programs because it depends on a variety of internal and external conditions, such as pressure, structure, and constitutive and conformational features [14]. Therefore, numerous attempts have been made in the field of materials science to develop ways to overcome the shortcomings of these two common methods.
+With the launch of the Materials Genome Initiative (MGI) [15] in 2011 and the coming of the “big data” era, a large effort has been made in the materials science community to collect extensive datasets of materials properties to provide materials engineers with ready access to the properties of known materials, such as the Inorganic Crystal Structure Database (ICSD) [16], the superconducting critical temperatures (SuperCon) [17], the Open Quantum Materials Database (OQMD) [18], the Cambridge Structural Databases [19], the Harvard Clean Energy Project (HCEP) [20], the Materials Project (MP) [21], the Materials Commons [22], and the Materials Data Facility [23]. A generic data management and sharing platform could provide a powerful impetus to accelerate materials discovery and design. Advanced materials characterization techniques, with their ever-growing rates of data acquisition and storage capabilities, represent a challenge in modern materials science, and new procedures for quickly assessing and analyzing the collected data are needed [24]. Machine learning (see Section 2.1 for the detailed definition of this term) is a powerful tool for finding patterns in high-dimensional data; it employs algorithms by which a computer can learn from empirical data by modelling the linear or nonlinear relationships between the properties of materials and related factors [25]. In recent years, machine learning techniques [26] and big data methods [27] have successfully resolved the difficulties of modelling the relationships between materials properties and complex physical factors. Notably, the successful applications of machine learning, such as assisting in materials discovery based on failed experiments [28] and screening for efficient molecular organic light-emitting diodes [34], are regarded as an innovative mode of materials development, in which inverting the machine learning models reveals new hypotheses regarding the conditions for successful product formation.
+Over the past 20 years, the computational activities related to materials science have been steadily shifting from technique development and purely computational studies of materials toward the discovery and design of new materials guided by computational results, machine learning and data mining or by close collaboration between computational predictions and experimental validation [29], [30]. The advantages of modern materials research strategies lie in their ability to find a good balance between reasonable experimental requirements and a low error rate, to make full use of the extensive data available and to speed up the materials research process. Great efforts are being devoted to developing more suitable methods that combine traditional experimental methods with intelligent data analysis techniques to improve experimental efficiency and reduce the error rate. For example, Sumpter et al. [31] proposed a novel integrated method for guiding the synthesis of new inorganic materials, which is achieved through the incorporation of big data approaches in imaging and scattering coupled with scalable first principles. The techniques related to big data and deep data serve to link first-principles theoretical predictions with high-veracity imaging and scattering data from materials with microscopic degrees of freedom, thereby greatly accelerating rational materials design and synthesis. Haughtier et al. [32] and Meredig et al. [33] reported that an iterative combination of machine learning methods and first-principles calculations can greatly accelerate the discovery process for novel ternary compounds. The above examples indicate that machine learning can be effectively combined with theoretical computational methods to solve various problems related to materials science and that the corresponding experimental results have proven to be reliable. It is worth emphasizing that the successes of the above examples are all founded on a basis of extensive available data. In other words, the ability to make full use of extensive data is the key to the application of machine learning to materials science research. Moreover, seen from the perspective of big data, many failed experiments nevertheless provide valuable information that can be used to determine the boundaries between success and failure and can also be useful for new materials discovery, as shown in Ref. [28]. In addition, the application of intelligent data analysis methods in materials science research can greatly assist in optimizing the virtual screening space for new materials and speed up the process considerably [34].
+Currently, several excellent review articles on materials informatics are available in the literatures [36], [37], [38], [39], [40]. Ref. [36] describes data-driven techniques for deciphering processing-structure-property-performance relationships. Ref. [37] presents a review of the current state of affairs with respect to data and data analytics in the materials community, with a particular emphasis on thorny challenges and promising initiatives that exist in the field. Ref. [38] provides a description of recent developments in materials informatics, concentrating specifically on relating a material's crystal structure and its composition to its properties. Ref. [39] presents a vision for data and informatics in the future materials innovation ecosystem. Ref. [40] discusses the intersection between materials informatics and atomistic calculations, with a particular focus on solid inorganic materials. The main purposes of the current paper are to review the applications of machine learning in Materials Discovery and Design and to analyze the successful experiences and the common existing problems. It is anticipated that this review can establish a new horizon toward which to conduct materials discovery and design. The remainder of this paper is organized as follows: Section 2 introduces the formal description of machine learning in materials science and classifies the commonly used machine learning methods into three broad categories. Sections 3 The application of machine learning in material property prediction, 4 The application of machine learning in new materials discovery, 5 The application of machine learning for various other purposes detail the research status with respect to the applications of machine learning in material property prediction, in new materials discovery and for various other purposes, respectively. Section 6 discusses the limitations and drawbacks from which machine learning suffers in the field of materials science and then proposes corresponding methods of improvement. Finally, the most significant conclusions from this review are summarized in Section 7.
+2. Description of machine learning methods in materials science
+As a scientific endeavor, machine learning grew out of the quest for artificial intelligence [41]. In the 1950s, attempts were made to approach the problem of acquiring knowledge by machine using various symbolic methods [42], and later, methods based on the connection principle, such as neural networks and perceptrons, were broadly studied [43]. Subsequently, several statistical learning theory (SLT)-based methods, such as support vector machines (SVMs) [44] and decision trees (DTs) [45], were proposed. Currently, several new machine methods, such as deep learning for big data analysis, have attracted attention in both academia and industry. Machine learning is a method of automating analytical model building. Using algorithms that iteratively learn from data, machine learning allows computers to find hidden insights without being explicitly programmed where to look [46].
+Machine learning shows good applicability in classification, regression and other tasks related to high-dimensional data. Aimed at extracting knowledge and gaining insight from massive databases, machine learning learns from previous computations to produce reliable, repeatable decisions and results and thus has played an important role in many fields, especially speech recognition, image recognition [47], bioinformatics [48], information security [49], and natural language processing (NLP) [50]. Many of our day-to-day activities are powered by machine learning algorithms, including fraud detection, web searches, text-based sentiment analysis, credit scoring and next-best offers. The pioneering applications of machine learning in materials science can be traced back to the 1990s, when machine learning methods such as symbol methods and artificial neural networks (ANNs) were employed to predict the corrosion behavior and the tensile and compressive strengths of the fiber/matrix interfaces in ceramic-matrix composites [51], [52], [53]. Subsequently, machine learning has been used to address various topics in materials science, such as new materials discovery and material property prediction.
+2.1. Paradigms of machine learning in materials science
+A classical definition of machine learning is as follows: <P,T,E >, where P, T and E denote performance, task and experience, respectively. The main interpretation is that a computer program is said to learn from experience E with respect to some class of tasks T and a performance measure P if its performance on tasks in T, as measured by P, improves with experience E [54]. In general, a machine learning system should be constructed when using machine learning to address a given problem in materials science. The general paradigm of such machine learning systems is given as follows: (1) G o a l+S a m p l e+A l g o r i t h m=M o d e l here, the ultimate Goal represents the given problem, which is usually expressed in the form of an objective function. The Sample is a subset of the population that is selected for study in some prescribed manner [55]. In general, data preprocessing, including data cleaning and feature engineering, is employed to convert the original data into the Sample. Data cleaning refers to identifying incomplete, incorrect, inaccurate and irrelevant parts of the data and then replacing, modifying, or deleting these dirty or coarse data [56]. Feature engineering, including feature extraction, feature selection, feature construction and feature learning, is the process of using domain knowledge regarding the data to create features that allow machine learning algorithms to function. Feature engineering is fundamental to the application of machine learning and is both difficult and expensive. The Algorithm, which mainly includes the machine learning algorithm and the model optimization algorithm, is a self-contained step-by-step set of operations to be performed [57]. The most commonly used machine learning algorithms are SVM, DT and ANN algorithms. Model optimization algorithms mainly include genetic algorithms (GAs), simulated annealing algorithms (SAAs) and particle swarm optimization (PSO) algorithms. The Model is a description of a system in terms of mathematical concepts and refers to the algorithm that has been learned from the Sample.
+2.2. Basic steps of machine learning in materials science
+As shown in Fig. 2, the construction of a machine learning system is divided into three steps: sample construction, model building and model evaluation.
+Download : Download high-res image (465KB)
+Download : Download full-size image
+Fig. 2. The general process of machine learning in materials science.
+2.2.1. The first step is sample construction
+In materials science, the original data are collected from computational simulations and experimental measurements. These data are typically incomplete, noisy and inconsistent, and thus, data cleaning should be performed when constructing a sample from the original data. Furthermore, there are several conditional factors affecting any obtained sample, and some of them are not relevant to the decision attributes. For example, in research on the prediction of Li ionic conductivity [58], although several internal and external factors are expected to affect the ionic conductivity, only the four most relevant factors, namely, ion diffusivity, average volume, transition temperature and experimental temperature, are of interest in comparative experiments. Therefore, it is important to use a proper feature selection [59] method to determine the subset of attributes to be used in the final simulation.
+2.2.2. The second step is model building
+It is essentially a black box linking input data to output data using a particular set of nonlinear or linear functions. For typical research in materials science, complex relationships usually exist between the conditional factors and the target attributes, which traditional methods have difficulty handling. Machine learning provides a means of using examples of a target function to find the coefficients with which a certain mapping function approximates the target function as closely as possible. For example, in an experiment on predicting the glass transition temperature T g [60], it is difficult to find a formula that can accurately describe the relationship between T g and the four relevant factors of rigidness, chain mobility, average molecular polarizability and net charge; however, a machine learning method can be used to model the relationships between conditional factors and decision attributes based on a given sample. This is where machine learning plays a role and where the “core” algorithms lie. The knowledge obtained through machine learning is stored in a format that is readily usable and, in turn, can be used for materials discovery and design.
+2.2.3. The last step is model evaluation
+A data-driven model should achieve good performance not only on existing data but also on unseen data. Generally, we can evaluate the generalization errors of models by means of calculation-based tests and use the results to select the best one. To this end, testing data are needed to test the discriminative capabilities of models on a new dataset; then, the test error achieved on the testing data can be taken as an approximation of the generalization error. When there is only one dataset D={(x 1,y 1),(x 2,y 2),...,(x m,y m)} containing m samples, we can partition D into a training dataset S and a testing dataset T for training and testing, respectively, using several evaluation methods, as shown in Table 1.
+Table 1. The comparison of three evaluation methods.
+Method
+Advantages
+Disadvantages
+Applicable situation
+Hold-out
+Low computational complexity.
+The proper relative proportions of training/testing data are difficult to determine;
+The volume of the training data is smaller than that of the original dataset.
+The data volume is sufficient.
+Cross-validation
+Not greatly influenced by changes in the volume of training data.
+The computational complexity is high, especially on a large dataset;
+The volume of the training data is smaller than that of the original dataset.
+The data volume is sufficient.
+LOOCV
+The data volume is small, and the training and testing data can be partitioned effectively.
+Bootstrapping
+Effective partitioning of training/testing data.
+The distribution of the training data differs from that of the original dataset.
+The data volume is small, and the training and testing data are difficult to properly partition.
+In the hold-out method, the dataset D is partitioned into a training dataset S and a testing dataset T, such that D=S ∪ T and S ∩ T=∅. A category-preserving sampling method, known as “stratified sampling”, is often used to maintain the consistency of the data distribution to the greatest possible extent, avoiding the introduction of additional deviations. Because there is no perfect solution for deciding the relative proportions of S and T, 2/3–4/5 of the samples in D are often designated as S, while the remainder are assigned to T.
+In the cross-validation method, the original dataset D is partitioned into k mutually exclusive subsets of the same size, D=D 1 ∪ D 2 ∪ ... ∪ D k,D i ∩ D j=∅(i ≠ j), where each Di is generated through “stratified sampling”. Then, the union set of k -1 of the subsets is taken as the training dataset S, and the remaining subset is used as the testing dataset T. When k is equal to the number of samples m in D, this method is known as leave-one-out cross-validation (LOOCV), which is not affected by random sample partitioning. Note that this process is repeated for each subset of the data, and thus, a total of k experiments are conducted. Therefore, the cross-validation method may take a long time and is unsuitable for large datasets.
+Based on bootstrapping sampling [61], the bootstrapping method involves copying one sample from D into a new dataset D′ randomly and repeatedly until D′ contains m samples. Finally, D′ is designated as the training dataset, and D ∖ D′ is used as the testing dataset. Because it maintains a number of training samples equal to the size of the original dataset, the bootstrapping method is effective when the data volume is small and it is difficult to properly partition the training/testing data. However, the bootstrapping method changes the distribution of the original dataset, potentially introducing estimation bias.
+When evaluating an algorithm, one tests it to see how well it performs. The accuracy of the model's predictions is examined by comparing experimental values with the corresponding predicted ones. The evaluation standards depend on the type of problem at hand.
+The classification accuracy (CA) is used to evaluate models used in classification problems: (2) C A=S/N where S and N denote the number of samples that are correctly classified and the total number of samples, respectively.
+As shown in expressions (3)–(5), the mean absolute percent error (MAPE ), the root mean square error (RMSE) and the correlation coefficient (R 2) are all used to evaluate models applied to solve regression problems. (3) M A P E=1 n ∑ i=1 n|y ’ i-y i|y i (4) R M S E=1 n ∑ i=1 n y ’ i-y i 2 (5) R 2=∑ i=1 n y i-y ¯ y ’ i-y ¯ ’ 2 ∑ i=1 n y i-y ¯ 2 ⋅ ∑ i=1 n y ’ i-y ¯ ’ 2 where y i and y'i represent an original value and the corresponding predicted value, respectively, and y ¯ and y ¯' are the averages of the original and predicted values, respectively.
+In addition, other indices for evaluating classification model accuracy include the precision, the recall, the receiver operating characteristic (ROC) curve, the logistic regression loss, the hinge loss, the confusion matrix, Cohen's kappa, the Hamming distance, the Jaccard similarity coefficient, the coverage error, the label ranking average precision and the ranking loss. For regression problems, the explained variance and the coefficient of determination are two additional commonly used indices. The Rand index, mutual information (MI), and the silhouette coefficient are indices used for model evaluation in clustering problems.
+2.3. Commonly used machine learning algorithms in materials science
+The selection of an appropriate machine learning algorithm is a key step in the construction of a machine learning system, as it greatly affects the prediction accuracy and generalization ability [62]. Each algorithm has its own scope of application, and thus, there is no algorithm that is suitable for all problems. As shown in Fig. 3, the commonly used machine learning algorithms in materials science can be divided into four categories: probability estimation, regression, clustering, and classification. Specifically, probability estimation algorithms are mainly used for new materials discovery, whereas regression, clustering and classification algorithms are used for material property prediction on the macro- and micro-levels. In addition, machine learning methods are commonly combined with various intelligent optimization algorithms [63] [64], such as GAs, SAAs or PSO algorithms, which are mainly used to optimize the model parameters. Furthermore, these optimization algorithms can also be employed to perform other difficult optimization tasks [65], such as the optimization of spatial configurations and materials properties [66] [67].
+Download : Download high-res image (353KB)
+Download : Download full-size image
+Fig. 3. Commonly used machine learning algorithms in materials science.
+2.4. Overview of the application of machine learning in materials science
+Machine learning is widely used in materials science and demonstrates superiority in both time efficiency and prediction accuracy. As shown in Fig. 4, the applications of machine learning in materials discovery and design can be divided into three main classes: material property prediction, new materials discovery and various other purposes. In research on material property prediction, regression analysis methods are typically used, and both macroscopic and microscopic properties can be predicted. The main idea underlying the application of machine learning in new materials discovery is to use a probabilistic model to screen various combinations of structures and components and finally to select a material with good performance from the candidate set by means of density functional theory (DFT)-based validation. In addition, machine learning is also used for other purposes in materials science, such as process optimization and density function approximation.
+Download : Download high-res image (716KB)
+Download : Download full-size image
+Fig. 4. An overview of the application of machine learning in materials science.
+3. The application of machine learning in material property prediction
+The properties of materials, such as hardness, melting point, ionic conductivity, glass transition temperature, molecular atomization energy, and lattice constant, can be described at either the macroscopic or microscopic level. There are two common methods of studying materials properties: computational simulation and experimental measurement. These two methods involve complicated operations and experimental setup. Therefore, it is quite difficult to build computational simulations that fully capture the complicated logical relationships between the properties of a material and their related factors, and some of these relationships may even be unknown. Moreover, the experiments that are performed to measure the properties of compounds generally occur in the later stages of materials selection. Consequently, if the results are not satisfactory, the enormous amounts of time and experimental resources invested up to that point prove to have been wasted [68]. In addition, in many cases, it is difficult or nearly impossible to study the properties of materials even through massive computational or experimental efforts. Therefore, there is in urgent need to develop intelligent and high-performance prediction models that can correctly predict the properties of materials at a low temporal and computational cost. Machine learning concerns the construction and study of algorithms that can learn patterns from data. The basic idea of using machine learning methods for material property prediction is to analyze and map the relationships (nonlinear in most cases) between the properties of a material and their related factors by extracting knowledge from existing empirical data.
+Fig. 5 shows the fundamental framework for the application of machine learning in material property prediction. First of all, hand tuning or feature engineering (including feature extraction and selection) is conducted to identify the conditional attributes that are related to property prediction. Second, the mapping relationship between these conditional factors and the decision attributes is found through model training. Finally, the trained model can be used for property prediction. For instance, Isayev et al. [69] proposed a calculation tool called Property-Labelled Materials Fragments (PLMF) for building machine learning models to predict the properties of inorganic crystals. In PLMF, low-variance and highly correlated features are first filtered out to obtain a feature vector. Using the gradient boosting decision tree (GBDT) technique [70], a novel candidate material will first be classified as either a metal or an insulator, and the band gap energy will be predicted if the material is an insulator. Regardless of the material's metal/insulator classification, six thermomechanical properties (bulk modulus, shear modulus, Debye temperature, heat capacity at constant pressure, heat capacity at constant volume, and thermal expansion coefficient) are then predicted. Before model training, fivefold cross-validation is used to partition the dataset. The ROC curve, RMSE, MAE and R 2 are all used to evaluate the prediction accuracy of the trained models. Depending on the scale of the analysis, the applications of machine learning in material property prediction can be divided into two broad categories: macroscopic performance prediction and microscopic property prediction.
+Download : Download high-res image (449KB)
+Download : Download full-size image
+Fig. 5. The fundamental framework for the application of machine learning in material property prediction.
+3.1. Macroscopic performance prediction
+Research on the macroscopic performance of materials mainly focuses on the structure-activity relationship between the macroscopic (e.g., mechanical and physical) properties of a material and its microstructure [71], [72]. Because of their good performance in solving problems related to regression and classification, machine learning approaches involving ANN and SVM algorithms in combination with optimization algorithms have been widely applied in the study of macroscopic performance prediction.
+In machine learning, ANNs are a family of models inspired by biological neural networks (the central nervous systems of animals, particularly the brain) that are used to estimate or approximate functions that can depend on a large number of inputs and are generally unknown. The ANN approach is essentially a nonlinear statistical analysis technique with strong self-learning and adaptive capabilities [73]. Back propagation ANNs (BP-ANNs) [74], [75], [76] have been used to predict material behaviors such as temperature responses and tensile, elongation, wastage, corrosion and compressive properties. Chen et al. [77] employed a BP-ANN and a linear regression model to predict the glass transition temperatures of polymers and found that the average prediction error of the former approach (17 K) was much smaller than that of the latter (30 K). Since no comprehensive physical background knowledge is required, BP-ANNs can provide dramatic benefits to the industry by allowing such problems to be solved with acceptable prediction errors and a good generalization ability. However, they have a slow convergence rate and sometimes may fall into local minima. Alternatively, RBF-ANNs are another type of ANN that, by combining the ANN concept with the radial basis function, can fundamentally overcome the problem of local minima and also have the advantage of a high convergence rate. When using an RBF-ANN to investigate crack propagation in a bituminous layered pavement structure, Gajewski and Sadowski [78] reported that cracking considerably increases as the thickness of bituminous layer B2 increases. Moreover, ANN modelling has found a place in other applications, such as the prediction of melting points [79], the density and viscosity of biofuel compounds [80], excited-state energies [81], diffusion barriers [82] and other functional properties [83], [84], [85], [86]. The greatest advantage of ANNs is their ability to be used as an arbitrary function approximation mechanism that ‘learns’ from observed data. The utility of an ANN model lies in the fact that little prior knowledge about the target material is required and the rules governing property variations can be exactly learned from empirical data. However, a common criticism of ANNs is that they require a highly diverse training dataset with sufficient representative examples for property prediction in order to capture the underlying structure to a sufficient extent that their results can be generalized to new cases. Furthermore, an inherent deficiency of neural networks is that the learned knowledge is concealed in a large number of connections, which leads to poor comprehensibility, i.e., poor transparency of knowledge and poor explainability.
+The SVM technique is an SLT-based supervised learning method for analyzing data and recognizing patterns that can be used for classification and regression [87]. Compared with ANNs, SVM models are more suitable for application to small samples and can successfully overcome the problems of “the curse of dimensionality” and “overlearning”. They exhibit many unique advantages for solving nonlinear and high-dimensional problems. Fang et al. [64] proposed a novel hybrid methodology combining GAs and with support vector regression (SVR), which is capable of forecasting the atmospheric corrosion behaviors of metallic materials such as zinc and steel. Results show that this hybrid model provides a better predictive capability than other methods, and thus, it is regarded as a promising alternative method of forecasting the atmospheric corrosion behaviors of zinc and steel. To overcome the lower performance of a single SVR model for the prediction of the temperature of the As-Se glass transition, which involves radical structure changes, Ref. [88] proposed a Feature Selection based Two-Stage SVR (FSTS-SVR) forecasting method for investigating the turning point based on structural analysis and constructed a prediction model for each stage. The experimental results indicated that the prediction accuracy of the FSTS-SVR method is higher than that of other methods based on SVR in cases in which a turning point exists. In Ref. [89], an SVM approach was used to estimate the exposure temperatures of fire-damaged concrete structures. Based on the output results from the SVM analysis, the most effective parameter for improving the estimation accuracy was identified to be the ultrasonic pulse velocity of the concrete. In addition, SVM models can also be employed to predict ionic conductivities [58], [90], glass transition temperatures [91], [92], [93] and various behaviors of functional materials [94], [95]
+3.2. Microscopic property prediction
+The macroscopic performance of a material is determined by its microscopic properties, including its atomic and structural characteristics, such as the lattice constant. To the best of our knowledge, the applications of machine learning in microscopic property prediction tend to concentrate on several aspects, including the lattice constant, band energy, electron affinity and molecular atomization energy.
+In the design of new substrate materials or buffer materials for semiconductor epitaxy, the lattice mismatch between layers consisting of different materials is one of the main concerns. Therefore, lattice constant prediction can help to accelerate the evaluation of the lattice constants for all possible combinations of elements. In this regard, a fast and reliable solution for predicting the lattice constants of a large number of unknown compounds is becoming a key requirement for high technology development. Machine learning can be applied in solving this prediction problem because of its good practicability in regression analysis.
+As shown in Table 2, there have been several studies related to the use of machine learning for lattice constant prediction for a variety of perovskite crystal materials, in which machine learning regression methods such as the SVR, ANN and logistic regression (LR) techniques have been used. By using the LR and ANN techniques and a sample set of 157 known GdFeO 3 -type ABO 3 perovskites, lattice constants in GdFeO 3 -type ABO 3 perovskites were correlated with their constituent elemental properties [96]. The LR models were first obtained using only two elemental ionic radii, and the ANN models were generated based on five elemental properties; the ionic radii, the electro-negativities of cations A and B, and the valence of ion A were further considered to improve the predictive capabilities of the models. The results indicated that the LR (ANN) method achieved percentages of absolute difference (PADs) of 0.93, 0.82 and 0.77 (0.35, 0.34 and 0.44) for constants a, b and c, respectively. The ANN obviously had a better accuracy than the LR method, achieving an error within 2%. Furthermore, by comparing the prediction accuracies of the ANN method on the training and testing data, it was found that the prediction accuracy on the training data was high, whereas that on the testing data was not satisfactory. To overcome this problem of weak generalization ability that is observed for ANNs, Javed et al. [97] employed SVR to predict the lattice constants of orthorhombic ABO 3 perovskite compounds. It was found that the SVR model performed better than the ANN model on both the training and testing datasets. The average PAD values were less than 1% for all lattice constants. In addition, the SVR model required less training and testing time compared with the ANN model by virtue of the fast learning capability of the former. In Refs. [98], SVR, generalized regression neural network (GRNN) and ANN methods were used to predict the lattice constants of perovskite compounds. They achieved mean PAD values of 0.43%, 0.54% and 0.96%, respectively, indicating that the SVR method showed the best prediction performance. Majid et al. [99] used several machine learning methods, including SVR, random forests (RF), a GRNN and multiple linear regression (MLR), with the ionic radius as the only conditional attribute for predicting the lattice constants of complex cubic perovskites. The results indicated that these four methods yielded prediction accuracies of 0.26, 0.41, 0.70 and 0.51, respectively, all of which are higher than that of the well-known SPuDS software [100], which is extensively used in crystallography. The performances of the prediction models were also compared with each other in terms of linear correlation. Fig. 6 shows the performance curves relating the experimental and predicted values for the considered dataset. It can be seen that the experimental R 2 values for all four methods were larger than 0.95, indicating that these four machine learning methods all performed well in lattice constant prediction. Furthermore, the SVR method proved to have a higher generalization ability than the ANN, RF and GRNN methods when the training sample was small.
+Table 2. Applications of machine learning for lattice constant prediction.
+Reference
+Conditional attributes
+Compounds
+ML methods
+PAD
+a
+b
+c
+Li et al. [96]
+ionic radii (r), valence (z) , electro-negativities (x)
+GdFeO 3 -type ABO 3 perovskites
+LR/ANN
+0.93/0.35
+0.82/0.44
+0.77/0.34
+Javed et al. [97]
+ionic radii (r), valence (z), electro-negativities (x)
+ABO 3 perovskites
+SVR
+0.52
+0.54
+0.58
+Majid et al. [98]
+ionic radii (r), oxidation state (z), electro-negativities (x)
+perovskites
+SVR/GRNN/ANN
+average of a, b, and c
+0.43/0.54/0.96
+Majid et al. [99]
+ionic radii (r), oxidation state (z), electro-negativities (x)
+cubic perovskites
+SVR/RF/GRNN/MLR
+average of a, b, and c
+0.26/0.41/0.70/0.51
+Download : Download high-res image (523KB)
+Download : Download full-size image
+Fig. 6. (A-D) Show the linear correlation between the experimental and predicted values for each machine learning model, where the red points in each plot represent the original data, the blue line is the curve fitted to the results, and the dotted line is provided for reference.
+Hansen et al. [101] outlined five machine learning methods, including linear ridge regression (LRR), kernel ridge regression (KRR), SVR, the K-nearest-neighbor (KNN) method and the ANN method, and investigated the influence of the molecular representation on the methods' performance. It was found that all five methods allow quantum-chemical computations to be performed in a matter of milliseconds rather than hours or days when using ab initio calculations and that the KRR method achieves the lowest prediction error of 3 kcal/mol for the atomization energies of a wide variety of molecules. Using the Pearson coefficient, RF and SVR, Liu et al. [102] constructed a two-phase hybrid system including feature extraction and regression. Experimental results on a total of 2500 microscale volume elements (MVEs) showed that this system can build elastic localization linkages with a training (testing) mean absolute strain error (MASE) of 7.17% (13.02%). More recently, these authors constructed a multi-agent data-driven predictive model by introducing K-means clustering and principal component analysis (PCA) to improve upon the performance of a single-agent system [103]. The results proved that the multi-agent model could achieve better MASE values for both training and testing. To improve the time efficiency and prediction accuracy of machine learning methods for predicting the band gap energies and glass-forming ability of inorganic materials, Ward et al. [104] applied three key strategies to design a general-purpose machine learning framework with improved efficiency and accuracy. First, they summarized a general-purpose attribute set containing 145 elemental properties that could effectively capture the decision properties. Second, an ensemble learning method was used to overcome the disadvantages of each individual method. Third, they utilized a partitioning strategy in which the elements of the dataset were grouped into chemically similar subsets and trained a separate model on each subset. By employing machine (or statistical) learning methods trained on quantum mechanical computations in combination with the notion of chemical similarity, Pilania et al. [105] reported that it is possible to efficiently and accurately predict a diverse set of microscopic properties of material systems, as shown in Fig. 7. This is the first example in which a distance-measurement-based approach has been used to predict the microscopic properties of polymer materials. The proposed machine learning methodology for microscopic property prediction consists of four steps. First, material motifs within a class are reduced to numerical fingerprint vectors. Next, a suitable measure of chemical similarity or chemical distance is used to evaluate each material. Finally, a learning scheme—in this case, KRR is employed to map the relationship between the distances and properties. Fingerprints based on either chemo-structural (compositional and configurational) information or the electronic charge density distribution can be used to make ultra-fast, yet accurate, property predictions. Recently, machine learning methods have also been applied in material property prediction for lithium-ion batteries. Chen et al. [106] combined the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) method with information theory to elucidate the Li diffusion mechanism in the Li 7 La 3 Zr 2 O 12 crystal lattice. By clustering the trajectories computed using molecular dynamics simulations, it was found that DBSCAN can be used to recognize lattice sites, determine the site type, and identify Li hopping events. Wang et al. [107] constructed QSAR formulations for cathode volume changes in lithium-ion batteries using the partial least squares (PLS) method based on data obtained from ab initio calculations. A variable importance in projection (VIP) analysis showed that the radius of the X 4+ ion and the X octahedron descriptors strongly affect the volume changes of a cathode during delithiation. In addition, ANNs have been successfully used for the prediction of vacancy migration and formation energies [105], electron affinities [105], vacancy migration energies [108] and potential energies [109], thereby fostering a deeper physical understanding of the microscopic properties of complex chemical systems.
+Download : Download high-res image (656KB)
+Download : Download full-size image
+Fig. 7. A machine learning methodology for using distance measurements to predict the microscopic properties of materials.
+As seen from the above analysis of their various application cases, machine learning methods exhibit higher accuracy and robustness than traditional methods of material property prediction (macro and micro), although the performance strongly depends on the machine learning method selected and the sample construction. It is worth mentioning that no single machine learning method can achieve good results for all applications. Therefore, selecting the best solutions always requires a comparison of various machine learning methods. Data cleaning and feature engineering are key steps of sample construction [110] that help to improve the prediction accuracy of a trained model through optimization of the features on which it is based. To verify the importance of feature selection, we conducted experiments on five commonly used material property datasets [58], [79], [80], [96] using Multi-Layer Filtering Feature Selection (MLFFS). MLFFS is a novel method proposed by us in Ref. [111], which employs variance filtering, the Pearson coefficient, RF and PCA to sequentially and automatically delete sparse redundant and irrelevant features. The results are listed in Table 3. It can be seen that the numbers of features in all five datasets decrease after feature selection and that the model prediction accuracies are increased in terms of the RMSE, MAPE and R 2 values. In particular, the numbers of features in Dataset 4 and Dataset 5 are reduced by almost half, with lower RMSE and MAPE values and higher R 2 values. Thus, it is obvious that feature selection can improve the accuracy of material property prediction, and MLFFS is expected to become an efficient tool for materials science researchers.
+Table 3. Prediction results for five datasets obtained when using MLFFS for feature selection.
+Dataset
+Original Features
+Original Prediction Result
+Selected Features
+Final Prediction Result
+RMSE
+MAPE
+R 2
+RMSE
+MAPE
+R 2
+1 [58]
+6
+0.59
+0.26
+0.96
+4
+0.58
+0.26
+0.97
+2 [96]
+6
+0.08
+0.01
+0.93
+5
+0.07
+0.01
+0.90
+3 [79]
+5
+8.69
+0.09
+0.96
+4
+7.24
+0.07
+0.96
+4 [80]
+47
+28.36
+0.03
+0.97
+25
+25.16
+0.03
+0.98
+5 [80]
+18
+0.64
+0.27
+0.91
+9
+0.36
+0.15
+0.97
+4. The application of machine learning in new materials discovery
+Finding new materials with good performance is the eternal theme in materials science. Currently, experimental and computational screenings for new materials discovery involve element replacement and structure transformation. However, the compositional search space, structural search space, or both tend to be sharply constrained [33]. Both screening methods may also require massive amounts of computation or experimentation and usually result in effort being directed in incorrect directions in an “exhaustive search”, which consumes considerable time and resources. In consideration of this fact and the advantages of machine learning, a completely adaptive method combining machine learning with computational simulation is proposed for the evaluation and screening of new materials ‘‘in silico’’ to provide suggestions for new and better materials.
+The general process of machine learning in the discovery of new materials is shown in Fig. 8. The machine learning system for discovering new materials includes two parts, i.e., a learning system and a prediction system. The learning system performs the operations of data cleaning, feature selection, and model training and testing. The prediction system applies the model that is obtained from the learning system for component and structure prediction. New materials are often “predicted” through a suggestion-and-test approach: candidate structures are selected by the prediction system through composition recommendation and structure recommendation, and DFT calculations are used to compare their relative stability.
+Download : Download high-res image (323KB)
+Download : Download full-size image
+Fig. 8. The general process of machine learning in the discovery of new materials.
+At present, various machine learning methods are used for finding new materials with good performance (see Table 4 ). They can be mainly divided into methods focused on crystal structure prediction and methods focused on composition prediction, which will be discussed in more detail in the following subsections. However, Ref. [112] represents an exception, in which the integration of ANN and GA approaches failed to accelerate new materials discovery since the relevant descriptors are not well known; nevertheless, this work can be regarded as an implementation of a novel concept for new materials discovery.
+Table 4. Applications of machine learning in the discovery of new materials.
+Application description
+Reference
+ML method
+Achievement
+The design of new guanidinium ionic liquids
+[71]
+ANN
+6 new guanidinium salts
+Finding nature's missing ternary oxide compounds
+[32]
+Bayesian
+209 new compounds
+Discovery of new compounds with ionic substitutions
+[123]
+Bayesian
+substitution rates of 20 common ions
+Discovering crystals
+[118]
+DBSCAN & OPTICS
+acceleration of finding new materials
+Screening new materials in an unconstrained composition space
+[33]
+Bayesian
+4500 new stable materials
+Machine-learning-assisted materials discovery
+using failed experiments
+[28]
+SVM
+success rate of 89%
+Virtual screening of materials
+[112]
+ANN
+failed
+4.1. Crystal structure prediction
+The prediction and characterization of the crystal structure of materials constitute a key problem that forms the basis for any rational materials design. Through crystal structure prediction, some unnecessary structure-related experiments can be avoided, which will greatly reduce the consumption of DFT calculation and computing resources while also helping to discover new materials. Predicting crystal structures following a chemical reaction is even more challenging because it requires an accurate potential energy surface for the entire reaction. First-principles crystal structure prediction is fundamentally difficult even for simple crystallization because of the need to consider a combinatorically enormous set of component arrangements using high-level quantum chemistry methods [113]. By contrast, machine learning is typically focused on empirical rules that have been extracted from a large amount of experimental information by algorithms, and this approach is attracting increasing attention.
+Research on crystal structure prediction received essentially no attention before the 1980s. Maddox described the lack of crystal structure prediction in materials science as “one of the stigmas in physics” [114]. Over the past 10 years, machine learning has been used for crystal structure prediction. In 2003, Curtarolo et al. [115] transferred the concept of heuristic rule extraction to a large library of ab initio calculated information and creatively combined machine learning with quantum mechanical calculations to predict the crystal structures of binary alloys. More specifically, the machine learning model was used to predict several candidate crystal structures, and DFT calculations were used to determine their thermodynamic stability. Nevertheless, the disadvantage of this machine learning method was that it only predicted crystal structures existing in the database instead of novel structures. By using electronegativity, atomic size and atomic location points to describe the crystal structure, Ceder et al. [116] investigated the structure prediction problem by employing principal component regression and Bayesian probability to relate electronegativity and atom size to crystal structure, thereby gaining considerable insight into the physical mechanism that dominates structure prediction. From the perspective of knowledge extraction from computational or experimental data, Fischer et al. [117] constructed an informatics-based structure suggestion model for structure prediction, Data Mining Structure Predictor (DMSP), which rigorously mines correlations embodied within experimental data and uses them to efficiently direct quantum mechanical techniques toward stable crystal structures. Phillips and Voth [118] introduced two point-clustering algorithms, DBSCAN and OPTICS, with which new types of crystalline structures can be automatically identified from large datasets of coordinates. To address the challenges of the high dimensionality of the microstructure space, multi-objective design requirements and the non-uniqueness of solutions in structure prediction, Liu et al. [119] proposed a systematic machine learning framework consisting of random data generation, feature selection and classification algorithms to predict the microstructures of magnetoelastic Fe-Ga alloys. The results showed that the framework outperforms traditional computational methods, with an average running time that is reduced by as much as 80% and an optimality that cannot be achieved otherwise. In 2016, by combining finite-temperature phonon calculations with PCA and regression analysis, Roekeghem et al. [120] calculated the mechanical stability of approximately 400 semiconducting oxides and fluorides with cubic perovskite structures at 0 K, 300 K and 1000 K. They ultimately found 92 perovskite compounds that are mechanically stable at high temperatures, including 36 new compounds. Targeting novel emissive layers for organic light-emitting diodes (OLEDs), Rafael et al. [34] employed a machine learning method to screen efficient OLED molecules, in which multi-task neural networks were used as the training algorithm and each molecule was converted into a fixed-dimensional vector using extended connectivity fingerprints (ECFPs). From 400,000 candidate molecules, they identified 2500 promising novel OLED molecules through machine learning pre-screening and collaborative decision-making. The excellent predictive power achieved resulted in the report of devices with over 22% efficiency. Sendek et al. [121] used an LR model for the screening of solid lithium-ion conductor materials. By screening the MP database for materials that satisfied specific requirements, they first cut the number of candidate materials down from 12,831 to 317, a reduction of 92.2%. Then, they applied LR to develop an ionic conductivity classification model for further screening, and the 21 most promising materials were finally obtained, corresponding to an overall reduction of 99.8%.
+From previous studies, the vast majority of unreported ‘dark’ (failed) chemical reactions are archived in laboratory notebooks that are generally inaccessible. In fact, however, these reactions contain valuable information for determining the boundaries between success and failure, and they may also be useful for new materials discovery. Raccuglia et al. [28] made full use of failed reaction data and demonstrated an alternative approach in which an SVM-derived DT algorithm trained on reaction data was used to predict reaction outcomes for the crystallization of templated vanadium selenites. The proposed method outperformed traditional human strategies, successfully predicting conditions for new organically templated inorganic product formation with a success rate of 89%.
+4.2. Component prediction
+Component prediction is another way to discover new materials. In brief, one must decide which chemical compositions are likely to form compounds. Machine learning is more widely applied in component prediction than in crystal structure prediction. The bottlenecks for empirical or semi-empirical methods are that the search space for components is very limited and such searches require many verification calculations and experiments, which can severely affect the new materials discovery progress. Currently, the research on machine-learning-based component prediction can be divided into two main classes: 1) the recommendation of element combinations from a pool of elements for a given structure and 2) the presentation of ionic substitutions for the discovery of new compounds. Whereas crystal structure prediction can be performed by means of regression analysis without any prior knowledge, component prediction proceeds by means of solving for a posteriori probabilities through a Bayesian statistical model.
+The difference between classical statistical models and Bayesian statistical models lies in whether prior information is used [122]. A Bayesian statistical model attaches great importance not only to the use of total sample information and single sample information but also to the collection, mining and processing of prior information. Bayesian statistical models are used to predict material components because they exhibit good performance for posterior probability estimation. Hautier et al. [32] used a Bayesian statistical method to extract knowledge from 183 common oxides in the ICSD database and successfully predicted 209 new ternary oxides. The calculation cost was reduced by nearly a factor of 30 compared with the traditional (exhaustive) method. Fig. 9 (a) shows the distribution of the new compounds for every A-B -O system across chemical classes, where A and B are plotted on the x and y axes, respectively. The elements are ordered according to their Mendeleev numbers. This ordering of the elements allows us to spot the different chemical classes in which new compounds have been directly found. Meredig et al. [33] used the same method for the component prediction of ternary compounds, instead of only ternary oxides; they successfully predicted 4500 kinds of ternary compounds with thermodynamic stability, and the computation time was reduced by six orders of magnitude compared with a single first-principles calculation.
+Download : Download high-res image (1MB)
+Download : Download full-size image
+Fig. 9. (a) Distribution of the new compounds for every A-B -O system across chemical classes, where A is plotted on the x axis and B is on the y axis [32]. (b) Logarithm (base 10) of the pair correlation g ab for each ion couple (a, b) [123].
+In a study of ionic-substitution-based component recommendation, Hautier et al. [123] proposed a model assessing the likelihood for ionic species to substitute for each other while preserving the crystal structure and showed how such a model can be used to predict new compounds and their crystal structures. The predictive power of this model was demonstrated via cross-validation on 2967 quaternary ionic compounds provided by the ICSD. As shown in Fig. 9 (b), positive values indicate a tendency to substitute, whereas negative values indicate a tendency not to substitute, and the substitution rules embedded in the model can be used to predict compounds in the much less populated quaternary space.
+As reviewed above, powerful machine learning tools can be developed for finding novel materials via both crystal structure prediction and component prediction. However, some difficulties still exist in the data collection stage when machine learning methods are used for crystal structure and component prediction. One of the main reasons for these difficulties is the lack of availability of large and consistent datasets due to the high cost of library synthesis.
+5. The application of machine learning for various other purposes
+Machine learning has been applied for material property prediction and new materials discovery, which has yielded many remarkable results. In addition, it is also employed to solve other problems related to materials science that involve massive computations and experiments. Note that some of these problems cannot be solved at all via traditional methods.
+5.1. Process optimization
+Process optimization is the design of the process parameters in material synthesis. In past production practice, reasonable material processing procedures were formulated through theoretical analysis and the accumulation of experience. Fuzzy neural networks (FNNs) represent a machine learning method that integrates the excellent learning capability of neural networks with fuzzy inference for deriving the initial rules of a fuzzy system. Han et al. [124] used MLR and FNN techniques to establish models of the relationship between the technological parameters and mechanical properties for the titanium alloy Ti-10V-2Fe-3Al; using these models, the optimal processing parameters for achieving the desired mechanical properties could be quickly selected. Compared with the MLR method, the FNN method achieved much better agreement with the experimental results, with a relative error below 7%, and showed better prediction precision in terms of the RMSE, R 2 and MAPE indices. In Refs. [125], [126], neuro-fuzzy and physically based models were jointly used to predict the flow stress and microstructural evolution during the thermomechanical processing of aluminum alloys, achieving reasonable agreement with the experimental data. In addition, in Ref. [127], a model based on least squares support vector machines (LSSVMs) was considered as a powerful modelling tool for optimizing the aging process of aluminum alloys, and a desirable solution was obtained.
+5.2. Finding density functionals
+More than 10,000 papers each year report solutions to electronic structure problems obtained using Kohn-Sham (KS) DFT. All approximate the exchange-correlation (XC) energy as a functional of the electronic spin densities. The quality of the results crucially depends on these density functional approximations. For example, the present approximations often fail for strongly correlated systems, rendering the methodology useless for some of the most interesting problems. Recently, by defining the key technical concepts that are needed to apply machine learning to DFT problems, Snyder et al. [128] adopted machine learning to address a prototype density functional problem: non-interacting spinless fermions confined to a 1D box, subject to a smooth potential. The accuracy achieved in approximating the kinetic energy (KE) of this system, with mean absolute errors below 1 kcal/mol on test densities similar to the training set when trained on fewer than 100 densities, is far beyond the capabilities of any present approximations. Moreover, it is even sufficient to produce highly accurate self-consistent densities. This machine learning approximation (MLA) approach uses many more inputs to achieve chemical accuracy but requires far less insight into the underlying physics.
+5.3. Battery monitoring
+Battery monitoring refers to the continuous determination of the state of a battery during operation. It is a challenging task in battery management systems (BMSs) because the state of the battery is affected by various internal and external conditions, and the relationship between these conditions and the battery state is nonlinear and changes over the lifetime of the battery. Impedance spectroscopy, voltage pulse response, and Coulomb counting are three of the main traditional methods used for battery monitoring, all of which have the same drawbacks: each is suitable only for a certain type of battery and works only for estimating the state of charge (SoC) of a battery in the steady state but fails for a battery that is being charged or discharged. Machine learning provides a superior means of predicting battery parameters because of its advantage of capturing the relationship between the battery state and related factors by constructing a trained model [129]. Great efforts have been devoted to employing machine learning methods to monitor various battery state parameters, such as the SoC, capacity, impedance parameters, available power, state of health (SoH) and remaining useful life (RUL), in real time.
+Li et al. [130] established an FNN model for SoC estimation in which the internal resistance, voltage and current of the battery are used as the primary input variables. Lee et al. [131] proposed a machine learning system implemented based on learning controllers, FNNs and cerebellar-model-articulation-controller networks for SoC estimation. By using voltage and discharge efficiency as the input variables, this machine learning system not only can generate an estimate of how much residual battery power is available but also can provide users with additional useful information, such as an estimated travel distance at a given speed. As part of the prediction of available power, a BP-ANN optimized using the Gauss-Newton (GN) method with gradient descent (GD) has been applied to predict the current aging state of a battery [132]. The trade-off between the computational cost of batch learning and the accuracy achieved during on-line adaptation was optimized, resulting in a real-time system with a time forward voltage prognosis (TFVP) absolute error of less than 1%. The SoH is a more powerful performance indicator that is closely related to the ability of a cell/battery to perform a particular discharge or charge function at a given instant in the charge-discharge-stand-cycle regime. SVM methods have been found to be a powerful means of SoH estimation. An SoH estimation method based on SVM models and virtual standard performance tests has been validated and evaluated [133]. In addition, machine learning has also been coupled with the extended Kalman filter (EKF) for monitoring battery states. Charkhgard and Farrokhi [134] used a neural network and the EKF to model the SoCs of LIBs, achieving good estimation of the SoC and fast convergence of the EKF state variables.
+5.4. Other classification problems
+In Ref. [135], in which the reconstruction of three-dimensional (3D) microstructures was posed and solved as a pattern recognition problem, a combination of classification methodology with PCA for the effective reduced-order representation of 3D microstructures was demonstrated. This pattern recognition technique uses two-dimensional microstructure signatures to generate 3D realizations in nearly real time, thus accelerating the prediction of materials properties and contributing to the development of materials by design. Addin et al. [136] introduced Bayesian networks in general and a Naïve Bayes classifier in particular as one of the most successful classification systems for simulating damage detection in engineering materials. In Ref. [137], a new three-step method that involves the most common descriptors, multivariate analysis techniques and DT models was proposed and successfully tested for assessing the characteristics of nanoparticle aggregates and classifying them into the four most widely accepted shapes: spheroidal, ellipsoidal, linear and branched. Furthermore, using the SVM approach, Fernandez et al. [138] developed the Quantitative Structure-Property Relationship (QSPR) model, which can rapidly and accurately recognize high-performing metal-organic framework (MOF) materials for CO 2 capture. The SVM classifier could recover 945 of the top 1000 MOFs in the test set while flagging only 10% of the entire library for compute-intensive screening.
+6. Analysis of and countermeasures for common problems
+6.1. Sample construction
+A sample is a subset of the original data that is selected for study in some prescribed manner. In the context of machine learning, the term sample refers to the basic data, which usually include training data and test data. At present, problems related to sample construction can be mainly divided into three types: the source of the sample data, the construction of feature vectors and the determination of the sample size.
+The sample data in materials science usually originate from computational simulations and experimental measurements, are collected by different research institutions or schools and lack a system of centralized management. The development of materials data infrastructures (as mentioned in section 1) has alleviated this problem, although each database is separate and not unified in data format, which still limits the applicability of machine learning.
+Feature vectors, which largely determine the accuracy of model prediction, are critical. Ideally, the feature vectors should provide a simple physical basis for the extraction of major structural and chemical trends and thus enable rapid predictions of new material chemistries. The most commonly used feature vectors in materials research mainly include the composition, structure, electron density and Coulomb matrix. Since each eigenvector is intended for a specific application, no unified eigenvector exists that is effective for all applications in materials research. Hansen et al. [101] employed different kinds of Coulomb matrices as feature vectors in the prediction of molecular atomization energies and demonstrated that different representations greatly influence the forecasting results. Schütt et al. [110] also emphasized the importance of materials representation throughout the entire problem-solving process based on several experiments. Ghiringhelli et al. [139] analyzed the critical role of feature vectors, employed the Least Absolute Shrinkage and Selection Operator (LASSO) technique for feature selection and revealed how a meaningful descriptor can be systematically found. Balachandran et al. [140] used PCA combined with DT and SVM methods to uncover the functional forms that mimic the most frequently used features and provided a mathematical basis for feature set construction without a priori assumptions. Furthermore, these authors applied the proposed method to study two broad classes of materials, namely, (1) wide-band-gap AB compounds and (2) rare earth-main group RM intermetallics, and demonstrated that the proposed method can be used to rapidly design new ductile materials.
+The determination of sample size is also a key factor during sample construction that is related to dimension reduction in machine learning. The sample size determines whether the sample data include the implied information about the inherent laws governing the sample, which strongly depends on the research project and the machine learning method chosen. Given that some methods with few parameters and low complexity, such as the SVM approach [88], can perform well when the sample size is small, complicated models such as ANNs [51], [101] can also achieve high prediction accuracy on high-quality sample data regardless of the sample size. For instance, Liu et al. [88] applied SVR to predict the T g of Ge x Se 1- x glass based on 9 samples, and Rao and Mukherjee [51] used only 14 samples for the prediction of the shear strength and percentage reinforcement of a ceramic-matrix composite. By contrast, Hansen et al. [101] used 7165 samples for the prediction of molecular atomization. Note that a good prediction effect was achieved on both types of samples, although the question of how to determine a research-topic-matched sample size is always one of the difficulties that must be faced.
+6.2. Generalization ability
+The ability to correctly predict new examples that differ from those used for training is known as generalization ability [52], which is one of the important evaluation criteria for machine learning. The generalization ability of a model f ˆ in SLT is usually expressed in terms of the generalization error, which is given in Eq. (6).(6) R exp(f ˆ)=E p[L(Y,f ˆ(x))]=∫ x y L(y,f ˆ(x))P(x,y)d x d y where x is the conditional attribute, y is the decision attribute, L is the loss function f ˆ(x) represents the prediction value generated by the model, and P(x,y) is the joint probability distribution of x and y.
+Improving the generalization ability of a model, which means minimizing the structure risk of the model (Eq. (7) ), is the universal goal of machine learning. (7) R s m(f ˆ)=1 N ∑ i=1 N L(y i,f ˆ(x i))+λ J(f ˆ)where N is the total sample size, J(f ˆ) represents the complexity of the model and is a functional defined in the hypothesis space F, and λ is a coefficient used to weight the empirical risk and the model complexity. The more complex the model f ˆ is, the greater the complexity J(f ˆ) is.
+As shown in Fig. 10, the tendencies of the training and prediction errors with increasing model complexity are different from each other. The generalization ability of a trained model is often related to the issues of under-fitting and/or over-fitting. Under-fitting means that the sample data are insufficient or the learning algorithm is not suitable, whereas over-fitting generally occurs when a model is excessively complex, such as having too many parameters relative to the number of observations. The generation abilities achieved in different applications of materials discovery and design vary widely. The RMSE value can vary over a large range, for instance, from 0.004467 [52] (for a model with a good generalization ability) to 20.195 [14] (for one with a poor generalization ability). Therefore, the question of how to improve the generalization ability of a model is an urgent problem that must be addressed, for which the sample quality, sample size and training algorithm should all be taken into consideration.
+Download : Download high-res image (147KB)
+Download : Download full-size image
+Fig. 10. Generalization ability of a machine learning model.
+6.3. Understandability
+At present, most machine learning models are treated as a “black box”, which means that the knowledge extracted by such a model is difficult to understand. For example, when an SVM model is used to solve a classification or regression problem, the optimal classification plane and/or the parameters of the fitted curve obtained through training are invisible and hidden in the model. The intelligibility of knowledge representation is one of the important metrics for evaluating a learning algorithm. In most areas, a machine learning model is expected to be intelligible because it will tend to be treated as a model with intelligible patterns and rules. Applications of machine learning in materials research similarly require models with good understandability. In the early days of applying machine learning to predict the behavior of materials, symbolic machine learning methods with good intelligibility were used. However, with the development of statistical learning methods, a problem of poor intelligibility arises. Therefore, the question of how to turn a “black box” into a “white box” and improve the intelligibility of the model is currently a problem that needs to be solved immediately. The most commonly used methods for solving problems of this kind are as follows: 1) Attempt to develop a more intelligible algorithm and avoid using algorithms with poor intelligibility. In Ref. [141], Yang et al. proposed a method for studying the explanatory capacity of ANNs, and thus, the “black box” problem was successfully overcome. 2) Extract knowledge from the results of a poorly intelligible algorithm. For instance, the knowledge hidden in a neural network can be clearly expressed in an intelligible manner. Zhou [142] presented a critique of the prevailing rule quality evaluation framework in the context of rule extraction from neural networks, known as the FACC framework, arguing that two different goals of rule extraction have been confused. Liu et al. [143] proposed a new method called the impulse-force-based ART (IFART) neural network for earthquake prediction and extracted IF-THEN rules from the trained IFART neural network based on its architecture. As a result, both the prediction accuracy and reliability of earthquake prediction were improved.
+6.4. Usability
+Usability is the degree of complexity of using machine learning methods to solve practical problems. The complexity of applying machine learning in materials science manifests in two aspects. 1) The machine learning process is complex and cannot be performed without professional knowledge and instructions. For example, dimension reduction and correlation analysis should be applied to increase the prediction accuracy of a model when using machine learning for material property prediction. Ref. [115] reported a study on crystal structure prediction in which PCA was used to reduce the high dimensionality of the problem due to the high dimensionality of the sample, which helped to improve the prediction accuracy. Ref. [105] used a conditional attribute correlation analysis to explain the prediction results for the properties of organic polymer materials. 2) The determination of parameters is also a complex task. Because machine learning methods are very sensitive to these parameters and kernel functions, parameter determination is a key step in the machine learning process. The parameters of the machine learning methods used in materials science are largely determined through manual adjustment or based on experience. In addition, some optimization algorithms are adopted to optimize these parameters. For instance, Pei et al. [91] utilized a PSO algorithm to optimize SVM and ANN parameters. Therefore, determining how to improve the usability of machine learning methods is a problem that urgently needs to be solved.
+6.5. Learning efficiency
+The speed of machine learning is directly related to its practical application. Although high speeds are always pursued in model training and testing, it is impossible to achieve both simultaneously. For instance, the KNN method features a high training speed but a low testing speed, whereas neural network models have a low training speed but a high testing speed. Currently, the problem of learning efficiency is not of great concern in machine learning applications in materials science because the sample sizes for these machine learning applications are quite small, ranging from dozens to thousands. However, with the advancement of materials genome projects in countries around the world, materials science will enter the era of “big data”, and the data volume will become enormous, which will pose tremendous challenges in learning efficiency. Therefore, the question of how to improve the learning efficiency of machine learning will also become a problem that urgently needs to be solved. To this end, we will need to investigate the possibility of adopting high-performance computing methods, such as parallel computing and cloud computing, in this field.
+7. Concluding remarks
+As a branch of artificial intelligence and one of the hottest families of analysis techniques, machine learning is an important means through which computers can acquire knowledge. The various applications of machine learning span several hot topics in materials science, including new materials discovery, material property prediction and other purposes ranging from the macroscopic to the microscopic scale. The objects of the application of machine learning in materials science are very extensive, including inorganic oxide materials, electrolyte materials, metallic materials, and functional materials. The broad variety of related studies demonstrates that machine learning can be used to develop efficient and accurate tools for materials science. With the continuous development of theories and methods, the topics to which machine learning can be applied in materials science will become broader. Meanwhile, machine learning methods themselves are also worthy of further study.
+•
+Machine learning is applied in materials design and discovery mainly to solve problems of regression, classification, clustering and probability estimation. In addition, machine learning also exhibits good performance in solving problems involving correlation, sorting, and so forth. Therefore, the application of machine learning methods can still be expanded to solve more problems in materials science and will likely enable even greater developments.
+•
+Applications of machine learning in materials science usually involve the use of one specific method, such as an SVM, ANN and DT approach, for one kind of material or the comparison of the results of multiple machine learning methods to select the most suitable method for a given problem. This makes the application range of any particular model very limited. Therefore, if one could develop a unified framework and apply it to multiple problem-solving strategies, the applicability of machine learning methods in materials science would be greatly enhanced, and the efficiency and generalization ability of the trained models could also be improved.
+•
+Big data is a hot topic at present and is attracting extensive attention in various fields. The questions of how to store, manage and analyze high-volume data are challenging problems that need to be solved, in materials science research as well as other fields. Therefore, investigating the applications of machine learning in materials science against the background of big data is expected to be a crucial research direction for the future. In particular, deep learning has performed very well in the processing of large volumes of data and has enabled considerable breakthroughs in the fields of image processing, speech recognition and so forth. Consequently, it is worth considering the adoption of deep learning methods for intelligent big data analysis in materials science research.
+Acknowledgments
+This work was supported by the National Natural Science Foundation of China (Grant Nos. U1630134, 51622207 and 51372228 ), the National Key Research and Development Program of China (Grant Nos. 2017YFB0701600 and 2017YFB0701500 ), the Shanghai Institute of Materials Genome from the Shanghai Municipal Science and Technology Commission (Grant No. 14DZ2261200 ), the Shanghai Municipal Education Commission (Grant No. 14ZZ099) and the Natural Science Foundation of Shanghai (Grant No. 16ZR1411200 ).
+References
+[1]
+C. Nantasenamat, C. Isarankura-Na-Ayudhya, T. Naenna, V. Prachayasittikul
+A practical overview of quantitative structure-activity relationship
+Excli J, 8 (2009), pp. 74-88
+View Record in Scopus Google Scholar
+[2]
+K. Rajan
+Materials informatics
+Mater TodCay, 8 (2005), pp. 38-45
+Article Download PDF Google Scholar
+[3]
+J. About
+Materials genome initiative for global competitiveness
+National Science and Technology Council, USA (2011)
+Google Scholar
+[4]
+P. Hohenberg, W. Kohn
+Inhomogeneous electron gas
+Phys Rev, 136 (1964), pp. 864-871
+View Record in Scopus Google Scholar
+[5]
+W. Kohn, L.J. Sham
+Self-consistent equations including exchange and correlation effects
+Phys Rev, 140 (1965), pp. 1133-1138
+View Record in Scopus Google Scholar
+[6]
+B.J. Alder, T.E. Wainwright
+Studies in molecular dynamics. I. General method
+J Chem Phys, 31 (2) (1959), pp. 459-466
+CrossRef View Record in Scopus Google Scholar
+[7]
+A. Rahman
+Correlations in the motion of atoms in liquid argon
+Phys Rev, 136 (1964), pp. 405-411
+Google Scholar
+[8]
+K. Binder, A. Baumgärtner
+The Monte Carlo method in condensed matter physics, vol. 71, Springer-Verlag (1995)
+(2)
+[9]
+L.Q. Chen
+Phase-field models for microstructure evolution
+Annu Rev Mater Res, 32 (2002), pp. 113-140
+Google Scholar
+[10]
+I. Steinbach
+Phase-field models in materials science
+Modell Simul Mater Sci Eng, 17 (2009), p. 073001
+CrossRef Google Scholar
+[11]
+W.J. Boettinger, J.A. Warren, C. Beckermann, A. Karma
+Phase-field simulation of solidification
+Annu Rev Mater Res, 32 (2002), pp. 163-194
+View Record in Scopus Google Scholar
+[12]
+G.B. Olson
+Designing a new material world
+Science, 288 (2000), pp. 993-998
+View Record in Scopus Google Scholar
+[13]
+C. Camacho-Zuñiga, F.A. Ruiz-Treviño
+A new group contribution scheme to estimate the glass transition temperature for polymers and diluents
+Ind Eng Chem Res, 42 (2003), pp. 1530-1534
+View Record in Scopus Google Scholar
+[14]
+X.L. Yu, B. Yi, X.Y. Wang
+Prediction of the glass transition temperatures for polymers with artificial neural network
+J Theor Comput Chem, 7 (2008), pp. 953-963
+View Record in Scopus Google Scholar
+[15]
+https://www.mgi.gov.
+Google Scholar
+[16]
+A. Belsky, M. Hellenbrandt, V.L. Karen, P. Luksch
+New developments in the inorganic crystal structure database (ICSD): accessibility in support of materials research and design
+Acta Crystallogr, Sect B Struct Sci, 58 (2002), pp. 364-369
+View Record in Scopus Google Scholar
+[17]
+http://supercon.nims.go.jp.
+Google Scholar
+[18]
+S. Kirklin, J.E. Saal, B. Meredig, A. Thompson, J.W. Doak, M. Aykol, et al.
+The open quantum materials database (OQMD): assessing the accuracy of DFT formation energies
+npj Comput Mater, 1 (2015), p. 15010
+Google Scholar
+[19]
+F.H. Allen
+The cambridge structural database: a quarter of a million crystal structures and rising
+Acta Crystallogr, Sect B Struct Sci, 58 (2002), pp. 380-388
+Google Scholar
+[20]
+J. Hachmann, R. Olivaresamaya, S. Atahanevrenk, C. Amadorbedolla, R.S. Sanchezcarrera, A. Goldparker, et al.
+The Harvard clean energy project. large-scale computational screening and design of molecular motifs for organic photovoltaics on the world community grid
+J Phys Chem Lett, 2 (2011), pp. 2241-2251
+CrossRef View Record in Scopus Google Scholar
+[21]
+A. Jain, S.P. Ong, G. Hautier, W. Chen, W.D. Richards, S. Dacek, et al.
+Commentary: the materials project: a materials genome approach to accelerating materials innovation
+Apl Mater, 1 (1) (2013), p. 011002
+CrossRef Google Scholar
+[22]
+B. Puchala, G. Tarcea, E.A. Marquis, M. Hedstrom, H.V. Jagadish, J.E. Allison
+The materials commons: a collaboration platform and information repository for the global materials community
+JOM, 68 (8) (2016), pp. 2035-2044
+CrossRef View Record in Scopus Google Scholar
+[23]
+B. Blaiszik, K. Chard, J. Pruyne, R. Ananthakrishnan, S. Tuecke, I. Foster
+The materials data facility: data sservices to advance materials science research
+JOM, 68 (8) (2016), pp. 2045-2052
+CrossRef View Record in Scopus Google Scholar
+[24]
+A.G. Kusne, T. Gao, A. Mehta, L. Ke, M.C. Nguyen, K.-M. Ho, et al.
+On-the-fly machine-learning for high-throughput experiments: search for rare-earth-free permanent magnets
+Sci Rep, 4 (2014), p. 6367
+View Record in Scopus Google Scholar
+[25]
+K.P. Murphy
+Machine learning: a probabilistic perspective, vol. 58, MIT Press (2012), pp. 27-71
+View Record in Scopus
+[26]
+T. Mueller, A.G. Kusne, R. Ramprasad
+Machine learning in materials science: recent progress and emerging applications
+Rev Comput Chem, 29 (2016), p. 186
+CrossRef Google Scholar
+[27]
+L.M. Ghiringhelli, J. Vybiral, S.V. Levchenko, C. Draxl, M. Scheffler
+Big data of materials science: critical role of the descriptor
+Phys Rev Lett, 114 (10) (2015), p. 105503
+CrossRef View Record in Scopus Google Scholar
+[28]
+P. Raccuglia, K.C. Elbert, P.D.F. Adler, C. Falk, M.B. Wenny, A. Mollo, et al.
+Machine-learning-assisted materials discovery using failed experiments
+Nature, 533 (2016), pp. 73-76
+CrossRef View Record in Scopus Google Scholar
+[29]
+L.-Q. Chen, L.-D. Chen, S.V. Kalinin, G. Klimeck, S.K. Kumar, J. Neugebauer, et al.
+Design and discovery of materials guided by theory and computation
+npj Comput Mater, 1 (2015), p. 15007
+View Record in Scopus Google Scholar
+[30]
+G. Hautier, A. Jain, S.P. Ong
+From the computer to the laboratory: materials discovery and design using first-principles calculations
+J Mater. Sci, 47 (2012), pp. 7317-7340
+CrossRef View Record in Scopus Google Scholar
+[31]
+B.G. Sumpter, R.K. Vasudevan, T. Potok, S.V. Kalinin
+A bridge for accelerating materials by design
+npj Comput Mater, 1 (2015), p. 15008
+Google Scholar
+[32]
+G. Hautier, C.C. Fischer, A. Jain, T. Mueller, G. Ceder
+Finding nature's missing ternary oxide compounds using machine learning and density functional theory
+Chem Mater, 22 (2010), pp. 3762-3767
+CrossRef Google Scholar
+[33]
+B. Meredig, A. Agrawal, S. Kirklin, J.E. Saal, J.W. Doak, A. Thompson, et al.
+Combinatorial screening for new materials in unconstrained composition space with machine learning
+Phys Rev B, 89 (2014), p. 094104
+CrossRef View Record in Scopus Google Scholar
+[34]
+R. Gómez-bombarelli, J. Aguilera-Iparraguirre, T.D. Hirzel, D. Duvenaud, D. Maclaurin, M.A. Blood-Forsythe, et al.
+Design of efficient molecular organic light-emitting diodes by a high-throughput virtual screening and experimental approach
+Nat Mater, 15 (2016), pp. 1120-1128
+CrossRef View Record in Scopus Google Scholar
+[36]
+A. Agrawal, A. Choudhary
+Perspective: materials informatics and big data: realization of the “fourth paradigm” of science in materials science
+Apl Mater, 4 (5) (2016), pp. 1-17
+CrossRef Google Scholar
+[37]
+J. Hill, G. Mulholland, K. Persson, R. Seshadri, C. Wolverton, B. Meredig
+Materials science with large-scale data and informatics: unlocking new opportunities
+MRS Bull, 41 (5) (2016), pp. 399-409
+CrossRef View Record in Scopus Google Scholar
+[38]
+A. Jain, G. Hautier, S.P. Ong, K. Persson
+New opportunities for materials informatics: resources and data mining techniques for uncovering hidden relationships
+J Mater. Res, 31 (8) (2016), pp. 977-994
+CrossRef View Record in Scopus Google Scholar
+[39]
+S.R. Kalidindi, A.J. Medford, D.L. Mcdowell
+Vision for data and informatics in the future materials innovation ecosystem
+JOM, 68 (8) (2016), pp. 2126-2137
+CrossRef View Record in Scopus Google Scholar
+[40]
+L. Ward, C. Wolverton
+Atomistic calculations and materials informatics: a review
+Curr Opin Solid State Mater. Sci, 21 (3) (2016), pp. 167-176
+CrossRef Google Scholar
+[41]
+S.J. Russell, P. Norvig
+Artificial intelligence: a modern approach, second edition
+Pearson Educ, 263 (5) (2003), pp. 2829-2833
+Google Scholar
+[42]
+F. Rosenblatt
+The perceptron: a probabilistic model for information storage and organization in the brain
+Psychol Rev, 65 (1958), pp. 386-408
+CrossRef Google Scholar
+[43]
+A. Vahed, C.W. Omlin
+Rule extraction from recurrent neural networks using a symbolic machine learning algorithm, ICONIP
+IEEE (1999), pp. 712-717
+View Record in Scopus Google Scholar
+[44]
+V. Vapnik
+The nature of statistical learning theory
+Springer science & business media (2013)
+Google Scholar
+[45]
+G. De’ath, K.E. Fabricius
+Classification and regression trees: a powerful yet simple technique for ecological data analysis
+Ecol, 81 (11) (2000), pp. 3178-3192
+View Record in Scopus Google Scholar
+[46]
+http://www.sas.com/en_us/home.html.
+Google Scholar
+[47]
+H.R.V. Joze, M.S. Drew
+Improved machine learning for image category recognition by local color constancy
+IEEE (2010), pp. 3881-3884
+View Record in Scopus Google Scholar
+[48]
+P. Larrañaga, B. Calvo, R. Santana, C. Bielza, J. Galdiano, I. Inza, et al.
+Machine learning in bioformatics
+Briefings Bioinforma, 7 (2005), pp. 86-112
+Google Scholar
+[49]
+M. Eminagaoglu, S. Eren
+Implementation and comparison of machine learning classifiers for information security risk analysis of a human resources department
+International conference on computer information systems and industrial management applications, vol. 3 (2011), pp. 391-398
+Google Scholar
+[50]
+F. Olsson
+A literature survey of active machine learning in the context of natural language processing
+Swedish Institute of Computer Science (2009)
+Google Scholar
+[51]
+H.S. Rao, A. Mukherjee
+Artificial neural networks for predicting the macro mechanical behaviour of ceramic-matrix composites
+Comput Mater Sci, 5 (1996), pp. 307-322
+Article Download PDF View Record in Scopus Google Scholar
+[52]
+Y. Reich, N. Travitzky
+Machine learning of material behaviour knowledge from empirical data
+Mater Des, 16 (1996), pp. 251-259
+View Record in Scopus Google Scholar
+[53]
+C.H. Li, J. Guo, P. Qin, R.L. Chen, N.Y. Chen
+Some regularities of melting points of AB -type intermetallic compounds
+J Phys Chem Solids, 57 (1996), pp. 1797-1802
+Google Scholar
+[54]
+T.M. Mitchell
+Machine learning and data mining
+Commun Acm, 42 (1999), pp. 31-36
+View Record in Scopus Google Scholar
+[55]
+R.L. Peck, C. Olsen, J.L. Devore
+Introduction to statistics and data analysis
+Cengage Learning (2015)
+Google Scholar
+[56]
+S.M. Wu
+A review on coarse warranty data and analysis
+Reliab Eng Syst Saf, 114 (2013), pp. 1-11
+Article Download PDF Google Scholar
+[57]
+R. Kohavi, F. Provost
+Glossary of terms
+Mach Learn, 30 (1998), pp. 271-274
+Google Scholar
+[58]
+K. Fujimur, A. Seko, Y. Koyama, A. Kuwabara, I. Kishida, K. Shitara, et al.
+Accelerated materials design of lithium superionic conductors based on first principles calculations and machine learning algorithms
+Adv Energy Mater, 3 (2013), pp. 980-985
+View Record in Scopus Google Scholar
+[59]
+I. Guyon, A. Elisseeff
+An introduction to variable and feature selection
+J Mach Learn Res, 3 (2003), pp. 1157-1182
+Google Scholar
+[60]
+J.M. Hutchinson
+Determination of the glass transition temperature
+J Therm Anal Calorim, 98 (2009), pp. 579-589
+CrossRef View Record in Scopus Google Scholar
+[61]
+B. Efron, R.J. Tibshirani
+An introduction to the bootstrap
+CRC press (1994)
+Google Scholar
+[62]
+C.M. Bishop
+Pattern recognition and machine learning
+Springer, New York (2007)
+Google Scholar
+[63]
+J.F. Pei, C.Z. Cai, Y.M. Zhu, B. Yan
+Modeling and predicting the glass transition temperature of polymethacrylates based on quantum chemical descriptors by using hybrid PSO-SVR
+Macromol Theor Simul, 22 (2013), pp. 52-60
+CrossRef View Record in Scopus Google Scholar
+[64]
+S.F. Fang, M.P. Wang, W.H. Qi, F. Zheng
+Hybrid genetic algorithms and support vector regression in forecasting atmospheric corrosion of metallic materials
+Comput Mater Sci, 44 (2008), pp. 647-655
+Article Download PDF View Record in Scopus Google Scholar
+[65]
+W. Paszkowicz, K.D.M. Harris, R.L. Johnston
+Genetic algorithms: a universal tool for solving computational tasks in materials science
+Comput Mater Sci, 45 (2009), pp. ix-x
+Article Download PDF View Record in Scopus Google Scholar
+[66]
+X.J. Zhang, K.Z. Chen, X.A. Feng
+Material selection using an improved genetic algorithm for material design of components made of a multiphase material
+Mater Des, 29 (2008), pp. 972-981
+Article Download PDF View Record in Scopus Google Scholar
+[67]
+C.E. Mohn, W. Kob
+A genetic algorithm for the atomistic design and global optimisation of substitutionally disordered materials
+Comput Mater Sci, 45 (2009), pp. 111-117
+Article Download PDF View Record in Scopus Google Scholar
+[68]
+X. Ning, M. Walters, G. Karypisxy
+Improved machine learning models for predicting selective compounds
+J Chem Inf Model, 52 (2012), pp. 38-50
+CrossRef View Record in Scopus Google Scholar
+[69]
+O. Isayev, C. Oses, C. Toher, E. Gossett, S. Curtarolo, A. Tropsha
+Universal fragment descriptors for predicting properties of inorganic crystals
+Nat Commun, 8 (2017), p. 15679
+View Record in Scopus Google Scholar
+[70]
+J.H. Friedman
+Greedy function approximation: a gradient boosting machine
+Ann Stat, 29 (2001), pp. 1189-1232
+Google Scholar
+[71]
+G.V.S.M. Carrera, L.C. Branco, J. Aires-de-Sousa, C.A.M. Afonso
+Exploration of quantitative structure-property relationships (QSPR) for the design of new guanidinium ionic liquids
+Tetrahedron, 64 (2008), pp. 2216-2224
+Article Download PDF View Record in Scopus Google Scholar
+[72]
+C. Bertinetto, C. Duce, A. Micheli, R. Solaro, A. Starita, M.R. Tiné
+Evaluation of hierarchical structured representations for QSPR studies of small molecules and polymers by recursive neural networks
+J Mol Graph Model, 27 (2009), pp. 797-802
+Article Download PDF View Record in Scopus Google Scholar
+[73]
+S.C. Wang
+Artificial neural network, interdisciplinary computing in Java programming
+Kluwer Academic Publishers (2003), pp. 81-100
+CrossRef Google Scholar
+[74]
+Z. Guo, S. Malinov, W. Sha
+Modelling beta transus temperature of titanium alloys using artificial neural network
+Comput Mater. Sci, 32 (2005), pp. 1-12
+Article Download PDF Google Scholar
+[75]
+F. Altun, Özgür Kişi, K. Aydin
+Predicting the compressive strength of steel fiber added lightweight concrete using neural network
+Comput Mater. Sci, 42 (2008), pp. 259-265
+Article Download PDF View Record in Scopus Google Scholar
+[76]
+B. Topçu, M. Sarıdemir
+Prediction of properties of waste AAC aggregate concrete using artificial neural network
+Comput Mater Sci, 41 (2007), pp. 117-125
+View Record in Scopus Google Scholar
+[77]
+X. Chen, L. Sztera, H.M. Cartwright
+A neural network approach to prediction of glass transition temperature of polymers
+Int J Intell Syst, 23 (2008), pp. 22-32
+CrossRef Google Scholar
+[78]
+J. Gajewski, T. Sadowski
+Sensitivity analysis of crack propagation in pavement bituminous layered structures using a hybrid system integrating artificial neural networks and finite element method
+Comput Mater Sci, 82 (2014), pp. 114-117
+Article Download PDF View Record in Scopus Google Scholar
+[79]
+M. Salahinejad, T.C. Le, D.A. Winkler
+Capturing the crystal: prediction of enthalpy of sublimation, crystal lattice energy, and melting points of organic compounds
+J Chem Inf Model, 53 (2013), pp. 223-229
+CrossRef View Record in Scopus Google Scholar
+[80]
+D.A. Saldana, L. Starck, P. Mougin, B. Rousseau, N. Ferrando, B. Creton
+Prediction of density and viscosity of biofuel compounds using machine learning methods
+Energy Fuels, 26 (2012), pp. 2416-2426
+CrossRef View Record in Scopus Google Scholar
+[81]
+F. Häse, S. Valleau, E. Pyzer-Knapp, A. Aspuru-Guzik
+Machine learning exciton dynamics
+Chem Sci, 7 (8) (2016), pp. 5139-5147
+View Record in Scopus Google Scholar
+[82]
+H. Wu, A. Lorenson, B. Anderson, L. Witteman, H.T. Wu, B. Meredig, et al.
+Robust FCC solute diffusion predictions from ab-initio machine learning methods
+Comput Mater Sci, 134 (2017), pp. 160-165
+Article Download PDF View Record in Scopus Google Scholar
+[83]
+D.J. Scott, P.V. Coveney, J.A. Kilner, J.C.H. Rossiny, N. Mc N. Alford
+Prediction of the functional properties of ceramic materials from composition using artificial neural networks
+J Eur Ceram Soc, 27 (2007), pp. 4425-4435
+Article Download PDF View Record in Scopus Google Scholar
+[84]
+R.E. Raj, B.S.S. Daniel
+Prediction of compressive properties of closed-cell aluminum foam using artificial neural network
+Comput Mater Sci, 43 (2008), pp. 767-773
+Article Download PDF View Record in Scopus Google Scholar
+[85]
+S. Sivasankaran, R. Narayanasamy, T. Ramesh, M. Prabhakar
+Analysis of workability behavior of Al-SiC P/M composites using backpropagation neural network model and statistical technique
+Comput Mater Sci, 47 (2009), pp. 46-59
+Article Download PDF View Record in Scopus Google Scholar
+[86]
+P. Cavaliere
+Flow curve prediction of an Al-MMC under hot working conditions using neural networks
+Comput Mater. Sci, 38 (2007), pp. 722-726
+Article Download PDF View Record in Scopus Google Scholar
+[87]
+C. Cortes, V. Vapnik
+Support-vector networks
+Mach Learn, 20 (1995), pp. 273-297
+Google Scholar
+[88]
+Y. Liu, T.L. Zhao, G. Yang, W.W. Ju, S.Q. Shi
+A feature selection based two-stage support vector regression method for forecasting the transition temperature (T g) of Gex Se 1- x glass
+Comput Mater. Sci Submitt (2017)
+Google Scholar
+[89]
+B.T. Chen, T.P. Chang, J.Y. Shih, J.J. Wang
+Estimation of exposed temperature for fire-damaged concrete using support vector machine
+Comput Mater Sci, 44 (2009), pp. 913-920
+Article Download PDF View Record in Scopus Google Scholar
+[90]
+X. Liu, W.C. Lu, C.R. Peng, Q. Su, J. Guo
+Two semi-empirical approaches for the prediction of oxide ionic conductivities in ABO 3 perovskites
+Comput Mater Sci, 46 (2009), pp. 860-868
+CrossRef Google Scholar
+[91]
+J.F. Pei, C.Z. Cai, Y.M. Zhu
+Modeling and predicting the glass transition temperature of vinyl polymers by using hybrid PSO-SVR method
+J Theor Comput Chem, 12 (2013), p. 1350002
+Google Scholar
+[92]
+F. Gharagheizi, P. Ilani-Kashkouli, A.H. Mohammadi
+A group contribution method for estimation of glass transition temperature ionic liquids
+Chem Eng Sci, 81 (2012), pp. 91-105
+Article Download PDF View Record in Scopus Google Scholar
+[93]
+A. Ahmad, A. Amjad, M. Denny, C.A.S. Bergström
+Experimental and computational prediction of glass transition temperature of drugs
+J Chem Inf Model, 54 (2014), pp. 3396-3403
+Google Scholar
+[94]
+K. Yu, Y.Y. Cheng
+Machine learning techniques for the prediction of the peptide mobility in capillary zone electrophoresis
+Talanta, 71 (2007), pp. 676-682
+Article Download PDF View Record in Scopus Google Scholar
+[95]
+C. Helma, T. Cramer, S. Kramer, L. DeRaedt
+Data mining and machine learning techniques for the identification of mutagenicity inducing substructures and structure activity relationships of noncongeneric compounds
+J Chem Inf Comput Sci, 44 (2004), pp. 1402-1411
+View Record in Scopus Google Scholar
+[96]
+C.H. Li, Y.H. Thing, Y.Z. Zeng, C.M. Wang, P. Wu
+Prediction of lattice constant in perovskites of GdFeO 3 structure
+J Phys Chem Solids, 64 (2003), pp. 2147-2156
+View Record in Scopus Google Scholar
+[97]
+S.G. Javed, A. Khan, A. Majid, A.M. Mirza, J. Bashir
+Lattice constant prediction of orthorhombic ABO 3 perovskites using support vector machines
+Comput Mater. Sci, 39 (2007), pp. 627-634
+Article Download PDF View Record in Scopus Google Scholar
+[98]
+A. Majid, A. Khan, G. Javed, A.M. Mirza
+Lattice constant prediction of cubic and monoclinic perovskites using neural networks and support vector regression
+Comput Mater Sci, 50 (2010), pp. 363-372
+Article Download PDF View Record in Scopus Google Scholar
+[99]
+A. Majid, A. Khan, T. Choi
+Predicting lattice constant of complex cubic perovskites using computational intelligence
+Comput Mater Sci, 50 (2011), pp. 1879-1888
+Article Download PDF View Record in Scopus Google Scholar
+[100]
+M.W. Lufaso, P.M. Woodward
+Prediction of the crystal structures of perovskites using the software program SpuDS
+Acta Crystallogra, Sect B Struct Sci, 57 (2001), pp. 725-738
+View Record in Scopus Google Scholar
+[101]
+K. Hansen, G. Montavon, F. Biegler, S. Fazli, M. Rupp, M. Scheffler, et al.
+Assessment and validation of machine learning methods for predicting molecular atomization energies
+J Chem Theory Comput, 9 (2013), pp. 3404-3419
+CrossRef View Record in Scopus Google Scholar
+[102]
+R.Q. Liu, C.Y. Yabansu, A. Agrawal, S.R. Kalidindi, A.N. Choudhary
+Machine learning approaches for elastic localization linkages in high-contrast composite materials
+Integrating Mater Manuf Innov, 4 (1) (2015), p. 13
+Google Scholar
+[103]
+R.Q. Liu, C.Y. Yabansu, Z.J. Yang, A.N. Choudhary, S.R. Kalidindi, A. Agrawal
+Context aware machine learning approaches for modeling elastic localization in three-dimensional composite microstructures
+Integrating Mater Manuf Innov (2017), pp. 1-12
+Google Scholar
+[104]
+L. Ward, A. Agrawal, A. Choudhary, C. Wolverton
+A general-purpose machine learning framework for predicting properties of inorganic materials
+npj Comput Mater, 2 (2016), p. 16028
+Google Scholar
+[105]
+G. Pilania, C. Wang, X. Jiang, S. Rajasekaran, R. Ramprasad
+Accelerating materials property predictions using machine learning
+Sci Rep, 3 (2013), p. 2810
+Google Scholar
+[106]
+C. Chen, Z. Lu, F. Ciucci
+Data mining of molecular dynamics data reveals Li diffusion characteristics in garnet Li 7 La 3 Zr 2 O 12
+Sci Rep, 7 (2017), p. 40769
+Google Scholar
+[107]
+X. Wang, R. Xiao, H. Li, L.Q. Chen
+Quantitative structure-property relationship study of cathode volume changes in lithium ion batteries using ab-initio and partial least squares analysis
+J Materiomics (2 March 2017), 10.1016/j.jmat.2017.02.002
+Google Scholar
+[108]
+N. Castin, J.R. Fernández, R.C. Pasianot
+Predicting vacancy migration energies in lattice-free environments using artificial neural networks
+Comput Mater. Sci, 84 (2014), pp. 217-225
+Google Scholar
+[109]
+O. Anatole von Lilienfeld, R. Ramakrishnan, M. Rupp, A. Knoll
+Fourier series of atomic radial distribution functions: a molecular fingerprint for machine learning models of quantum chemical properties
+Int J Quantum Chem, 115 (2015), pp. 1084-1093
+Google Scholar
+[110]
+K.T. Schütt, H. Glawe, F. Brockherde, A. Sanna, K.R. Müller, E.K.U. Gross
+How to represent crystal structures for machine learning: towards fast prediction of electronic properties
+Phys Rev B, 89 (2014), p. 205118
+Google Scholar
+[111]
+W.W. Ju
+Research on materials properties prediction based on machine learning method
+Master Degree Thesis
+Shanghai University (2016)
+Google Scholar
+[112]
+D. Farrusseng, F. Clerc, C. Mirodatos, R. Rakotomalala
+Virtual screening of materials using neuro-genetic approach: concepts and implementation
+Comput Mater. Sci, 45 (2009), pp. 52-59
+Google Scholar
+[113]
+G.J.O. Beran
+A new era for ab initio molecular crystal lattice energy prediction
+Angew Chem Int Ed, 54 (2015), pp. 396-398
+Google Scholar
+[114]
+J. Maddox
+Crystals from first principles
+Nature, 335 (1988), p. 201
+Google Scholar
+[115]
+S. Curtarolo, D. Morgan, K. Persson, J. Rodgers, G. Ceder
+Predicting crystal structures with data mining of quantum calculations
+Phys Rev Lett, 91 (2003), p. 135503
+Google Scholar
+[116]
+G. Ceder, D. Morgan, C. Fischer, K. Tibbetts, S. Curtarolo
+Data-mining-driven quantum mechanics for the prediction of structure
+MRS Bull, 31 (2006), pp. 981-985
+Google Scholar
+[117]
+C.C. Fischer, K.J. Tibbetts, M. Dane, G. Ceder
+Predicting crystal structure by merging data mining with quantum mechanics
+Nat Mater, 5 (2006), pp. 641-646
+Google Scholar
+[118]
+C.L. Phillips, G.A. Voth
+Discovering crystals using shape matching and machine learning
+Soft Matter, 9 (2013), pp. 8552-8568
+Google Scholar
+[119]
+R. Liu, A. Kumar, Z. Chen, A. Agrawal, V. Sundararaghavan, A. Choudhary
+A predictive machine learning approach for microstructure optimization and materials design
+Sci Rep, 5 (2015), p. 11551
+Google Scholar
+[120]
+A.V. Roekeghem, J. Carrete, C. Oses, S. Curtarolo, N. Mingo
+High throughput thermal conductivity of high temperature solid phases: the case of oxide and fluoride perovskites
+(2016)
+Google Scholar
+[121]
+A.D. Sendek, Q. Yang, E.D. Cubuk, K.D. Duerloo, Y. Cui, E.J. Reed
+Holistic computational structure screening of more than 12000 candidates for solid lithium-ion conductor materials
+Energy Environ Sci, 10 (1) (2017), pp. 306-320
+Google Scholar
+[122]
+W.M. Bolstad
+Introduction to Bayesian statistics
+John Wiley & Sons (2004)
+Google Scholar
+[123]
+G. Hautier, C. Fischer, V. Ehrlacher, A. Jain, G. Ceder
+Data mined ionic substitutions for the discovery of new compounds
+Inorg Chem, 50 (2011), pp. 656-663
+Google Scholar
+[124]
+Y.F. Han, W.D. Zeng, Y. Shu, Y.G. Zhou, H.Q. Yu
+Prediction of the mechanical properties of forged Ti-10V-2Fe-3Al titanium alloy using FNN
+Comput Mater Sci, 50 (2011), pp. 1009-1015
+Google Scholar
+[125]
+M.F. Abbod, D.A. Linkens, Q. Zhu, M. Mahfouf
+Physically based and neuro-fuzzy hybrid modelling of thermomechanical processing of aluminium alloys
+Mater Sci Eng A, 333 (2002), pp. 397-408
+Google Scholar
+[126]
+Q. Zhu, M.F. Abbod, J. Talamantes-Silva, C.M. Sellars, D.A. Linkens, J.H. Beynon
+Hybrid modelling of aluminium-magnesium alloys during thermomechanical processing in terms of physically-based, neuro-fuzzy and finite element models
+Acta Mater, 51 (2003), pp. 5051-5062
+Google Scholar
+[127]
+S.F. Fang, M.P. Wang, M. Song
+An approach for the aging process optimization of Al-Zn-Mg-Cu series alloys
+Mater Des, 30 (2009), pp. 2460-2467
+Google Scholar
+[128]
+J.C. Snyder, M. Rupp, K. Hansen, K.R. Muller, K. Burke
+Finding density functionals with machine learning
+Phys Rev Lett, 108 (2012), p. 253002
+Google Scholar
+[129]
+S.Q. Shi, J. Gao, Y. Liu, Y. Zhao, Q. Wu, W.W. Ju, et al.
+Multi-scale computation methods: their applications in lithium-ion battery research and development
+Chin Phys B, 25 (2016), p. 018212
+Google Scholar
+[130]
+G.C. Li, H.Y. Wang, Z.L. Yu
+New method for estimation modeling of SOC of battery
+World Congr Softw Eng, 2 (2009), pp. 387-390
+Google Scholar
+[131]
+D.T. Lee, S.J. Shiah, C.M. Lee, Y.C. Wang
+State-of-charge estimation for electric scooters by using learning mechanisms
+IEEE Trans Veh Technol, 56 (2007), pp. 544-556
+Google Scholar
+[132]
+C. Fleischer, W. Waag, Z. Bai, D.U. Sauer
+Adaptive on-line state-of-available-power prediction of lithium-ion batteries
+J Power Electron, 13 (2013), pp. 516-527
+Google Scholar
+[133]
+V. Klass, M. Behm, G. Lindbergh
+A support vector machine-based state-of-health estimation method for lithium-ion batteries under electric vehicle operation
+J Power Sourc, 270 (2014), pp. 262-272
+Google Scholar
+[134]
+M. Charkhgard, M. Farrokhi
+State-of-charge estimation for lithium-ion batteries using neural networks and EKF
+IEEE Trans Ind Electron, 57 (2010), pp. 4178-4187
+Google Scholar
+[135]
+V. Sundararaghavan, N. Zabaras
+Classification and reconstruction of three-dimensional microstructures using support vector machines
+Comput Mater Sci, 32 (2005), pp. 223-239
+Google Scholar
+[136]
+O. Addin, S.M. Sapuan, E. Mahdi, M. Othman
+A Naïve-Bayes classifier for damage detection in engineering materials
+Mater Des, 28 (2007), pp. 2379-2386
+Google Scholar
+[137]
+R.F. Martinez, A. Okariz, J. Ibarretxe, M. Iturrondobeitia, T. Guraya
+Use of decision tree models based on evolutionary algorithms for the morphological classification of reinforcing nano-particle aggregates
+Comput Mater Sci, 92 (2014), pp. 102-113
+Google Scholar
+[138]
+M. Fernandez, P.G. Boyd, T.D. Daff, M.Z. Aghaji, T.K. Woo
+Rapid and accurate machine learning recognition of high performing metal organic frameworks for CO 2 capture
+J Phys Chem Lett, 17 (2014), pp. 3056-3060
+Google Scholar
+[139]
+L.M. Ghiringhelli, J. Vybiral, S.V. Levchenko, C. Draxl, M. Scheffler
+Big data of materials science: critical role of the descriptor
+Phys Rev Lett, 114 (2015), p. 105503
+Google Scholar
+[140]
+P.V. Balachandran, J. Theiler, J.M. Rondinelli, T. Lookman
+Materials prediction via classification learning
+Sci Rep, 5 (2015)
+Google Scholar
+[141]
+L. Yang, P. Wang, Y. Jiang, C. Jian
+Studying the explanatory capacity of artificial neural networks for understanding environmental chemical quantitative structure-activity relationship models
+J Chem Inf Model, 45 (2005), pp. 1804-1811
+Google Scholar
+[142]
+Z.H. Zhou
+Rule extraction: using neural networks or for neural networks?
+J Comput Sci Technol, 19 (2004), pp. 249-253
+Google Scholar
+[143]
+Y. Liu, H. Liu, B.F. Zhang, G.F. Wu
+Extraction of if-then rules from trained neural network and its application to earthquake prediction
+IEEE International Conference on Cognitive Informatics, vol. 56 (2004), pp. 37-44
+Google Scholar
+Cited by (499)
+Computational insights into quinoxaline-based corrosion inhibitors of steel in HCl: Quantum chemical analysis and QSPR-ANN studies
+2022, Arabian Journal of Chemistry
+Show abstract
+Intelligent disassembly of electric-vehicle batteries: a forward-looking overview
+2022, Resources, Conservation and Recycling
+Show abstract
+The advanced design of bioleaching process for metal recovery: A machine learning approach
+2022, Separation and Purification Technology
+Show abstract
+Comparison of conceptually different multi-objective Bayesian optimization methods for material design problems
+2022, Materials Today Communications
+Show abstract
+A novel integrated BPNN/SNN artificial neural network for predicting the mechanical performance of green fibers for better composite manufacturing
+2022, Composite Structures
+Show abstract
+Perspective: Predicting and optimizing thermal transport properties with machine learning methods
+2022, Energy and AI
+Show abstract
+View all citing articles on Scopus
+Y. Liu obtained her B.S. and M.S. in computer science from Jiangxi Normal University in 1997 and 2000. She finished her Ph.D. in control theory and control engineering from Shanghai University (SHU) in 2005. She has been working with the School of Computer Engineering and Science of SHU since July 2000. During that time, she has been a curriculum R&D manager at the Sybase-SHU IT Institute of Sybase Inc. from July 2003 to July 2004 and a visiting scholar at the University of Melbourne from Sep. 2012 to Sep. 2013. Her current main research interests are focused on machine learning and its applications in materials science and demand forecasting.
+T. Zhao is a graduate candidate in the School of Computer Engineering and Science, Shanghai University, China. He received his Bachelor of Engineering degree in computer science from the School of Computer and Software, Nanjing University of Information Science & Technology, China, in 2015. His main research interests are focused on machine learning for predicting the properties of lithium-ion batteries.
+W. J. received his B.S. in computer science from Anhui Normal University in 2013. He finished his M.S. in computer science from Shanghai University in 2016. His main research interests are focused on machine learning for predicting the properties of lithium-ion batteries.
+S. S. obtained his B.S. from Jiangxi Normal University in 1998. He finished his Ph.D. from the Institute of Physics, Chinese Academy of Sciences, in 2004. After that, he joined the National Institute of Advanced Industrial Science and Technology of Japan and Brown University in the USA as a senior research associate, where he remained until joining Shanghai University as a professor in early 2013. His research interests are focused on the fundamentals and microscopic design of energy storage and conversion materials related to lithium-ion batteries and CeO2-based solid-state oxide fuel cells.
+Peer review under responsibility of The Chinese Ceramic Society.
+© 2017 The Chinese Ceramic Society. Production and hosting by Elsevier B.V.
+
+<|end_search_result|>

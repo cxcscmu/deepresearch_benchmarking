@@ -1,0 +1,1 @@
+how the type of market structure influences business decisions and strategies

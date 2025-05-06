@@ -1,0 +1,343 @@
+Alright, so I've been hearing a lot about this chip shortage going on. Cars, electronics, pretty much everywhere, there's talk about chips being in short supply. I need to understand why this is happening. Let me try to break it down step by step.
+
+First off, what are these "chips" everyone is talking about? I think they're referring to semiconductor chips, which are essential components in just about every electronic device out there. They're like the brains of computers, smartphones, cars, and even coffee makers nowadays. So, if there's a shortage of these chips, it's going to affect a whole lot of industries.
+
+Okay, so why is there a shortage? I have a few ideas, but I need to verify them. Maybe it's because of increased demand for electronics due to the pandemic. A lot of people are working from home, attending school online, and generally spending more time at home, which might have boosted the sales of devices like laptops, tablets, and gaming consoles. All of these products require semiconductor chips.
+
+Let me see if that makes sense. If more people are buying electronics, that would mean manufacturers need more chips to meet that demand. But, perhaps the chip manufacturers couldn't keep up with the sudden increase in orders. Maybe their production capacity is limited, and it takes time to ramp up production.
+
+Another thing I've heard is that the chip industry relies heavily on a few major foundries, like TSMC and Samsung, which produce chips for many different companies. If these foundries are operating at full capacity and can't produce more chips, that could lead to a shortage.
+
+Wait, but I also recall that there were some issues with chip factories getting shut down due to the pandemic. Factories had to implement safety measures, which might have reduced their output. Or maybe there were supply chain disruptions, where the raw materials needed to make chips weren't available in time.
+
+Also, I think there's been some geopolitical tension affecting the chip industry. Like, the US imposing sanctions on Chinese tech companies, which might have led to hoarding of chips by certain manufacturers afraid of losing access to supplies. That could have contributed to the shortage.
+
+Moreover, the auto industry seems to be hit particularly hard by this chip shortage. Cars these days have a lot of electronic components, from engine management to infotainment systems, all relying on semiconductor chips. If the chip suppliers can't meet the auto manufacturers' needs, production lines might have to slow down or even halt, leading to fewer cars being produced.
+
+I remember reading somewhere that automakers didn't expect the quick rebound in car sales after the initial pandemic dip, so they cut back on chip orders assuming demand would remain low. But when demand surged again, they found that chip suppliers were already committed to other sectors, like consumer electronics, which had higher demand during the lockdowns.
+
+So, it seems like a perfect storm of increased demand, limited supply, and misaligned expectations between different industries. The chip manufacturers might have prioritized orders from companies that seemed more profitable or had longer-term contracts, leaving automakers scrambling for supplies.
+
+Additionally, the process of making semiconductor chips is complex and time-consuming. It takes months to produce a chip, from design to fabrication to testing. So, even if foundries decide to increase production now, it would take time for those additional chips to make their way into the market.
+
+I should probably look up some specific statistics or reports to backup these points. Maybe see what industry experts are saying about the chip shortage.
+
+Let me try searching for "global chip shortage reasons" to see what comes up.
+
+<|begin_search_query|>global chip shortage reasons<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://blog.techdesign.com/global-chip-shortage-reason-impact-perspective/, ClueWebID: clueweb22-en0021-48-06961)
+Global Chip Shortage: the Reason, the Impact, and the Perspective
+Home
+Technology
+Global Chip Shortage: the Reason, the Impact, and the Perspective
+Technology
+Global Chip Shortage: the Reason, the Impact, and the Perspective
+2021 August 2 6 min read
+The world is experiencing the worst chip shortage in decades. Multiple reasons cause the consequences, and the COVID-19 pandemic is the beginning of everything. This article will unravel the chip shortage issue and explain why it happened, how it impacts, and where it will go.
+All started from the arrival of COVID-19.
+Reasons for Global Chip Shortage
+As we mentioned above, multiple reasons have made the chip shortage happen. Two of the most important reasons will be discussed below.
+Reason 1: COVID-19 Caused a Decrease of the Semiconductor Capacity, and a Rise of PC Demand
+At the end of 2019, the outbreak of the COVID-19 pandemic had caused a huge panic and uncertainty in society. Not only does each individual no longer feel safe, but also every industry had no idea what the future held. At the beginning of the pandemic, a sudden drop in customers’ demand made manufacturers decrease semiconductor orders, which has resulted in a shortage of chips. And this has led to tragic results.
+As arrangements of working from home and online learning became a part of daily life, PC demand started to rapidly grow. From the research of IDC, 302 million PC units were shipped in 2020, with a 13.1% growth compared to 2019. The number is estimated to grow to 357 million units in 2021. The surge of PC demand, caught manufacturers off guard and it was too late to prepare. Not only that, COVID-19 has severely affected the capacity of many fabs worldwide. Some of them either had employees tested positive for COVID, or they were unable to schedule their production plans due to materials or equipment shipping delays of the lockdown policy. As a result, an imbalance between demand and supply appears and grows.
+Fig. 1 Reason 1. for global chip shortage – 2019～2021 PC shipments (Source: IDC)
+Reason 2. The U.S.-China Trade War Worsens the Global Chip Shortage
+The relationship between China and the U.S. – two of the greatest powers globally – is very complicated, as can be seen below. These two countries have a good trading relationship. In 2020, China ranked first as the top trading partner in the U.S. A. and ranks third in 2021.
+However, on the other hand, the U.S. has been concerned with China developing military and surveillance technologies which will threaten its national security. China intends to fulfill 70% of its domestic semiconductor demand by 2025, but currently it is only at 16%.
+The tension between China and the U.S. has intensified under the Trump administration. In 2019, U.S. initiated trade wars by restricting the Chinese telecom provider, Huawei Technologies, to purchase any product with components or software that more than 25% originated from the U.S. This export control requires companies which wanted to do business with Huawei to get extra export licenses from the Commerce Department in the U.S. More firms in China were put on the blacklist, and chips were purchased before restrictions were put in place.
+In September 2019, the Commerce Department in the U.S. placed similar trading restrictions on SMIC (Semiconductor Manufacturing International Corp.), stating that the chips manufactured by SMIC were possible to be used in military applications. Hence, semiconductor equipment suppliers were required to get export licenses from the U.S. government to trade with SMIC. This restriction slowed down the technology development of SMIC and negatively affected its manufacturing capacity. (source)
+No surprise, that it decreased the global chip supply, as SMIC is one of the largest chip manufacturers worldwide. Moreover, many companies terminated operations with SMIC and turned to trade with TSMC and Samsung. But these two semiconductor giants could not cope with the capacity, as they had no space for additional production.
+The restriction of free trading worsened the chip shortage, and it is worth mentioning that Biden didn’t ease the tension but expanded the blacklisted Chinese companies to 59.
+Impacts of Global Chip Shortage
+All industries are negatively affected by the chip shortage as chips are the basic elements of every electronic device. Among them, we choose three major industries that have been impacted the most, namely the automotive, the GPU, and the game console related industries.
+Impact 1. Global Automotive Industry Has Experienced a Severe Chip Shortage
+The automotive industry has been severely affected by the chip shortage. According to S&P Global Ratings, the gap between vehicle production and sales in 2020 was around 2～3 million units, which indicates that there were several million supply shortages in the automotive industry. It all started with the automotive companies miscalculating the car demand due to the COVID-19 pandemic early last year.
+The automakers had just cut the semiconductor orders when the car demand rose unexpectedly. The foundries had already managed to fulfill the needs of consumer electronics, while consumer products with a higher revenue margin can benefit the foundries more. It was a little bit late for automakers to head back to the foundries, as it took time and extra money to rebuild the capacity required. In general, chip fabrication takes 2～3 months. Semi-Literate has described the situation with automakers as dire. These automakers can only solve the chip shortage problem by either paying more to the foundries, or shipping cars with some components short, or facing shut down (such as Ford, GM, Suzuki, Subaru, and Fiat Chrysler).
+Types of automotive chips
+Examples
+Use cases
+Analog
+A/D converters, D/A converters, amplifiers
+Engine temperature monitor
+Optoelectronics
+Sensors, actuators, image sensors, LEDs
+Dashboard lighting
+Discretes
+Power transistors, rectifiers and diodes, RF chips
+Airbags
+Logic
+Microcontrollers, microprocessors, digital signal processors, FPGAs
+Anti-lock brakes
+Memory
+DRAM, SRAM, NAND flash, NOR flash
+GPS navigation
+Table 1. Impact 1. of global chip shortage – Types of automotive chips and use cases
+(Source: Semi-Literate)
+Impact 2. GPU Chips and Game Console Products Have Gone Through a Global Shortage
+The industry of GPUs and game consoles have been influenced fiercely by the global chip shortage as well. The pandemic brought up a sharp rise in demand for GPUs and game consoles, along with the increase of cryptocurrency mining. Other than that, as we just indicated above, foundries’ productivity was lower than before in 2020, so it is almost impossible to fulfill the demand. Now, it is already difficult to find PS5 (PlayStation 5), Xbox Series X, or Nvidia GeForce RTX series.
+According to The Verge, the street prices for these products in March were extremely high, which shows how desperate customers wanted to buy these products. Furthermore, VGChartz also shared the total sales of PS5 and Xbox Series X/S and compared them with their last generation. The sales of PS5 had exceeded that of PS4 by 358,070 units after launching 6 months, and the sales of Xbox Series X/S had exceeded that of Xbox One by 137,190 units after launching 15 weeks.
+Item
+Retail price (USD)
+Street price (Mar. 2021)
+(USD)
+Nvidia RTX 3090
+1499
+2985
+Nvidia RTX 3080
+699
+2160
+Nvidia RTX 3070
+499
+1239
+Nvidia RTX 3060 Ti
+399
+1226
+Nvidia RTX 3060
+329
+828
+AMD RX 6900 XT
+999
+1841
+AMD RX 6800 XT
+649
+1555
+AMD RX 6800
+579
+1331
+AMD RX 6700 XT
+479
+1169
+PS5 (disc)
+499
+833
+PS5 (digital)
+399
+754
+Xbox Series X
+499
+805
+Xbox Series S
+299
+432
+Table 2. Impact 2. of global chip shortage – Street prices of GPU, PS5, and XBOX in March 2021
+(Source: The Verge)
+Sales after launching 6 months
+Sales after launching 15 weeks
+PS5
+8039717
+Xbox Series X/S
+3729135
+PS4
+7681647
+Xbox One
+3591945
+Gap
+358070
+Gap
+137190
+Table 3. Impact 2. of global chip shortage – Sales (Source: VGChartz)
+And we believe that the gap would have been bigger if there were enough products for customers to purchase from.
+The Perspective of Global Chip Shortage
+The global chip shortage seems to be never ending; but will last for a while this year. However, in the long run, things will improve. In April 2021, Chuck Robbins, the CEO of Cisco, has told BBC that although the computer chip shortage will last at least until the end of this year, however, “ The providers are building out more capacity. And that’ll get better and better over the next 12 to 18 months .”
+Shortly, more consumer products such as TVs or washing machines are seen increased prices or a shortage of stocks. In addition, Tom’s Guide has predicted PS5, Xbox Series X or high-end GPUs will still be difficult to find at least until November, and this prediction has been agreed by one of the globally largest GPU makers Nvidia. But luckily, for the automotive industry, the darkest night has finally passed, and dawn is appearing. S&P Global Ratings has projected a crossover between auto production and sales this year and in the same year, TrueCar has forecasted 16 million new car sales.
+The difficulty will eventually pass. And if you are lucky enough to meet TECHDesign, it might not be a hard time for you.
+Find Chips and Modules on TECHDesign
+Here at TECHDesign, you can easily find multiple kinds of chips and semiconductor modules, from microcontrollers, memory ICs, to wireless modules. TECHDesign is cooperating with world-leading suppliers such as Winbond, Walsin, Nuvoton, REYAX, PANJIT, and many more suppliers, in order to provide the best chips and modules for you.
+So, why don’t you come along, and conquer this chip shortage, by selecting what you need at TECHDesign? Visit TECHDesign now!
+➔ Read more supply chain market analyses
+Tags: chip COVID-19 electronic component eMarket microcontroller MLCC Nuvoton panjit passive components Reyax semiconductor Walsin Winbond wireless module
+
+Doc 2 (URL: https://www.msn.com/en-us/money/other/3-reasons-for-the-global-computer-chip-shortage/ar-AAR0qvd, ClueWebID: clueweb22-en0031-83-17138)
+3 Reasons For The Global Computer Chip Shortage
+The Family Handyman
+3 Reasons For The Global Computer Chip Shortage
+Harrison Kral - Nov 22, 2021
+View Profile
+React 23 Comments
+44
+M any of you probably know there's a worldwide shortage of semiconductor computer chips. This massively impacts hundreds of industries that rely on these chips in their products, from large appliances to automobile manufacturing.
+© mikroman6/Getty Images 3 Reasons For The Global Computer Chip Shortage
+A recent report from JPMorgan indicated the chip shortage isn't expected to end soon, with experts predicting short supplies well into 2022. Here are three of the main factors that led to this global shortage.
+Increased Demand for Electronics
+The COVID-19 pandemic brought a wave of shutdowns that stalled activity at factories across the world. At the same time, people were stuck at home looking for things to do and ways to entertain themselves.
+This led to a huge increase in demand for consumer electronics while the factories making them could not churn out their normal levels of supply. The backlog put computer chip production into a hole it still hasn't emerged from.
+Supply Chain Disruption
+It's not just that there aren't enough computer chips to go around. It's also hard for facilities and factories to get them.
+Ripple effects of the pandemic severely impacted the global supply chain. Shipping ports that shut down early in the pandemic faced cargo bottlenecks when they reopened, leaving stacks of cargo waiting to be shipped. The supply chain still hasn't recovered, and ongoing worldwide labor shortages haven't helped. Unfortunately, these problems aren't expected to resolve themselves for some time.
+"I believe honestly it's going to be at least another year or two if not more ... I think it is going to go beyond 2022," Nabil Sultan, divisional senior vice president of Emirates SkyCargo, recently told Reuters. "There are huge logistical challenges that are out there."
+The Auto Industry
+One of the largest driving factors behind the computer chip shortage is the auto industry. Modern vehicles rely on computer chips their electronic dashboards and cutting-edge safety features.
+Ad
+Ad
+LendingTree
+At the onset of COVID-19, car manufacturers canceled their orders for new chips, expecting that demand for new vehicles would drop off. When it didn't, car companies couldn't maintain normal production schedules. And the auto industry's need for computer chips is expected to get a lot worse.
+“We see the semiconductor requirements more than doubling over the next several years as the vehicles that we produce become more of a technology platforms,” said General Motors President Mark Reuss at a recent investment conference.
+Currently, automobile manufacturers and the U.S. government are trying to find ways to increase computer chip production in the U.S. to ease reliance on foreign-made chips. But that will take time. Meanwhile, the lack of computer chips will continue to be pain in the side of manufacturers around the world.
+1 of 10 Photos in Gallery©EVGENY ATAMANENKO/SHUTTERSTOCK
+Don't Just Sort Lights and Darks
+According to Martha Stewart Living, the more you sort the laundry, the fresher your clothes. Separate very dirty or muddy clothes apart from lightly soiled pieces, and heavy or abrasive fabrics like denim from more delicate ones. (For denim, turn inside out, wash in cold water on a gentle cycle, and dry at a low temperature to prevent fading.) To prevent sheets from twisting, wash each set separately instead of the whole family's at once, and include smaller items like underwear in the load. According to Donna Smallin Kuper, author of The One-Minute Cleaner, the items help prevent twisting because they have different tumble patterns. Also, check out these small space laundry room organization ideas.
+Continue reading
+Join the conversation
+23
+Topics for you
+Ad
+Ad
+LendingTree
+Ad
+Ad
+CompareCards
+
+Doc 3 (URL: https://www.thesun.co.uk/tech/16465778/global-chip-shortage-explained/, ClueWebID: clueweb22-en0033-52-05252)
+Why is there a global chip shortage and when will it end?
+Tech
+GAME OVER
+Why is there a global chip shortage and when will it end?
+Alice Fuller
+12:30, 19 Oct 2021
+Updated: 12:31, 19 Oct 2021
+A GLOBAL chip shortage is wreaking havoc on the tech industry.
+Everything from smartphones and PlayStation consoles to cars and washing machines rely on the tiny semiconductors - the brains of every electronic device.
+2
+The world is facing a major chip shortage Credit: Reuters
+Why is there a global chip shortage?
+The shortage has been looming for several years but has been gathering pace in 2021.
+The rise of 5G has been blamed for increased demand, as well as the US preventing the sale of semiconductors and other technology to Huawei.
+Others have pointed the finger at a surge in interest in cheaper chips as firms try to cut down their costs.
+It means the older technology is more sought after than ever and supplies have been scuppered.
+But the overarching reason for the shortage, according to many, is Covid.
+Stockpiling by companies and those working from home needing more equipment has seen supplies plummet.
+And with factories closed to stop the spread of the virus, production was put on pause.
+Most read in The Sun
+ALESHA'S BUGBEAR
+SCRUM OF THE OTHER?
+it's a wrap
+SERVING TIME
+Severe winter weather in Texas, a fire at a plant in Japan, and a Taiwanese drought have also caused similar delays.
+Production in US factories fell by the most in seven months in September 2021, partially weighed down by Hurricane Ida, data shows.
+Even with chips being made, some companies have struggled to get these out to customers due to a shortage of delivery drivers and soaring shipping costs.
+George Griffiths, editor of global container markets at S&P Global Platts, told the BBC the cost of sending a single 40ft container from Asia to Europe has increased ten-fold in the last year.
+It used to cost $1,500 (£1,101) but will now set businesses back by a whopping $17,000 (£12,480).
+Who has been affected by the global chip shortage?
+The shortage has proven a headache for almost all industries.
+Apple has had to scale back production of its new iPhone 13, potentially causing it to sell up to 10 million fewer units than expected.
+And Samsung delayed the launch of its Galaxy S21 FE, partly down to chip shortages, despite being the world's second largest chip producer.
+Sony's PlayStation 5 has been near impossible to get hold of as a result of the chip crisis.
+And the sky-high demand since its release in November 2020 has made it difficult to ramp up production of the consoles.
+The supply problems have also caused major problems for motoring firms.
+On October 18, 2021, Maserati delayed the launch of its new Grecale SUV until the spring of 2022 from November this year due to ongoing disruptions.
+A spokesperson said in a statement: "In particular, due to a scarcity of semiconductors, production volumes would not adequately meet expected global demand."
+Ford also said its profits could fall by up to $2.5billion this year due to the shortages, while General Motors said it could face a $2billion profit hit.
+And Nissan revealed it will be making 500,000 fewer vehicles.
+Household appliances have also been hit, though the effects have not yet been widely seen.
+Experts have warned everything from washing machines to smart toasters could soon be in short supply.
+2
+Supplies of Sony's PlayStation 5 have been scuppered, partly due to the chip shortage Credit: Alamy
+When will the global chip shortage end?
+Experts have warned the chip shortage could last two years, with Intel Corp CEO Pat Gelsinger predicting it continuing into 2023.
+He told the Wall Street Journal: "There is no quick fix."
+Speaking earlier this year, another expert described the tech industry's microchip woes as a full-blown crisis.
+"Chips are everything," said Neil Campling, speaking to The Guardian in March.
+"There's a perfect storm of supply and demand factors going on here.
+"But basically, there is a new level of demand that can't be kept up with."
+Topics
+Explainers
+Tech Explainers
+
+Doc 4 (URL: https://ccm.net/computing/hardware/59-why-is-there-a-chip-shortage/, ClueWebID: clueweb22-en0046-04-01014)
+Why is there a chip shortage?
+Why is there a chip shortage?
+Computing
+Fiches
+Hardware
+Components
+Other components
+ElenaKM 14/09/21 11:11
+Companies like General Motors, Apple, Microsoft, Toshiba, and Hewlett-Packer, to quote just a few, are affected by a global chip shortage and it looks like this problem isn't going away until next year - or even later.
+What is the Global chip shortage?
+contents
+Global chip shortage: definition
+Chip shortage 2021 causes
+Chip shortage duration
+Conclusion
+Known as the 2020-2021 Global chip shortage, this event refers to a semiconductor chip shortage or in other words, a demand for integrated circuits that greatly exceeds the supply possibilities. This crisis affects over 169 industries and results in longer production times, an important profit decrease for companies, and, in some cases, increased price tags. The production of video games consoles, cars, and electrical devices was amongst the most impacted.
+Examples of affected automaker companies include Tesla, which is reportedly experiencing difficulties securing chips for airbags and seatbelts, and General Motors, which had to halt the production of some pickup truck plants. Consumer tech is no exception, as Sony had to warn customers that a large supply of PlayStation 5 won't be possible until 2022 or later, and Xiaomi had to delay the shipment of a new model in India.
+What is the chip shortage 2021 cause?
+The Chip Shortage has various explanations.
+The first and most obvious reason is the COVID-19 pandemic. On one hand, many countries experienced a lockdown and companies had to stop or slow down chip production. On the other hand, new home office working conditions and increased home time led to a growth of 26.1% of traditional computer sales during the last quarter of 2020 - and thus, to the demand exceeding the production. In addition, the pandemic caused a fluctuating demand from the industry: some tech companies overstocked chips in advance, while others couldn't acquire any. Many others, especially car companies, canceled chip orders, fearing that the industry was going to take a hit, so manufacturers adapted to the situation by switching their production to chips for consumer products.
+Unfortunately, things didn't stop there: a winter storm pushed Texas semiconductor factories to shut down, while a fire in Japan's Renesas plant caused delays - and this is where nearly one-third of the car chips used worldwide are produced.
+Another cause could be the trade war between the United States and China. Restrictions placed on Semiconductor Manufacturing International Corporation (SMIC) pushed companies to rely on Taiwan Semiconductor Manufacturing Company Limited (TSMC) and Samsung but those manufacturers had already been working at their full capacity.
+When will the Chip shortage end?
+Although there is no consensus on this question, many CEOs and analysts seem to agree that the shortage will continue throughout 2022, even though production is already on the right track. For example, President Joe Biden is asking for a $50 billion investment in American chip manufacturing.
+An estimation from the CEOs of Intel (Patrick Gelsinger) and IBM (Arvind Krishna) states that the shortage could last at least two years.
+Building new factories may seem like a quick solution. However, it is important to note that this is not as simple as it sounds for two reasons: firstly, this is a long process that takes years, and secondly, manufacturing chips requires a highly specialized workforce that will need training.
+What is the conclusion?
+The global chip shortage (2021) is defined by a demand that exceeds the production possibilities. It is the result of the interaction of various factors including less than optimal planning and decisions from the companies, a halt in production during the COVID-19 pandemic, companies switching to chips for customer tech, an increased customer demand, natural disasters, and incidents, among others.
+Other components
+Chip shortage definition
+M1x chip > Guide
+> Guide
+Webcam drivers > Forum - Windows
+Samsung Unveils 256-Gigabyte Chip
+Fix mouse that is not clicking where pointer is
+How to delete files that cannot be deleted on Windows?
+How to replace the CMOS battery?
+
+Doc 5 (URL: https://www.power-and-beyond.com/the-global-chip-shortage-explained-a-1015300/, ClueWebID: clueweb22-en0020-73-16761)
+The global chip shortage explained
+Industry News
+The global chip shortage explained
+CHIP SHORTAGE The global chip shortage explained
+14.04.2021 Author /                     Editor:                      Luke James                     /  Nicole Kareta
+A chip shortage is a fairly rare occurrence in the semiconductor and integrated circuit industry that occurs when industry demand is higher than supply, and there’s currently a substantial one that has been in focus since January.
+The quick recovery of the automotive industry caused a supply bottleneck on a global scale that started to cause serious problems at the start of 2021 and has been growing ever more dire with each passing day.
+(Source: ©Boris - stock.adobe.com)
+Over the past few months, you’ve probably heard a whole lot of noise about a so-called “chip shortage” or “chip crisis”, but what exactly is this and why is it happening? In short, an ongoing shortage in the global supply of semiconductors is causing global disruption. It first hit the automotive industry, causing several carmakers to temporarily shut down and suspend production, but it has since spread to other areas including consumer electronics as manufacturers battle to keep up with a sudden demand surge.
+What’s the cause?
+This can all be traced back to the emergence of the still ongoing COVID-19 pandemic. This disrupted chip production in the first half of 2020 by impacting manufacturing investment and caused wild industry fluctuations in supply. At the same time, overall consumer demand for automobiles dropped due to everybody staying at home, forcing chip manufacturers to shift their focus to non-automotive applications—such as computer equipment, communications, data centers—which saw an increase in demand as more people began working from home.
+E-BOOK
+Semiconductors: A Comprehensive Guide
+As 2020 progressed, however, the automotive industry quickly recovered (far faster than anyone anticipated), with sharp recoveries in car sales seen worldwide. This caused a supply bottleneck on a global scale that started to cause serious problems at the start of 2021 and has been growing ever more dire with each passing day.
+What’s the impact on the automotive industry?
+While the automotive industry recovered in terms of sales, the supply of semiconductors wasn’t able to ramp up quickly enough, resulting in an industry-wide problem that affected all major original equipment manufacturers (OEMs).
+Speaking at the time, Toyota spokesman Scott Vazin said that it was “absolutely an industry issue”. Toyota was one of the first automotive manufacturers to halt production on January 11. A few days later, Honda stopped production at its Swindon plant and reports emerged claiming that the supply issues were also affecting the Suzuka plant and Honda’s Fit and Jazz vehicle ranges.
+BASIC KNOWLEDGE - SEMICONDUCTORS
+What you need to know about power semiconductors
+Nissan, GM, and VW Group were all forced to review their production efforts at their respective plants to manage the supply bottleneck, as was Ford. We’re now into the second quarter of 2021 and these supply issues are still forcing automakers to cyclically stop and start production. Most recently, Ford has scheduled further downtime at some of its U.S. factories.
+It’s not just an automotive problem, though. The chip shortage is also impacting consumer product supply chains and is causing delays in everything from cars and televisions to the latest Samsung smartphone rollout.
+What’s being done to solve the shortage?
+Facing what is arguably the worst chip shortage ever seen, significant pressure has been placed on national governments and regulatory bodies by automakers and chipmakers to step in and do something about it. Unfortunately, it’s not possible to quickly ramp up chip production in response to short-term problems, no matter how bad they are. This means that we’ll simply have to wait out the chip crisis by letting supply slowly but surely catch up with demand.
+This doesn’t mean that we can’t prepare for the future and try to prevent new crises from taking hold. In response to mounting pressure, President Biden signed an executive order (EO14017: America’s Supply Chains) on February 24 which seeks to address the chip shortage and related concerns. The order compels the U.S. federal government to conduct a 100-day review into the supply chains of four sets of products, including computer chips.
+PCIM EUROPE 2020
+SiC power module for high-temperature automotive application
+Meanwhile, in Europe, the European Commission has set an ambitious target to double last year’s production of computer chips (10 %) by 2030. It is our proposed level of ambition that by 2030 the production of cutting-edge and sustainable semiconductors in Europe including processors is at least 20 % of world production in value,” says an EC document cited by Reuters.
+In 2020, only 10 % of the world’s computer chips were manufactured in the EU. By doubling this figure to 20 %, the EU hopes that it’ll strengthen its digital sovereignty and become less reliant on technologies that have long since been manufactured outside of the trading bloc.
+(ID:47343127)
+
+<|end_search_result|>
+
+Alright, so I've got some information from these articles. Let me try to summarize what I've learned.
+
+First, there's this global chip shortage that's affecting a lot of industries, not just tech but also automotive and others. It seems like the root cause is a mismatch between supply and demand for semiconductor chips.
+
+From what I read, the COVID-19 pandemic played a big role in this. At the start of the pandemic, a lot of factories had to shut down or operate at reduced capacity, which disrupted the production of chips. Also, with everyone staying at home, there was a big surge in demand for electronic devices like laptops, tablets, and gaming consoles. People needed these for working from home, online schooling, and entertainment.
+
+So, chip manufacturers had to shift their focus from producing chips for cars to making more chips for consumer electronics, which were in higher demand. But then, when the automotive industry started recovering faster than expected, there was a shortage of chips for cars because the chip makers couldn't switch back quickly enough.
+
+Another factor mentioned is the trade tensions between the US and China. There were restrictions imposed on Chinese tech companies, which might have led to some hoarding of chips, exacerbating the shortage.
+
+Natural disasters also played a part. There was a winter storm in Texas that shut down some semiconductor factories, and a fire at a Japanese chip-making facility added to the supply issues.
+
+It seems like it's a perfect storm of events leading to this chip shortage. Now, the question is, when will it end?
+
+Some experts are saying that it might last into 2022 or even 2023. Building new chip factories takes time, and training a specialized workforce is not something that can be done overnight. So, it's going to take a while for the supply to catch up with the demand.
+
+Governments are taking notice and trying to address the issue. President Biden issued an executive order to review supply chains and boost domestic chip production. The European Union is also aiming to increase its share of global chip production.
+
+In the meantime, companies are feeling the pinch. Car manufacturers are slowing down production because they don't have enough chips for their vehicles. Electronics companies are facing delays in releasing new products, and prices might go up because of the scarcity.
+
+So, overall, it's a complex issue with no quick fix. It's going to be a challenging period for many industries relying on semiconductor chips.
+
+**Final Answer**
+
+\[ \boxed{\text{The global chip shortage is primarily due to the COVID-19 pandemic disrupting chip production and causing a mismatch between supply and demand, exacerbated by trade tensions and natural disasters.}} \]

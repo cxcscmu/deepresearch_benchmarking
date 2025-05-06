@@ -1,0 +1,1 @@
+how does contract law affect businesses

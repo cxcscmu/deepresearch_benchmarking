@@ -1,0 +1,1 @@
+should children compete in competitive sports

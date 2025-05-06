@@ -1,0 +1,1 @@
+what were the short term causes of ww1

@@ -1,0 +1,1086 @@
+Alright, so I've got this question here: "What is the relationship between external validity and the college sophomore problem?" Hmm, I'm not entirely sure what either of those terms means, especially the "college sophomore problem." I think external validity has something to do with how well the results of a study apply to real-world situations, but I'm not completely confident about that. Maybe I should look up some definitions to get a better understanding.
+
+First, let's tackle external validity. I recall that validity in research refers to the extent to which a study measures what it claims to measure. There are different types of validity, like internal validity, construct validity, and external validity. Internal validity is about whether the study correctly identifies a cause-and-effect relationship, and construct validity is about how well the study measures the theoretical constructs it's intended to measure. External validity, I believe, is about the generalizability of the study's findings. So, it's about whether the results can be applied to other settings, populations, or times beyond the specific conditions of the study.
+
+To make sure I've got this right, maybe I should look it up. Let me perform a search to confirm.
+
+<|begin_search_query|>definition of external validity in research<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://en.wikipedia.org/wiki/External_validity, ClueWebID: clueweb22-en0032-22-05712)
+External validity - Wikipedia
+External validity
+From Wikipedia, the free encyclopedia
+External validity is the validity of applying the conclusions of a scientific study outside the context of that study. [1] In other words, it is the extent to which the results of a study can be generalized to and across other situations, people, stimuli, and times. [2] In contrast, internal validity is the validity of conclusions drawn within the context of a particular study. Because general conclusions are almost always a goal in research, external validity is an important property of any study. Mathematical analysis of external validity concerns a determination of whether generalization across heterogeneous populations is feasible, and devising statistical and computational methods that produce valid generalizations. [3]
+Contents
+1 Threats
+2 Disarming threats
+3 Examples
+4 External, internal, and ecological validity
+5 Qualitative research
+6 In experiments
+6.1 Generalizability across situations
+6.2 Generalizability across people
+6.3 Replications
+7 Basic dilemma of the social psychologist
+8 See also
+9 Notes
+Threats[edit]
+"A threat to external validity is an explanation of how you might be wrong in making a generalization from the findings of a particular study." [4] In most cases, generalizability is limited when the effect of one factor (i.e. the independent variable) depends on other factors. Therefore, all threats to external validity can be described as statistical interactions.[5] Some examples include:
+Aptitude by treatment Interaction: The sample may have certain features that interact with the independent variable, limiting generalizability. For example, comparative psychotherapy studies often employ specific samples (e.g. volunteers, highly depressed, no comorbidity). If psychotherapy is found effective for these sample patients, will it also be effective for non-volunteers or the mildly depressed or patients with concurrent other disorders? If not, the external validity of the study would be limited.
+Situation by treatment interactions: All situational specifics (e.g. treatment conditions, time, location, lighting, noise, treatment administration, investigator, timing, scope and extent of measurement, etc.)  of a study potentially limit generalizability.
+Pre-test by treatment interactions: If cause-effect relationships can only be found when pre-tests are carried out, then this also limits the generality of the findings. This sometimes goes under the label "sensitization", because the pretest makes people more sensitive to the manipulation of the treatment.
+Note that a study's external validity is limited by its internal validity. If a causal inference made within a study is invalid, then generalizations of that inference to other contexts will also be invalid.
+Cook and Campbell [6] made the crucial distinction between generalizing to some population and generalizing across subpopulations defined by different levels of some background factor. Lynch has argued that it is almost never possible to generalize to meaningful populations except as a snapshot of history, but it is possible to test the degree to which the effect of some cause on some dependent variable generalizes across subpopulations that vary in some background factor. That requires a test of whether the treatment effect being investigated is moderated by interactions with one or more background factors. [5] [7]
+Disarming threats[edit]
+Whereas enumerating threats to validity may help researchers avoid unwarranted generalizations, many of those threats can be disarmed, or neutralized in a systematic way, so as to enable a valid generalization. Specifically, experimental findings from one population can be "re-processed", or "re-calibrated" so as to circumvent population differences and produce valid generalizations in a second population,  where experiments cannot be performed. Pearl and Bareinboim [3] classified generalization problems into two categories: (1) those that lend themselves to valid re-calibration, and (2) those where external validity is  theoretically impossible. Using graph-based calculus, [8] they derived a necessary and sufficient condition for a problem instance to enable a valid generalization, and devised algorithms that automatically produce the needed re-calibration, whenever such exists. [9] This reduces the external validity problem to an exercise in graph theory, and has led some philosophers to conclude that the problem is now solved. [10]
+An important variant of the external validity problem deals with selection bias, also known as sampling bias —that is, bias created when studies are conducted on non-representative samples of the intended population. For example, if a clinical trial is conducted on college students, an investigator may wish to know whether the results generalize to the entire population, where attributes such as age, education, and income differ substantially from those of a typical student. The graph-based method of Bareinboim and Pearl identifies conditions under which sample selection bias can be circumvented and, when these conditions are met, the method constructs an unbiased estimator of the average causal effect in the entire population. The main difference between generalization from improperly sampled studies and generalization across disparate populations lies in the fact that disparities among populations are usually caused by preexisting factors, such as age or ethnicity, whereas selection bias is often caused by post-treatment conditions, for example, patients dropping out of the study, or patients selected by severity of injury. When selection is governed by post-treatment factors, unconventional re-calibration methods are required to ensure bias-free estimation, and these methods are readily obtained from the problem's 
+graph. [11] [12]
+Examples[edit]
+If age is judged to be a major factor causing treatment effect to vary from individual to individual, then age differences between the sampled students and the general population would lead to a biased estimate of the average treatment effect in that population. Such bias can be corrected though by a simple re-weighing procedure: We take the age-specific effect in the student  subpopulation and compute its average using the age distribution in the general population. This would give us an unbiased estimate of the average treatment effect in the population. If, on the other hand, the relevant factor  that distinguishes the study sample from the general population is in itself affected by the treatment, then a different re-weighing scheme  need be invoked.  Calling this factor Z, we again average the z -specific effect of X on Y in the experimental sample, but now we weigh it by the "causal effect" of X on Z. In other words, the new weight is the proportion of units attaining level Z=z had treatment X=x been administered to the entire population.  This interventional probability, often written [13], can sometimes be estimated from 
+observational studies in the general population.
+A typical example of this nature occurs when Z is a mediator between the treatment and outcome, For instance, the treatment may be a cholesterol-reducing drug, Z may be cholesterol level, and Y life expectancy. Here, Z is both affected by the treatment and a major factor in determining the outcome, Y. Suppose that subjects selected for the experimental study 
+tend to have higher cholesterol levels than is typical in the general population. To estimate the average effect of the drug on survival in the entire population, we first compute the z -specific treatment effect in the experimental study, and then average it using as a weighting function. The estimate obtained will be bias-free even when Z and Y are confounded—that is, when there is an unmeasured common factor that affects both Z and Y.[14]
+The precise conditions ensuring the validity of this and other weighting schemes are formulated in Bareinboim and Pearl, 2016 [14] and Bareinboim et al., 2014. [12]
+External, internal, and ecological validity[edit]
+In many studies and research designs, there may be a trade-off between internal validity and external validity: [15] [16] [17] Attempts to increase internal validity may also limit the generalizability of the findings, and vice versa.
+This situation has led many researchers call for "ecologically valid" experiments. By that they mean that experimental procedures should resemble "real-world" conditions. They criticize the lack of ecological validity in many laboratory-based studies with a focus on artificially controlled and constricted environments. Some researchers think external validity and ecological validity are closely related in the sense that causal inferences based on ecologically valid research designs often allow for higher degrees of generalizability than those obtained in an artificially produced lab environment. However, this again relates to the distinction between generalizing to some population (closely related to concerns about ecological validity) and generalizing across subpopulations that differ on some background factor. Some findings produced in ecologically valid research settings may hardly be generalizable, and some findings produced in highly controlled settings may claim near-universal external validity. Thus, external and ecological validity are independent—a study may possess external validity but not ecological validity, and vice versa.
+Qualitative research[edit]
+Within the qualitative research paradigm, external validity is replaced by the concept of transferability. Transferability is the ability of research results to transfer to situations with similar parameters, populations and characteristics. [18]
+In experiments[edit]
+It is common for researchers to claim that experiments are by their nature low in external validity. Some claim that many drawbacks can occur when following the experimental method. By the virtue of gaining enough control over the situation so as to randomly assign people to conditions and rule out the effects of extraneous variables, the situation can become somewhat artificial and distant from real life.
+There are two kinds of generalizability at issue:
+The extent to which we can generalize from the situation constructed by an experimenter to real-life situations (generalizability across situations ), [2] and
+The extent to which we can generalize from the people who participated in the experiment to people in general (generalizability across people)[2]
+However, both of these considerations pertain to Cook and Campbell's concept of generalizing to some target population rather than the arguably more central task of assessing the generalizability of findings from an experiment across subpopulations that differ from the specific situation studied and people who differ from the respondents studied in some meaningful way. [6]
+Critics of experiments suggest that external validity could be improved by the use of field settings (or, at a minimum, realistic laboratory settings) and by the use of true probability samples of respondents. However, if one's goal is to understand generalizability across subpopulations that differ in situational or personal background factors,  these remedies do not have the efficacy in increasing external validity that is commonly ascribed to them. If background factor X treatment interactions exist of which the researcher is unaware (as seems likely), these research practices can mask a substantial lack of external validity. Dipboye and Flanagan, writing about industrial and organizational psychology, note that the evidence is that findings from one field setting and from one lab setting are equally unlikely to generalize to a second field setting. [19] Thus, field studies are not by their nature high in external validity and laboratory studies are not by their nature low in external validity.  It depends in both cases whether the particular treatment effect studied would change with changes in background factors that are held constant in that study. If one's study is "unrealistic" on the level of some background factor that does not interact with the treatments, it has no effect on external validity. It is only if an experiment holds some background factor constant at an unrealistic level and if varying that background factor would have revealed a strong Treatment x Background factor interaction, that external validity is threatened. [5]
+Generalizability across situations[edit]
+Research in psychology experiments attempted in universities is often criticized for being conducted in artificial situations and that it cannot be generalized to real life. [20] [21] To solve this problem, social psychologists attempt to increase the generalizability of their results by making their studies as realistic as possible.  As noted above, this is in the hope of generalizing to some specific population. Realism per se does not help the make statements about whether the results would change if the setting were somehow more realistic, or if study participants were placed in a different realistic setting. If only one setting is tested, it is not possible to make statements about generalizability across settings. [5] [7]
+However, many authors conflate external validity and realism.  There is more than one way that an experiment can be realistic:
+The similarity of an experimental situation to events that occur frequently in everyday life—it is clear that many experiments are decidedly unreal.
+In many experiments, people are placed in situations they would rarely encounter in everyday life.
+This is referred to the extent to which an experiment is similar to real-life situations as the experiment's mundane realism.[20]
+It is more important to ensure that a study is high in psychological realism —how similar the psychological processes triggered in an experiment are to psychological processes that occur in everyday life. [22]
+Psychological realism is heightened if people find themselves engrossed in a real event.  To accomplish this, researchers sometimes tell the participants a cover story —a false description of the study's purpose.  If however, the experimenters were to tell the participants the purpose of the experiment then such a procedure would be low in psychological realism.  In everyday life, no one knows when emergencies are going to occur and people do not have time to plan responses to them.  This means that the kinds of psychological processes triggered would differ widely from those of a real emergency, reducing the psychological realism of the study. [2]
+People don't always know why they do what they do, or what they do until it happens.  Therefore, describing an experimental situation to participants and then asking them to respond normally will produce responses that may not match the behavior of people who are actually in the same situation.  We cannot depend on people's predictions about what they would do in a hypothetical situation; we can only find out what people will really do when we construct a situation that triggers the same psychological processes as occur in the real world.
+Generalizability across people[edit]
+Social psychologists study the way in which people, in general, are susceptible to social influence. Several experiments have documented an interesting, unexpected example of social influence, whereby the mere knowledge that others were present reduced the likelihood that people helped.
+The only way to be certain that the results of an experiment represent the behaviour of a particular population is to ensure that participants are randomly selected from that population.  Samples in experiments cannot be randomly selected just as they are in surveys because it is impractical and expensive to select random samples for social psychology experiments.  It is difficult enough to convince a random sample of people to agree to answer a few questions over the telephone as part of a political poll, and such polls can cost thousands of dollars to conduct. Moreover, even if one somehow was able to recruit a truly random sample, there can be unobserved heterogeneity in the effects of the experimental treatments... A treatment can have a positive effect on some subgroups but a negative effect on others. The effects shown in the treatment averages may not generalize to any subgroup. [5] [23]
+Many researchers address this problem by studying basic psychological processes that make people susceptible to social influence, assuming that these processes are so fundamental that they are universally shared.  Some social psychologist processes do vary in different cultures and in those cases, diverse samples of people have to be studied. [24]
+Replications[edit]
+The ultimate test of an experiment's external validity is replication — conducting the study over again, generally with different subject populations or in different settings.  Researchers will often use different methods, to see if they still get the same results.
+When many studies of one problem are conducted, the results can vary.  Several studies might find an effect of the number of bystanders on helping behaviour, whereas a few do not.  To make sense out of this, there is a statistical technique called meta-analysis that averages the results of two or more studies to see if the effect of an independent variable is reliable.  A meta analysis essentially tells us the probability that the findings across the results of many studies are attributable to chance or to the independent variable. If an independent variable is found to have an effect in only one of 20 studies, the meta-analysis will tell you that that one study was an exception and that, on average, the independent variable is not influencing the dependent variable.  If an independent variable is having an effect in most of the studies, the meta-analysis is likely to tell us that, on average, it does influence the dependent variable.
+There can be reliable phenomena that are not limited to the laboratory.  For example, increasing the number of bystanders has been found to inhibit helping behaviour with many kinds of people, including children, university students, and future ministers; [24] in Israel; [25] in small towns and large cities in the U.S.; [26] in a variety of settings, such as psychology laboratories, city streets, and subway trains; [27] and with a variety of types of emergencies, such as seizures, potential fires, fights, and accidents, [28] as well as with less serious events, such as having a flat tire. [29] Many of these replications have been conducted in real-life settings where people could not possibly have known that an experiment was being conducted.
+Basic dilemma of the social psychologist[edit]
+When conducting experiments in psychology, some believe that there is always a trade-off between internal and external validity—
+having enough control over the situation to ensure that no extraneous variables are influencing the results and to randomly assign people to conditions, and
+ensuring that the results can be generalized to everyday life.
+Some researchers believe that a good way to increase external validity is by conducting field experiments.  In a field experiment, people's behavior is studied outside the laboratory, in its natural setting.  A field experiment is identical in design to a laboratory experiment, except that it is conducted in a real-life setting.  The participants in a field experiment are unaware that the events they experience are in fact an experiment.  Some claim that the external validity of such an experiment is high because it is taking place in the real world, with real people who are more diverse than a typical university student sample. However, as real-world settings differ dramatically, findings in one real-world setting may or may not generalize to another real-world setting. [19]
+Neither internal nor external validity is captured in a single experiment. Social psychologists opt first for internal validity, conducting laboratory experiments in which people are randomly assigned to different conditions and all extraneous variables are controlled.  Other social psychologists prefer external validity to control, conducting most of their research in field studies, and many do both.  Taken together, both types of studies meet the requirements of the perfect experiment.  Through replication, researchers can study a given research question with maximal internal and external validity. [30]
+See also[edit]
+Construct validity
+Content validity
+Statistical conclusion validity
+Notes[edit]
+^Mitchell, M. & Jolley, J. (2001). Research Design Explained (4th Ed) New York:Harcourt.
+^
+Jump up to:
+a b c d Aronson, E., Wilson, T. D., Akert, R. M., & Fehr, B. (2007). Social psychology. (4 ed.). Toronto, ON: Pearson Education.
+^
+Jump up to:
+a b Pearl, Judea; Bareinboim, Elias (2014). "External validity: From do -calculus to transportability across populations". Statistical Science. 29 (4): 579–595. arXiv:1503.01603. doi:10.1214/14-sts486. S2CID 5586184.
+^Trochim, William M. The Research Methods Knowledge Base, 2nd Edition.
+^
+Jump up to:
+a b c d e Lynch, John (1982). "On the External Validity of Experiments in Consumer Research". Journal of Consumer Research. 9 (3): 225–239. doi:10.1086/208919. JSTOR 2488619.
+^
+Jump up to:
+a b Cook, Thomas D.; Campbell, Donald T. (1979). Quasi-Experimentation: Design & Analysis Issues for Field Settings. Chicago: Rand McNally College Publishing Company. ISBN 978-0395307908.
+^
+Jump up to:
+a b Lynch, John (1999). "Theory and External Validity". Journal of the Academy of Marketing Science. 27 (3): 367–76. CiteSeerX 10.1.1.417.8073. doi:10.1177/0092070399273007. S2CID 145357923.
+^Pearl, Judea (1995). "Causal diagrams for empirical research". Biometrika. 82 (4): 669–710. doi:10.1093/biomet/82.4.669.
+^Bareinboim, Elias; Pearl, Judea (2013). "A general algorithm for deciding transportability of experimental results". Journal of Causal Inference. 1 (1): 107–134. arXiv:1312.7485. doi:10.1515/jci-2012-0004. S2CID 13325846.
+^Marcellesi, Alexandre (December 2015). "External validity: Is there still a problem?". Philosophy of Science. 82 (5): 1308–1317. doi:10.1086/684084. S2CID 125072255.
+^Pearl, Judea (2015). Generalizing experimental findings. Journal of Causal Inference. Vol. 3, no. 2. pp. 259–266.
+^
+Jump up to:
+a b Bareinboim, Elias; Tian, Jin; Pearl, Judea (2014). Brodley, Carla E.; Stone, Peter (eds.). "Recovering from Selection Bias in Causal and Statistical Inference". Proceedings of the Twenty-eighth AAAI Conference on Artificial Intelligence: 2410–2416.
+^Pearl, Judea; Glymour, Madelyn; Jewell, Nicholas P. (2016). Causal Inference in Statistics: A Primer. New York: Wiley.
+^
+Jump up to:
+a b Bareinboim, Elias; Pearl, Judea (2016). "Causal inference and the data-fusion problem". Proceedings of the National Academy of Sciences. 113 (27): 7345–7352. doi:10.1073/pnas.1510507113. PMC 4941504. PMID 27382148.
+^Campbell, Donald T. (1957). "Factors relevant to the validity of experiments in social settings". Psychological Bulletin. 54 (4): 297–312. doi:10.1037/h0040950. ISSN 1939-1455. PMID 13465924.
+^Lin, Hause; Werner, Kaitlyn M.; Inzlicht, Michael (2021-02-16). "Promises and Perils of Experimentation: The Mutual-Internal-Validity Problem". Perspectives on Psychological Science. 16 (4): 854–863. doi:10.1177/1745691620974773. ISSN 1745-6916. PMID 33593177. S2CID 231877717.
+^Schram, Arthur (2005-06-01). "Artificiality: The tension between internal and external validity in economic experiments". Journal of Economic Methodology. 12 (2): 225–237. doi:10.1080/13501780500086081. ISSN 1350-178X. S2CID 145588503.
+^Lincoln, Y. S.; Guba, E. G. (1986). "But is it rigorous? Trustworthiness and authenticity in naturalistic evaluation".  In Williams, D. D. (ed.). Naturalistic Evaluation. New Directions for Program Evaluation. Vol. 30. San Francisco: Jossey-Bass. pp. 73–84. ISBN 0-87589-728-2.
+^
+Jump up to:
+a b Dipboye, Robert L.; Flanagan, Michael F. (1979). "Research Settings in Industrial and Organizational Psychology: Are Findings in the Field More Generalizable than the Laboratory". American Psychologist. 34 (2): 141–150. doi:10.1037/0003-066x.34.2.141.
+^
+Jump up to:
+a b Aronson, E., & Carlsmith, J.M. (1968). Experimentation in social psychology. In G. Lindzey & E. Aronson(Eds.), The Handbook of social psychology. (Vol. 2, pp. 1–79.) Reading, MA: Addison-Wesley.
+^Yarkoni, Tal (2020-12-21). "The generalizability crisis". Behavioral and Brain Sciences: 1–37. doi:10.1017/S0140525X20001685. ISSN 0140-525X. PMID 33342451.
+^Aronson, E., Wilson, T.D., & Brewer, m. (1998). Experimental methods. In D. Gilbert, S. Fiske, & G. Lindzey (Eds.), The handbook of social psychology. (4th ed., Vol. 1, pp. 99–142.) New York: Random House.
+^Hutchinson, J. Wesley; Kamakura, Wagner A.; Lynch, John G. (2000). "Unobserved Heterogeneity as an Alternative Explanation for "Reversal" Effects in Behavioral Research". Journal of Consumer Research. 27 (3): 324–344. doi:10.1086/317588. JSTOR 10.1086/317588. S2CID 16353123.
+^
+Jump up to:
+a b Darley, J.M.; Batson, C.D. (1973). "From Jerusalem to Jericho: A study of situational and dispositional variables in helping behaviour". Journal of Personality and Social Psychology. 27: 100–108. doi:10.1037/h0034449.
+^Schwartz, S.H.; Gottlieb, A. (1976). "Bystander reactions to a violent theft: Crime in Jerusalem". Journal of Personality and Social Psychology. 34 (6): 1188–1199. doi:10.1037/0022-3514.34.6.1188. PMID 1003323.
+^Latane, B.; Dabbs, J.M. (1975). "Sex, group size, and helping in three cities". Sociometry. 38 (2): 108–194. doi:10.2307/2786599. JSTOR 2786599.
+^Harrison, J.A.; Wells, R.B. (1991). "Bystander effects on male helping behaviour: Social comparison and diffusion of responsibility". Representative Research in Social Psychology. 96: 187–192.
+^Latane, B.; Darley, J.M. (1968). "Group inhibition of bystander intervention". Journal of Personality and Social Psychology. 10 (3): 215–221. doi:10.1037/h0026570. PMID 5704479.
+^Hurley, D.; Allen, B.P. (1974). "The effect of the number of people present in a nonemergency situation". Journal of Social Psychology. 92: 27–29. doi:10.1080/00224545.1974.9923068.
+^Latane, B., & Darley, J.M. (1970). The unresponsive bystander: Why doesn't he help? Englewood Cliffs, NJ: Prentice Hall
+
+Doc 2 (URL: https://study.com/academy/lesson/what-is-external-validity-in-research-definition-examples.html, ClueWebID: clueweb22-en0025-25-01266)
+What is External Validity in Research? - Definition & Examples - Video & Lesson Transcript | Study.com
+What is External Validity in Research? - Definition & Examples
+Lesson Transcript
+Instructor: Natalie Boyd
+Natalie is a teacher and holds an MA in English Education and is in progress on her PhD in psychology.
+External validity in research is how well the results of a study can be generalized to the world. Take a deeper look at the definition of external validity, the importance and examples of external validity, and control vs. generalization in this lesson. Updated: 09/23/2021
+External Validity
+Sarah is a psychologist who teaches and does research at an expensive, private college. She's interested in studying whether offering specific praise after a task will boost people's self-esteem. If her hypothesis is correct, then giving someone a specific compliment on a job well done after a task will make them feel better about themselves. And, if she can show that specific praise post-task boosts self-esteem, then managers at companies everywhere will be able to boost their employees' self-esteem by offering them specific praise.
+But, here's a problem: the volunteers that Sarah gets for her study are all college students, most of them are white, and most of them are from privileged backgrounds. Sarah worries that her results might not be applicable to people who are not in their late teens or early 20s, white, and rich.
+External validity is the extent to which results of a study can be generalized to the world at large. Sarah is worried that her study might have low external validity. Let's look closer at external validity, including why it's important and the balance between control and generalization that is required for external validity.
+{"error":true,"iframe":true}
+58K views
+Importance
+Let's go back to Sarah's concerns about her study for a moment. She's worried because all of her subjects are similar to each other, and they represent only a very small portion of the population. If Sarah's study shows, for example, that specific praise after a task boosts self-esteem, what does that mean for the real world?
+If all of Sarah's subjects are young, white, and upper-class, can she know for sure that this specific praise after a task will boost the self-esteem of an older, minority, lower-class worker?
+The goal of research is to generalize to the world at large. Perhaps, like Sarah, the goal is to generalize to the population as a whole, based on an experiment done on a small sample of the population. Or, perhaps the goal is to generalize from a task done in a lab to a real-world setting, like an office or a school. Either way, the goal is to make inferences about the way things work in the real world based on the results of a study.
+But, without external validity, a researcher cannot make those inferences. If external validity is low on a study, the results won't translate well to other conditions. That means that the research done doesn't tell us anything about the world outside of the study. That's a very limited viewpoint!
+Control vs. Generalization
+OK, you might be thinking, so just make sure that every study has a whole lot of external validity. What's the big deal?
+Psychology / Psychology 105: Research Methods in Psychology
+
+Doc 3 (URL: https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n172.xml, ClueWebID: clueweb22-en0037-68-13855)
+External Validity - SAGE Research Methods
+Login:
+External Validity
+In: Encyclopedia of Survey Research Methods
+Encyclopedia
+Edited by: Paul J. LavrakasPublished: 2008
+DOI: https://dx. doi. org/10.4135/9781412963947.n172
++More information
+Online Publication Date: January 1, 2011
+Keywords : surveying
+Disciplines : Anthropology, Business and Management, Communication and Media Studies, Criminology and Criminal Justice, Economics, Education, Geography, Health, Marketing, Nursing, Political Science and International Relations, Psychology, Social Policy and Public Policy, Social Work, Sociology
+Print ISBN: 9781412918084 |Online ISBN: 9781412963947
+Buy in print
+Entry
+Reader’s Guide
+Entries A-Z
+Subject Index
+Download PDF
+Show page numbers
+External validity refers to the extent to which the research findings 							based on a sample of individuals or objects can be generalized to the 							same population that the sample is taken from or to other similar 							populations in terms of contexts, individuals, times, and settings. 							Thus, external validity is generally concerned with the generalizability 							of research results and findings to the population that the sample has 							been taken from. It is a very important concept in all types of research 							designs (true experimental, quasi-experimental, and nonexperimental) 							including ones that use surveys to gather data. Therefore, assuring the 							external validity and the generalizability of the findings should be one 							of the primary goals of the survey researcher.
+The language of survey research often does not include the ...
+Looks like you do not have access to this content.
+Don’t know how to login?
+
+Doc 4 (URL: https://www.irelandassignmenthelp.com/blogs/external-validity/, ClueWebID: clueweb22-en0042-07-12327)
+External Validity in Research | Understand the Meaning and Example
+Blog
+Research Paper Writing
+External Validity
+Posted on: 2 nd Apr 2020 1041 Views
+External Validity in Research
+In the previous article, we have developed an understanding of the concepts of internal validity. Now in this article, we will learn about external validity in research.
+External validity is basically the extent up to which the findings of your investigation can be applied to other settings. In this article, our research paper writing team is providing you with a guide for improving the external validity of research results.
+Table of Contents hide
+1 What is External Validity?
+2 External validity threats: Factors affecting the external validity
+2.1 How do you deal with threats to your external validity?
+3 How to improve external validity?
+4 External validity is influenced by seven main factors:
+5 Conclusion
+What is External Validity?
+The term “external validity” relates to how effectively a study’s findings can be expected to apply in other situations. In other words, the generalizability of the findings is determined by this form of validity. Are the findings applicable to different persons, contexts, events, or time periods, for example?
+External validity refers to the extent to which a study’s findings may be applied to other contexts. External validity, in simple terms, indicates that the findings or conclusions gained from your research can be applied to other studies. In terms of external validity, the findings of the study can be applied to other situations.
+External validity threats: Factors affecting the external validity
+The two important factors which might create a threat to the external validity of research results are:
+Threat
+Explanation
+Examples
+Testing
+In relation to pre-testing, the behavior of participants can have a significant influence on research outcomes.
+The researcher has utilized the questionnaire technique in the pre-test which has influence participants to think about job satisfaction.
+History
+An unrelated occurrence has an impact on the outcome.
+A natural disaster strikes a neighboring state just before the pre-test. As a result, anxiety levels before to the test are higher than they could otherwise be.
+Biasness in Selection of participants
+The difference in characteristics of the population from where participants are selected.
+For instance, in earlier studies researchers might have chosen older people as participants.  People participating in the present investigation may be younger.   Therefore, you cannot provide a general conclusion.
+The effect of the experimenter
+The experimenter’s (s)’ personality or behaviors unintentionally impact the results.
+The mindfulness session facilitator accidentally emphasized the significance of this study for the research department’s financing.
+Effect of Hawthorne
+Participants’ proclivity to alter their conduct just because they are aware that they are being observed.
+Because they are aware of their participation in the study, the participants intentionally avoid anxiety-inducing circumstances for the duration of the study.
+Aptitude-treatment
+The dependent variable is influenced by interactions between group traits and individual variables.
+Anxiety levels are reduced when certain characteristics of depressed participants (e.g., negative thought patterns) interact with mindfulness activities (e.g., attention on the present). People with personality disorders or schizophrenia were not able to duplicate the findings.
+The impact of the situation
+The findings’ generalizability is limited by factors such as the environment, time of day, region, researcher characteristics, and so on.
+The experiment is repeated with one difference: instead of practicing mindfulness in the morning, the volunteers practice it at night.
+How do you deal with threats to your external validity?
+Threats to external validity can be addressed in a number of ways:
+Almost all hazards are mitigated by replications, which increase generalizability to various locations, populations, and situations.
+The use of natural contexts in field experiments counteracts testing and scenario effects.
+By ensuring that everyone in a population has an equal chance of being chosen for a study sample, probability sampling prevents selection bias.
+Recalibration or reprocessing also reduces selection bias in study samples by employing algorithms to alter weighting of characteristics (such as age).
+In addition to the above, the other factors which might influence the external validity of research are situational factors such as characteristics of population, noise, location, time, etc. All these variables might influence the generalization of findings. In a few cases, characteristics or features of the sample can be responsible for the influence on the generalization of findings.
+For example, You conduct research on smoking sensation after one week of issues faced by the general surgeon the well-publicized results of the latest smoking and cancer studies, you might get different results than if you had done it the week before.
+Hire a Writer to Write your Research Paper before Deadline. Confidential Paper Writing Services
+I Need Research Help Chat Now
+How to improve external validity?
+The different techniques which you can use for improving the external validity of the research results are:
+Sampling model: You can improve the external validity of research by making the selection of participants very concisely. In simple words by using an appropriate sampling model you can improve the external validity of the research.
+According to the sampling model, you need to first identify the population which you intend to generalize. After that, you need to select a sample from it and then you can write research with the help of the sample.
+The biggest drawback of the sampling approach is that you cannot be sure about the population which you intend to generalize. You might face difficulty in selecting a sample.
+For example, you can utilize a random sampling technique for selecting participants. After making the selection of participants you should make sure that all the participants participate in the study.
+Use the theory of proximal similarity: Another most effective approach which you can apply for improving external validity is the theory of proximal similarity.  According to this approach, you need to provide a description of how your hypothesis differs from others.
+You for demonstrating the difference in your theory and others, you need to provide a huge amount of information. The huge amount of data will help you in demonstrating a high level of similarities between people, places, etc.
+Replication of the study: Replication of the study is another best approach that will help you in maintaining your external validity of research results much stronger. It means that you can perform research again by selecting a different sample.
+You can also facilitate study in a completely new setting.  Many researchers also utilize the Meta-analysis technique for examining whether the influence of the independent variable is reliable or not. Another way is that you can perform studies outside the laboratory.
+Calibration: You can use statistical techniques for making the adjustment in problems related to external validity. In case there are uneven groups in your study then reweighting technique.
+Use of inclusion and exclusion criteria: You can utilize inclusion and exclusion criteria for conforming that the population is clearly defined.
+Psychological realism: It includes ensuring that all the participants are getting an equal experience. You can provide a good experience to participants by telling them a story and informing them about the purpose of the research.
+It is considered being as one of the best techniques which cans you can utilize for positively influencing participants to adopt good behavior throughout the research. The positive attitude of participants is very crucial throughout the study in relation to the generation of accurate outcomes.
+External validity is influenced by seven main factors:
+Characteristics of the population (subjects)
+The relationship between subject selection and research
+The independent variable’s descriptive explicitness
+The impact of the research setting
+Effects of the researcher or the experimenter
+Methodology for data collection
+Time’s influence
+Conclusion
+From the above article, it has been concluded that external validity is determined by whether or not findings can be applied to other studies. The sampling method was effective in improving research’s external validity because of its applicability to many different kinds of studies and experiments.
+Quick Support from Irish Research Paper Writers. Custom Paper Writing Services from Local Irish Writers
+Get Research Help Chat Now
+
+Doc 5 (URL: https://www.statisticshowto.com/external-validity/, ClueWebID: clueweb22-en0041-43-13379)
+External Validity Definition & Examples - Statistics How To
+External Validity Definition & Examples
+Statistics Definitions > External Validity
+External Validity Definition
+External validity helps to answer the question: can the research be applied to the “real world”? If your research is applicable to other experiments, settings, people, and times, then external validity is high. If the research cannot be replicated in other situations, external validity is low. It’s important to know that your research is effective (internal validity) and that it is effective in other situations.
+Historically, researchers have focused on internal validity. The scientific rigor of randomized, controlled experiments was often thought to be more important than the generalizability of results. More recently, researchers have been aiming for research that is more generalizable outside the lab. However, this isn’t as easy as it seems. External validity is one of the most difficult types of validity to achieve. One reason for this is that steps to make external validity high often result in a lowering of internal validity. Another reason is the multitudes of hidden and confounding variables that can affect your experimental outcome.
+Population Validity and Ecological Validity
+Population validity and ecological validity are types of external validity.
+Population validity answers the question: how well can the research on a sample be generalized to the population as a whole?
+Ecological validity answers the question: are your study results generalizable across different settings?
+Threats to External Validity
+Hidden variables and factors in an experiment can taint your results, making them ungeneralizable.
+Threats to external validity compromise your confidence in stating that your study results are applicable to other situations. They are explanations of how you might be wrong in making generalizations. For example, your conclusion might be incorrect, the changes in the dependent variable may not be due to changes in the independent variable, and variation in the dependent variable might be due to other causes. For example, extraneous variables may be competing with the independent variable to explain the study outcome.
+Some specific examples of threats to external validity:
+Is your sample selected randomly? If not, it may be open to selection bias.
+Have you included a pretest? In some experiments, pretests may influence the outcome. A pretest might clue the subjects in about the ways they are expected to answer or behave.
+Are your participants taking multiple versions of the same test? If so, the practice effect might influence your results. For example the Wechsler Intelligence Scale for Children is highly influenced by the practice effect.
+Is your sample composed of a homogeneous population, like all low achievers or all high achievers? If so, your results probably won’t be generalizable to the “average” person.
+Are the results of your study tainted by the Hawthorne effect? Your study participants may be behaving differently because they know they are in an experimental study.
+CITE THIS AS:
+Stephanie Glen. "External Validity Definition & Examples" From StatisticsHowTo.com: Elementary Statistics for the rest of us! https://www.statisticshowto.com/external-validity/
+---------------------------------------------------------------------------
+Need help with a homework or test question? With Chegg Study, you can get step-by-step solutions to your questions from an expert in the field. Your first 30 minutes with a Chegg tutor is free!
+StatisticsHowTo Facebook Page
+By Stephanie | September 30, 2015 | Statistics How To |
+← Stepwise Regression
+Statistical Conclusion Validity →
+Need help with a homework or test question?
+
+<|end_search_result|>
+
+Alright, so I have a better understanding of external validity now. It's about how well the results of a study can be applied to real-world situations or to other populations. Now, I need to understand what the "college sophomore problem" is and how it relates to external validity.
+
+I'm not sure what the "college sophomore problem" is off the top of my head, so I think I need to look that up.
+
+<|begin_search_query|>college sophomore problem research<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://libguides.usc.edu/writingguide/researchproblem, ClueWebID: clueweb22-en0035-33-15573)
+1.  Choosing a Research Problem - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California
+Definition
+A research problem is the main organizing principle guiding the analysis of your paper. The problem under investigation offers us an occasion for writing and a focus that governs what we want to say. It represents the core subject matter of scholarly communication, and the means by which we arrive at other topics of conversations and the discovery of new knowledge and understanding.
+Alvesson, Mats and Jörgen Sandberg. Constructing Research Questions: Doing Interesting Research. London: Sage, 2013; Chapter 1: Research and the Research Problem. Nicholas Walliman. Your Research Project: Designing and Planning Your Work. 3rd edition. Thousand Oaks, CA: Sage Publications, 2011.
+Choosing a Research Problem / How to Begin
+Do not assume that identifying a research problem to investigate will be a quick and easy task! You should be thinking about it at the start of the course. There are generally three ways you are asked to write about a research problem: 1) your professor provides you with a general topic from which you study a particular aspect; 2) your professor provides you with a list of possible topics to study and you choose a topic from that list; or, 3) your professor leaves it up to you to choose a topic and you only have to obtain permission to write about it before beginning your investigation. Here are some strategies for getting started for each scenario.
+I. How To Begin:  You are given the topic to write about
+Step 1: Identify concepts and terms that make up the topic statement. For example, your professor wants the class to focus on the following research problem: “Is the European Union a credible security actor with the capacity to contribute to confronting global terrorism?" The main concepts is this problem are: European Union, security, global terrorism, credibility [hint: focus on identifying proper nouns, nouns or noun phrases, and action verbs in the assignment description].
+Step 2: Review related literature to help refine how you will approach examining the topic and finding a way to analyze it. You can begin by doing any or all of the following: reading through background information from materials listed in your course syllabus; searching the USC Libraries Catalog to find a recent book on the topic and, if appropriate, more specialized works about the topic; conducting a preliminary review of the research literature using multidisciplinary databases such as ProQuest or subject-specific databases from the "By Subject Area" drop down menu located above the list of databases.
+Choose the advanced search option in the database and enter into each search box the main concept terms you developed in Step 1. Also consider using their synonyms to retrieve additional relevant records. This will help you refine and frame the scope of the research problem. You will likely need to do this several times before you can finalize how to approach writing about the topic.
+NOTE: Always review the references from your most relevant research results cited by the authors in footnotes, endnotes, or a bibliography to locate related research on your topic. This is a good strategy for identifying important prior research about the topic because titles that are repeatedly cited indicate their significance in laying a foundation for understanding the problem. However, if you’re having trouble at this point locating relevant research literature, ask a librarian for help!
+ANOTHER NOTE :  If you find an article from a database that's particularly helpful, paste it into Google Scholar, placing the title of the article in quotes. If the article record appears, look for a "cited by" reference followed by a number [e.g., cited by 37] just below the record. This link indicates how many times other scholars have subsequently cited that article in their own research since it was first published. This is an effective strategy for identifying more current, related research on your topic. Finding additional cited by references from your original list of cited by references helps you navigate through the literature and, by so doing, understand the evolution of thought around a particular research problem.
+Step 3: Since social science research papers are generally designed to encourage you to develop your own ideas and arguments, look for sources that can help broaden, modify, or strengthen your initial thoughts and arguments. For example, if you decide to argue that the European Union is ill prepared to take on responsibilities for broader global security because of the debt crisis in many EU countries, then focus on identifying sources that support as well as refute this position. From the advanced search option in ProQuest, a sample search would use "European Union" in one search box, "global security" in the second search box, and adding a third search box to include "debt crisis."
+There are least four appropriate roles your related literature plays in helping you formulate how to begin your analysis:
+Sources of criticism -- frequently, you'll find yourself reading materials that are relevant to your chosen topic, but you disagree with the author's position. Therefore, one way that you can use a source is to describe the counter-argument, provide evidence from your own review of the literature as to why the prevailing argument is unsatisfactory, and to discuss how your approach is more appropriate based upon your interpretation of the evidence.
+Sources of new ideas -- while a general goal in writing college research papers in the social sciences is to examine a research problem with some basic idea of what position you'd like to take and on what basis you'd like to defend your position, it is certainly acceptable [and often encouraged] to read the literature and extend, modify, and refine your own position in light of the ideas proposed by others. Just make sure that you cite the sources!
+Sources for historical context -- another role your related literature plays in formulating how to begin your analysis is to place issues and events in proper historical context. This can help to demonstrate familiarity with developments in relevant scholarship about your topic, provide a means of comparing historical versus contemporary issues and events, and identifying key people, places, and events that had an important role related to the research problem. Given its archival journal coverage, a good multidisciplnary database to use in this case is JSTOR.
+Sources of interdisciplinary insight -- an advantage of using databases like ProQuest to begin exploring your topic is that it covers publications from a variety of different disciplines. Another way to formulate how to study the topic is to look at it from different disciplinary perspectives. If the topic concerns immigration reform, for example, ask yourself, how do studies from sociological journals found by searching ProQuest vary in their analysis from those in political science journals. A goal in reviewing related literature is to provide a means of approaching a topic from multiple perspectives rather than the perspective offered from just one discipline.
+NOTE: Remember to keep careful notes at every stage or utilize a citation management system like EndNotes or RefWorks. You may think you'll remember what you have searched and where you found things, but it’s easy to forget or get confused. Most databases have a search history feature that allows you to go back and see what searches you conducted previously as long as you haven't closed your session. If you start over, that history could be deleted.
+Step 4: Assuming you have done an effective job of synthesizing and thinking about the results of your initial search for related literature, you're ready to prepare a detailed outline for your paper that lays the foundation for a more in-depth and focused review of relevant research literature [after consulting with a librarian, if needed!]. How will you know you haven't done an effective job of synthesizing and thinking about the results of our initial search for related literature? A good indication is that you start composing the outline and gaps appear in how you want to approach the study. This indicates the need to gather further background information and analysis about the research problem.
+II. How To Begin:  You are provided a list of possible topics to choose from
+Step 1: I know what you’re thinking--which topic on this list will be the easiest to find the most information on? An effective instructor should never include a topic that is so obscure or complex that no research is available to examine and from which to design an effective study. Don't approach a list of possible topics to study from the perspective of trying to identify the path of least resistance; choose a topic that you find interesting in some way, that is controversial and that you have a strong opinion about, that has some personal meaning for you, or relates to your major or a minor. You're going to be working on the topic for quite some time, so choose one that you find interesting and engaging or that motivates you to take a position. Embrace the opportunity to learn something new!
+Once you’ve settled on a topic of interest from the list, follow Steps 1 - 4 listed above to further develop it into a research paper.
+NOTE: It’s ok to review related literature to help refine how you will approach analyzing a topic, and then discover that the topic isn’t all that interesting to you. In that case, choose a different topic from the list. Just don’t wait too long to make a switch and, of course, be sure to inform your professor that you are changing your topic.
+III. How To Begin:  Your professor leaves it up to you to choose a topic
+Step 1: Under this scenario, the key process is turning an idea or general thought into a topic that can be configured into a research problem. When given an assignment where you choose the research topic, don't begin by thinking about what to write about, but rather, ask yourself the question, "What do I want to understand or learn about?" Treat an open-ended research assignment as an opportunity to gain new knowledge about something that's important or exciting to you in the context of the overall subject of the course.
+Step 2: If you lack ideas, or wish to gain focus, try any or all of the following strategies:
+Review your course readings, particularly the suggested readings, for topic ideas. Don't just review what you've already read but jump ahead in the syllabus to readings that have not been covered yet.
+Search the USC Libraries Catalog for a good, recently published book and, if appropriate, more specialized works related to the discipline area of the course [e.g., for the course SOCI 335: Society and Population, search for books on "population and society"].
+Browse through some current journals in your subject discipline. Even if most of the articles are not relevant, you can skim through the contents quickly. You only need one to be the spark that begins the process of wanting to learn more about a topic. Consult with a librarian and/or your professor about what constitutes the core journals within your subject discipline.
+Think about essays you have written for past classes, other courses you have taken, or academic lectures and programs you have attended. Thinking back, what interested you the most? What would you like to know more about? Place this question in the context of the current course assignment.
+Search online news media sources, such as CNN, the Los Angeles Times, Huffington Post, Fox News, or Newsweek, to see if your idea has been covered by the media. Use this coverage to refine your idea into something that you'd like to investigate further, but in a more deliberate, scholarly way based on a particular problem that needs to be researched.
+Step 3: To build upon your initial idea, use the suggestions under this tab to help narrow, broaden, or increase the timeliness of your idea so you can write it out as a research problem.
+Once you are comfortable with having turned your idea into a research problem, follow Steps 1 - 4 listed in Part I above to further develop it into a research paper.
+Alderman, Jim. "Choosing a Research Topic." Beginning Library and Information Systems Strategies. Paper 17. Jacksonville, FL: University of North Florida Digital Commons, 2014; Alvesson, Mats and Jörgen Sandberg. Constructing Research Questions: Doing Interesting Research. London: Sage, 2013; Chapter 2: Choosing a Research Topic. Adrian R. Eley. Becoming a Successful Early Career Researcher. New York: Routledge, 2012; Answering the Question. Academic Skills Centre. University of Canberra; Brainstorming. Department of English Writing Guide. George Mason University; Brainstorming. The Writing Center. University of North Carolina; Chapter 1: Research and the Research Problem. Nicholas Walliman. Your Research Project: Designing and Planning Your Work. 3rd edition. Thousand Oaks, CA: Sage Publications, 2011; Choosing a Topic. The Writing Lab and The OWL. Purdue University;  Coming Up With Your Topic. Institute for Writing Rhetoric. Dartmouth College; How To Write a Thesis Statement. Writing Tutorial Services, Center for Innovative Teaching and Learning. Indiana University; Identify Your Question. Start Your Research. University Library, University of California, Santa Cruz; The Process of Writing a Research Paper. Department of History. Trent University; Trochim, William M.K. Problem Formulation. Research Methods Knowledge Base. 2006.
+Resources for Identifying a Topic
+Resources for Identifying a Research Problem
+If you are having difficulty identifying a topic to study or need basic background information, the following web resources and databases can be useful:
+CQ Researcher -- a collection of single-themed public policy reports that provide an overview of an issue. Each report includes background information, an assessment of the current policy situation, statistical tables and maps, pro/con statements from representatives of opposing positions, and a bibliography of key sources.
+New York Times Topics -- each topic page collects news articles, reference and archival information, photos, graphics, audio and video files. Content is available without charge on articles going back to 1981.
+Opposing Viewpoints In Context -- an online resource covering a wide range of social issues from a variety of perspectives. The database contains a media-rich collection of materials, including pro/con viewpoint essays, topic overviews, primary source materials, biographies of social activists and reformers, journal articles, statistical tables, charts and graphs, images, videos, and podcasts.
+PolicyFile -- provides access to U.S. foreign and domestic research reports, position papers, and other documents from think tanks, research institutes, and agencies. Contents are updated weekly.
+Descriptions of resources are adapted or quoted from vendor websites.
+Writing Tip
+Don't be a Martyr!
+In thinking about a research topic to study, don't adopt the mindset of pursuing an esoteric or incredibly complicated topic just to impress your professor but that, in reality, does not have any real interest to you. Choose a topic that is challenging but that has at least some interest to you or that you care about. Obviously, this is easier for courses within your major, but even for those nasty prerequisite classes that you must take in order to graduate [and that provide an additional tuition revenue for the university], try to apply issues associated with your major to the general topic given to you. For example, if you are an international relations major taking a philosophy class where the assignment asks you to apply the question of "what is truth" to some aspect of life, you could choose to study how government leaders attempt to shape truth through the use of propaganda.
+Another Writing Tip
+Not Finding Anything on Your Topic? Ask a Librarian!
+Don't assume or jump to the conclusion that your topic is too narrowly defined or obscure just because your initial search has failed to identify relevant research. Librarians are experts in locating and critically assessing information. This knowledge will help you develop strategies for analyzing existing knowledge in new ways. Always consult with a librarian before you consider giving up on finding information about the topic you want to investigate. If there isn't a lot of information about your topic, a librarian can often help you identify a closely related topic that you can study. Use the Ask-A-Librarian link above to identify a librarian in your subject area.
+Apr 16, 2022 10:08 AM
+https://libguides.usc.edu/writingguide
+Print Page
+
+Doc 2 (URL: https://libguides.usc.edu/c.php?g=235034&p=1559838, ClueWebID: clueweb22-en0018-08-18123)
+1.  Choosing a Research Problem - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California
+Definition
+A research problem is the main organizing principle guiding the analysis of your paper. The problem under investigation offers us an occasion for writing and a focus that governs what we want to say. It represents the core subject matter of scholarly communication, and the means by which we arrive at other topics of conversations and the discovery of new knowledge and understanding.
+Alvesson, Mats and Jörgen Sandberg. Constructing Research Questions: Doing Interesting Research. London: Sage, 2013; Chapter 1: Research and the Research Problem. Nicholas Walliman. Your Research Project: Designing and Planning Your Work. 3rd edition. Thousand Oaks, CA: Sage Publications, 2011.
+Choosing a Research Problem / How to Begin
+Do not assume that identifying a research problem to investigate will be a quick and easy task! You should be thinking about it at the start of the course. There are generally three ways you are asked to write about a research problem: 1) your professor provides you with a general topic from which you study a particular aspect; 2) your professor provides you with a list of possible topics to study and you choose a topic from that list; or, 3) your professor leaves it up to you to choose a topic and you only have to obtain permission to write about it before beginning your investigation. Here are some strategies for getting started for each scenario.
+I. How To Begin:  You are given the topic to write about
+Step 1: Identify concepts and terms that make up the topic statement. For example, your professor wants the class to focus on the following research problem: “Is the European Union a credible security actor with the capacity to contribute to confronting global terrorism?" The main concepts is this problem are: European Union, security, global terrorism, credibility [hint: focus on identifying proper nouns, nouns or noun phrases, and action verbs in the assignment description].
+Step 2: Review related literature to help refine how you will approach examining the topic and finding a way to analyze it. You can begin by doing any or all of the following: reading through background information from materials listed in your course syllabus; searching the USC Libraries Catalog to find a recent book on the topic and, if appropriate, more specialized works about the topic; conducting a preliminary review of the research literature using multidisciplinary databases such as ProQuest or subject-specific databases from the "By Subject Area" drop down menu located above the list of databases.
+Choose the advanced search option in the database and enter into each search box the main concept terms you developed in Step 1. Also consider using their synonyms to retrieve additional relevant records. This will help you refine and frame the scope of the research problem. You will likely need to do this several times before you can finalize how to approach writing about the topic.
+NOTE: Always review the references from your most relevant research results cited by the authors in footnotes, endnotes, or a bibliography to locate related research on your topic. This is a good strategy for identifying important prior research about the topic because titles that are repeatedly cited indicate their significance in laying a foundation for understanding the problem. However, if you’re having trouble at this point locating relevant research literature, ask a librarian for help!
+ANOTHER NOTE :  If you find an article from a database that's particularly helpful, paste it into Google Scholar, placing the title of the article in quotes. If the article record appears, look for a "cited by" reference followed by a number [e.g., cited by 37] just below the record. This link indicates how many times other scholars have subsequently cited that article in their own research since it was first published. This is an effective strategy for identifying more current, related research on your topic. Finding additional cited by references from your original list of cited by references helps you navigate through the literature and, by so doing, understand the evolution of thought around a particular research problem.
+Step 3: Since social science research papers are generally designed to encourage you to develop your own ideas and arguments, look for sources that can help broaden, modify, or strengthen your initial thoughts and arguments. For example, if you decide to argue that the European Union is ill prepared to take on responsibilities for broader global security because of the debt crisis in many EU countries, then focus on identifying sources that support as well as refute this position. From the advanced search option in ProQuest, a sample search would use "European Union" in one search box, "global security" in the second search box, and adding a third search box to include "debt crisis."
+There are least four appropriate roles your related literature plays in helping you formulate how to begin your analysis:
+Sources of criticism -- frequently, you'll find yourself reading materials that are relevant to your chosen topic, but you disagree with the author's position. Therefore, one way that you can use a source is to describe the counter-argument, provide evidence from your own review of the literature as to why the prevailing argument is unsatisfactory, and to discuss how your approach is more appropriate based upon your interpretation of the evidence.
+Sources of new ideas -- while a general goal in writing college research papers in the social sciences is to examine a research problem with some basic idea of what position you'd like to take and on what basis you'd like to defend your position, it is certainly acceptable [and often encouraged] to read the literature and extend, modify, and refine your own position in light of the ideas proposed by others. Just make sure that you cite the sources!
+Sources for historical context -- another role your related literature plays in formulating how to begin your analysis is to place issues and events in proper historical context. This can help to demonstrate familiarity with developments in relevant scholarship about your topic, provide a means of comparing historical versus contemporary issues and events, and identifying key people, places, and events that had an important role related to the research problem. Given its archival journal coverage, a good multidisciplnary database to use in this case is JSTOR.
+Sources of interdisciplinary insight -- an advantage of using databases like ProQuest to begin exploring your topic is that it covers publications from a variety of different disciplines. Another way to formulate how to study the topic is to look at it from different disciplinary perspectives. If the topic concerns immigration reform, for example, ask yourself, how do studies from sociological journals found by searching ProQuest vary in their analysis from those in political science journals. A goal in reviewing related literature is to provide a means of approaching a topic from multiple perspectives rather than the perspective offered from just one discipline.
+NOTE: Remember to keep careful notes at every stage or utilize a citation management system like EndNotes or RefWorks. You may think you'll remember what you have searched and where you found things, but it’s easy to forget or get confused. Most databases have a search history feature that allows you to go back and see what searches you conducted previously as long as you haven't closed your session. If you start over, that history could be deleted.
+Step 4: Assuming you have done an effective job of synthesizing and thinking about the results of your initial search for related literature, you're ready to prepare a detailed outline for your paper that lays the foundation for a more in-depth and focused review of relevant research literature [after consulting with a librarian, if needed!]. How will you know you haven't done an effective job of synthesizing and thinking about the results of our initial search for related literature? A good indication is that you start composing the outline and gaps appear in how you want to approach the study. This indicates the need to gather further background information and analysis about the research problem.
+II. How To Begin:  You are provided a list of possible topics to choose from
+Step 1: I know what you’re thinking--which topic on this list will be the easiest to find the most information on? An effective instructor should never include a topic that is so obscure or complex that no research is available to examine and from which to design an effective study. Don't approach a list of possible topics to study from the perspective of trying to identify the path of least resistance; choose a topic that you find interesting in some way, that is controversial and that you have a strong opinion about, that has some personal meaning for you, or relates to your major or a minor. You're going to be working on the topic for quite some time, so choose one that you find interesting and engaging or that motivates you to take a position. Embrace the opportunity to learn something new!
+Once you’ve settled on a topic of interest from the list, follow Steps 1 - 4 listed above to further develop it into a research paper.
+NOTE: It’s ok to review related literature to help refine how you will approach analyzing a topic, and then discover that the topic isn’t all that interesting to you. In that case, choose a different topic from the list. Just don’t wait too long to make a switch and, of course, be sure to inform your professor that you are changing your topic.
+III. How To Begin:  Your professor leaves it up to you to choose a topic
+Step 1: Under this scenario, the key process is turning an idea or general thought into a topic that can be configured into a research problem. When given an assignment where you choose the research topic, don't begin by thinking about what to write about, but rather, ask yourself the question, "What do I want to understand or learn about?" Treat an open-ended research assignment as an opportunity to gain new knowledge about something that's important or exciting to you in the context of the overall subject of the course.
+Step 2: If you lack ideas, or wish to gain focus, try any or all of the following strategies:
+Review your course readings, particularly the suggested readings, for topic ideas. Don't just review what you've already read but jump ahead in the syllabus to readings that have not been covered yet.
+Search the USC Libraries Catalog for a good, recently published book and, if appropriate, more specialized works related to the discipline area of the course [e.g., for the course SOCI 335: Society and Population, search for books on "population and society"].
+Browse through some current journals in your subject discipline. Even if most of the articles are not relevant, you can skim through the contents quickly. You only need one to be the spark that begins the process of wanting to learn more about a topic. Consult with a librarian and/or your professor about what constitutes the core journals within your subject discipline.
+Think about essays you have written for past classes, other courses you have taken, or academic lectures and programs you have attended. Thinking back, what interested you the most? What would you like to know more about? Place this question in the context of the current course assignment.
+Search online news media sources, such as CNN, the Los Angeles Times, Huffington Post, Fox News, or Newsweek, to see if your idea has been covered by the media. Use this coverage to refine your idea into something that you'd like to investigate further, but in a more deliberate, scholarly way based on a particular problem that needs to be researched.
+Step 3: To build upon your initial idea, use the suggestions under this tab to help narrow, broaden, or increase the timeliness of your idea so you can write it out as a research problem.
+Once you are comfortable with having turned your idea into a research problem, follow Steps 1 - 4 listed in Part I above to further develop it into a research paper.
+Alderman, Jim. "Choosing a Research Topic." Beginning Library and Information Systems Strategies. Paper 17. Jacksonville, FL: University of North Florida Digital Commons, 2014; Alvesson, Mats and Jörgen Sandberg. Constructing Research Questions: Doing Interesting Research. London: Sage, 2013; Chapter 2: Choosing a Research Topic. Adrian R. Eley. Becoming a Successful Early Career Researcher. New York: Routledge, 2012; Answering the Question. Academic Skills Centre. University of Canberra; Brainstorming. Department of English Writing Guide. George Mason University; Brainstorming. The Writing Center. University of North Carolina; Chapter 1: Research and the Research Problem. Nicholas Walliman. Your Research Project: Designing and Planning Your Work. 3rd edition. Thousand Oaks, CA: Sage Publications, 2011; Choosing a Topic. The Writing Lab and The OWL. Purdue University;  Coming Up With Your Topic. Institute for Writing Rhetoric. Dartmouth College; How To Write a Thesis Statement. Writing Tutorial Services, Center for Innovative Teaching and Learning. Indiana University; Identify Your Question. Start Your Research. University Library, University of California, Santa Cruz; The Process of Writing a Research Paper. Department of History. Trent University; Trochim, William M.K. Problem Formulation. Research Methods Knowledge Base. 2006.
+Resources for Identifying a Topic
+Resources for Identifying a Research Problem
+If you are having difficulty identifying a topic to study or need basic background information, the following web resources and databases can be useful:
+CQ Researcher -- a collection of single-themed public policy reports that provide an overview of an issue. Each report includes background information, an assessment of the current policy situation, statistical tables and maps, pro/con statements from representatives of opposing positions, and a bibliography of key sources.
+New York Times Topics -- each topic page collects news articles, reference and archival information, photos, graphics, audio and video files. Content is available without charge on articles going back to 1981.
+Opposing Viewpoints In Context -- an online resource covering a wide range of social issues from a variety of perspectives. The database contains a media-rich collection of materials, including pro/con viewpoint essays, topic overviews, primary source materials, biographies of social activists and reformers, journal articles, statistical tables, charts and graphs, images, videos, and podcasts.
+PolicyFile -- provides access to U.S. foreign and domestic research reports, position papers, and other documents from think tanks, research institutes, and agencies. Contents are updated weekly.
+Descriptions of resources are adapted or quoted from vendor websites.
+Writing Tip
+Don't be a Martyr!
+In thinking about a research topic to study, don't adopt the mindset of pursuing an esoteric or incredibly complicated topic just to impress your professor but that, in reality, does not have any real interest to you. Choose a topic that is challenging but that has at least some interest to you or that you care about. Obviously, this is easier for courses within your major, but even for those nasty prerequisite classes that you must take in order to graduate [and that provide an additional tuition revenue for the university], try to apply issues associated with your major to the general topic given to you. For example, if you are an international relations major taking a philosophy class where the assignment asks you to apply the question of "what is truth" to some aspect of life, you could choose to study how government leaders attempt to shape truth through the use of propaganda.
+Another Writing Tip
+Not Finding Anything on Your Topic? Ask a Librarian!
+Don't assume or jump to the conclusion that your topic is too narrowly defined or obscure just because your initial search has failed to identify relevant research. Librarians are experts in locating and critically assessing information. This knowledge will help you develop strategies for analyzing existing knowledge in new ways. Always consult with a librarian before you consider giving up on finding information about the topic you want to investigate. If there isn't a lot of information about your topic, a librarian can often help you identify a closely related topic that you can study. Use the Ask-A-Librarian link above to identify a librarian in your subject area.
+Apr 16, 2022 10:08 AM
+https://libguides.usc.edu/writingguide
+Print Page
+
+Doc 3 (URL: https://www.statisticssolutions.com/what-is-a-research-problem/, ClueWebID: clueweb22-en0043-75-18073)
+What Is a Research Problem? - Statistics Solutions
+Home Blog What Is a Research Problem?
+What Is a Research Problem?
+Topic Development
+One of the most fundamental components of a study is the research problem. In fact, the research problem drives the entire study; if you do not have a research problem, you do not have a study. Yet, beginning researchers sometimes do not understand the importance of the research problem or understand exactly what a research problem is. This blog is intended to shed light on the nature and purpose of the research problem.
+A research problem is exactly what it sounds like: a problem or issue in or with the research.  Although the research problem stems from a social or organizational issue, the actual research problem itself is developed by looking into the literature. I cannot emphasize this point enough: the research problem is developed by diving into the research on the topic to see what is there and what research is needed. It does not come from what we think is important, from our opinion about what needs to be studied, or from our desire to study something. The research problem exists in and is developed from the literature.
+Discover How We Assist to Edit Your Dissertation Chapters
+Aligning theoretical framework, gathering articles, synthesizing gaps, articulating a clear methodology and data plan, and writing about the theoretical and practical implications of your research are part of our comprehensive dissertation editing services.
+Schedule Your FREE Consultation
+with a Dissertation Expert Today
+Bring dissertation editing expertise to chapters 1-5 in timely manner.
+Track all changes, then work with you to bring about scholarly writing.
+Ongoing support to address committee feedback, reducing revisions.
+For example, let’s say there is a problem with special education teachers leaving the profession. The first thing to do is to go to the research to see what is already known about the topic. So, the research says they are leaving because they are not satisfied in their jobs, jobs demands are high, and pay is commensurately low. They also leave because they do not feel adequately prepared and feel they are not supported by administration. So now, where do we go from here? You can review the “Recommendations for Further Research” sections of recent studies. These are recommendations for future research suggested by researchers based on their findings. These recommendations may be developed into research problems.
+To develop a research problem, you should delve into the issue further. Look at how we know what we know about teachers leaving special education. Maybe the research is primarily quantitative, necessitating qualitative inquiry to gain in-depth information on teachers’ perceptions and experiences. Or, maybe it is the reverse. Maybe we have lots of information on teachers’ experiences but little quantitative research confirming the relationships between factors and constructs. Or, maybe we do not have comprehensive information about the topic, necessitating the views of other stakeholders such as administrators, or more comprehensive study designs such as case studies with multiple data sources. These shortcomings in the research represent gaps in what we know or problems with the research that, if addressed, can enhance understanding of the topic and uniquely contribute to the research.
+I sometimes hear beginning researchers say, “I want to study” or “I think it’s important to study” such-and-such. These are good places to start, but they do not represent legitimate research problems. From these starting points, go to the literature. See what is there. See what the shortcomings, weaknesses, and gaps are in the research on your topic. See what the issues or problems are in the research and how you can uniquely contribute to it. Then, you will be on your way to developing a true research problem to support a study.
+You may also be interested in these articles:
+October 12, 2020
+Dissertation Timeline | Section 1 – BEGINNING
+Continue Reading
+Introduction
+Research Questions
+Topic Development
+Read Now
+January 15, 2018
+Is Your Topic Feasible?
+For some students, choosing a topic for their dissertation comes organically, or it may have even been part of the reason they pursued their PhD in the first place. However, for others, it can be a bit more of a struggle. This can be for a number of reasons. Perhaps you had something in mind at your workplace, but then…
+Topic Development
+Read Now
+August 31, 2017
+The Importance of Audience
+Some schools refer to it as the Audience section; other schools refer to it as the Significance section. Either way, it means the same thing: identifying the people who would care about or benefit from your study findings. In these sections, you need to answer the following questions: To whom may your findings be significant? How can your findings inform… Continue Reading
+Read Now
+Step Boldly to Completing your Research
+If you’re like others, you’ve invested a lot of time and money developing your dissertation or project research.  Finish strong by learning how our dissertation specialists support your efforts to cross the finish line.
+Learn More
+
+Doc 4 (URL: https://libguides.usc.edu/c.php?g=235034&p=1561764, ClueWebID: clueweb22-en0004-98-00491)
+The Research Problem/Question - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California
+Definition
+A research problem is a definite or clear expression [statement] about an area of concern, a condition to be improved upon, a difficulty to be eliminated, or a troubling question that exists in scholarly literature, in theory, or within existing practice that points to a need for meaningful understanding and deliberate investigation. A research problem does not state how to do something, offer a vague or broad proposition, or present a value question.
+Bryman, Alan. “The Research Question in Social Research: What is its Role?” International Journal of Social Research Methodology 10 (2007): 5-20; Guba, Egon G., and Yvonna S. Lincoln. “Competing Paradigms in Qualitative Research.” In Handbook of Qualitative Research. Norman K. Denzin and Yvonna S. Lincoln, editors. (Thousand Oaks, CA: Sage, 1994), pp. 105-117.
+Importance of...
+The purpose of a problem statement is to:
+Introduce the reader to the importance of the topic being studied. The reader is oriented to the significance of the study.
+Anchors the research questions, hypotheses, or assumptions to follow. It offers a concise statement about the purpose of your paper.
+Place the topic into a particular context that defines the parameters of what is to be investigated.
+Provide the framework for reporting the results and indicates what is probably necessary to conduct the study and explain how the findings will present this information.
+So What!
+In the social sciences, the research problem establishes the means by which you must answer the "So What?" question. This question refers to a research problem surviving the relevancy test [the quality of a measurement procedure that provides repeatability and accuracy]. Note that answering the "So What?" question requires a commitment on your part to not only show that you have reviewed the literature, but that you have thoroughly considered the significance of the research problem and its implications applied to creating new knowledge and understanding.
+To survive the "So What" question, problem statements should possess the following attributes:
+Clarity and precision [a well-written statement does not make sweeping generalizations and irresponsible pronouncements; it also does include unspecific determinates like "very" or "giant"],
+Demonstrate a researchable topic or issue [i.e., feasibility of conducting the study is based upon access to information that can be effectively acquired, gathered, interpreted, synthesized, and understood],
+Identification of what would be studied, while avoiding the use of value-laden words and terms,
+Identification of an overarching question or small set of questions accompanied by key factors or variables,
+Identification of key concepts and terms,
+Articulation of the study's conceptual boundaries or parameters or limitations,
+Some generalizability in regards to applicability and bringing results into general use,
+Conveyance of the study's importance, benefits, and justification [i.e., regardless of the type of research, it is important to demonstrate that the research is not trivial],
+Does not have unnecessary jargon or overly complex sentence constructions; and,
+Conveyance of more than the mere gathering of descriptive data providing only a snapshot of the issue or phenomenon under investigation.
+Bryman, Alan. “The Research Question in Social Research: What is its Role?” International Journal of Social Research Methodology 10 (2007): 5-20; Brown, Perry J., Allen Dyer, and Ross S. Whaley. "Recreation Research—So What?" Journal of Leisure Research 5 (1973): 16-24; Castellanos, Susie. Critical Writing and Thinking. The Writing Center. Dean of the College. Brown University; Ellis, Timothy J. and Yair Levy Nova. "Framework of Problem-Based Research: A Guide for Novice Researchers on the Development of a Research-Worthy Problem." Informing Science: the International Journal of an Emerging Transdiscipline 11 (2008); Thesis and Purpose Statements. The Writer’s Handbook. Writing Center. University of Wisconsin, Madison; Thesis Statements. The Writing Center. University of North Carolina; Tips and Examples for Writing Thesis Statements. The Writing Lab and The OWL. Purdue University; Selwyn, Neil. "‘So What?’…A Question that Every Journal Article Needs to Answer." Learning, Media, and Technology 39 (2014): 1-5.
+Structure and Writing Style
+I.  Types and Content
+There are four general conceptualizations of a research problem in the social sciences:
+Casuist Research Problem -- this type of problem relates to the determination of right and wrong in questions of conduct or conscience by analyzing moral dilemmas through the application of general rules and the careful distinction of special cases.
+Difference Research Problem -- typically asks the question, “Is there a difference between two or more groups or treatments?” This type of problem statement is used when the researcher compares or contrasts two or more phenomena. This a common approach to defining a problem in the clinical social sciences or behavioral sciences.
+Descriptive Research Problem -- typically asks the question, "what is...?" with the underlying purpose to describe the significance of a situation, state, or existence of a specific phenomenon. This problem is often associated with revealing hidden or understudied issues.
+Relational Research Problem -- suggests a relationship of some sort between two or more variables to be investigated. The underlying purpose is to investigate specific qualities or characteristics that may be connected in some way.
+A problem statement in the social sciences should contain:
+A lead-in that helps ensure the reader will maintain interest over the study,
+A declaration of originality [e.g., mentioning a knowledge void or a lack of clarity about a topic that will be revealed in the literature review of prior research],
+An indication of the central focus of the study [establishing the boundaries of analysis], and
+An explanation of the study's significance or the benefits to be derived from investigating the research problem.
+NOTE :  A statement describing the research problem of your paper should not be viewed as a thesis statement that you may be familiar with from high school. Given the content listed above, a description of the research problem is usually a short paragraph in length.
+II.  Sources of Problems for Investigation
+The identification of a problem to study can be challenging, not because there's a lack of issues that could be investigated, but due to the challenge of formulating an academically relevant and researchable problem which is unique and does not simply duplicate the work of others. To facilitate how you might select a problem from which to build a research study, consider these sources of inspiration:
+Deductions from Theory
+This relates to deductions made from social philosophy or generalizations embodied in life and in society that the researcher is familiar with. These deductions from human behavior are then placed within an empirical frame of reference through research. From a theory, the researcher can formulate a research problem or hypothesis stating the expected findings in certain empirical situations. The research asks the question: “What relationship between variables will be observed if theory aptly summarizes the state of affairs?” One can then design and carry out a systematic investigation to assess whether empirical data confirm or reject the hypothesis, and hence, the theory.
+Interdisciplinary Perspectives
+Identifying a problem that forms the basis for a research study can come from academic movements and scholarship originating in disciplines outside of your primary area of study. This can be an intellectually stimulating exercise. A review of pertinent literature should include examining research from related disciplines that can reveal new avenues of exploration and analysis. An interdisciplinary approach to selecting a research problem offers an opportunity to construct a more comprehensive understanding of a very complex issue that any single discipline may be able to provide.
+Interviewing Practitioners
+The identification of research problems about particular topics can arise from formal interviews or informal discussions with practitioners who provide insight into new directions for future research and how to make research findings more relevant to practice. Discussions with experts in the field, such as, teachers, social workers, health care providers, lawyers, business leaders, etc., offers the chance to identify practical, “real world” problems that may be understudied or ignored within academic circles. This approach also provides some practical knowledge which may help in the process of designing and conducting your study.
+Personal Experience
+Don't undervalue your everyday experiences or encounters as worthwhile problems for investigation. Think critically about your own experiences and/or frustrations with an issue facing society or related to your community, your neighborhood, your family, or your personal life. This can be derived, for example, from deliberate observations of certain relationships for which there is no clear explanation or witnessing an event that appears harmful to a person or group or that is out of the ordinary.
+Relevant Literature
+The selection of a research problem can be derived from a thorough review of pertinent research associated with your overall area of interest. This may reveal where gaps exist in understanding a topic or where an issue has been understudied. Research may be conducted to: 1) fill such gaps in knowledge; 2) evaluate if the methodologies employed in prior studies can be adapted to solve other problems; or, 3) determine if a similar study could be conducted in a different subject area or applied in a different context or to different study sample [i.e., different setting or different group of people]. Also, authors frequently conclude their studies by noting implications for further research; read the conclusion of pertinent studies because statements about further research can be a valuable source for identifying new problems to investigate. The fact that a researcher has identified a topic worthy of further exploration validates the fact it is worth pursuing.
+III.  What Makes a Good Research Statement?
+A good problem statement begins by introducing the broad area in which your research is centered, gradually leading the reader to the more specific issues you are investigating. The statement need not be lengthy, but a good research problem should incorporate the following features:
+1.  Compelling Topic
+The problem chosen should be one that motivates you to address it but simple curiosity is not a good enough reason to pursue a research study because this does not indicate significance. The problem that you choose to explore must be important to you, but it must also be viewed as important by your readers and to a the larger academic and/or social community that could be impacted by the results of your study.
+2.  Supports Multiple Perspectives
+The problem must be phrased in a way that avoids dichotomies and instead supports the generation and exploration of multiple perspectives. A general rule of thumb in the social sciences is that a good research problem is one that would generate a variety of viewpoints from a composite audience made up of reasonable people.
+3.  Researchability
+This isn't a real word but it represents an important aspect of creating a good research statement. It seems a bit obvious, but you don't want to find yourself in the midst of investigating a complex research project and realize that you don't have enough prior research to draw from for your analysis. There's nothing inherently wrong with original research, but you must choose research problems that can be supported, in some way, by the resources available to you. If you are not sure if something is researchable, don't assume that it isn't if you don't find information right away--seek help from a librarian!
+NOTE: Do not confuse a research problem with a research topic. A topic is something to read and obtain information about, whereas a problem is something to be solved or framed as a question raised for inquiry, consideration, or solution, or explained as a source of perplexity, distress, or vexation. In short, a research topic is something to be understood; a research problem is something that needs to be investigated.
+IV.  Asking Analytical Questions about the Research Problem
+Research problems in the social and behavioral sciences are often analyzed around critical questions that must be investigated. These questions can be explicitly listed in the introduction [i.e., "This study addresses three research questions about women's psychological recovery from domestic abuse in multi-generational home settings..."], or, the questions are implied in the text as specific areas of study related to the research problem. Explicitly listing your research questions at the end of your introduction can help in designing a clear roadmap of what you plan to address in your study, whereas, implicitly integrating them into the text of the introduction allows you to create a more compelling narrative around the key issues under investigation. Either approach is appropriate.
+The number of questions you attempt to address should be based on the complexity of the problem you are investigating and what areas of inquiry you find most critical to study. Practical considerations, such as, the length of the paper you are writing or the availability of resources to analyze the issue can also factor in how many questions to ask. In general, however, there should be no more than four research questions underpinning a single research problem.
+Given this, well-developed analytical questions can focus on any of the following:
+Highlights a genuine dilemma, area of ambiguity, or point of confusion about a topic open to interpretation by your readers;
+Yields an answer that is unexpected and not obvious rather than inevitable and self-evident;
+Provokes meaningful thought or discussion;
+Raises the visibility of the key ideas or concepts that may be understudied or hidden;
+Suggests the need for complex analysis or argument rather than a basic description or summary; and,
+Offers a specific path of inquiry that avoids eliciting generalizations about the problem.
+NOTE: Questions of how and why concerning a research problem often require more analysis than questions about who, what, where, and when. You should still ask yourself these latter questions, however. Thinking introspectively about the who, what, where, and when of a research problem can help ensure that you have thoroughly considered all aspects of the problem under investigation and helps define the scope of the study in relation to the problem.
+V.  Mistakes to Avoid
+Beware of circular reasoning! Do not state that the research problem as simply the absence of the thing you are suggesting. For example, if you propose the following, "The problem in this community is that there is no hospital," this only leads to a research problem where:
+The need is for a hospital
+The objective is to create a hospital
+The method is to plan for building a hospital, and
+The evaluation is to measure if there is a hospital or not.
+This is an example of a research problem that fails the "So What?" test. In this example, the problem does not reveal the relevance of why you are investigating the fact there is no hospital in the community [e.g., there's a hospital in the community ten miles away]; it does not elucidate the significance of why one should study the fact there is no hospital in the community [e.g., that hospital in the community ten miles away has no emergency room]; the research problem does not offer an intellectual pathway towards adding new knowledge or clarifying prior knowledge [e.g., the county in which there is no hospital already conducted a study about the need for a hospital, but it was conducted ten years ago]; and, the problem does not offer meaningful outcomes that lead to recommendations that can be generalized for other situations or that could suggest areas for further research [e.g., the challenges of building a new hospital serves as a case study for other communities].
+Alvesson, Mats and Jörgen Sandberg. “Generating Research Questions Through Problematization.” Academy of Management Review 36 (April 2011): 247-271; Choosing and Refining Topics. Writing@CSU. Colorado State University; D'Souza, Victor S. "Use of Induction and Deduction in Research in Social Sciences: An Illustration." Journal of the Indian Law Institute 24 (1982): 655-661; Ellis, Timothy J. and Yair Levy Nova. "Framework of Problem-Based Research: A Guide for Novice Researchers on the Development of a Research-Worthy Problem." Informing Science: the International Journal of an Emerging Transdiscipline 11 (2008); How to Write a Research Question. The Writing Center. George Mason University; Invention: Developing a Thesis Statement. The Reading/Writing Center. Hunter College; Problem Statements PowerPoint Presentation. The Writing Lab and The OWL. Purdue University; Procter, Margaret. Using Thesis Statements. University College Writing Centre. University of Toronto; Trochim, William M.K. Problem Formulation. Research Methods Knowledge Base. 2006; Thesis and Purpose Statements. The Writer’s Handbook. Writing Center. University of Wisconsin, Madison; Thesis Statements. The Writing Center. University of North Carolina; Tips and Examples for Writing Thesis Statements. The Writing Lab and The OWL. Purdue University; Walk, Kerry. Asking an Analytical Question. [Class handout or worksheet]. Princeton University; White, Patrick. Developing Research Questions: A Guide for Social Scientists. New York: Palgrave McMillan, 2009.
+Last Updated: Apr 16, 2022 10:08 AM
+https://libguides.usc.edu/writingguide
+
+Doc 5 (URL: https://libguides.usc.edu/writingguide/introduction/researchproblem, ClueWebID: clueweb22-en0016-66-12302)
+The Research Problem/Question - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California
+Definition
+A research problem is a definite or clear expression [statement] about an area of concern, a condition to be improved upon, a difficulty to be eliminated, or a troubling question that exists in scholarly literature, in theory, or within existing practice that points to a need for meaningful understanding and deliberate investigation. A research problem does not state how to do something, offer a vague or broad proposition, or present a value question.
+Bryman, Alan. “The Research Question in Social Research: What is its Role?” International Journal of Social Research Methodology 10 (2007): 5-20; Guba, Egon G., and Yvonna S. Lincoln. “Competing Paradigms in Qualitative Research.” In Handbook of Qualitative Research. Norman K. Denzin and Yvonna S. Lincoln, editors. (Thousand Oaks, CA: Sage, 1994), pp. 105-117.
+Importance of...
+The purpose of a problem statement is to:
+Introduce the reader to the importance of the topic being studied. The reader is oriented to the significance of the study.
+Anchors the research questions, hypotheses, or assumptions to follow. It offers a concise statement about the purpose of your paper.
+Place the topic into a particular context that defines the parameters of what is to be investigated.
+Provide the framework for reporting the results and indicates what is probably necessary to conduct the study and explain how the findings will present this information.
+So What!
+In the social sciences, the research problem establishes the means by which you must answer the "So What?" question. This question refers to a research problem surviving the relevancy test [the quality of a measurement procedure that provides repeatability and accuracy]. Note that answering the "So What?" question requires a commitment on your part to not only show that you have reviewed the literature, but that you have thoroughly considered the significance of the research problem and its implications applied to creating new knowledge and understanding.
+To survive the "So What" question, problem statements should possess the following attributes:
+Clarity and precision [a well-written statement does not make sweeping generalizations and irresponsible pronouncements; it also does include unspecific determinates like "very" or "giant"],
+Demonstrate a researchable topic or issue [i.e., feasibility of conducting the study is based upon access to information that can be effectively acquired, gathered, interpreted, synthesized, and understood],
+Identification of what would be studied, while avoiding the use of value-laden words and terms,
+Identification of an overarching question or small set of questions accompanied by key factors or variables,
+Identification of key concepts and terms,
+Articulation of the study's conceptual boundaries or parameters or limitations,
+Some generalizability in regards to applicability and bringing results into general use,
+Conveyance of the study's importance, benefits, and justification [i.e., regardless of the type of research, it is important to demonstrate that the research is not trivial],
+Does not have unnecessary jargon or overly complex sentence constructions; and,
+Conveyance of more than the mere gathering of descriptive data providing only a snapshot of the issue or phenomenon under investigation.
+Bryman, Alan. “The Research Question in Social Research: What is its Role?” International Journal of Social Research Methodology 10 (2007): 5-20; Brown, Perry J., Allen Dyer, and Ross S. Whaley. "Recreation Research—So What?" Journal of Leisure Research 5 (1973): 16-24; Castellanos, Susie. Critical Writing and Thinking. The Writing Center. Dean of the College. Brown University; Ellis, Timothy J. and Yair Levy Nova. "Framework of Problem-Based Research: A Guide for Novice Researchers on the Development of a Research-Worthy Problem." Informing Science: the International Journal of an Emerging Transdiscipline 11 (2008); Thesis and Purpose Statements. The Writer’s Handbook. Writing Center. University of Wisconsin, Madison; Thesis Statements. The Writing Center. University of North Carolina; Tips and Examples for Writing Thesis Statements. The Writing Lab and The OWL. Purdue University; Selwyn, Neil. "‘So What?’…A Question that Every Journal Article Needs to Answer." Learning, Media, and Technology 39 (2014): 1-5.
+Structure and Writing Style
+I.  Types and Content
+There are four general conceptualizations of a research problem in the social sciences:
+Casuist Research Problem -- this type of problem relates to the determination of right and wrong in questions of conduct or conscience by analyzing moral dilemmas through the application of general rules and the careful distinction of special cases.
+Difference Research Problem -- typically asks the question, “Is there a difference between two or more groups or treatments?” This type of problem statement is used when the researcher compares or contrasts two or more phenomena. This a common approach to defining a problem in the clinical social sciences or behavioral sciences.
+Descriptive Research Problem -- typically asks the question, "what is...?" with the underlying purpose to describe the significance of a situation, state, or existence of a specific phenomenon. This problem is often associated with revealing hidden or understudied issues.
+Relational Research Problem -- suggests a relationship of some sort between two or more variables to be investigated. The underlying purpose is to investigate specific qualities or characteristics that may be connected in some way.
+A problem statement in the social sciences should contain:
+A lead-in that helps ensure the reader will maintain interest over the study,
+A declaration of originality [e.g., mentioning a knowledge void or a lack of clarity about a topic that will be revealed in the literature review of prior research],
+An indication of the central focus of the study [establishing the boundaries of analysis], and
+An explanation of the study's significance or the benefits to be derived from investigating the research problem.
+NOTE :  A statement describing the research problem of your paper should not be viewed as a thesis statement that you may be familiar with from high school. Given the content listed above, a description of the research problem is usually a short paragraph in length.
+II.  Sources of Problems for Investigation
+The identification of a problem to study can be challenging, not because there's a lack of issues that could be investigated, but due to the challenge of formulating an academically relevant and researchable problem which is unique and does not simply duplicate the work of others. To facilitate how you might select a problem from which to build a research study, consider these sources of inspiration:
+Deductions from Theory
+This relates to deductions made from social philosophy or generalizations embodied in life and in society that the researcher is familiar with. These deductions from human behavior are then placed within an empirical frame of reference through research. From a theory, the researcher can formulate a research problem or hypothesis stating the expected findings in certain empirical situations. The research asks the question: “What relationship between variables will be observed if theory aptly summarizes the state of affairs?” One can then design and carry out a systematic investigation to assess whether empirical data confirm or reject the hypothesis, and hence, the theory.
+Interdisciplinary Perspectives
+Identifying a problem that forms the basis for a research study can come from academic movements and scholarship originating in disciplines outside of your primary area of study. This can be an intellectually stimulating exercise. A review of pertinent literature should include examining research from related disciplines that can reveal new avenues of exploration and analysis. An interdisciplinary approach to selecting a research problem offers an opportunity to construct a more comprehensive understanding of a very complex issue that any single discipline may be able to provide.
+Interviewing Practitioners
+The identification of research problems about particular topics can arise from formal interviews or informal discussions with practitioners who provide insight into new directions for future research and how to make research findings more relevant to practice. Discussions with experts in the field, such as, teachers, social workers, health care providers, lawyers, business leaders, etc., offers the chance to identify practical, “real world” problems that may be understudied or ignored within academic circles. This approach also provides some practical knowledge which may help in the process of designing and conducting your study.
+Personal Experience
+Don't undervalue your everyday experiences or encounters as worthwhile problems for investigation. Think critically about your own experiences and/or frustrations with an issue facing society or related to your community, your neighborhood, your family, or your personal life. This can be derived, for example, from deliberate observations of certain relationships for which there is no clear explanation or witnessing an event that appears harmful to a person or group or that is out of the ordinary.
+Relevant Literature
+The selection of a research problem can be derived from a thorough review of pertinent research associated with your overall area of interest. This may reveal where gaps exist in understanding a topic or where an issue has been understudied. Research may be conducted to: 1) fill such gaps in knowledge; 2) evaluate if the methodologies employed in prior studies can be adapted to solve other problems; or, 3) determine if a similar study could be conducted in a different subject area or applied in a different context or to different study sample [i.e., different setting or different group of people]. Also, authors frequently conclude their studies by noting implications for further research; read the conclusion of pertinent studies because statements about further research can be a valuable source for identifying new problems to investigate. The fact that a researcher has identified a topic worthy of further exploration validates the fact it is worth pursuing.
+III.  What Makes a Good Research Statement?
+A good problem statement begins by introducing the broad area in which your research is centered, gradually leading the reader to the more specific issues you are investigating. The statement need not be lengthy, but a good research problem should incorporate the following features:
+1.  Compelling Topic
+The problem chosen should be one that motivates you to address it but simple curiosity is not a good enough reason to pursue a research study because this does not indicate significance. The problem that you choose to explore must be important to you, but it must also be viewed as important by your readers and to a the larger academic and/or social community that could be impacted by the results of your study.
+2.  Supports Multiple Perspectives
+The problem must be phrased in a way that avoids dichotomies and instead supports the generation and exploration of multiple perspectives. A general rule of thumb in the social sciences is that a good research problem is one that would generate a variety of viewpoints from a composite audience made up of reasonable people.
+3.  Researchability
+This isn't a real word but it represents an important aspect of creating a good research statement. It seems a bit obvious, but you don't want to find yourself in the midst of investigating a complex research project and realize that you don't have enough prior research to draw from for your analysis. There's nothing inherently wrong with original research, but you must choose research problems that can be supported, in some way, by the resources available to you. If you are not sure if something is researchable, don't assume that it isn't if you don't find information right away--seek help from a librarian!
+NOTE: Do not confuse a research problem with a research topic. A topic is something to read and obtain information about, whereas a problem is something to be solved or framed as a question raised for inquiry, consideration, or solution, or explained as a source of perplexity, distress, or vexation. In short, a research topic is something to be understood; a research problem is something that needs to be investigated.
+IV.  Asking Analytical Questions about the Research Problem
+Research problems in the social and behavioral sciences are often analyzed around critical questions that must be investigated. These questions can be explicitly listed in the introduction [i.e., "This study addresses three research questions about women's psychological recovery from domestic abuse in multi-generational home settings..."], or, the questions are implied in the text as specific areas of study related to the research problem. Explicitly listing your research questions at the end of your introduction can help in designing a clear roadmap of what you plan to address in your study, whereas, implicitly integrating them into the text of the introduction allows you to create a more compelling narrative around the key issues under investigation. Either approach is appropriate.
+The number of questions you attempt to address should be based on the complexity of the problem you are investigating and what areas of inquiry you find most critical to study. Practical considerations, such as, the length of the paper you are writing or the availability of resources to analyze the issue can also factor in how many questions to ask. In general, however, there should be no more than four research questions underpinning a single research problem.
+Given this, well-developed analytical questions can focus on any of the following:
+Highlights a genuine dilemma, area of ambiguity, or point of confusion about a topic open to interpretation by your readers;
+Yields an answer that is unexpected and not obvious rather than inevitable and self-evident;
+Provokes meaningful thought or discussion;
+Raises the visibility of the key ideas or concepts that may be understudied or hidden;
+Suggests the need for complex analysis or argument rather than a basic description or summary; and,
+Offers a specific path of inquiry that avoids eliciting generalizations about the problem.
+NOTE: Questions of how and why concerning a research problem often require more analysis than questions about who, what, where, and when. You should still ask yourself these latter questions, however. Thinking introspectively about the who, what, where, and when of a research problem can help ensure that you have thoroughly considered all aspects of the problem under investigation and helps define the scope of the study in relation to the problem.
+V.  Mistakes to Avoid
+Beware of circular reasoning! Do not state that the research problem as simply the absence of the thing you are suggesting. For example, if you propose the following, "The problem in this community is that there is no hospital," this only leads to a research problem where:
+The need is for a hospital
+The objective is to create a hospital
+The method is to plan for building a hospital, and
+The evaluation is to measure if there is a hospital or not.
+This is an example of a research problem that fails the "So What?" test. In this example, the problem does not reveal the relevance of why you are investigating the fact there is no hospital in the community [e.g., there's a hospital in the community ten miles away]; it does not elucidate the significance of why one should study the fact there is no hospital in the community [e.g., that hospital in the community ten miles away has no emergency room]; the research problem does not offer an intellectual pathway towards adding new knowledge or clarifying prior knowledge [e.g., the county in which there is no hospital already conducted a study about the need for a hospital, but it was conducted ten years ago]; and, the problem does not offer meaningful outcomes that lead to recommendations that can be generalized for other situations or that could suggest areas for further research [e.g., the challenges of building a new hospital serves as a case study for other communities].
+Alvesson, Mats and Jörgen Sandberg. “Generating Research Questions Through Problematization.” Academy of Management Review 36 (April 2011): 247-271; Choosing and Refining Topics. Writing@CSU. Colorado State University; D'Souza, Victor S. "Use of Induction and Deduction in Research in Social Sciences: An Illustration." Journal of the Indian Law Institute 24 (1982): 655-661; Ellis, Timothy J. and Yair Levy Nova. "Framework of Problem-Based Research: A Guide for Novice Researchers on the Development of a Research-Worthy Problem." Informing Science: the International Journal of an Emerging Transdiscipline 11 (2008); How to Write a Research Question. The Writing Center. George Mason University; Invention: Developing a Thesis Statement. The Reading/Writing Center. Hunter College; Problem Statements PowerPoint Presentation. The Writing Lab and The OWL. Purdue University; Procter, Margaret. Using Thesis Statements. University College Writing Centre. University of Toronto; Trochim, William M.K. Problem Formulation. Research Methods Knowledge Base. 2006; Thesis and Purpose Statements. The Writer’s Handbook. Writing Center. University of Wisconsin, Madison; Thesis Statements. The Writing Center. University of North Carolina; Tips and Examples for Writing Thesis Statements. The Writing Lab and The OWL. Purdue University; Walk, Kerry. Asking an Analytical Question. [Class handout or worksheet]. Princeton University; White, Patrick. Developing Research Questions: A Guide for Social Scientists. New York: Palgrave McMillan, 2009.
+Last Updated: Apr 16, 2022 10:08 AM
+https://libguides.usc.edu/writingguide
+
+<|end_search_result|>
+
+Hmm, none of these search results directly mention the "college sophomore problem." It seems like I might have misheard or misunderstood the term. Maybe it's not specifically about college sophomores? Perhaps it's a different term related to research or statistics.
+
+Let me try a different search query to clarify what this term might refer to.
+
+<|begin_search_query|>college sophomore problem statistics<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://www.geekandnerd.org/statistics-problem-solver-online/, ClueWebID: clueweb22-en0024-58-05890)
+Statistics Problem Solver Online | Statistics Homework Help | GeekAndNerd.org
+Statistics Problem Solver Online
+Some of the problems on Statistics can be rather tricky and rather difficult to solve. In times you find yourself confused and lost, use one of the following statistics problem solvers to minimize your efforts and save your time.
+Z-score Calculator
+What happened on your birthday?
+Website Info finder
+Visual Coin Flipper & Dice Roller
+UMN Music History Grader
+Tide chart for York Beach Maine
+Scatter Graph Plotter
+Running Statistics Calculator
+ROI Calculator
+Positive Predictive Value Calculator
+Poisson probability calculator
+Normal Distribution Probability Calculations
+Get P Value from Z Score – Delve Partners, LL
+Find Equilibrium Point
+Factorial Calculator
+Distribucion de Poisson
+Dice Roll Simulator
+Descriptive Statistics Calculator
+Days Lived Since Birth
+Current Time Singapore
+Cost of Living Comparison
+City Crime Rate Comparison
+Bell Curves
+Average Value of Function over Interval
+Statistics Homework Help for Weak Students
+Statistics is a branch of math that is introduced to students during their middle school. It is a subject that asks students to learn how to make graphs and charts to represent mathematical information. It mainly deals with mathematical values and helps in presenting lots of information in a succinct manner using these charts and graphs. It also requires students to memorize formulae to be able to solve math problems. Although statistics is a very scientific subject, many students dread this subject and unable to comprehend the concepts and fundamentals of this subject that is used a lot by bankers and those in charge of keeping records. You simply cannot wish away assignments in statistics given by teacher at school. Thankfully, there are many sources providing statistics problem solver to students weak in this subject.
+Online help with assignments also helps in clearing your concepts
+Statistics is a subject that is introduced at the level of High School and continues through graduation if you have opted for math as a subject. If you find yourself confused with the fundamental concepts of mean, median, and mode, it will be a tough ask for you to sail through math in High School. This is because statistics becomes more difficult with the concepts of probability and extrapolation that are necessary to solve the problems. If your school teacher continues to move at a brisk pace without clearing the concepts for you, it is better to look for statistics homework help elsewhere to prevent your grades in math from falling downwards.
+Get your statistics homework done without moving out from home
+Like other subjects, teachers in High School make it imperative for students to do assignments given to them at home. They do this to make sure that students spend some time at home working problems in all subjects. The same is the case with statistics and it is common to see students bringing homework statistics on a weekly basis. If you are weak in statistics, it can be a herculean task for you to complete your statistics homework without asking for help from your parents or siblings. Too much homework statistics can be a real pain in the ass that requires receiving online help. Yes, there are many websites that are providing help to students with their assignments in statistics. You can check out a few of these websites and shortlist a few depending upon honest feedback and reviews by actual users.
+After you have registered as a student with a website that promises help with your statistics assignments, all you have to do to receive help is to post your question on the website and receive solutions through emails. These websites hire services of many statistics experts and you can expect answers to the questions posted by you in as little as 2 hours. Of course you are required to pay for the services provided by these websites but this money is nothing as compared with the comfort and convenience that you get for statistics about homework.
+
+Doc 2 (URL: https://banana-soft.com/en/statistics-problem-solver, ClueWebID: clueweb22-en0031-59-14337)
+Statistics Problem Solver
+Home >
+Statistics problem solver
+         >
+Statistics Problem Solver can solve statistical problems
+Statistics Problem Solver
+Trial
+Demo
+Offline
+English
+Statistics Problem Solver
+Link Windows
+Download Statistics Problem Solver
+PHYSICAL SCIENCE & MATHEMATICS
+Statesmen
+Mathematicians
+TEACHING & PEDAGOGY
+Secondary school teachers
+University teachers
+Statistics help is only a few clicks away. This amazing computer program not only solves your statistical problems for you, but it also shows you how to solve them by demonstrating the various steps and formulas that are involved in solving those problems.
+Are you taking a beginner statistics course and need help in learning statistics and solving your statistics homework? This is statistics tutorial software that can solve statistical problems and generate step-by-step solutions.
+Statistics Tutorial of Statistics Problem Solver
+Statistics help is only a few clicks away. This amazing computer program not only solves your statistical problems for you, but it also shows you how to solve them by demonstrating the various steps and formulas that are involved in solving those problems.
+Easy to get Statistics Help with Statistics Problem Solver
+Statistics homework - solving continuous exponential and normal distributions Getting statistics help to learn more about statistical distributions or to do your statistics homework is easy. Simply select one of the available statistical distributions from the main menu (i.e. continuous distribution). Then fill in the blanks with data given by the problem statement that you are trying to solve. Finally press Solve and observe the step-by-step solution that is generated for you.
+Statistics tutorial for beginners with Statistics Problem Solver
+Statistics tutorial - solving and drawing histogramThis software is intended to be a statistics help for university and college students who are taking beginner statistics courses. Statistic Problem Solver is designed based on University of Ottawa Statistics & Probability (MAT2377) course. The solution algorithms are based on those introduced in the "Statistical Methods for Engineers" book by G. Geoffrey Vining, Duxbury, 1998, and also the lecture notes of professor D. McDonald's.
+Key Features of Statistics Problem Solver:
+The current version of Statistics Problem Solver can solve and generate the following statistical analysis:
+Plotting Histograms: The histogram generator inputs numbers as data and draws a histogram based on the given data.
+Discrete Distributions: Two types of distributions can be analyzed here:
+Binomial Distribution
+Poisson Distribution
+Continuous distributions: Continuous distributions can be solved here based on one of the following distributions:
+Exponential Distribution
+Normal Distribution
+Test of Significance: Test your hypotheses using the significance test analyzer and figure out whether the mean of a give information is what you expected.
+Data Comparison: Compare two groups of statistical data in order to test your hypothesis of the differences between the groups.
+Using Statistic Problem Solver program is quite easy.
+All you need to do is to fill in the data fields and push the solve button. Each and every form of Statistic Problem Solver has 3 main frame that are:
+Data Frame: You must fill in all or some of the fields included inside this frame before proceeding with solving it. This frame is the only Input frame. Once you're done entering the statistical data in the fields within this frame, push the SOLVE button and the rest is done by computer.
+Sample Question Frame: To make it easier for the user to understand the nature of questions that can be solved by the current Statistics Problem Solver form, a sample question is displayed here. This output frame will be updated each time you enter or change the data inside Data Frame.
+Solution Frame: Finally after you push the SOLVE button, the list calculations and steps involved in solving the requested statistical problem is displayed inside Solution Frame followed by the final conclusion.
+New In Version 2.2
+New feature: Solutions can now be printed.
+New feature: Solutions can now be saved in a text file.
+New feature: Solutions can now be copied to clipboard.
+New In Version 2.1
+New feature: The solution text box can now be maximized.
+Improvement: The program can now type the step-by-step solutions even if the application is minimized.
+Improvement: The application automatically rounds numbers to show at least one non-zero digit even if that forces it to display more decimal placed then specified by the user.
+Bug fix: Calculating Binominal solution of large "number of attempts" would generate runtime error.
+Also on Banana-Soft
+Herramienta de modelado para crear …
+5 years ago
+Archi es una herramienta de modelado de ArchiMate dirigida a todos los …
+Los 10 mejores programas gratis …
+7 years ago
+A continuación le ofrecemos un listado de los 10 mejores programas gratis en …
+Memrise es una herramienta de …
+7 years ago
+Memrise es una herramienta de aprendizaje online gratis con cursos creados por …
+Los 5 mejores programas gratis …
+7 years ago
+A continuación le ofrecemos un listado de los 5 mejores programas gratis en …
+Planifica la casa de tus sueños
+2 years ago
+Planifica la casa de tus sueños - My Virtual Home es una aplicación de …
+Los 4 mejores programas gratis de …
+7 years ago
+A continuación le ofrecemos un listado de los 4 mejores programas gratis en …
+Los 8 mejores programas gratis …
+7 years ago
+A continuación le ofrecemos un listado de los 8 mejores programas gratis para …
+Creador de Orlas gratis
+6 years ago
+Creador de Orlas permite importar las fotografías desde varias fuentes …
+0 comments
+Banana-Soft
+Disqus' Privacy Policy
+1
+Login
+Favorite
+Sort by Best
+Subscribe
+Add Disqus to your site
+Do Not Sell My Data
+Powered by Disqus
+
+Doc 3 (URL: https://www.statisticssolutions.com/the-problem-with-problem-statements-part-1/, ClueWebID: clueweb22-en0040-61-10321)
+The Problem with Problem Statements: Part 1 - Statistics Solutions
+Home Blog The Problem with Problem Statements: Part 1
+The Problem with Problem Statements: Part 1
+Introduction
+Problem statements seems like they should be the easiest thing in the world to knock out when constructing your dissertation. How hard can they be, right? I know there is a problem with X, because Y tells me there is a problem. Wrong. This is one of the biggest mistakes individuals make when putting together their problem, purpose, and research questions; the minute your problem changes, your purpose and questions change, too. So, what to do? Below are some helpful tips to ensure that your problem statement does not give you any problems.
+The most important step to take is to ensure that your problem is actually a problem. Just because you think it is does not necessarily make it so. You need proof. Let’s say you believe that the main cause for homelessness is substance abuse because the homeless people in your city have been seen in high-crime drug areas. Is there anything out there to suggest otherwise? This is where critical support comes in, and this support needs to come from citations. Personal experience is anecdotal at best, and most college professors will not let this pass as evidence of a problem. However, if you can find established studies suggesting that more than anything else, substance abuse does contribute more to homelessness than other factors, then congratulations, you now have empirical evidence demonstrating this is a problem. Be sure to focus on studies instead of numbers printed by various organizations. Studies, by and large, are peer-reviewed and undergo a great deal of scrutiny in the acceptance process, ensuring that bias does not affect the findings. Organizational numbers, however, are not held to the same standard, and often change from source to source.
+One of the best ways to establish a specific problem is to look where other researchers left off. If you dig through enough articles, you will often find researchers’ recommendations in the discussion section. This will give you a place to start and help you find out what others have done before you. This will help ensure that the problem has not already been addressed in a previous study. The last thing you want to do is solidify your problem, purpose, and research questions only to realize that some researchers in Estonia did the same study 13 years ago. All that does is put you back at square one, which is not a fun place to be, especially with collegiate deadlines.
+Get Your Dissertation Approved
+We work with graduate students every day and know what it takes to get your research approved.
+Address committee feedback
+Roadmap to completion
+Understand your needs and timeframe
+Select a date for your dissertation consultation
+Select a day in April
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+1
+2
+3
+4
+5
+6
+7
+View All
+Read Now
+Read Now
+Learn More
+
+Doc 4 (URL: https://www.chegg.com/homework-help/last-year-s-freshman-class-big-state-university-totaled-5-32-chapter-7-problem-32se-solution-9780073521480-exc, ClueWebID: clueweb22-en0026-61-17669)
+Solved: Last year's freshman class at Big State University totaled... | Chegg.com
+home
+study
+Math
+Statistics and Probability
+Statistics and Probability solutions manuals
+Applied Statistics in Business and Economics
+4th edition
+chapter 7
+problem 32SE
+Solutions
+by
+Applied Statistics in Business and Economics (4th Edition) Edit edition Solutions for Chapter 7 Problem 32SE: Last year's
+freshman class at Big State
+University totaled 5,324 ……
+Get solutions
+Looking for the textbook?
+We have solutions for your book!
+This problem has been solved:
+Problem 32SE
+Chapter
+CH7
+Problem
+32SE
+Last year's freshman class at Big State University totaled 5,324 students. Of those, 1,254 received a merit scholarship to help offset tuition costs their freshman year (although the amount varied per student). The amount a student received was N ($3,456,$478). If the cost of tuition was $4,200 last year, what percentage of students did not receive enough to cover their full tuition?
+Step-by-step solution
+Step 1 of 5
+Let be the amount a student received. Given that is normally distributed with a mean and a standard deviation, the percentage of students who received the scholarship cannot cover their full tuition $4,200 can be obtained by using Excel’s function.
+Chapter 7, Problem 32SE is solved.
+View this answer
+View a sample solution
+Step 2 of 5
+Step 3 of 5
+Step 4 of 5
+Step 5 of 5
+Back to top
+Corresponding textbook
+Applied Statistics in Business and Economics | 4th Edition
+ISBN-13: 9780073521480 ISBN: 0073521485 Authors: Lori E. Seward, David P. Doane Rent | Buy
+Alternate ISBN: 9780077632717
+Solutions for problems in chapter 7
+1CR
+1ERQ
+1SE
+2CR
+2ERQ
+2SE
+3CR
+3ERQ
+3SE
+4CR
+4ERQ
+4SE
+5CR
+5ERQ
+5SE
+6CR
+6ERQ
+6SE
+7CR
+7ERQ
+7SE
+8CR
+8ERQ
+8SE
+9CR
+9ERQ
+9SE
+10CR
+10ERQ
+10SE
+11CR
+11ERQ
+11SE
+12CR
+12ERQ
+12SE
+13ERQ
+13SE
+14ERQ
+14SE
+15ERQ
+15SE
+16ERQ
+16SE
+17ERQ
+17SE
+18ERQ
+18SE
+19ERQ
+19SE
+20ERQ
+20SE
+21SE
+22SE
+23SE
+24SE
+25SE
+26SE
+27SE
+28SE
+29SE
+30SE
+31SE
+32SE
+33SE
+34SE
+35SE
+36SE
+37SE
+38SE
+39SE
+40SE
+41SE
+42SE
+43SE
+44SE
+45SE
+46SE
+47SE
+48SE
+49SE
+50SE
+51SE
+52SE
+53SE
+54SE
+55SE
+56SE
+57SE
+58SE
+59SE
+60SE
+61SE
+62SE
+63SE
+64SE
+65CE
+66CE
+67CE
+68CE
+69CE
+70CE
+71CE
+72CE
+73CE
+74CE
+75CE
+76CE
+77CE
+78CE
+79CE
+80CE
+81CE
+82CE
+83CE
+84CE
+85CE
+86CE
+87CE
+88CE
+89CE
+90CE
+91CE
+92CE
+93CE
+94CE
+95CE
+96CE
+97CE
+98CE
+99CE
+100CE
+101CE
+102CE
+103CE
+104CE
+105CE
+106CE
+107CE
+108CE
+109CE
+110CE
+111CE
+112CE
+Back to top
+
+Doc 5 (URL: https://www.calltutors.com/blog/how-to-solve-statistics-problems/, ClueWebID: clueweb22-en0007-80-13997)
+Step by step process of how to solve statistics problems
+Step by Step Process of How to Solve Statistics Problems
+By Calltutors Team
+“How to solve statistics problems?” is an obvious question students mostly search over the internet.
+For many students, it is like a nightmare to solve statistics problems due to various reasons. In order to solve statistics problems correctly, practice is a primary requirement, and you should know how and where to collect data and analyze and interpret it to draw valuable information.
+Putting the right formulas to solve the problems is equally important as collecting the data from authentic and reliable sources. If you collect data from random sources, you can not conclude from that data.
+So, if you are one of those who are facing problems when solving statistics problems, we are here to assist you.
+In this blog, we will provide you with a step by step process of how to solve statistics problems. We will also cover statistical terms and definitions of statistics.
+What is statistics?
+Table of Contents
+“Statistics is a science, not a branch of mathematics, but use mathematical models as essential tools”
+John Tukey
+Statistics is considered as the science that deals with methods and tools of collection, analysis, Interpretation and presentation of data. Statistics is majorly used for research and study purposes as through stats we can make significant decisions. It deals with both quantitative and qualitative data and structured and unstructured data.
+So everyone is scared of statistics and they always search how to solve statistics problems. The general method of solving statistics problems is to write your question then collect data required for solving such a question and lastly you are required to analyse such data and to draw conclusion.
+Statistical and non-statistical problem
+Let’s know the difference between a statistical problem and non statistical problem.
+Question1.  How many states are there in India?
+Question 2. In which state girl ratio is maximum in India?
+What do you understand from these both questions?
+Have you noticed any difference?
+Let me explain you-
+The major difference between these questions is that Question number 1 is non statistical and question number 2 is statistical.
+What makes these problems statistical and non statistical?
+Four thing or factors make a problem statistical and non statistical that are given below-
+Way to ask the question
+Role of data and its nature
+Way to examine the data
+Types of interpretation you bring from research
+Hence the question first is simple and factual and its answer does not need any type of research and collection of data whereas second question need to collect data from all the states, analyze data, research is required and at last we can conclude that which state have the maximum ratio of girls.
+Terminologies used in statistics problems –
+There are n number of terminologies which are used in statistics this is why it is said that statistics has its own language which you should command first. So if you are searching for How to solve statistics problems then firstly you have to learn the meaning of basic terms used in Statistics. Following are the most essential terms –
+Population
+When we solve any statistics problem then we are required to collect data from the people who are affiliated with the given question. So we have to decide whom we want to study. Thus, in statistics, people or individuals you want to study or you are studying are called as population. In short, the group of people whom you are studying is the population.
+Sample
+If you understand the term population then it is very easy to learn samples. The sample is just a subset of the total population. For example your population has 10 individuals then each individual is a sample for your study.
+Parameter
+The next term to learn on How to solve statistics problems as the name suggests it is the scope of the study. That is the quantitative characteristics of the population you are studying or testing. For example you want to know how many people use Colgate. Then this question is a parameter. So your population and sample and other required details will be based on such parameters.
+Descriptive Statistic
+Next terminology to learn in How to solve statistics problems is Descriptive statistics.
+When you analyze the data after determining the hypothesis and collection of data then you will get certain results on such study and such result is called descriptive statistics.
+Procedure – How to solve statistics problems
+Determine your Question
+The first step to solve the statistics problem is to decide the problem that is the question or hypothetical test. Unless you know the question you can’t process with other steps because this step will decide the parameter and population for your study. This is why this is the first and foremost step in How to solve statistics problems.
+Collection of Data
+Next step is to collect the data as per your hypothesis. Here you will decide the population and you can use different methodologies of collection of data like questionnaires OR survey etc. It is also a very important step because you can’t get true and correct results unless you have correct data.
+Analysis of data
+By now you have collected the required data and also you have your hypothesis so your next step in How to solve statistics problems is to analyse the data accordingly. There are various tools to analyse the data like Microsoft Excel, Python, R, etc. So you must be skilled in data analysis.
+Interpretation of data
+Next step in How to solve statistics problems is to interpret the data you have collected. Point to note here is always remember your questions while interpreting because data speaks a lot so you have to scrutinize in such a way that you can get desired results. After this step you will get the results of your study so lastly you will have to just present the data. And for presentation also there are n number tools and methods which you can use. So presentation of data shall also be up to mark so that you can analyze the data easily and speedily. You can present the data through pie charts, graphs or tables etc.
+Statistical formulas
+Statistical problems are solved through statistical formulas so the technique to learn such formulas is to break them down. For example if you are solving mean, median or mode or standard deviation you shall be well versed with these formulas then only you can get correct results.
+Let’s take a statistics problem and solve it.
+Suppose there are 10 students in a class and we are asked to find out the average weight of students of that class. For this we need to know about the weight of individual students so that we can calculate the average weight of those students.
+Average weight- We can calculate average weight with the mean formula
+Mean = sum of all  terms/ total terms
+Hence the average weight of students is 47.8 kg
+Mode = the frequent term in the list is known as the median.
+In the above question 45 is mode because it is repeated three times.
+Median= The central term is known as median. But in this question we have ten terms and we have two middle terms.
+Now the mean of these two terms is median. But before that we have to arrange the values in any order.
+35  40  43  45  45  45  54  55  56  60
+Here 45+45/2= 90/2 = 45 is median
+Hence to solve statistics problems you should know these formulas or tactics.
+Conclusion
+In this competitive world, data analysis is the key stream to earn more profits and to beat the competition. Statistics is used for the same as it is the type of science which deals with data analysis and much more. Many people struggle with How to solve statistics problems so this article is inclined to that only. In case, if you need any help with statistics assignment, then you can get the best help from our statistics assignment helper.
+In this blog we have also differentiate between statistical and non statistical questions so that you can better understand what statistics problems require.
+FAQs-
+What are the types of Statistics?
+Statistics is mainly of two types-
+Descriptive- It just describe what the data shows
+Inferential- It helps in generalization of data and draws valuable conclusions.
+What are the components of a statistics problem?
+Ask a question
+Gather Data
+Data analysis
+Interpret Results
+Which formulas should we know about how to solve statistics problems?
+In statistics, we use numerous formulas to solve the different problems. Statistics problems require simple as well as complex formulas to give answers. We have to use formulas of mean, mode, median, and other probability formulas in statistics.
+Post navigation
+← Previous Post
+Next Post →
+How to Improve Your Grade
+Whether you’re in college, high school, middle school or even primary school, grades are important for you. Your middle school…
+
+<|end_search_result|>

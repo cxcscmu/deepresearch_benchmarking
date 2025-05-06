@@ -1,0 +1,1 @@
+what are the factors that create these differences in perceptions from person to person?

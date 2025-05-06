@@ -1,0 +1,543 @@
+So I've been pondering this question: why do some people age faster than others? It's something I've noticed over time, how some individuals seem to retain their youthfulness longer, while others show signs of aging more quickly. I'm not just talking about physical appearance, but also cognitive function and overall health. There must be a variety of factors at play here. Let me try to break this down step by step.
+
+First off, genetics probably play a significant role in aging. We've all heard stories about families where everyone lives long healthy lives or, conversely, where age-related diseases run rampant. So, there must be some genetic components that influence how quickly we age. Maybe certain genes are responsible for maintaining cellular integrity or repairing DNA damage more efficiently. I should look into whether there are specific genes associated with longevity and aging rates.
+
+<|begin_search_query|>Genetics and aging rate<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://en.wikipedia.org/wiki/Genetics_of_aging, ClueWebID: clueweb22-en0008-47-02264)
+Genetics of aging - Wikipedia
+Genetics of aging
+From Wikipedia, the free encyclopedia
+Many life span influencing genes affect the rate of DNA damage or DNA repair
+Genetics of aging is generally concerned with life extension associated with genetic alterations, rather than with accelerated aging diseases leading to reduction in lifespan.
+The first mutation found to increase longevity in an animal was the age-1 gene in Caenorhabditis elegans. Michael Klass discovered that lifespan of C. elegans could be altered by mutations, but Klass believed that the effect was due to reduced food consumption (calorie restriction ). [1] Thomas Johnson later showed that life extension of up to 65% was due to the mutation itself rather than due to calorie restriction, [2] and he named the gene age-1 in the expectation that other genes that control aging would be found. The age-1 gene encodes the catalytic subunit of class-I phosphatidylinositol 3-kinase (PI3K).
+A decade after Johnson's discovery daf-2, one of the two genes that are essential for dauer larva formation, [3] was shown by Cynthia Kenyon to double C. elegans lifespan. [4] Kenyon showed that the daf-2 mutants, which would form dauers above 25 °C (298 K; 77 °F) would bypass the dauer state below 20 °C (293 K; 68 °F) with a doubling of lifespan. [4] Prior to Kenyon's study it was commonly believed that lifespan could only be increased at the cost of a loss of reproductive capacity, but Kenyon's nematodes maintained youthful reproductive capacity as well as extended youth in general. Subsequent genetic modification (PI3K-null mutation) to C. elegans was shown to extend maximum life span tenfold. [5] [6]
+Long-lived mutants of C. elegans (age-1 and daf-2) were demonstrated to be resistant to oxidative stress and UV light.[7] These long-lived mutants had a higher DNA repair capability than wild-type C. elegans.[7] Knockdown of the nucleotide excision repair gene Xpa-1 increased sensitivity to UV and reduced the life span of the long-lived mutants. These findings support the hypothesis that DNA damage has a significant role in the aging process.[7]
+Genetic modifications in other species have not achieved as great a lifespan extension as have been seen for C. elegans. Drosophila melanogaster lifespan has been doubled. [8] Genetic mutations in mice can increase maximum lifespan to 1.5 times normal, and up to 1.7 times normal when combined with calorie restriction.[9]
+In yeast, NAD +-dependent histone deacetylase Sir2 is required for genomic silencing at three loci: the yeast mating loci, the telomeres and the ribosomal DNA (rDNA). In some species of yeast, replicative aging may be partially caused by homologous recombination between rDNA repeats; excision of rDNA repeats results in the formation of extrachromosomal rDNA circles (ERCs). These ERCs replicate and preferentially segregate to the mother cell during cell division, and are believed to result in cellular senescence by titrating away (competing for) essential nuclear factors. ERCs have not been observed in other species (nor even all strains of the same yeast species) of yeast (which also display replicative senescence), and ERCs are not believed to contribute to aging in higher organisms such as humans (they have not been shown to accumulate in mammals in a similar manner to yeast). Extrachromosomal circular DNA (eccDNA) has been found in worms, flies, and humans. The origin and role of eccDNA in aging, if any, is unknown.
+Despite the lack of a connection between circular DNA and aging in higher organisms, extra copies of Sir2 are capable of extending the lifespan of both worms and flies (though, in flies, this finding has not been replicated by other investigators, and the activator of Sir2 resveratrol does not reproducibly increase lifespan in either species. [10]) Whether the Sir2 homologues in higher organisms have any role in lifespan is unclear, but the human SIRT1 protein has been demonstrated to deacetylate p53, Ku70, and the forkhead family of transcription factors. SIRT1 can also regulate acetylates such as CBP/p300, and has been shown to deacetylate specific histone residues.
+RAS1 and RAS2 also affect aging in yeast and have a human homologue. RAS2 overexpression has been shown to extend lifespan in yeast.
+Other genes regulate aging in yeast by increasing the resistance to oxidative stress. Superoxide dismutase, a protein that protects against the effects of mitochondrial free radicals, can extend yeast lifespan in stationary phase when overexpressed.
+In higher organisms, aging is likely to be regulated in part through the insulin/IGF-1 pathway. Mutations that affect insulin-like signaling in worms, flies, and the growth hormone/IGF1 axis in mice are associated with extended lifespan. In yeast, Sir2 activity is regulated by the nicotinamidase PNC1. PNC1 is transcriptionally upregulated under stressful conditions such as caloric restriction, heat shock, and osmotic shock. By converting nicotinamide to niacin, nicotinamide is removed, inhibiting the activity of Sir2. A nicotinamidase found in humans, known as PBEF, may serve a similar function, and a secreted form of PBEF known as visfatin may help to regulate serum insulin levels. It is not known, however, whether these mechanisms also exist in humans, since there are obvious differences in biology between humans and model organisms.
+Sir2 activity has been shown to increase under calorie restriction. Due to the lack of available glucose in the cells, more NAD+ is available and can activate Sir2. Resveratrol, a stilbenoid found in the skin of red grapes, was reported to extend the lifespan of yeast, worms, and flies (the lifespan extension in flies and worms have proved to be irreproducible by independent investigators [10] ). It has been shown to activate Sir2 and therefore mimics the effects of calorie restriction, if one accepts that caloric restriction is indeed dependent on Sir2.
+According to the GenAge database of aging-related genes, there are over 1800 genes altering lifespan in model organisms: 838 in the soil roundworm (Caenorhabditis elegans ), 883 in the bakers' yeast (Saccharomyces cerevisiae ), 170 in the fruit fly (Drosophila melanogaster) and 126 in the mouse (Mus musculus ). [11]
+The following is a list of genes connected to longevity through research [11] on model organisms :
+Podospora
+Saccharomyces
+Caenorhabditis
+Drosophila
+Mus
+grisea
+LAG1
+daf-2
+sod1
+Prop-1
+LAC1
+age-1/daf-23
+cat1
+p66shc (Not independently verified)
+pit-1
+Ghr
+RAS1
+daf-18
+mth
+mclk1
+RAS2
+akt-1/akt-2
+PHB1
+daf-16
+PHB2
+daf-12
+CDC7
+ctl-1
+BUD1
+old-1
+RTG2
+spe-26
+RPD3
+clk-1
+HDA1
+mev-1
+SIR2
+aak-2
+SIR4-42
+UTH4
+YGL023
+SGS1
+RAD52
+FOB1
+"Healthspan, parental lifespan, and longevity are highly genetically correlated" [12]
+In July 2020 scientists, using public biological data on 1.75 m people with known lifespans overall, identify 10 genomic loci which appear to intrinsically influence healthspan, lifespan, and longevity – of which half have not been reported previously at genome-wide significance and most being associated with cardiovascular disease – and identify haem metabolism as a promising candidate for further research within the field. Their study suggests that high levels of iron in the blood likely reduce, and genes involved in metabolising iron likely increase healthy years of life in humans. [13] [12]
+Ned Sharpless and collaborators demonstrated the first in vivo link between p16-expression and lifespan. [14] They found reduced p16 expression in some tissues of mice with mutations that extend lifespan, as well as in mice that had their lifespan extended by food restriction. Jan van Deursen and Darren Baker in collaboration with Andre Terzic at the Mayo Clinic in Rochester, Minn., provided the first in vivo evidence for a causal link between cellular senescence and aging by preventing the accumulation of senescent cells in BubR1 progeroid mice. [15] In the absence of senescent cells, the mice’s tissues showed a major improvement in the usual burden of age-related disorders. They did not develop cataracts, avoided the usual wasting of muscle with age. They retained the fat layers in the skin that usually thin out with age and, in people, cause wrinkling. A second study led by Jan van Deursen in collaboration with a team of collaborators at the Mayo Clinic and Groningen University, provided the first direct in vivo evidence that cellular senescence causes signs of aging by eliminating senescent cells from progeroid mice by introducing a drug-inducible suicide gene and then treating the mice with the drug to kill senescent cells selectively, as opposed to decreasing whole body p16. [16] Another Mayo study led by James Kirkland in collaboration with Scripps and other groups demonstrated that senolytics, drugs that target senescent cells, enhance cardiac function and improve vascular reactivity in old mice, alleviate gait disturbance caused by radiation in mice, and delay frailty, neurological dysfunction, and osteoporosis in progeroid mice. Discovery of senolytic drugs was based on a hypothesis-driven approach: the investigators leveraged the observation that senescent cells are resistant to apoptosis to discover that pro-survival pathways are up-regulated in these cells. They demonstrated that these survival pathways are the "Achilles heel" of senescent cells using RNA interference approaches, including Bcl-2-, AKT-, p21-, and tyrosine kinase-related pathways. They then used drugs known to target the identified pathways and showed these drugs kill senescent cells by apoptosis in culture and decrease senescent cell burden in multiple tissues in vivo. Importantly, these drugs had long term effects after a single dose, consistent with removal of senescent cells, rather than a temporary effect requiring continued presence of the drugs. This was the first study to show that clearing senescent cells enhances function in chronologically aged mice. [17]
+See also[edit]
+Strategies for engineered negligible senescence
+References[edit]
+^Klass MR (1983). "A method for the isolation of longevity mutants in the nematode Caenorhabditis elegans and initial results". Mechanisms of Ageing and Development. 22 (3–4): 279–286. doi:10.1016/0047-6374(83)90082-9. PMID 6632998. S2CID 6870538.
+^Friedman DB, Johnson TE (1988). "A mutation in the age-1 gene in Caenorhabditis elegans lengthens life and reduces hermaphrodite fertility"(PDF). Genetics. 118 (1): 75–86. doi:10.1093/genetics/118.1.75. PMC 1203268. PMID 8608934.
+^Gottlieb S, Ruvkun G (1994). "daf-2, daf-16 and daf-23: genetically interacting genes controlling Dauer formation in Caenorhabditis elegans". Genetics. 137 (1): 107–120. doi:10.1093/genetics/137.1.107. PMC 1205929. PMID 8056303.
+^
+Jump up to:
+a b Kenyon C, Chang J, Gensch E, Rudner A, Tabtiang R (1993). "A C. elegans mutant that lives twice as long as wild type". Nature. 366 (6454): 461–464. Bibcode:1993Natur.366..461K. doi:10.1038/366461a0. PMID 8247153. S2CID 4332206.
+^Ayyadevara S, Alla R, Thaden JJ, Shmookler Reis RJ (2008). "Remarkable longevity and stress resistance of nematode PI3K-null mutants". Aging Cell. 7 (1): 13–22. doi:10.1111/j.1474-9726.2007.00348.x. PMID 17996009. S2CID 2470599.
+^Shmookler Reis RJ, Bharill P, Tazearslan C, Ayyadevara S (2009). "Extreme-longevity mutations orchestrate silencing of multiple signaling pathways". Biochimica et Biophysica Acta (BBA) - General Subjects. 1790 (10): 1075–1083. doi:10.1016/j.bbagen.2009.05.011. PMC 2885961. PMID 19465083.
+^
+Jump up to:
+a b c Hyun M, Lee J, Lee K, May A, Bohr VA, Ahn B. Longevity and resistance to stress correlate with DNA repair capacity in Caenorhabditis elegans. Nucleic Acids Res. 2008 Mar;36(4):1380-9. doi: 10.1093/nar/gkm1161. Epub 2008 Jan 18. PMID: 18203746; PMCID: PMC2275101
+^Tatar M, Kopelman A, Epstein D, Tu MP, Yin CM, Garofalo RS (1988). "A mutant Drosophila insulin receptor homolog that extends life-span and impairs neuroendocrine function". Science. 292 (5514): 107–110. doi:10.1126/science.1057987. PMID 11292875. S2CID 28565101.
+^Bartke A, Wright JC, Mattison JA, Ingram DK, Miller RA, Roth GS (2001). "Extending the lifespan of long-lived mice" (PDF). Nature. 414 (6862): 412. doi:10.1038/35106646. hdl:2027.42/62803. PMID 11719795. S2CID 4379930.
+^
+Jump up to:
+a b Bass TM; Weinkove D; Houthoofd K; Gems D; Partridge L (October 2007). "Effects of resveratrol on lifespan in Drosophila melanogaster and Caenorhabditis elegans". Mechanisms of Ageing and Development. 128 (10): 546–52. doi:10.1016/j.mad.2007.07.007. PMID 17875315. S2CID 1780784.
+^
+Jump up to:
+a b "GenAge database". Retrieved 26 February 2011.
+^
+Jump up to:
+a b Timmers, Paul R. H. J.; Wilson, James F.; Joshi, Peter K.; Deelen, Joris (16 July 2020). "Multivariate genomic scan implicates novel loci and haem metabolism in human ageing". Nature Communications. 11 (1): 3570. Bibcode:2020NatCo..11.3570T. doi:10.1038/s41467-020-17312-3. ISSN 2041-1723. PMC 7366647. PMID 32678081. Text and images are available under a Creative Commons Attribution 4.0 International License.
+^"Blood iron levels could be key to slowing ageing, gene study shows". phys.org. Retrieved 18 August 2020.
+^Krishnamurthy, J; Torrice, C; Ramsey, MR; Kovalev, GI; Al-Regaiey, K; Su, L; Sharpless, NE (2004). "Ink4a/Arf expression is a biomarker of aging". J. Clin. Invest. 114 (9): 1299–1307. doi:10.1172/JCI22475. PMC 524230. PMID 15520862.
+^Baker DJ; Dawlaty MM; Wijshake T; Jeganathan KB; Malureanu L; van Ree JH; Crespo-Diaz R; Reyes S; Seaburg L; Shapiro V; Behfar A; Terzic A; van de Sluis B; van Deursen JM (Jan 2013). "Increased expression of BubR1 protects against aneuploidy and cancer and extends healthy lifespan". Nat Cell Biol. 15 (1): 96–102. doi:10.1038/ncb2643. PMC 3707109. PMID 23242215.
+^Baker, D.; Wijshake, T.; Tchkonia, T.; LeBrasseur, N.; Childs, B.; van de Sluis, B.; Kirkland, J.; van Deursen, J. (10 November 2011). "Clearance of p16Ink4a-positive senescent cells delays ageing-associated disorders". Nature. 479 (7372): 232–6. Bibcode:2011Natur.479..232B. doi:10.1038/nature10600. PMC 3468323. PMID 22048312.
+^Zhu, Y; Tchkonia, T; Pirtskhalava, T; Gower, AC; Ding, H; Giorgadze, N; Palmer, AK; Ikeno, Y; Hubbard, GB; Lenburg, M; O'Hara, SP; LaRusso, NF; Miller, JD; Roos, CM; Verzosa, GC; LeBrasseur, NK; Wren, JD; Farr, JN; Khosla, S; Stout, MB; McGowan, SJ; Fuhrmann-Stroissnigg, H; Gurkar, AU; Zhao, J; Colangelo, D; Dorronsoro, A; Ling, YY; Barghouthy, AS; Navarro, DC; Sano, T; Robbins, PD; Niedernhofer, LJ; Kirkland, JL (9 March 2015). "The Achilles' heel of senescent cells: from transcriptome to senolytic drugs". Aging Cell. 14 (4): 644–58. doi:10.1111/acel.12344. PMC 4531078. PMID 25754370.
+External links[edit]
+Human Ageing Genomic Resources, a collection of databases and tools designed to help researchers study the genetics of human aging
+The NetAge Database, an online database and network analysis tools for biogerontological research
+
+Doc 2 (URL: https://pubmed.ncbi.nlm.nih.gov/34700008/, ClueWebID: clueweb22-en0034-84-09921)
+Epidemiological and genetic overlap among biological aging clocks: New challenges in biogerontology
+Epidemiological and genetic overlap among biological aging clocks: New challenges in biogerontology
+Ageing Res Rev. 2021 Dec;72:101502. doi: 10.1016/j.arr.2021.101502. Epub 2021 Oct 23.
+Authors
+Alessandro Gialluisi1 , Aurelia Santoro2 , Alfonsina Tirozzi3 , Chiara Cerletti3 , Maria Benedetta Donati3 , Giovanni de Gaetano3 , Claudio Franceschi4 , Licia Iacoviello5
+Affiliations
+1 Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy. Electronic address: alessandro.gialluisi@gmail.com.
+2 Department of Experimental, Diagnostic and Specialty Medicine, University of Bologna, Bologna, Italy; Alma Mater Research Institute on Global Challenges and Climate Change (Alma Climate), University of Bologna, Bologna 40126, Italy.
+3 Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy.
+4 Department of Experimental, Diagnostic and Specialty Medicine, University of Bologna, Bologna, Italy; Laboratory of Systems Medicine of Healthy Aging and Department of Applied Mathematics, Lobachevsky University, Nizhny Novgorod, Russia.
+5 Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy; Department of Medicine and Surgery, University of Insubria, Varese, Italy.
+PMID: 34700008
+DOI: 10.1016/j.arr.2021.101502
+Research Support, Non-U.S. Gov't
+Review
+Aging / genetics
+DNA Methylation*
+Epigenesis, Genetic*
+Epigenomics
+Humans
+Machine Learning
+
+Doc 3 (URL: https://www.sciencedirect.com/topics/social-sciences/human-genetics, ClueWebID: clueweb22-en0036-54-15833)
+Human Genetics - an overview | ScienceDirect Topics
+Genetics of Human Aging
+Miook Cho, Yousin Suh, in Handbook of the Biology of Aging (Eighth Edition), 2016
+Human genetics has provided a framework for understanding the biology of the human species and is a rapidly growing field of aging research. The genetic analysis of human aging is aimed at identifying genetic variants that reflect the biological age of individuals and predict long-term morbidity and/or mortality, and ultimately revealing the genetic determinants of aging in humans. By associating genetic variants with human age-related phenotypes, including exceptional longevity, vast numbers of candidate genetic variants can be obtained and tested in cell culture or animal models for their functional impact on aging-related molecular, cellular, and organismal phenotypic endpoints. While there have been numerous genetic variants found to be associated with a range of age-related traits and diseases, a substantial proportion of the causality remains unexplained, and fundamental questions remain regarding genes and their variants influencing aging and longevity in humans. Further studies need to be performed in order to understand the genetic determinants of healthspan and lifespan. Hopefully, human genetics-based elucidation of molecular pathways will provide a rational basis for targeted intervention strategies to slow aging and delay the onset and progression of age-related diseases. In this chapter, we will review what is known about the bewildering genetic variation in human populations and how this variation has been used as the workhorse of human genetics as markers in linkage and association studies of the biology and pathophysiology of aging. We will then review study designs and methods for discovery and validation of genetic variants for age-related phenotypes, and discuss what ultimately needs to be done to develop genetics-based intervention and therapeutic strategies against aging in humans.
+View chapter Purchase book
+Race, Human Variation, and Health, the Interaction of
+A.H. Goodman, in International Encyclopedia of Public Health, 2008
+Conflating Human Genetic Variation and Race
+Human genetic variation does exist: It is real and measurable. But it is also more dynamic than one might assume. For example, the genetics of Amherst, Massachusetts, in 1606 was very different from 1806 and 2006. And the road from genetic factors to complex diseases and behaviors is exceedingly interactive and less than fully determined. Where we end up – whether a behavior or disease becomes manifest – is undoubtedly related, though partly and incompletely, to genetics. But none of this has anything to do with race.
+A reasonable compromise position would be to accept the fact that racial inequalities in health are likely a result of both causal pathways: genetic and lived experience. In fact, this is precisely the position advocated by Francis Collins (2004), the powerfully placed head of the U.S. National Human Genome Institute. But Sankar and colleagues (2004) argue that such a position has the real consequence of overstating the importance of genetics, as well as continuing to conflate race with human genetic variation. In their analysis, such a position is likely to divert research funds from socioeconomic causes of health disparities.
+View chapter Purchase book
+Genetic Ancestry
+S.S.-J. Lee, in Encyclopedia of Applied Ethics (Second Edition), 2012
+Genetic Ancestry Is Not the Same as Race
+Human genetic variation within continents is, for the most part, geographically continuous and clinal, particularly in regions of the world that have not received many immigrants in recent centuries. Genetic data cannot reveal an individual’s full geographic ancestry precisely, although emerging research has been used to identify geographic ancestry at the continental and subcontinental levels. Genetic clusters, however, are far from being equivalent to sociopolitical, racial or ethnic categories. Diverse populations identified as ‘Hispanic,’ for example, are heterogeneous and have distinct ancestries and social histories. Social experiences and conditions inform racial identity, making such identity a poor proxy for genetic ancestry.
+Consumers may purchase genetic tests to learn about their race or ethnicity, but there is no clear-cut connection between an individual’s DNA and his or her racial or ethnic affiliation. Worldwide patterns of human genetic diversity are weakly correlated with racial and ethnic categories because both are partially correlated with geography and the history of human migration. Current understandings of race and ethnicity reflect more than genetic relatedness, however, having been defined in particular sociohistorical contexts (i.e., European and American colonialism). In addition, social relationships and life experiences are important components in shaping individual identity and group membership and, in some cases, may supersede biological ancestry in significance. Many genetic ancestry tests also claim to tell consumers where their ancestral lineage originated and the social group to which their ancestors belonged. The idea of ‘returning to one’s homeland’ as identified by genetic ancestry information must be treated with care because modern populations from which samples have been collected have not remained unchanged over time. Current patterns of residence are rarely identical to what existed in the past, and social groups have changed over time – in name and composition.
+View chapter Purchase book
+On the Origins and Evolution of the Mediterranean Diet
+Yardena Arnoni MSc, Elliot M. Berry MD, FRCP, in The Mediterranean Diet, 2015
+Mediterranean Lifestyle
+Human genetic profiles have not changed significantly over the past 10,000 years, whereas lifestyle has been revolutionized. Modern industrialized populations are characterized by reduced energy expenditure and increased energy intake. Fat intake in the form of trans and saturated fats has increased, and there is a decreased intake of fiber, complex carbohydrates, fruits and vegetables (vitamins and antioxidants), protein, and calcium [9 ]. In the United States there were three times more deaths due to cancer and coronary heart disease than in Crete [10 ], and this differential has only been increasing. The Lyon Heart Study adapted the Cretan diet for the French population and showed cardioprotective and anticancer effects, thereby demonstrating that the Mediterranean diet can be modified to suit other populations [11 ]. Current trends of eating while watching television promote unhealthy, quick meals and exclude social/family communication. Other factors that may contribute to the Mediterranean lifestyle include a relaxing psychosocial environment, mild climate, preservation of the extended family structure, and even a siesta [12 ], as well as regular activity, mainly through walking [13 ]. Sleep and exercise deficiencies have been correlated with chronic illnesses such as diabetes and heart disease [14 ].
+View chapter Purchase book
+Genes and Behavior: Animal Models
+R.J. Greenspan, in International Encyclopedia of the Social & Behavioral Sciences, 2001
+4.3 Testability
+Human genetics is primarily a correlative science. This applies as much to behavioral genetics as to any other variety. Hypotheses can be tested against observational data, but actual manipulations or ‘test crosses’ cannot, of course, be carried out. One of the principal virtues of model organisms, therefore, is experimental testability of gene function and interaction. Given the increasing evidence for conservation of genetic function between species as distant as Drosophila and mammals, they represent an important contribution to understanding and interpreting possible genetic influences on human behavior. One of these contributions should be a sense of humility before the problem. As the foregoing discussion elaborates, the road from gene to behavior is neither simple nor direct, and is difficult enough where experimental testing is possible. The difficulties are multiplied for natural variants because of the subtlety of their effects and their consequent elusive nature.
+The universal importance of context in the action of genes on behavior presents further obstacles to a simple formulation. If combinations of alleles will give different effects due to interactions with each other and with environmental variables, then the problem takes on the aspect of an infinitely sliding scale. Whenever one variable is changed, the relative effect of many of the others may also change. This malleability is no doubt a source of robustness in biological systems, as well as a source for evolutionary change. Understanding it remains one of the central questions in the behavioral sciences.
+View chapter Purchase book
+Somatic Mosaicism and Neurological Diseases
+Saumya S. Jamuar, ... Christopher A. Walsh, in Genomics, Circuits, and Pathways in Clinical Neuropsychiatry, 2016
+Introduction
+Human genetic diseases have traditionally been thought to reflect either inherited or de novo variations in the genome. Inherited mutations are present in all cells of the affected individual and can be detected in any cell of the body, including readily available peripheral blood cells; they are referred to as “germ line.” De novo mutations usually refer to mutations that occur for the first time in a parent's germ cell but are inherited by all cells at the time of fertilization, and hence are present in all cells of the offspring. On the other hand, somatic mutation is a postzygotic mutational event that leads to an individual having two or more populations of cells with distinct genotypes, despite developing from a single fertilized egg (Biesecker & Spinner, 2013; Poduri, Evrony, Cai, & Walsh, 2013 ), and thus represents a subset of the larger category of de novo mutations.
+There is increasing recognition of the role of germ line de novo mutations in neuropsychiatric diseases, including autism spectrum disorders (ASDs), epilepsy, and schizophrenia (Michaelson et al., 2012; Neale et al., 2012; O'Roak et al., 2011; O'Roak, Vives, Girirajan, et al., 2012; Riviere et al., 2012; Sanders et al., 2012; Veltman & Brunner, 2012 ). These de novo mutations arise in the sperm or egg of the parent during gametogenesis and hence are absent in the blood of the parents but are present across all cell types in the affected individual. However, de novo or spontaneous mutations also can occur after fertilization, during mitotic cell divisions. These mutations lead to an individual being mosaic, with only a subset of cells harboring the mutation, which is referred to as somatic mosaicism. These mutations will also be absent in the parents, and depending on the timing of mutation with respect to embryonic development, may affect cells across all cell types or may be present in only a few specific cell types (Jamuar et al., 2014; Kennedy, Loeb, & Herr, 2012; Poduri et al., 2013 ). Whereas the role of somatic mutation in cancer cells is well established (Watson, Takahashi, Futreal, & Chin, 2013 ), appreciation of an analogous role for somatic mutations that occur randomly during normal mitotic cell divisions of embryonic development and are present in clones of cells in one or more tissues of the body has been relatively recent.
+“Obligatory” somatic mutations have been described in several noncancerous disorders, including McCune Albright syndrome (caused by activating mutations in GNAS) (Weinstein et al., 1991 ), Sturge-Weber syndrome (caused by mutations in GNAQ) (Shirley et al., 2013 ), Proteus syndrome (caused by activating mutations in AKT1) (Lindhurst et al., 2011 ), and hemimegalencephaly (HMG) (which is caused by strongly activating mutations in PIK3CA, PIK3R2, and AKT3) (Lee et al., 2012; Poduri et al., 2012; Riviere et al., 2012 ). These “obligatory” somatic mutations appear to reflect mutations that are lethal when present in the germ line. On the other hand, somatic mutations have also been observed in a fraction of patients with tuberous sclerosis, double cortex, periventricular nodular heterotopia, and bilateral megaloencephalic disorders (caused by mildly activating mutations in AKT3/PIK3CA/PIK3R2) presenting as milder versions of the germ-line condition (Lee et al., 2012; Poduri et al., 2013; Riviere et al., 2012 ). Whereas somatic mutations have been reported in a range of other genetic conditions (Poduri et al., 2013 ), the broader relevance of somatic mutations to other neurologic conditions such as autism and epilepsy in persons without structural brain malformations is not known.
+With advances in genomic technologies, there has been an expansion in our knowledge of types of tissues in which somatic mutations, especially in the context of neuropsychiatric disorders, have been detected, as well as the kinds of mutations being detected (Table 12.1 ). Somatic mutations could reflect point mutations (also known as single-nucleotide variants [SNVs]), insertions/deletions (indels), copy number variants (CNVs) (including chromosomal aneuploidy), short tandem repeats, and transposable element variants. Here we will review the current state of data about somatic mutations in human neurological disease. We highlight the estimation of the prevalence of these somatic mutations in disorders of brain development and discuss the challenges of identifying such rare mosaic mutations. We further discuss how emerging techniques will allow more refined study of the types and rates of somatic mutation and genomic variation in the brain.
+Table 12.1. List of Somatic Mutations in Association With Neuropsychiatric Disorders
+SNV and Microdeletions/Microduplications
+Gene
+Allele
+% Mutant Cells
+Comments
+FMR1
+CGG repeat length in 5′ UTR
+–
+41% (61/148) of males with Fragile X syndrome (FXS) tested showed mosaicism for full mutation and permutation using genomic DNA from peripheral blood leukocytes (Nolin, Glicksman, Houck, Brown, &amp; Dobkin, 1994)
+–
+4 males with FXS with both premutation and full mutation alleles; 2 show significant differences in the ratio of the 2 alleles in different tissues (blood and skin) (Dobkin et al., 1996)
+28% (deletion)
+72% (full mutation)
+Mosaic deletion of part of the CGG repeat and 30 bp immediately 3′ (present in 28% of cells) and methylated full mutation in a male with FXS (de Graaff et al., 1996)
+20–30% (deletion)
+70–80% (full mutation)
+Male patient with FXS mosaic for a full mutation and a 486-bp microdeletion (present in 20–30% of leukocytes) (Schmucker, Ballhausen, &amp; Pfeiffer, 1996)
+–
+Eight male patients with FXS mosaic for full mutation and normal or reduced size allele owing to a deletion (Grasso et al., 1999)
+2% (deletion)
+23% (premutation)
+75% (full mutation)
+Male with FXS mosaic for full mutation (75% of blood leukocytes), premutation (23% of leukocytes), and deletion (2% of leukocytes) (Petek, Kroisel, Schuster, Zierler, &amp; Wagner, 1999)
+–
+Male with FXS mosaic for full mutation and 905-bp deletion (Garcia Arocena, de Diego, Oostra, Willemsen, &amp; Mirta Rodriguez, 2000)
+–
+Male with cognitive and behavioral features of FXS mosaic for premutation and full mutation (Zeesman et al., 2004)
+–
+3 males with mental retardation mosaic for full mutation and premutation (Bilgen et al., 2005)
+Female mosaic for full mutation (30%) and deletion (20%), in presence of a normal allele (Fan et al., 2005)
+–
+2 males with autism mosaic for full mutation and premutation and 1 male with autism mosaic for full mutation and deletion (Reddy, 2005)
+–
+Male with FXS phenotype mosaic for full mutation and premutation, with full mutation more readily detected in skin fibroblasts than peripheral blood (MacKenzie, Sumargo, &amp; Taylor, 2006)
+15% (deletion)
+25% (premutation)
+60% (full mutation)
+Male mosaic for full mutation (60%), premutation (25%), and deletion (15%) (Govaerts et al., 2007)
+90% (deletion)
+10% (intact)
+Male with cognitive and behavioral features of FXS mosaic for deletion (present in 90% of lymphocytes) and intact FMR1 (Coffee et al., 2008)
+–
+Female fetus mosaic for an intermediate allele and a full mutation, in the presence of a normal allele, confirmed in amniotic fluid, skin biopsy, and blood (Ferreira et al., 2013)
+25% (premutation, blood)
+75% (full mutation, blood)
+5–6% (premutation, brain)
+94–95% (full mutation, brain)
+Male with FXS mosaic for full mutation and premutation (present in 25% of peripheral blood cells and 5–6% of brain cells) (Pretto et al., 2013)
+MeCP2
+p.R270X
+–
+Mosaic MeCP2 mutation in a boy with classic Rett syndrome (Topcu et al., 2002)
+c.241del2
+–
+Mosaic MeCP2 mutation in a boy with some features of Angelman syndrome (Hitchins et al., 2004)
+p.T158M
+–
+Mosaic homozygous MeCP2 mutation in a girl with classic Rett syndrome (homozygous mutant allele in blood, mutant and wild-type allele present in cultured fibroblasts) (Karall et al., 2007)
+p.Y120X
+20–30%
+Mosaic MeCP2 mutation (20–30% mosaicism) in a boy with atypical Rett syndrome (Pieras et al., 2011)
+NF1
+Microdeletion
+–
+Female with NF1 mosaic for NF1 microdeletion (Colman, Rasmussen, Ho, Abernathy, &amp; Wallace, 1996)
+Microdeletion
+–
+Patient with NF1 mosaic for NF1 microdeletion (Ainsworth, Chakraborty, &amp; Weksberg, 1997)
+Microdeletion
+–
+3% (2 of 67 patients with NF1 tested) mosaic for NF1 microdeletion (Rasmussen et al., 1998)
+Microdeletion
+15–24% (café-au-lait spots)
+0% (normal skin and peripheral blood lymphocytes)
+Mosaic NF1 microdeletion present in café-au-lait spots (deletion in 15–24% of cells) and absent from normal skin and peripheral blood lymphocytes in a boy with segmental neurofibromatosis (Tinschert et al., 2000)
+Microdeletion
+70% (blood lymphocytes)
+15% (fibroblast cultures)
+Mother of 2 brothers with NF1 mosaic for microdeletion (Petek et al., 2003)
+Microdeletion
+91–100% (peripheral leukocytes)
+51–80% (buccal smear or peripheral skin fibroblasts)
+40% (8 of 20) patients with sporadic NF1 microdeletions were mosaic for the deletion, present in 91–100% of peripheral leukocytes and 51–80% in buccal smears or peripheral skin fibroblasts (Kehrer-Sawatzki et al., 2004)
+p.R1968X
+–
+Monozygotic twins discordant with NF1, the affected twin had heterozygous mutation in all cell samples while the affected twin had mutation in lymphoblastoid and buccal cells but not fibroblasts (Kaplan et al., 2010)
+Microdeletion
+94–99% (blood cells)
+24–82% (urine epithelial cells)
+11 patients with some features of neurofibromatosis mosaic for microdeletion present in 94–99% of blood cells and 24–82% of urine epithelial cells (Roehl et al., 2012)
+Microdeletion
+–
+10% (14 of 146 patients with NF1 deletions) were mosaic for microdeletion, including patients with generalized and segmental NF (Messiaen et al., 2011)
+Deletion
+70% (blood cells)
+5% (buccal mucosal cells)
+Male with cognitive disability and dysmorphic features mosaic for 2.8-Mb NF1 deletion (70% of blood cells and 5% of buccal mucosal cells) (Taylor Tavares, Willatt, Armstrong, Simonic, &amp; Park, 2013)
+p.Q2510X
+42% (peripheral blood)
+36% (oral mucosa)
+12% (uroepithelium)
+Patient with NF type I mosaic for mutation in peripheral blood cells (42%), oral mucosal cells (36%), and uroepithelial cells (12%) (Zhou et al., 2012)
+OPRL1, NAV2, C3orf38, NTNG1, FRYL, ZNF420, GNA11, TSNARE1, FBXW9
+OPRL1 p.R157C, NAV2 synonymous, C3orf38 synonymous, NTNG1 p.Y23C, FRYL p.E2683D, ZNF420 p.L76P, GNA11 synonymous, TSNARE1 p.S466L, FBXW9 p.G445S
+–
+3.6% (9 of 248) de novo mutations identified had evidence suggesting they were somatic point mutations (O'Roak, Vives, Girirajan, et al., 2012)
+PIAS1, HIVEP2, KANSL2
+PIAS1: p.D403E, HIVEP2 :p.A1065T, KANSL2: Synonymous
+40–44%
+Whole genome sequencing of patients with intellectual disability (ID) identified 3 of 10 de novo single-nucleotide variants in candidate ID genes in a mosaic state: PIAS1 (21%), HIVEP2 (22%), and KANSL2 (20%) (Gilissen et al., 2014)
+SCN1A
+p.R542X,
+c.965 – 2A &gt; C
+–
+SCN1A somatic and germ-line mosaicism in parents of patients with severe myoclonic epilepsy of infancy (Depienne et al., 2006)
+c.5240insAA, IVS17+1G &gt; A
+70–80%
+SCN1A somatic (present in 70–80% of cells) and germ-line mosaicism in parents of patients with severe myoclonic epilepsy of infancy (Gennaro et al., 2006)
+IVS4+1G &gt; A
+37%
+SCN1A somatic (present in 37% of ectodermal derivative cells) mosaicism in father, who had febrile seizures, of 2 sisters with severe myoclonic epilepsy of infancy (Marini, Mei, HelenCross, &amp; Guerrini, 2006)
+p.V244L,
+p.K246X
+30%
+SCN1A somatic (present in 30% of lymphocyte cells) mosaicism in mother of 2 brothers with severe myoclonic epilepsy of infancy (Morimoto et al., 2006)
+p.Arg1329X
+5%
+SCN1A somatic mosaicism (5%) in mother of 2 half-sisters with Dravet syndrome (Selmer et al., 2009)
+p.D194N
+60–70%
+Mosaic SCN1A mutation (present in 60–70% of cells) in father (with genetic epilepsy with febrile seizures plus) of a patient with Dravet syndrome (Azmanov et al., 2010)
+c.1377+1G &gt; A, c.3878delA, c.602+1G &gt; A,
+c.965 – 2A &gt; C,
+c.5493delT,
+p.I124N, p.N191Y, p.R542X, p.R580X,
+p.R712X, p.I1782M, p.R1912X,
+Deletion
+–
+SCN1A somatic mutations (mutation proportion in blood 0.04–85%) in parents from 13 families with children with Dravet syndrome (Depienne et al., 2010)
+p.R101Q
+–
+Mosaic SCN1A mutation in mother with febrile seizures plus transmitted to daughters with Dravet syndrome (Sun et al., 2010)
+Microdeletion
+20%
+Mosaic SCN1A microdeletion (20% of cells) in father of daughters with epilepsy syndrome (Suls et al., 2010)
+p.R222X
+–
+SCN1A somatic mosaicism leading to monozygotic twins discordant for Dravet syndrome (Vadlamudi et al., 2010)
+p.Q1923R, p.I1616T
+25%, 50%
+SCN2A somatic mutations (allele frequency 12.5% and 25%, respectively) in mildly affected or unaffected parents of patients with partial epilepsy with antecedent febrile seizures (Michaelson et al., 2012)
+SCN2A
+p.V1326L
+36%
+Mosaic SCN2A mutation (allele frequency 18%) in a girl with Ohtahara/West syndrome (Nakamura et al., 2013)
+p.S1336Y
+–
+Gonadal mosaic SCN2A mutation in father passed to half-brothers with Ohtahara syndrome (Zerem et al., 2014)
+TSC1
+p.R786X
+–
+Mosaic TSC1 mutation in a patient (Roberts, Jozwiak, Kwiatkowski, &amp; Dabora, 2001)
+TSC1/TSC2
+TSC1: 942insA, 1473delC
+TSC2: 2374-2A &gt; C, 156+1G &gt; A, deletions
+–
+TSC1 or TSC2 somatic mosaicism in mildly affected parents from 5 families and TSC1 gonadal mosaicism in an unaffected parent in 1 family, of 62 families studied (about 10%) (Verhoef et al., 1999)
+TSC2
+p.N1643K
+30%
+Mosaic TSC2 mutation (30% of cells) in a patient with tuberous sclerosis complex (TSC) (Antonarakis, Sampson, &amp; Cheadle, 2002)
+p.R622W
+1.4–21.6%
+Second-hit TSC2 mosaic mutation (0.7–10.8% frequency) in the cortex of a patient with a TSC2 germ-line mutation (Qin, Chan, et al., 2010)
+c.1444-1G &gt; A, p.R1743Q
+10.68%
+Two TSC patients with TSC2 mosaic mutations (Qin, Kozlowski, et al., 2010)
+Copy Number/Structural Variation
+Chromosome
+Type
+% Mutant cells
+Comments
+2q23.3q24.3
+Duplication
+40–51%
+Mosaic 2q duplication (present in 40–51% of blood cells) including SCN2A and SCN3A in a boy with atypical epilepsy (Vecchi et al., 2011)
+4p12p16
+Duplication
+–
+Mosaic 4p duplication in a Japanese girl diagnosed with autism at age 3 years (Kakinuma, Ozaki, Sato, &amp; Takahashi, 2008)
+16p11.2
+Duplication, deletion
+–
+Mosaic 16p11.2 duplication in patient (61% of cells), mosaic 16p11.2 deletion in another patient (23% of cells) (Shinawi et al., 2010)
+16p11.2
+Deletion
+–
+Mosaic 16p11.2 deletion in patient’s mother (Dittwald et al., 2013)
+1, 9, 15, 16, 17, 18, X, Y
+Loss and gain
+–
+16% (19 of 116) patients with idiopathic autism tested had low-level mosaic aneuploidy (Yurov et al., 2007)
+View chapter Purchase book
+Proteomics of Schizophrenia
+M.P. Coba, in The Neurobiology of Schizophrenia, 2016
+Protein Interaction Pathways and Signaling Networks
+Human genetic studies had amassed a collection of common and rare variants in the form of candidate risk factors. Within these catalogues, a number of studies described a role or enrichment of rare variants (SNVs and CNVs) at the PSD (Fromer et al., 2014; Kirov et al., 2011 ). These results are based on proteomics studies that have identified the protein composition and PSD protein complexes such as NMDAR, PSD95, and Arc (Collins et al., 2006; Fernandez et al., 2009; Kirov et al., 2011 ). However, the protein–protein interaction organization of the PSD is far from clear. The PSD is a functional specialization of the postsynaptic membrane localized at the tip of the dendritic spines of excitatory synapses. The mammalian postsynaptic proteome (PSP) comprises ~1500 proteins organized into multiprotein complexes and molecular networks, including scaffolding and neurotransmitter receptor protein complexes (Bayes et al., 2011; Coba et al., 2009; Collins et al., 2005, 2006; Fernandez et al., 2009 ). Within this signaling machinery, a major problem is determining how these large sets of molecules organize to modulate synaptic function. A first attempt using immune purification and mass spectrometry approaches was able to identify a number of PSD protein complexes. These datasets were then used to map SCZ candidate genes to NMDAR, Arc, and Psd95 protein complexes (Fromer et al., 2014; Kirov et al., 2011 ). However, the analysis of protein–protein interactions from MS-derived assays also generates some problems. A common misconception in the analysis of protein complexes obtained by immunopurification and MS methods is assigning the role of “interactors” to all the proteins identified in a protein complex. It is worth highlighting that this technology cannot determine binary protein interactions. Attempts to overcome this problem have been made through the use of cross-linking agents. Several protocols showed feasibility of determining not only the direct protein–protein interactions but also the region involved in binding (Hoopmann et al., 2010; Schmidt and Robinson, 2014; Weisbrod et al., 2013 ). These methods have been proven to be useful in the determination of overexpressed protein or “small” protein complexes. However it is still a major challenge to translate them to the analysis of large and heterogeneous protein complexes with different degrees of stoichiometry, such as found in the PSD.
+Another common incorrect interpretation of protein interaction datasets is assigning the role of “scaffold protein” to the target protein that has been immunopurified based on the identification of a number of “protein interactors” by MS methods. Although proteins isolated by immunopurification techniques can recover hundreds of protein interactions, this alone does not convincingly imply a role as a scaffold. As a brief summary, scaffold molecules present often structural or protein-clustering functions, often show a multimodular composition of protein domain, can homo-heterodimerize, and might form binary protein interactions with different proteins at the same time. This scenario cannot be established solely by the isolation of protein complexes, in which we can determine dozens of individual binary pairs of protein interactions without a protein being able to cluster a high number of proteins at a given time. For example, we can describe the case of a protein kinase with hundreds of substrates. Although these are all protein–protein interactions, we do not describe it as a scaffold protein. They do not represent what is considered a protein complex and can be better described as a collection of binary interactions. However, it is common to see these terms assigned for members of the PSD, where targets isolated by MS immunopurification methods are usually considered scaffold proteins, making the interpretation of the role of these molecules in signaling mechanisms related to SCZ more difficult.
+A schematic view of the most studied and abundant scaffold proteins at the synapse can be described within a core protein interaction structure (Fig. 12.1 ). This can be viewed in three main groups of scaffold proteins. First, there is an “upper layer” of scaffold proteins associated with glutamate receptor ion channels; this group is enriched in members of the membrane-associated guanylate kinases (MAGUK), including the disk large-associated homologues 1–4 (DLGs). Second, there is a “bottom layer” of scaffold components, including the SH3 and multiple ankyrin repeat domain proteins (SHANKs 1–3 ). Third, there is an intermediate layer of scaffold molecules functioning as a link between the “upper and lower layers,” including the disk large-associated protein 1 (Dlgap1) and the connector enhancer of kinase suppressor of ras 2 (Cnksr2), among others. Within these schematic structures, it is believed that a subset of protein interactions from PSD scaffolds might be enriched in common and rare SCZ risk variants (Fig. 12.2 ). Therefore, this suggests that a subset of PSD protein interactions might be enough to represent the core of “SCZ risk” at the postsynaptic site, instead of a more general PSD proteome.
+Sign in to download full-size image
+Figure 12.1. Clustering of TNiK, Shank3, Cnksr2, Syngap1, Cyfip1, and Dlgap1 protein interactions. Colors represent SCZ risk factors identified in SCZ human genetic studies for: GWAS (pink, single candidate within risk locus; orange, with multiple candidates within risk locus); de novo single nucleotide variants (red); de novo copy number variants (purple); genes identified by OMIM as a schizophrenia susceptibility locus (blue); and GWAS plus CNV (yellow/green). The representation of core components of protein complexes is shown by circular clustering using Cytoscape 3.2.1 (Shannon et al., 2003 ).
+Sign in to download full-size image
+Figure 12.2. Cartoon shows a schematic view of the main scaffold proteins at the PSD organized in three main layers: pink (top), scaffold molecules binding ionotropic glutamate receptors; yellow (middle), scaffold proteins connecting top and bottom layers; and green (bottom), lower layer of scaffold proteins. Enzymes and different abundant scaffold molecules are distributed within these core components and are represented in purple and blue.
+Protein–protein interaction studies can give a sense of the organization of signaling pathways. However, they generally include large datasets with difficult interpretation. One way forward is to consider the protein domain composition and the architecture of protein domains within protein complexes. Organization of PSD protein complexes has been reported to be highly dependent of the protein domain composition of protein complexes and regulated by post-translational modifications (PTMs) such as phosphorylation. Protein domains are considered to be basic units of biological function (Jin et al., 2009) responsible for enzymatic functions and cellular localization with a variety of molecular interactions that modulate signaling processes (Scott and Pawson, 2009 ). These multidomain architectures can be used as a measure of the cellular functions and protein interactions for a determined target protein (Apic et al., 2001; Fig. 12.3 ). Because protein–protein interactions are highly dependent on the composition and the architecture of protein domains (Jin and Pawson, 2012; Pawson and Scott, 1997 ), they can be informative of the broad spectrum of protein functions encoded by these protein complexes. Bioinformatics analysis shows that PSD complexes enriched in SCZ risk factors group protein families containing proteins with multidomain architectures, including SH3, PDZ, SAM, PH, ANK, GuKc, SPEC, and GKAP, among other domains engaged in protein–protein interaction functions.
+Sign in to download full-size image
+Figure 12.3. Cartoon represents the most abundant protein domains present in PSD protein (A) and e14 (B) protein complexes. Both sets of protein domains use a combination of common (C) protein domains to generate a variety of protein domain architectures (right) in PSD (top) and e14 (bottom) molecular complexes. Protein domains are annotated according to the SMART database (Letunic et al., 2015 ).
+The association of proteins in protein complexes is often used as a common regulatory mechanism to ensure that signaling components encounter their intracellular partners at the right place and time (Pawson and Scott, 1997; Scott and Pawson, 2009 ). Although protein scaffolds can use these specialized protein interaction modules (protein domains) as a key mechanism to achieve specificity, the combination of domain architectures within PSD complexes might allow a degree of protein interactions and cross-talk between a number of PSD signaling pathways. Thus, mutations in SCZ risk factors might impair PSD protein interactions through multiple layers or from different nodes in the network. Highly connected domains might represent functional centers (Wuchty, 2001) and allow the communication of different components of the network (Basu et al., 2008 ). Therefore, SCZ risk factors might modulate protein complexes enriched in domain hubs and disrupt the domain architecture of the synaptic signaling network.
+It is believed that the modulation of these clusters of protein interactions is regulated by synaptic activity through post-translational modification (Chung et al., 2004; Morabito et al., 2004; Scannevin and Huganir, 2000 ). Reversible post-translational modification (PTM) is a versatile way to modulate protein function. Historically, the most extensively studied PTM is phosphorylation, which is known to regulate every aspect of the signaling machinery (Cohen, 2002; Pawson and Scott, 2005 ). In the synapse, protein phosphorylation has been described to regulate a variety of events from synaptic plasticity to learning/memory and cognition (Abel et al., 1997; Kandel, 2001; O’Dell et al., 1992; Silva et al., 1992) The widespread phosphorylation-dependent regulation of protein–protein interactions might modulate different subsets of interactions and reshape the PSD (Coba et al., 2008, 2009 ).
+Protein phosphorylation can modulate a number of protein domains and protein ligand domains, shaping the architecture of synaptic complexes (Chung et al., 2004; Coba et al., 2009 ). Protein scaffolds such as DLGs, DLGAPs, and SHANKs use their multimodular protein domain architecture to cluster and localize a set of PSD protein domains, defining groups of protein complexes. These protein complexes are likely to be modulated by synaptic activity through a variety of post-translational modifications (Coba et al., 2009 ).
+Current studies have proposed the existence of more than 1500 phosphorylation sites at the synapse (Coba et al., 2009; Collins et al., 2005; Munton et al., 2007; Trinidad et al., 2006 ); however, how many of them might be relevant for synaptic function and their role within the PSD signaling machinery are not known. Therefore, their role in signaling pathways related to SCZ has not been pursued. This task seems to present a number of difficulties. Different patterns of PSD protein phosphorylation have been observed in synaptosomal preparations and NMDAR stimulation of mouse hippocampal slices (Coba et al., 2009; Munton et al., 2007; Trinidad et al., 2008 ). A number of studies have proposed that a combinatorial output of phosphorylation sites might be used to interpret the temporal profiling of activation of different neurotransmitter receptor activation states. Furthermore, the discovery of a large amount of phosphorylation sites does not correspond to the identification of the protein kinase/kinases that are able to phosphorylate these sites. Moreover, as for any MS proteomic assay, the need to achieve a level of protein enrichment that allows phospho-site quantitation limits the application of these methods. As a consequence, there is no information on how these processes might operate in wild-type or disease (animal/cellular) models. Therefore, there is still much work to accomplish to try to understand phosphorylation networks at the synapse and how they might impact synaptic function in SCZ models.
+View chapter Purchase book
+Genetics of Nonsyndromic Human Obesity, With Suggestions for New Studies From Work in Mouse Models
+Craig H. Warden, Janis S. Fisler, in Nutrition in the Prevention and Treatment of Disease (Fourth Edition), 2017
+Abstract
+Most genetic human obesity is due to multiple genes interacting with each other and with environment. Sequencing exomes, genome-wide associations with single nucleotide polymorphisms, sequencing methylations, and sequencing genomic DNA have revealed hundreds of obesity-causing polymorphisms that all together account for a small percent of total heritability. Pathway analyses reveal that most body mass index genes are expressed in the brain whereas most waist-to-hip ratio fat distribution genes are expressed in adipose tissue. Most mouse obesity genes are also human obesity genes and vice versa. Studies in mice demonstrate that quantitating fat mass, individual fat depots, responses of individual fat depots to dieting and exercise, and parental effects will reveal many new obesity genes. These topics have been explored superficially or not at all in studies of humans. Genetic and randomized controlled diet data are presently inadequate for development of personalized obesity therapy.
+View chapter Purchase book
+Genetics, Genomics, and Society
+Angus Clarke, in Genomics and Society, 2016
+Conclusion
+While human genetics has made rapid strides in the past three decades, the application of genomic approaches will further develop our understanding of human biology and disease and present opportunities for rational therapeutics, especially for some of the many rare disorders. The potential for the overemphasis on genetic factors in accounting for human disease is real, especially in the common, complex conditions, and needs to be resisted by those with a better grasp of disease mechanisms in their social and political context. The best approach to generating and interpreting genomic information for human health care is contentious but will be resolved over the next decade. It would be simple but probably wrong to accept at face value the model of storing a person’s genome sequence as a lifetime resource for their health care as what is meant by a genome sequence is itself unstable and still under development, and the problems associated with storing and accessing WGS are likely to exceed the costs of repeat analyses. The opportunities for genomics to be applied in human reproduction are immense—holding out the prospect of almost eliminating many types of genetic disorder—but they raise complex social and ethical issues that are not going to be resolved easily. Another problematic area is the question of communicating “difficult” genetic information within the family and generating such information about children, which may not always be in their best interests. Finally, the question arises as to whither genetic research is likely to go in the next decade. In addition to the further development of rational therapeutics, another suggestion is that research into complex GxG and GxE interactions may become more tractable through the smart utilization of genomic approaches.
+View chapter Purchase book
+Spontaneous Epileptic Mutations in the Mouse
+JEFFREY L. NOEBELS, in Models of Seizures and Epilepsy, 2006
+THE MOUSE AND MENDELIAN INHERITANCE OF EPILEPSY
+Early human genetic studies of epilepsy developed clear evidence for the heritability of idiopathic epilepsy through twin studies. Yet multigenerational pedigrees of epilepsy that demonstrate the influence of single “major” genes are difficult to find, and until relatively recently relied largely on models of complex polygenic inheritance to explain the heredity of idiopathic seizure disorders. One decade before the first of many reports of family studies revealing single loci for human idiopathic generalized epilepsies appeared (Leppert et al., 1989; Scheffer and Berkovic, 2003 ), several fundamental principles governing the hereditary transmission of epilepsy were derived from the study of single locus spontaneous neurological mutations in the mouse (Noebels, 1979 ). The first stated that epileptic disorders featuring spontaneous age-dependent seizures resembling those in human generalized epilepsy can be inherited as individual Mendelian traits. At the neurobiological level, this tenet translated directly into both the search for hereditary defects in single molecules that could alter the firing properties of neurons, and the overall strategy of exploring how the expression of these single genetic errors could trigger abnormal excitability changes within a restricted set of neuronal pathways at a specific developmental stage.
+The second principle was derived from the genetic mapping information then available in the mouse, namely, that both convulsive and generalized absence seizure phenotypes observed in spontaneous mouse mutants were genetically heterogeneous. Even without knowing the genes responsible, this evidence for locus heterogeneity foretold the extensive biochemical diversity of inherited epilepsies and predicted both the wide range of clinical variation and the pharmacologic sensitivity of molecular lesions in the human brain that share epilepsy as a common manifestation. Today, now that Mendelian inheritance of human idiopathic epilepsy has been demonstrated many times, the genetics derived from single-locus mutant mice remain of strategic importance in deciphering nonfamilial cases of epilepsy, which constitute the largest fraction of the human patient population. Knowing that a dominant mutation at only a single locus may be sufficient to produce a seizure disorder means that de novo mutation is a far more likely cause of common sporadic cases than if the seizure phenotype required simultaneous mutations in multiple genes. In addition, the recognition that inherited epilepsy is genetically heterogeneous, that is, that many different single genes give rise to the disorder, is a key factor in designing surrogate markers for epilepsy—markers that can be used in epidemiologic surveys, clinical diagnostic screening and even drug discovery. Genetic heterogeneity implies that any single biochemical marker associated with the primary cause (rather than the effect) of cerebral seizure activity will a priori detect only a subset of the population at risk for epilepsy.
+View chapter Purchase book
+Forensic Science International: Genetics
+Geoforum
+
+Doc 4 (URL: https://www.verywellhealth.com/the-genetic-theory-of-aging-2224222, ClueWebID: clueweb22-en0012-88-10802)
+The Genetic Theory of Aging, Concepts, and Evidence
+Healthy Aging
+What Is the Genetic Theory of Aging?
+How Genes Affect Aging and How You May "Alter" Your Genes
+By
+Mark Stibich, PhD
+Updated on January 26, 2020
+Medically reviewed by
+Jason DelCollo, DO
+Print
+Your DNA may predict more about you than the way you look. According to the genetic theory of aging, your genes (as well as mutations in those genes) are responsible for how long you'll live. Here's what you should know about genes and longevity, and where genetics fits in among the various theories of aging.
+MoMo Productions / Getty Images
+Genetic Theory of Aging
+The genetic theory of aging states that lifespan is largely determined by the genes we inherit. According to the theory, our longevity is primarily determined at the moment of conception and is largely reliant on our parents and their genes. 1 ﻿
+The basis behind this theory is that segments of DNA that occur at the end of chromosomes, called telomeres, determine the maximum lifespan of a cell. Telomeres are pieces of "junk" DNA at the end of chromosomes which become shorter every time a cell divides. These telomeres become shorter and shorter and eventually, the cells cannot divide without losing important pieces of DNA. 2 ﻿
+Before delving into the tenets of how genetics affects aging, and the arguments for and against this theory, it's helpful to briefly discuss the primary categories of aging theories and some of the specific theories in these categories. At the current time, there is not one theory or even one category of theories that can explain everything we observe in the aging process.
+Are Your Hormones Aging You?
+Theories of Aging
+There are two primary categories of aging theories which differ fundamentally in what can be referred to as the "purpose" of aging. In the first category, aging is essentially an accident; an accumulation of damage and wear and tear to the body which eventually leads to death. In contrast, programmed aging theories view aging as an intentional process, controlled in a way that can be likened to other phases of life such as puberty.
+Error theories include several separate theories including:
+Wear and tear theory of aging 3 ﻿
+Rate of living theory of aging
+Protein cross-linking theory of aging 4 ﻿
+Free radical theory of aging
+Somatic mutation theory of aging 5 ﻿
+Programmed theories of aging are also broken down into different categories based on the method by which our bodies are programmed to age and die.
+Programmed longevity - Programmed longevity claims that life is determined by a sequential turning on and off of genes. 6 ﻿
+Endocrine theory of aging
+Immunological theory of aging 7 ﻿
+There is significant overlap between these theories and even categories of aging theories.
+Genes and Bodily Functions
+Before discussing the key concepts related to aging and genetics, let's review what our DNA is and some of the basic ways in which genes affect our lifespan.
+Our genes are contained in our DNA which is present in the nucleus (inner area) of each cell in our bodies. (There is also mitochondrial DNA present in the organelles called mitochondria which are present in the cytoplasm of the cell.) We each have 46 chromosomes making up our DNA, 23 of which come from our mothers and 23 which come from our fathers. Of these, 44 are autosomes, and two are the sex chromosomes, which determine if we are to be male or female. (Mitochondrial DNA, in contrast, carries much less genetic information and is received from only our mothers.)
+Within these chromosomes lie our genes, our genetic blueprint responsible for carrying the information for every process which will take place in our cells. Our genes can be envisioned as a series of letters that make up words and sentences of instructions. These words and sentences code for the manufacturing of proteins that control every cellular process.
+If any of these genes are damaged, for example, by a mutation that alters the series of "letters and words" in the instructions, an abnormal protein may be manufactured, which in turn, performs a defective function. If a mutation occurs in proteins that regulate the growth of a cell, cancer may result. If these genes are mutated from birth, various hereditary syndromes may occur. 8 For example, cystic fibrosis is a condition in which a child inherits two mutated genes controlling a protein that regulates channels responsible for the movement of chloride across cells in the sweat glands, digestive glands, and more. The result of this single mutation results in a thickening of mucus produced by these glands, and the resultant problems which are associated with this condition. 9
+Gene Mutations and Cancer
+How Genes Impact Lifespan
+It doesn't take an elaborate study to determine that our genes play at least some role in longevity. People whose parents and ancestors have lived longer, tend to live longer and vice versa. At the same time, we know that genetics alone are not the sole cause of aging. Studies looking at identical twins reveal that there is clearly something else going on; identical twins who have identical genes do not always live an identical number of years. 10
+Some genes are beneficial and enhance longevity. For example, the gene that helps a person metabolize cholesterol would reduce a person's risk of heart disease.
+Some gene mutations are inherited and may shorten lifespan. However, mutations also can happen after birth, since exposure to toxins, free radicals and radiation can cause gene changes. 11 (Gene mutations acquired after birth are referred to as acquired or somatic gene mutations.) Most mutations are not bad for you, and some can even be beneficial. That's because genetic mutations create genetic diversity, which keeps populations healthy. Other mutations, called silent mutations, have no effect on the body at all.
+Some genes, when mutated are harmful, like those that increase the risk of cancer. Many people are familiar with the BRCA1 and BRCA2 mutations which predispose to breast cancer. These genes are referred to as tumor suppressor genes which code for proteins that control the repair of damaged DNA (or the elimination of the cell with damaged DNA if repair is not possible.) 12
+Various diseases and conditions related to heritable gene mutations can directly impact lifespan. These include cystic fibrosis, sickle cell anemia, Tay-Sachs disease, and Huntington's disease, to name a few. 13
+Key Concepts in the Genetic Theory of Aging
+The key concepts in genetics and aging include several important concepts and ideas ranging from telomere shortening to theories about the role of stem cells in aging.
+Telomeres
+At the end of each of our chromosomes lies a piece of "junk" DNA called telomeres. Telomeres do not code for any proteins but appear to have a protective function, keeping the ends of DNA from attaching to other pieces of DNA or forming a circle. Each time a cell divides a little more of a telomere is snipped off. Eventually. there is none of this junk DNA left, and further snipping can damage the chromosomes and genes so that the cell dies.
+In general, the average cell is able to divide 50 times before the telomere is used up (the Hayflick limit). 14 Cancer cells have figured out a way to not remove, and sometimes even add to, a section of the telomere. In addition, some cells such as white blood cells do not undergo this process of telomere shortening. It appears that while genes in all of our cells have the code word for the enzyme telomerase which inhibits telomere shortening and possibly even results in lengthening, the gene is only "turned on" or "expressed" as geneticists say, in cells such as white blood cells and cancer cells. 15 Scientists have theorized that if this telomerase could somehow be turned on in other cells (but not so much that their growth would go haywire as in cancer cells) our age limit could be expanded.
+Studies have found that some chronic conditions such as high blood pressure are associated with less telomerase activity whereas a healthy diet and exercise are linked with longer telomeres. 16 Being overweight is also associated with shorter telomeres.
+Longevity Genes
+Longevity genes are specific genes that are associated with living longer. Two genes that are directly associated with longevity are SIRT1 (sirtuin 1) and SIRT2. 17 ﻿ Scientists looking at a group of over 800 people age 100 or older, found three significant differences in genes associated with aging.
+Cell Senescence
+Cell senescence refers to the process by which cells decay over time. This can be related to the shortening of the telomeres or the process of apoptosis (or cell suicide) in which old or damaged cells are removed. 18 ﻿
+Stem cells
+Pluripotent stem cells are immature cells that have the potential to become any type of cell in the body. It is theorized that aging may be related to either the depletion of stem cells or the loss of the ability of stem cells to differentiate or mature into different kinds of cells. 19 ﻿ It's important to note that this theory refers to adult stem cells, not embryonic stem cells. Unlike embryonic stem cells, adult stem cells cannot mature into any type of cell but rather only a certain number of cell types. Most cells in our bodies are differentiated, or fully mature, and stem cells are only a small number of the cells present in the body.
+An example of a tissue type in which regeneration is possible by this method is the liver. This is in contrast to brain tissue which usually lacks this regenerative potential. 20 ﻿ There is now evidence that stem cells themselves may be affected in the aging process, but these theories are similar to the chicken-and-the-egg issue. It's not certain of aging occurs due to changes in stem cells, or if instead, changes in stem cells are due to the process of aging.
+Epigenetics
+Epigenetics refers to the expression of genes. In other words, a gene may be present but can either be turned on or turned off. We know that there are some genes in the body that are turned on for only a certain period of time. The field of epigenetics is also helping scientists understand how environmental factors may work within the constraints of genetics to either protect or predispose to disease. 21 ﻿
+Where Do Stem Cells Come From?
+Three Primary Genetic Theories of Aging
+As noted above, there is a significant amount of evidence that looks at the importance of genes in expected survival. When looking at genetic theories, these are broken down into three primary schools of thought.
+The first theory claims that aging is related to mutations that are related to long-term survival and that aging is related to the accumulation of genetic mutations that are not repaired.
+Another theory is that aging is related to the late effects of certain genes, and is referred to as pleiotropic antagonism.
+Yet another theory, suggested based on survival in opossums, is that an environment that poses few hazards to interfere with life expectancy would result in an increase in members who have mutations that slow down the aging process.
+How Human Life Span Is Different From Life Expectancy
+Evidence Behind the Theory
+There are several avenues of evidence that support a genetic theory of aging, at least in part.
+Perhaps the strongest evidence in support of the genetic theory is the considerable species-specific differences in maximal survival, with some species (such as butterflies) having very short lifespans, and others, such as elephants and whales, being similar to ours. 22 Within a single species, survival is similar, but survival can be very different between two species that are otherwise similar in size.
+Twins studies also support a genetic component, as identical twins (monozygotic twins) are much more similar in terms of life expectancy than are non-identical or dizygotic twins. 23 Evaluating identical twins who have been raised together and contrasting this with identical twins who are raised apart can help to separate out behavior factors such as diet and other lifestyle habits as a cause of family trends in longevity.
+Further evidence on a broad scale has been found by looking at the effect of genetic mutations in other animals. 24 In some worms as well as some mice, a single gene mutation may lengthen survival by over 50 percent.
+In addition, we are finding evidence for some of the specific mechanisms involved in the genetic theory. Direct measurements of telomere length have shown that telomeres are vulnerable to genetic factors that can speed up the rate of aging.
+Evidence Against Genetic Theories of Aging
+One of the stronger arguments against a genetic theory of aging or a "programmed lifespan" comes from an evolutionary perspective. Why would there be a specified lifespan beyond reproduction? In other words, what "purpose" is there for life after a person has reproduced and been alive long enough to raise their progeny to adulthood?
+It's also clear from what we know about lifestyle and disease that there are many other factors in aging. Identical twins may have very different lifespans depending on their exposures, their lifestyle factors (such as smoking) and physical activity patterns.
+The Bottom Line
+It's been estimated that genes can explain a maximum of 35 percent of lifespan, but there is still more we do not understand about aging than which we do understand. 25 ﻿ Overall, it's likely that aging is a multifactorial process, meaning that it is probably a combination of several of the theories. It's also important to note that the theories discussed here are not mutually exclusive. The concept of epigenetics, or whether or not a gene that is present is "expressed" can further muddy our understanding.
+In addition to genetics, there are other determinants of aging such as our behaviors, exposures, and just plain luck. You are not doomed if your family members tend to die young, and you can't ignore your health even if your family members tend to live long.
+What Can You Do to Reduce the "Genetic" Aging of Your Cells?
+We are taught to eat a healthy diet and be active and these lifestyle factors are likely just as important no matter how much our genetics are involved in aging. The same practices which seem to keep the organs and tissues of our bodies healthy may also keep our genes and chromosomes healthy.
+Regardless of the particular causes of aging, it can make a difference to:
+Exercise - Studies have found that physical activity not only helps your heart and lung function well, but exercise lengthens telomeres. 16 ﻿
+Eat a healthy diet - A diet high in fruits and vegetables is associated with greater telomerase activity (in effect, less shortening of the telomeres in your cells). A diet high in omega-3-fatty acids is associated with longer telomeres but a diet high in omega-6-fatty acids is the opposite and associated with shorter telomeres. In addition, soda pop intake is linked with shorter telomeres. Reservatrol, the ingredient responsible for the excitement over drinking red wine (but also found in non-alcoholic red grape juice) appears to activate the longevity protein SIRT
+Reduce stress 26 ﻿
+Avoid carcinogens
+Maintain a healthy weight - Not only is obesity linked with some of the genetic mechanisms associated with aging noted above (such as increased shortening of telomeres), but repeated studies have found longevity benefits associated with caloric restriction. 27 ﻿ The first principle in the cancer prevention lifestyle put forth by the American Institute for Research on Cancer—be as lean as possible without being underweight—might play a role in longevity as well as cancer prevention and the prevention of cancer recurrence.
+Was this page helpful?
+27 Sources
+
+Doc 5 (URL: https://williamslifts.com/how-much-of-aging-is-genetic/, ClueWebID: clueweb22-en0043-01-18318)
+How Much of Aging Is Genetic?
+How Much of Aging Is Genetic?
+April 16, 2020 By Susan Hackett Leave a Comment
+Share
+Share
+People often wonder how much of aging is genetic, and what determines the rate of aging. Generally speaking, many people will look like their parents as they age when it comes to skin and features (barring any unhealthy lifestyle choices, such as sun exposure, alcohol use, and smoking), but that only refers to genes responsible for aging that are skin-deep. There are other genetic factors that contribute to aging that are important to note. While these are only theories, they are science-backed and contain interesting information about possible outcomes. Read on to learn about how much of aging is genetic and more about these different theories.
+How Much of Aging Is Genetic: Is Aging Mostly Genetic?
+While there are many aging theories, the general consensus is that aging is mostly genetic. There are many individual theories under the umbrella of the genetic aging theory, which claims that our lifespan (our entire life) is essentially predetermined by the genes that we’ve inherited. This theory is backed by science, saying that the DNA that occurs at the end of chromosomes determine the lifespan of a cell. These segments are called telomeres, and scientists say these are the key to determining how much of aging is genetic. Over the lifespan, they divide, and at some point, they can no longer divide, which accounts for aging. There is no one “ aging gene ,” however, these pieces of DNA occur in every chromosome.
+How Much of Aging Is Genetic: Causes of Aging
+Under the primary genetic aging theory are many subtheories that are meant to determine the root cause of aging. If you are wondering, “ how do genetics affect aging ,” these theories try to answer that question. This is where scientists and researchers differ greatly on the cause. Some say that aging is actually an “accident,” while other scientists say it is an intentional phase that the body travels through, such as puberty. “Accidental” theories include the wear and tear theory, the rate of living theory, and the free radical theory, while more intentional theories include the programmed longevity theory and the endocrine theory. All of these theories try to explain how much of aging is geneti c. However, no one theory has entirely been proven to be correct.
+How Much of Aging Is Genetic: Anti-Aging Gene Therapy
+Because of the research performed on genetics and aging, there have been several initial studies, including one at Harvard University, to see if aging can be reversible by using anti-aging gene therapy. One study, led by synthetic biologist Dr. George Church, combined gene therapies into a vaccine-like shot. The initial test was only performed on mice, followed by dogs. Some test results were inconclusive, while others brought hope that eventually, aging can be reversed.
+How Much of Aging Is Genetic: Your Skin
+There is a separate issue when it comes to aging, and that is the issue of your skin. Generally speaking, if you’re female, you’ll likely age like your mother, and if you’re male, you’ll age like your father, but proper skincare is a must because there are other factors than just genetics that come into play with your skin and how it ages. As you age, make sure that you:
+Don’t smoke.
+Minimize sun exposure and always wear sunscreen.
+Don’t constantly try new diets (this takes a toll on your skin).
+Don’t consume too much alcohol or caffeine (this dehydrates).
+Minimize stress.
+Eat a healthy diet and meal plan.
+Moisturize and adopt a skincare routine.
+Not following proper skincare can override genetics and force your skin to age faster than it should, so it’s important to keep this advice in mind.
+For more information on how much of aging is genetic, or for information on mobility products that can be life-changing, such as stair lifts or wheelchair ramps, contact Williams Lift Co. today. We want both caregivers and their loved ones to live their best lives.
+
+<|end_search_result|>
+
+Alright, so from the search results, it seems like genetics play a significant role in aging, but it's not the only factor. Let's see what I can gather from these documents.
+
+First, from Doc 1, which is from Wikipedia on the genetics of aging, it talks about how genetic alterations can influence lifespan. There are specific genes like age-1 and daf-2 in C. elegans that have been shown to extend lifespan when mutated. These mutations don't just extend lifespan; they also maintain youthful characteristics. That's pretty interesting. So, in some cases, genetic modifications can lead to longer and healthier lives in these worms.
+
+Moreover, similar effects have been observed in other organisms like fruit flies and mice, though the extent of lifespan extension isn't as dramatic as in C. elegans. There's also mention of genes involved in DNA repair, which seems crucial because DNA damage accumulates as we age. So, perhaps, genes that are better at repairing DNA can slow down the aging process.
+
+Doc 2 is from a scientific article about human genetics and aging clocks. It seems a bit dense, but it mentions that there are various biological aging clocks that can be measured through things like DNA methylation and epigenetics. It suggests that there's an overlap among these aging clocks, implying that there might be common genetic pathways involved in aging.
+
+Doc 3 is about human genetics and race, but it touches on the idea that human genetic variation is real but often misapplied when it comes to race. It强调了遗传变异是动态的，与地理位置和历史上的迁移有关，但种族身份更多地受到社会经验和条件的影响。这可能意味着在研究衰老时，仅仅基于种族来推断遗传因素可能是不准确的。
+
+Doc 4 is from a website called VerywellHealth, and it provides a good overview of the genetic theory of aging. It explains that the genetic theory suggests that our lifespan is largely determined by the genes we inherit. It introduces the concept of telomeres, which are the ends of chromosomes that shorten with each cell division. When telomeres get too short, cells can no longer divide properly, which is thought to contribute to aging.
+
+The article also mentions that there are longevity genes, like SIRT1 and SIRT2, which are associated with living longer. It discusses how stem cells and their ability to regenerate may play a role in aging, and how epigenetics—the way genes are expressed—can be influenced by environmental factors.
+
+Doc 5 is from a website called Williams Lifts, and it seems to be more of a general interest piece on aging and genetics. It reiterates that aging is mostly genetic but also acknowledges the influence of lifestyle factors on skin aging.
+
+From all this, it's clear that genetics play a substantial role in aging, but they're not the only players in the game. There are environmental and lifestyle factors that can influence how quickly we age. Also, while there are genes associated with aging, it's not as simple as having one "aging gene." It's a complex interplay of multiple genes and how they interact with each other and with the environment.
+
+I think the key takeaway is that while genetics set a foundation for our aging process, our lifestyles and environments can modify how those genes express themselves, thereby affecting how quickly we age. So, even if someone has a genetic predisposition to age faster, they might be able to mitigate some of those effects through healthy living.
+
+**Final Answer**
+
+\[ \boxed{\text{Genetics play a significant role in aging, but lifestyle and environmental factors also greatly influence the aging process.}} \]

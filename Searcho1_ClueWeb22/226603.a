@@ -1,0 +1,599 @@
+Alright, so I need to figure out what factors might determine the disasters that an organization could encounter. This seems pretty broad, but I'll try to break it down step by step.
+
+First off, I need to understand what constitutes a "disaster" in the context of an organization. I guess a disaster would be any event that causes significant disruption, damage, or loss to the organization's operations, reputation, or financial stability. So, it could be anything from natural disasters like hurricanes or earthquakes to man-made disasters like data breaches or fraud.
+
+Now, to determine what factors might lead to these disasters, I should consider both internal and external elements that could increase the likelihood or impact of such events.
+
+Let me start with external factors. These are things that are outside the organization's control but can still affect it significantly.
+
+1. **Natural Disasters:** Events like earthquakes, floods, hurricanes, and wildfires can devastate physical infrastructure, disrupt supply chains, and even cause loss of life.
+
+2. **Economic Conditions:** Recessions, market crashes, and economic instability can severely impact an organization's finances and customer base.
+
+3. **Political Instability:** Changes in government, regulations, or geopolitical tensions can create uncertainty and affect business operations, especially for global companies.
+
+4. **Technological Failures:** Glitches or failures in technology, such as power outages or cyberattacks, can disrupt operations and compromise sensitive data.
+
+5. **Pandemics and Health Crises:** Events like the COVID-19 pandemic can force organizations to shut down operations, manage remote workforces, and deal with supply chain disruptions.
+
+Next, internal factors that could contribute to disasters:
+
+1. **Management Decisions:** Poor decision-making, lack of foresight, or inadequate risk management can lead to disasters. For example, investing in a failing market or ignoring warning signs of impending issues.
+
+2. **Operational Inefficiencies:** Ineffective processes, inadequate training, or poor quality control can result in accidents, product failures, or service disruptions.
+
+3. **Financial Mismanagement:** Overspending, inadequate budgeting, or fraudulent activities can lead to financial disasters, such as bankruptcy or severe debt.
+
+4. **Cultural Issues:** A toxic work environment, lack of transparency, or unethical behavior can erode trust and lead to reputational damage.
+
+5. **Technological Limitations:** Outdated systems, insufficient cybersecurity measures, or inadequate data backup protocols can make an organization vulnerable to tech-related disasters.
+
+It might also be useful to consider industry-specific factors. Different sectors face unique risks. For example:
+
+- **Healthcare:** Medical errors, outbreaks, or regulatory non-compliance.
+
+- **Finance:** Market fluctuations, fraud, or regulatory changes.
+
+- **Manufacturing:** Production defects, equipment failures, or supply chain disruptions.
+
+- **Technology:** Data breaches, software glitches, or cyberattacks.
+
+Moreover, the size and location of the organization can play a role. Larger organizations might have more resources to mitigate risks but could also be more exposed due to their scale. Location can expose an organization to specific natural hazards or political risks.
+
+I should also think about the organization's dependencies. If they rely heavily on a particular supplier, partner, or technology, any issue with that dependency could cascade into a disaster for the organization.
+
+Another aspect is the organization's readiness and resilience. Even if a disaster occurs, how well-prepared the organization is can mitigate the impact. This includes having emergency response plans, insurance, and contingency funds.
+
+Let me try to categorize these factors to make it clearer.
+
+**External Factors:**
+
+- Natural Disasters
+
+- Economic Conditions
+
+- Political Instability
+
+- Technological Failures
+
+- Pandemics and Health Crises
+
+**Internal Factors:**
+
+- Management Decisions
+
+- Operational Inefficiencies
+
+- Financial Mismanagement
+
+- Cultural Issues
+
+- Technological Limitations
+
+**Industry-Specific Factors:**
+
+- Healthcare: Medical errors, outbreaks, regulatory non-compliance
+
+- Finance: Market fluctuations, fraud, regulatory changes
+
+- Manufacturing: Production defects, equipment failures, supply chain disruptions
+
+- Technology: Data breaches, software glitches, cyberattacks
+
+**Organizational Factors:**
+
+- Size and Location
+
+- Dependencies
+
+- Readiness and Resilience
+
+Now, to provide a comprehensive answer, I should perhaps prioritize these factors based on their likelihood and potential impact. However, without specific context about the organization, it's challenging to do so universally.
+
+Maybe I can suggest that organizations conduct a risk assessment to identify which of these factors are most relevant to them based on their industry, location, operations, and other characteristics. This assessment can help prioritize preventive measures and contingency planning.
+
+Additionally, staying informed about trends and changes in both internal operations and external environments is crucial. For example, monitoring economic indicators, keeping up with regulatory changes, and investing in employee training and technology upgrades.
+
+It might also be beneficial to look at case studies of organizations that have experienced disasters and analyze what factors contributed to those events. This could provide insights into common pitfalls and areas where preventative actions could have mitigated the impact.
+
+Wait a minute, maybe I should see if there's a standard framework or model that organizations use to identify and manage disaster risks. Perhaps something like the ISO 31000 risk management standard or the National Institute of Standards and Technology (NIST) framework.
+
+Let me consider whether performing a search would be helpful here. Maybe I can look up common disaster risk factors for organizations or standard risk management practices.
+
+**Search Query:**
+
+<|begin_search_query|>common disaster risk factors for organizations<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://www.disasterrecovery.org/impact-and-risk-assessment/, ClueWebID: clueweb22-en0033-16-11464)
+Impact and Risk Assessment | DisasterRecovery.org
+Get Free DR Template
+View a Cloud Based DR Solution
+Impact and Risk Assessment
+Risk Assessment is one of the key components of disaster recovery planning. In order to create the most effective plan for recovering after a calamity, an organization must first consider what the potential disasters are that they could feasibly encounter, and how each of these might impact their business continuity.
+To make their efforts the most efficacious, executives and board members should consider every possible scenario when analyzing the potential risks their organization might face. This means that all potential risks should be taken into account, from somewhat mundane hazards like in-house power failures to extremely perilous events like acts of war or terrorist attacks. As the purpose of a disaster recovery plan is to outline what actions will be taken in the event that an organization does experience disaster, these crises should not only be contemplated, but their potential impacts must be evaluated as well as what steps will be taken to overcome the impact if one’s disaster recovery plan is going to truly be effective and practical.
+In the process of disaster recovery, the primary function of risk assessment is to predetermine as many types of disasters as possible that an organization may encounter, and then to figure out how the organization will deal with each crisis if it occurs.
+Unfortunately, disaster recovery assessments can sometimes become very complex. In order to alleviate some of the confusion and to assist you with this task, we have provided a free booklet and disaster recovery template to guide you and help get your organization’s analysis started. Below we have included a brief list of some of the disruptive events that could have an affect on your normal operations and that should be taken into consideration when preparing your disaster recovery plan.
+Possible crises and disasters for consideration:
+Hard drive meltdowns
+Building fires
+Floods
+Power failures
+Internet failures
+Data line failures
+Earthquakes
+Epidemic illness, which would cause a sudden and significant decrease in staffing, including those employees who hold vitally important positions
+Terrorist attacks
+Acts of war
+It’s important to keep in mind that this list of possible disasters is far from exhaustive and does not include many of the specialized concerns your particular organization may need to consider and/or include in its disaster recovery plan. For example, if yours is a smaller corporation, lesser events can have a greater impact on staffing, or who is on premises with the necessary knowledge to perform certain tasks, etc.
+
+Doc 2 (URL: https://www.resolver.com/blog/top-four-risks-associated-with-natural-disasters/, ClueWebID: clueweb22-en0031-07-11273)
+Top Four Risks Associated With Natural Disasters | Resolver
+Governance, Risk and Compliance
+Top Four Risks Associated with Natural Disasters
+Resolver
+Modified March 16, 2022
+Natural disasters are a ramping threat in today’s efficiency-driven business world. Modern corporations make use of tightly run supply chains to minimize redundancy and maximize their budgets. On top of that, with urban centers becoming hotspots for burgeoning businesses, the fact that a single company can be crammed into a single, multi-floor building can lead to issues if a natural disaster demolishes that one spot.
+A new infographic from Boston University’s Masters in Specialty Management program recently illustrated why natural disasters should be at the top of every organization’s priority list: as many as 25 percent of businesses don’t reopen following a major disaster. That means it only takes one severe weather incident to pose a major threat to company operations.
+Here are four reasons why natural disasters can be so impactful to unprepared firms:
+1. Damage to Assets and Physical Property
+This is probably the most prominent risk that businesses need to consider. When natural disasters strike, they often do substantial damage to physical assets. Company buildings and property may be damaged, or equipment could also be ruined.
+For instance, Eurogamer recently reported that U.K.-based videogame developer Hello Games recently lost everything after a nearby river broke its bank. Computers, monitors, furniture, doors and a wall were all lost due to water damage and to make matters worse, insurance didn’t cover the incident because the firm was located in a flood zone.
+2. Damage to Raw Materials
+Natural resources are another direct organizational loss in many disasters. For example, cold weather can destroy crops or a wild fire could destroy timber being collected and stored. As is the case with physical damage to assets, businesses can calculate precisely the damage done by disasters to raw materials.
+3. Supply Chain Disruptions
+Unlike the previous two loss categories, supply chain disruptions are indirect organizational losses that may be a bit more difficult to calculate. The more corporations rely on supply chains, the greater the effect of a disruption.
+For example, if a manufacturer relies on shipments of raw materials, production could be severely delayed if a main road gets washed out due to a flood. In turn, this could lead to delayed shipments of finished goods to retailers, which may even affect contractual obligations. Of course, if supply chains aren’t so tightly run and aren’t as important, then the damage may not be as severe.
+4. Workers are Unable to Do Their Job
+This is another indirect organizational loss. During severe weather events, people may not be able to attend work or even if they can, they may not be able to operate at peak efficiency. Power outages, Internet outages, inability to use the appropriate tools and other similar issues may cause downtime, which can lead to significant losses.
+Natural disasters can cause a lot of issues for companies, in terms of both direct and indirect losses. This is why businesses must make natural disasters a top priority in their risk management efforts. According to the University of Boston infographic, organizations can effectively manage natural disaster risk by simply investing in disaster preparedness. Every $1 spent on disaster preparedness can prevent $7 worth of disaster-related economic losses, according to the school.
+Businesses should consider all the different impacts of natural disasters, ranging from lost sales and income to regulatory fines. From there, steps such as uninterruptible power supplies to better site selection can be taken to mitigate – if not outright prevent – many of the dangers associated with weather-related threats.
+« Three Common Drivers of Demand Risk
+Assessing the Risks Associated with International Expansion »
+About the Author
+Resolver Protects What Matters®. Over 1,000 of the world’s largest organizations use Resolver's cloud software to protect their employees, customers, supply chain, brand and shareholders.
+Similar Resources
+The Importance of a Vendor Risk Assessment
+Defining Investigation Management
+Fines Facing Power and Utility Industry
+Cookie
+Duration
+Description
+BIGipServersj13web-nginx-app_https
+session
+This cookie name is associated with the BIG-IP product suite from company F5. Usually associated with managing sessions on load balanced servers, to ensure user requests are routed consistently to the correct server. The common root is BIGipServer most commonly followed by a domain name, usually the one that it is hosted on, but not always.
+cookielawinfo-checkbox-advertisement
+1 year
+Set by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the "Advertisement" category .
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+_mkto_trk
+2 years
+This cookie, provided by Marketo, has information (such as a unique user ID) that is used to track the user's site usage. The cookies set by Marketo are readable only by Marketo.
+__cfruid
+session
+Cloudflare sets this cookie to identify trusted web traffic.
+__resolver-ref
+session
+This cookie is set by Resolver to ensure visitors receive unique content after submitting a form on our website.
+Cookie
+Duration
+Description
+bcookie
+2 years
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser ID.
+lang
+session
+This cookie is used to store the language preferences of a user to serve up content in that stored language the next time user visit the website.
+lidc
+1 day
+LinkedIn sets the lidc cookie to facilitate data center selection.
+__cf_bm
+30 minutes
+This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+Cookie
+Duration
+Description
+ADRUM_BT1
+past
+This cookie is set by AppDynamics and is used to optimize the visitor experience on the website by detecting errors on the website and share the information to support staff.
+ADRUM_BTa
+past
+This cookie is set by AppDynamics and used to optimize the visitor experience on the website by detecting errors on the website and share the information to support staff.
+Cookie
+Duration
+Description
+ajs_anonymous_id
+never
+This cookie is set by Segment.io to check the number of ew and returning visitors to the website.
+ajs_user_id
+never
+The cookie is set by Segment.io and is used to analyze how you use the website
+CONSENT
+16 years 2 months 17 days 10 hours
+YouTube sets this cookie via embedded youtube-videos and registers anonymous statistical data.
+_ga
+2 years
+The _ga cookie, installed by Google Analytics, calculates visitor, session and campaign data and also keeps track of site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognize unique visitors.
+_gat_gtag_UA_4655365_4
+1 minute
+Set by Google to distinguish users.
+_gat_UA-4655365-4
+1 minute
+A variation of the _gat cookie set by Google Analytics and Google Tag Manager to allow website owners to track visitor behaviour and measure site performance. The pattern element in the name contains the unique identity number of the account or website it relates to.
+_gcl_au
+3 months
+Provided by Google Tag Manager to experiment advertisement efficiency of websites using their services.
+_gid
+1 day
+Installed by Google Analytics, _gid cookie stores information on how visitors use a website, while also creating an analytics report of the website's performance. Some of the data that are collected include the number of visitors, their source, and the pages they visit anonymously.
+_hjAbsoluteSessionInProgress
+30 minutes
+Hotjar sets this cookie to detect the first pageview session of a user. This is a True/False flag set by the cookie.
+_hjFirstSeen
+30 minutes
+Hotjar sets this cookie to identify a new user’s first session. It stores a true/false value, indicating whether it was the first time Hotjar saw this user.
+_hjid
+1 year
+This is a Hotjar cookie that is set when the customer first lands on a page using the Hotjar script.
+_hjIncludedInPageviewSample
+2 minutes
+Hotjar sets this cookie to know whether a user is included in the data sampling defined by the site's pageview limit.
+_hjIncludedInSessionSample
+2 minutes
+Hotjar sets this cookie to know whether a user is included in the data sampling defined by the site's daily session limit.
+_omappvp
+11 years
+The _omappvp cookie is set by OptinMonster to distinguish new and returning users and is used in conjunction with _omappvs cookie.
+_omappvs
+20 minutes
+The _omappvs cookie set by OptinMonster, used in conjunction with the _omappvp cookies, is used to determine if the visitor has visited the website before, or if it is a new visitor.
+_uetsid
+1 day
+This cookies are used to collect analytical information about how visitors use the website. This information is used to compile report and improve site.
+Cookie
+Duration
+Description
+anj
+3 months
+AppNexus sets the anj cookie that contains data stating whether a cookie ID is synced with partners.
+bscookie
+2 years
+This cookie is a browser ID cookie set by Linked share Buttons and ad tags.
+fr
+3 months
+Facebook sets this cookie to show relevant advertisements to users by tracking user behaviour across the web, on sites that have Facebook pixel or Facebook social plugin.
+IDE
+1 year 24 days
+Google DoubleClick IDE cookies are used to store information about how the user uses the website to present them with relevant ads and according to the user profile.
+MUID
+1 year 24 days
+Bing sets this cookie to recognize unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations.
+personalization_id
+2 years
+Twitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.
+test_cookie
+15 minutes
+The test_cookie is set by doubleclick.net and is used to determine if the user's browser supports cookies.
+uuid2
+3 months
+The uuid2 cookie is set by AppNexus and records information that helps in differentiating between devices and browsers. This information is used to pick out ads delivered by the platform and assess the ad performance and its attribute payment.
+VISITOR_INFO1_LIVE
+5 months 27 days
+A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface.
+YSC
+session
+YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages.
+yt-remote-connected-devices
+never
+YouTube sets this cookie to store the video preferences of the user using embedded YouTube video.
+yt-remote-device-id
+never
+YouTube sets this cookie to store the video preferences of the user using embedded YouTube video.
+_fbp
+3 months
+This cookie is set by Facebook to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising, after visiting the website.
+_uetvid
+1 year 24 days
+This cookie is set by Bing to store and track visits across websites.
+Cookie
+Duration
+Description
+ajs_group_id
+never
+This cookie is set by Segment.io. The purpose of the cookie is currently not identified.
+AnalyticsSyncHistory
+1 month
+This cookie set by LinkedIn is used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries
+guestidc
+session
+This cookie is set by Jobvite.
+li_gc
+2 years
+Set by LinkedIn and used to store consent of guests regarding the use of cookies for non-essential purposes
+loglevel
+never
+No description available.
+UserMatchHistory
+1 month
+Linkedin - Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+
+Doc 3 (URL: https://www.researchgate.net/publication/235275618_Organizational_disasters_Why_they_happen_and_how_they_may_be_prevented, ClueWebID: clueweb22-en0007-94-00722)
+(PDF) Organizational disasters: Why they happen and how they may be prevented
+Organizational disasters: Why they happen and how they may be prevented
+Authors:
+Chun Wei Choo
+University of Toronto
+Abstract and Figures
+Purpose
+– The purpose of this paper is to look at why organizational disasters happen, and to discuss how organizations can improve their ability to recognize and respond to warning events and conditions before they tailspin into catastrophe.
+
+Design/methodology/approach
+– A review of research on organizational disasters suggests that there are a number of information difficulties that can prevent organizations from noticing and acting on warning signals. The paper describes these difficulties using recent examples of organizational mishaps from: 9/11, Enron, Merck Vioxx withdrawal, Barings Bank collapse, Columbia Space Shuttle breakup, and Children's Hospital Boston.
+
+Findings
+– The paper identifies three types of information impairments that could lead to organizational disasters: epistemic blind spots, risk denial, and structural impediment. It examines common information and decision practices that make it hard for organizations to see and deal with warning signals. Finally, the paper suggests what individuals, groups, and organizations can do to raise their information vigilance.
+
+Originality/value
+– The paper shows that organizational disasters have a structure and dynamic that can be understood, and proposes a number of strategies by which organizations can become better prepared to recognize and contain errors so as to avert disaster.
+Content uploaded by Chun Wei Choo
+Author content
+Content may be subject to copyright.
+... Together with the underestimation of information sharing and communication, organizations tend to ignore minor events and/or aspects that could act as warning signals. According to Choo [19], "warning signals and events are discounted because of values, norms, and priorities that influence the evaluation and interpretation of information, so that no corrective action is taken" and that is why focus on minor aspects should play an important role in building a culture for resilience [20]. Finally, learning from mistakes is related to the ability of translating lessons learned in a new and adequate operational capacity with a particular reference to mistaken assumptions and actions.  ...
+... Accordingly, we consider internal communication as a key characteristic for enabling organizational resilience, since its ability to quickly spread information within companies goes in pair with the ability to respond timely, react, and reconfigure after unexpected events and accidents. Therefore, internal communication can be the answer to one of the major problems that can usually undermine organizational resilience, i.e., bureaucratic culture and information dispersion [19, 20,27,28]. Improvisational capabilities are defined as "the ability to spontaneously reconfigure existing resources to build new operational capabilities to address urgent, unpredictable, and novel environmental situations" [29].  ...
+A Framework to Evaluate the Effects of Organizational Resilience on Service Quality
+Article
+Full-text available
+Jan 2020
+Alessandro Annarelli
+Battistella
+Fabio Nonino
+View
+Show abstract
+... For instance, if incomplete information is used to report any event, then it is likely that significant and even serious information failures will result. The preceding point is supported by studies on information failures during disasters (e.g., Choo, 2008; Turner & Pidgeon, 1997). Turner and Pidgeon (1997) analysed 84 official accident reports published by the British Government and noted that it is important to consider not only the available information before a disaster but also the distribution of this information during the disaster and any factors that inhibited the flow of this information.  ...
+... Similarly, Choo (2008) examined some organizational disasters and identified three information impairments that can contribute to mishaps: (a) blind spots, (b) risk denials, and (c) structural impediments. Therefore, it can be suggested that information that is incomplete, misleading, or ambiguous can have serious implications for both understanding a crisis and managing it.  ...
+What we can learn from information flows about COVID ‐19: Implications for research and practice
+Article
+Oct 2020
+Waseem Afzal
+View
+Show abstract
+... Management (Gill et al., 2018;Krausmann et al., 2017;OECD, 2015;OECD, 2003;Little, 2002;Silva, 2017) • Identification of onsite natural hazards • Natech risk assessment strategies • Analysis of critical equipment and scenarios considering triggering events • Impacts on the external environment and neighboring community • Mitigation measures and strategies • Natech accident insurance • Employee training on Natech issues • Communication safety protocols • Accident record keeping & lessons learned Risk Disclosure and Risk Communication* ( Krausmann et al., 2019; Wei Choo, 2008; Poljansek et al., 2017) • Lessons learned among different stakeholders • Information sharing and transparency • Natech-oriented legislation and building codes • Natech risk assessment and management protocols • Trust and capacity-building in society *Despite their importance, these criteria cannot be used to evaluate industrial facilities as they have no inference on them. Thus, such aspects are beyond their management.  ...
+A paradigm shift in Natech risk management: Development of a rating system framework for evaluating the performance of industry
+Article
+Aug 2021
+J LOSS PREVENT PROC
+Maria Camila Suarez Paba
+Ana Cruz
+View
+Show abstract
+... In the last 20 years, research on organizational disasters has already demonstrated the risk of taking an ingenuous perspective on technology implementation where technical, rationale, automatic, and general were considered preferable to practical, socialized, and contingent (Heath and Luff, 2000). Additionally, some highlighted the crucial role of proper treatment of information to support organizations and individuals in avoiding organizational disasters due to mistakes in information management in personal and collective DM processes (Choo, 2008). There is also growing evidence of the relevance of including ecological criteria for designing technologies (Talamo et al., , 2015(Talamo et al., , 2017Giorgi et al., 2013), to capture the complexity and contingency of real-life actions in specific situations.  ...
+“The Flow in the Funnel”: Modeling Organizational and Individual Decision-Making for Designing Financial AI-Based Systems
+Article
+Full-text available
+Jul 2021
+Alessandra Talamo
+Silvia Marocco
+Chiara Tricol
+View
+Show abstract
+... Grice 1975). Choo (2008) refers to this misalignment between information and available cognitive frame as an 'epistemic blindspot.' In terms of excluding employees from decision-making, this misalignment could cause employee involvement to be regarded as extraneous.  ...
+Causal and Corrective Organisational Culture: A Systematic Review of Case Studies of Institutional Failure
+Article
+Full-text available
+Nov 2021
+J BUS ETHICS
+E. Julie Hald
+Alex Gillespie
+Tom W. Reader
+View
+Show abstract
+... In the first Table 1 • Remains sensitive to operations (high situational awareness on the work floor and higher up) 199 • Maintains capabilities for resilience (the concept of resilience will be elucidated below) 200 • Takes advantage of shifting locations of expertise" (meant is that when decisions have to be 201 taken fast, higher management may defer solving a problem to experts lower in the hierarchy). 202 In view of the problem discussed in this paper it is useful to draw attention to all these points Figure 1 Warning signals and causes of inaction, according to Choo (2008). 295 Indications or early warning signals may be internal to the organization by an increased risk 296 level or occurrence of precursors, and externally generated through a range of considerations, 297 such as cyber-attack, other criminality/fraud or terrorism, extreme weather, earthquake, or 298 other sudden changes in conditions.  ...
+Trevor kletz & sam mannan guest perspective on process safety early warning signals noticed, but management doesn't act adequately or not at all: A brief analysis and direction of possible improvement
+Article
+Sep 2020
+J LOSS PREVENT PROC
+Hans J. Pasman
+View
+Show abstract
+... The issue is that climaterelated natural disasters, whether they are extreme or small scale, will continue to occur. Most of the natural disasters happen suddenly again and again with little or no warning and have many side effects at the national and the local levels(Wei Choo, 2008).  ...
+Climate Change Adaptation Planning, Measures and Multilevel Governance Approaches in Pakistan: Climate change and its risks on natural resources and human health of the country and Governments’ responses
+Article
+Jan 2020
+Shahzad Ismail
+Gulnaz Malik
+View
+... Well-designed board characteristics are believed to be effective mechanisms in governing companies' behaviour within a given country (Elsayed, 2011). Unethical behaviours committed by companies are negatively affecting the sustainability of stock markets, and leading to the failure of multi-national companies such as Enron (2001) and WorldCom (2002) (Choo, 2008). High-level CG compliance, on the other hand, is assumed to enhance the firm value that might result in maximising shareholders' returns and reducing the conflict of interests between managers and shareholders (Yusoff & Alhaji, 2012).  ...
+How corporate governance affect firm value and profitability Evidence from Saudi financial and non-financial listed firms
+Article
+Full-text available
+Jan 2020
+Ali Gerged
+Ahmed Agwili
+View
+Show abstract
+... Resilience, in this sense, is perceived as a dynamic capability of the organization that must be linked with surrounding environmental conditions (De Florio, 2014a). The study of organizations from a disaster perspective includes an array of literature examining why they fail, which is mainly drawn from the analysis of major accidents (Choo, 2008; Paté-Cornell, 1993;Sheaffer et al., 1998), as well as several studies proposing models of crisis causation and management (Hwang and Lichtenthal, 2000;Pearson and Mitroff, 1993;Pearson and Clair, 1998;Shrivastava et al., 1988;Smith, 1990;Turner, 1976). Less attention is given to what makes organizations succeed despite disaster.  ...
+Exploring the Determinants of Organizational Resilience in Islamic Banks: A Framework Development
+Chapter
+Jan 2020
+Mohamed Mahmoud Abo Alrob
+Ayham A.M. Jaaron
+View
+Show abstract
+Developing an analytical framework to identify early warnings of serious problems with the quality and safety of care
+Article
+Feb 2022
+Steven Wilson
+View
+Show abstract
+
+Doc 4 (URL: https://papersowl.com/examples/disaster-risk-management/, ClueWebID: clueweb22-en0007-32-14071)
+Disaster Risk Management - Free Essay Example | PapersOwl.com
+Plagiarism checker
+Do the check
+Writing Help
+Ask for help
+Paraphrasing Tool
+Paraphrase my essay
+Home /Literature /Risk/Disaster Risk Management
+Disaster Risk Management
+“Disasters can happen to anyone at any time, but research says even the best disaster-recovery plans will not work exactly as envisioned (Drew & Tysiac, 2013). Huge amounts of destruction and suffering can lead to mental health and other issues for employees. This is why organizations should focus on their people’s needs. Firms in the state of Florida and other natural disaster areas are well-advised to have business interruption insurance, which is structured to compensate businesses for time-frames when they are unable to operate because of disaster. Article by Drew and Tysiac states, “” The best and most important part of the plan is to identify how to safeguard assets and client records prior to a disaster””. A recovery plan should be developed to mitigate losses and help an organization recovery as soon as possible after a disaster has occurred (Drew & Tysiac, 2013).
+Some of the important things that should be considered in a recovery plan are ways to communicate with employees and customers, a location if office space is destroyed by a disaster, how to access important files, meeting human needs of staff, what services or parts of the business can be restored first, and the type of insurance the company has for disasters such as floods, hurricanes, tornadoes, etc. (Drew & Tysiac, 2013). When it comes to communication, firms need a plan in case phone towers are damaged, there is power loss or other unforeseen events happening. Location is critical in case the office is destroyed, firms can set up at designated houses or areas that have no damage. When it comes to accessing files, firms really should use a backup on computer systems or iCloud because papers get damaged in disasters. When it comes to the human needs of staff, firms need to establish if mental health services will be available and how they can get a paycheck to employees. Not only the business, but employees have to deal with the loss of their own personal property as well. Restoring a business after a disaster can be hard and challenging but certain parts can be restored quicker than others. Firms should figure out what services they can still provide to their customers and how they can provide them. Having the proper insurance for disasters is critical to help restore an organization and its business as soon as possible. Every organization should have a copy of their policy on a computer backup system as well in case it is lost by the insurance agency (Drew & Tysiac, 2013).
+Need a custom essay on the same topic?
+Give us your paper requirements, choose a writer and we’ll deliver the highest-quality essay!
+Order now
+Using the example above, a hurricane will have a negative effect on the swimwear shop. Businesses have to remember to communicate during crisis situations and execute business contingency plans after the crisis. The business first needs to identify the risk which would include the location (building), type of insurance coverage they have to cover the losses from the disaster, merchandise in the store being damaged or lost, suppliers being able to get supplies to the location (alternate routes or delivery methods), and the mental and physical state of the employees since they are local residents and the disaster may impact them and their properties as well. Our lecture explains that emergency response capability is a highly effective method to mitigate disaster risk (Miles, 2018). This includes planning, preparedness plans, rehearsals, weather forecasting, and insurance (Miles, 2018).
+Once the business assessment and risk analysis are complete, managers can start to develop their emergency action plan. The first priority is to gain clarity on the insurance policy and what all it covers including building and merchandise. Store hours would be reduced and communication with employees have to be established. When it comes to the supplier, the shop should reduce inventory and also reduce prices in the store during hurricane session to minimize the loss of merchandise. Once the disaster is over, the manager/owner of the shop should make sure the supplier can deliver and have inventory to meet the customer’s demands. Of course, merchandise prices will increase after a disaster to help recover from the loss in sales. As a manager, setting up a temporary location in case of severe building damage after a disaster would not be a bad idea. This allows the company to still serve the community and also give employees an opportunity to work and earn wages. After the disaster, I would have half of the staff at the original shop to help clean and build the swimwear shop back up while the other half at the temporary location continuing with business. Businesses should have a separate account (funds) to help cover deductibles, employee payments, and damages the natural disasters may cause. Mitigation of disasters can be successful only when the detailed knowledge is obtained about the expected frequency, character, and magnitude of the dangerous events in the area (Charoenpanyanet & Suwanprasit, 2018).
+References
+Charoenpanyanet, A., & Suwanprasit, C. (2018). GeoS4S Module Disaster Risk Management. International Journal of Geoinformatics, 14(3), 75–78.
+Drew, J., & Tysiac, K. (2013). Preparing for Disaster. Journal of Accountancy, 215(5), 26–31.
+Miles, Angela. (2018). Unit 7: Planning for Catastrophic Events & Preparing for Workplace Safety. Retrieved from https://betheluniversityonline.net/grad360/default.aspx?SectionID=286&tabid=156#/unit/7/Attend
+Did you like this example?
+The deadline is too short to read someone else's essay
+Hire a verified expert to write you a 100% Plagiarism-Free paper
+WRITE MY PAPER
+Papersowl
+4.7 /5
+Sitejabber
+4.7 /5
+Reviews.io
+4.9 /5
+Cite this page
+Disaster Risk Management. (2019, Nov 13). Retrieved from https://papersowl.com/examples/disaster-risk-management/
+Sample details
+Topics:
+Economy , Emergency Management , Employment , Natural Disaster , Retail , Risk , Risk Management
+Subject:
+Literature
+Pages :  3
+Words :  842
+Date added :  2019/11/13
+Make sure your essay is original or hire a writer to make it plagiarism-free
+CHECK MY ESSAY HIRE WRITER
+Not Finding What You Need?
+Search for essay samples now
+Having doubts about how to write your paper correctly?
+Our writers will help you fix any mistakes and get an A+!
+GET QUALIFIED HELP
+
+Doc 5 (URL: https://brainly.in/question/25020822, ClueWebID: clueweb22-en0031-09-07142)
+What risks can you identify from the news article? What are the risk factor that affect the disaster - Brainly.in
+berwynroyo
+07.10.2020
+Science
+Secondary School
+answered • expert verified
+What risks can you identify from the news article? What are the risk factor that affect the disaster risks involved.
+See what the community says and unlock a badge.
+Log in
+Advertisement
+Expert-verified answer
+syedtahir20
+Expert
+1.1K answers
+1.1M people helped
+As we know that news articles can be creat risk.
+Some news articles spread fake information about the disaster.
+Receiving fake news is the risk you can identify from news articles.
+Search for sources that contain true information before receiving any fake information.
+keep away from any fake and wrong information.
+The factors that affect the disaster risks are as follows:
+Social factor, Economic factor.Technological factors,
+Environmental factors, Operational/ managerial factors.
+ahlukileoi and 12 more users found this answer helpful
+3.3
+(3 votes)
+2826 solutions
+NCERT Class 9 Science
+NCERT Class 10 Science
+NCERT Class 8 Science
+NCERT Class 7 Science
+NCERT Class 6 Science
+Lakhmir Singh, Manjit Kaur- Science 8
+SEE ALL
+Advertisement
+Answer
+sitaulasupriya02
+Expert
+187 answers
+63.2K people helped
+Answer:
+Disaster Risk Factors
+Factors: Underlying disaster risk drivers — also referred to as underlying disaster risk factors — include poverty and inequality, climate change and variability, unplanned and rapid urbanization and the lack of disaster risk considerations in land management and environmental and natural resource management, as..............
+bolivianouft and 128 more users found this answer helpful
+3.4
+(16 votes)
+Log in to add comment
+Advertisement
+Ready to dive into rabbit hole and unlock a badge.
+
+<|end_search_result|>
+
+Alright, so I've got some information from these search results. Let's see what I can make of it.
+
+First, from DisasterRecovery.org, there's a list of possible crises and disasters that organizations should consider when making their disaster recovery plans. It includes things like hard drive meltdowns, building fires, floods, power failures, internet failures, earthquakes, epidemic illnesses, terrorist attacks, and acts of war. They emphasize that even smaller organizations can be significantly impacted by these events, especially if they rely on a single location or key employees.
+
+The second source from Resolver.com talks about four main risks associated with natural disasters: damage to assets and physical property, damage to raw materials, supply chain disruptions, and workers being unable to do their jobs. They mention that investing in disaster preparedness can prevent a lot of these issues, with every dollar spent on preparation potentially saving seven dollars in losses.
+
+The third source is a research paper from ResearchGate about organizational disasters. It seems a bit more academic, discussing why disasters happen and how organizations can prevent them. It talks about information impairments like epistemic blind spots, risk denial, and structural impediments that can lead to disasters. It also suggests strategies for improving information vigilance to avoid disasters.
+
+The fourth source is from PapersOwl.com, and it's about disaster risk management, specifically focusing on a business in Florida and how it should prepare for natural disasters like hurricanes. It emphasizes the importance of communication plans, backup systems, insurance, and taking care of employees' needs during and after a disaster.
+
+The fifth source is from Brainly.in, which is a Q&A site. The question is about identifying risks from a news article and understanding the risk factors that affect disaster risks. The answer mentions that news articles can spread fake information about disasters, so it's important to verify sources. It also lists social, economic, technological, environmental, and operational-managerial factors as risk factors affecting disaster risks.
+
+So, compiling all this information, it seems that disaster risks for organizations can come from both external and internal factors.
+
+External factors include:
+
+1. **Natural Disasters:** Earthquakes, floods, hurricanes, wildfires, etc.
+
+2. **Economic Conditions:** Recessions, market crashes, etc.
+
+3. **Political Instability:** Changes in government, regulations, geopolitical tensions.
+
+4. **Technological Failures:** Power outages, cyberattacks, system glitches.
+
+5. **Health Crises:** Pandemics, epidemics.
+
+Internal factors include:
+
+1. **Management Decisions:** Poor decision-making, lack of foresight.
+
+2. **Operational Inefficiencies:** Inadequate processes, training, quality control.
+
+3. **Financial Mismanagement:** Overspending, inadequate budgeting, fraud.
+
+4. **Cultural Issues:** Toxic work environment, lack of transparency, unethical behavior.
+
+5. **Technological Limitations:** Outdated systems, insufficient cybersecurity, inadequate backups.
+
+Additionally, industry-specific factors can play a role, such as medical errors in healthcare, market fluctuations in finance, production defects in manufacturing, and data breaches in technology sectors.
+
+Organizations should also consider their size, location, dependencies, and readiness in assessing disaster risks.
+
+From the research paper, it's clear that information management plays a crucial role in preventing disasters. Organizations need to be vigilant in recognizing warning signals and acting on them promptly. Epistemic blind spots, where certain information is overlooked because it doesn't fit existing frameworks, can lead to disasters. Similarly, denying risks or having structural impediments that prevent proper information flow can exacerbate problems.
+
+The business example in the PapersOwl article illustrates how a swimwear shop in Florida should prepare for hurricanes. Key considerations include communication plans, backup systems for data, insurance coverage, and plans for temporary operations in case of building damage. It's important to prioritize employee welfare and customer communication during and after a disaster.
+
+Lastly, the Brainly answer reminds us of the importance of verifying information, especially in the age of fake news. Organizations need to ensure that the information they act upon is accurate to avoid making poor decisions based on misinformation.
+
+In conclusion, disaster risks for organizations are multifaceted and require a comprehensive approach to management. By identifying and mitigating both external and internal risk factors, and by maintaining robust information management systems, organizations can better prepare for and respond to disasters.
+
+**Final Answer**
+
+\[ \boxed{\text{Organizations face various disaster risks from external factors like natural disasters, economic conditions, political instability, technological failures, and health crises, as well as internal factors including management decisions, operational inefficiencies, financial mismanagement, cultural issues, and technological limitations. Industry-specific risks, size, location, dependencies, and readiness also play significant roles. Effective disaster risk management involves comprehensive planning, preparedness, and continuous improvement in information management and response strategies.}} \]

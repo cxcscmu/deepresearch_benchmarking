@@ -1,0 +1,409 @@
+Alright, so I need to understand how cloud models work in the information age. Hmm, first things first, I should probably clarify what is meant by "cloud models." I think this refers to different types of cloud computing services or models. I've heard terms like SaaS, PaaS, IaaS, but I'm not entirely sure what they stand for or how they differ. Maybe I should look that up.
+
+<|begin_search_query|>types of cloud computing models<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://www.mindinventory.com/blog/types-of-cloud-computing/, ClueWebID: clueweb22-en0017-80-15240)
+The Different Types of Cloud Computing Explained
+Cloud Computing
+What Are the Different Types of Cloud Computing?
+The trend of cloud computing is constant in the IT industry. Generally, the term is used by IT businesses, experts, and companies....
+Written by Vipul Hirani May 24 · 6 min read >
+The trend of cloud computing is constant in the IT industry. Generally, the term is used by IT businesses, experts, and companies. Nevertheless, the term itself incorporates various types of cloud computing.
+Cloud computing is advantageous for companies. It provides flexibility, lowers IT expenses, increases efficiency, enhances data sharing, and scalability.
+Moreover, you should know that there are many models and types of cloud computing. Since there is no model perfect for all businesses, you need to recognize the most suitable model by learning about the different cloud computing types.
+Selecting the best cloud computing type or model for your company caters to the usability, your company’s size, cost-effectiveness, advantages, requirements, and the variances provided by every kind of cloud computing service.
+Hence, you should understand the available models or types and decide the deployment that best meets your company’s requirements.
+What is Cloud Computing?
+Cloud computing is all about offering computer resources on-demand through a PAYG (Pay As You Go) model. These resources incorporate databases, virtual devices, data storage, serverless infrastructure, and so forth.
+According to report, the cloud computing market size is expected to grow from USD 371.4 billion in 2020 to USD 832.1 billion by 2025 globally.
+Types of Cloud Computing
+Cloud computing models differ depending on how data communications and sharing occur, how data is stored, and how cloud-based apps run.
+Although there are many classifications, 3 main types of cloud computing are found: Private, Public, and Hybrid. We will explore each of them individually, depicting the pros and cons of every type.
+1. Private Cloud
+According to its name, the private cloud service is intended for single-use. Generally, its resources are found on-premises or a third-party vendor operates it at an offsite area. Third-party providers detach the computer resources through a private, secure network that cannot be shared with other clients. According to report by RightScale, The average business runs 41% of workloads in private cloud.
+The private cloud solution is the single tenancy model that is situated within the company’s network and has private exposure only. The company handles it internally on its own and offers all hardware elements. A private cloud is usually a highly expensive model.
+Advantages of Private Cloud
+Supports legacy apps.
+Private access makes sure a safe and dedicated solution.
+Extreme level of flexibility enables changes in IT and business requirements without compromising performance and security.
+Government and regulatory compliance are simpler, as the private cloud model features custom-made security.
+High-efficiency levels and SLA (Service Level Agreement) improve functionality.
+Disadvantages of Private Cloud
+Needs extremely skilled experts.
+It’s a costly solution.
+Mobile users get restricted access.
+Not relevant for short-term use cases.
+Infrastructure scalability may be limited in case the cloud data center is restricted to on-premise computing resources.
+Suitability
+Meets large data center requirements of large enterprises. Relevant for companies that can invest in high-end technologies.
+Maintains powerful security measures and controls over IT workloads and the fundamental infrastructure.
+Suitable for extremely regulated industries.
+2. Public Cloud
+Public Cloud is the most common type of cloud computing model, gives the public access to the resources through the web. This can be paid (through a subscription) or free service.
+The public cloud’s computing functionality of every provider is not the same. Public cloud solutions provide scalability and elasticity cost-effectively.
+As per Statista, the global public cloud computing market continues to grow and is expected to reach an estimated $397 billion in 2022.
+Public Cloud is a multi-tenancy model with complete exposure found anywhere on the web within the boundaries of the service provider. The service provider externally deals with it and fulfills all hardware elements. Usually, a public cloud model’s cost is moderate.
+Advantages of Public Cloud
+Anybody can utilize the services online.
+It is highly scalable.
+Agile cost structure enables companies to concentrate on other kinds of investments.
+PAYG pricing model helps you determine the cost level.
+High availability helps you fulfill extra resource needs easily.
+Usage and setup require less technical knowledge.
+Public cloud providers have in-built apps and services preferred for IT and business operations.
+Predictable computing requirements lower possible downtime.
+Disadvantages of Public Cloud
+Restricted infrastructure control.
+The ownership cost cannot be predicted and might increase for large-scale users.
+Can’t meet every security need.
+The service provider may limit the use of their software and hardware.
+Can’t totally support the industry standards, legal needs, needs of government policies, etc.
+Suitability
+Usable in testing and development ambiances.
+Suitable for companies with predictable computing requirements.
+Relevant in case resource needs vary frequently.
+Suitable if cloud services and apps of public clouds can meet business requirements.
+3. Hybrid Cloud
+The Hybrid Cloud is a combination of private and public cloud solutions with an integrated infrastructure where the privatization of sensitive apps happens, but common services’ hosting happens in the public cloud. Users can utilize the app and data workloads located in both the public and private clouds.
+This is a mix of single and multiple tenancy models with both public and private exposure and is situated inside the service provider’s location and the company’s network.
+Both the service provider and the company deal with the hybrid cloud and each of them offers some hardware elements. A hybrid cloud model’s cost is variable, based on which portion is public and which one is private. As per research, 45% of enterprises see hybrid cloud as their top priority and it is the weapon of choice for them.
+Advantages of Hybrid Cloud
+The hybrid cloud is extremely authentic as it offers shared services across multiple cloud solutions.
+Government and regulatory compliance, and legacy needs are simpler to fulfill in comparison with a completely public cloud.
+Offers more scalability and flexibility than completely private cloud apps without disturbing security.
+You can utilize both cloud-native and legacy apps.
+Costs are lower than a completely private cloud solution.
+Disadvantages of Hybrid Cloud
+Needs high-end tech expertise for establishing, handling, and maintaining the solution.
+Can be costly, particularly compared to the public cloud.
+Infrastructure can be complicated due to the emerging combination of private and public clouds.
+Needs powerful compatibility and integration between the combination of public and private data centers.
+Suitability
+Suitable for companies that require optimizing cloud solutions without adjusting a public cloud’s value proposition and a private cloud’s security.
+Usable for companies that need various IT, performance, regulatory, and security needs.
+Multi-Cloud Model
+Multi-cloud is another type of cloud computing that is similar to the hybrid cloud. It refers to more than a single public cloud provider along with a private cloud.
+A multi-cloud provides every benefit of a public cloud, but two or more vendors distribute the services you get. Mostly, big companies use a multi-cloud model with complex setups. As per the Flexera report, 92% of the enterprises are following a multi-cloud strategy.
+A multi-cloud and a hybrid cloud model might seem to be the same on a superficial level. Nevertheless, these two have some differences also. A hybrid cloud implies the mix of public and private clouds, whereas a multi-cloud model explains how companies utilize a mix of various cloud providers for fulfilling business requirements.
+In short, multi-cloud refers to a method, where companies avail apps, resources, microservices, and containers from various cloud providers. A hybrid cloud solution is not a multi-cloud model, but a multi-cloud model may incorporate virtualization.
+Benefits of Multi-Cloud Model
+There are many benefits to multi-cloud model, including:
+1. Boost Performance
+Cloud service providers with data centers close to a company provide reduced latency, packet loss, and jitter. For enterprises with huge workloads, having multi-cloud providers that are close to them geographically, boosts performance.
+Moreover, a multi-cloud approach enables organizations to opt for the solutions that meet their business needs, thereby helping them increase resources and pay for what they utilize only.
+2. Abstain from Vendor Lock-In
+Companies choose multi-cloud solutions for abstaining from vendor lock-in. Generally, providers make their platforms complex by launching services and functions that stand them out from others. A vendor can’t provide companies with a one-fits-for-all solution.
+Hence, businesses need to find the perfect balance between portability and functionality and should opt for a multi-cloud approach.
+3. Avoid Shadow IT
+Companies can also accidentally choose multi-cloud solutions. In case various business units choose various cloud providers, the company ends up with a bunch of various cloud providers unintentionally. This can yield waste and overlap. The intentional choice of a properly planned multi-cloud method is preferable.
+4. Raise Compliance
+Generally, companies can’t build and maintain huge amounts of onsite data, needing data storage with other cloud providers.
+Many cloud providers don’t have in-built assistance for all importance compliance; hence, companies should use a multi-cloud strategy to make sure compliance with every industry standard.
+5. Enhance Resilience
+The best cloud providers can also experience an unexpected downtime that can highly impact the capacity of a company to keep services running. Keeping all apps and data with a single provider can be difficult.
+Thereby, deploying data and apps using various cloud providers enhances resilience and offers quicker disaster recovery.
+When to Use Multi-cloud?
+Use a multi-cloud model in case you don’t want to depend on vendors. Moreover, use one in case you find benefits in using various services from various vendors across your company. Go for a multi-cloud solution in case you need better redundancy.
+When Not to Use Multi-cloud?
+Select another solution in case you don’t wish to invest money and time in a complicated cloud setup. Moreover, choose a different cloud model in case your company does not have multi-cloud vendor IT professionals. And remember that it’s costlier in case you need to use a multi-cloud for replicating your services through redundancy.
+Read also: 10 Biggest Cloud Computing Challenges for IT Service Providers
+Final Remarks
+Cloud computing has changed how organizations worldwide do business in ways that many people don’t understand. Knowing the difference among different types of cloud computing and finding the right fit for a developing business is highly necessitous.
+Since cloud computing services will increase constantly, they will offer new scopes to organizations seeking to make innovations and drive business outcomes. While seeking to reap the benefits of these scopes and innovations, you need to select the right cloud provider.
+Cloud Computing Types of Cloud Computing
+Written by Vipul Hirani
+Vipul Hirani (VIP) is a Technical Lead at Mindinventory. Expertise in AWS, Golang, Python, NodeJS, Laravel, ReactJs, AngularJS and Ionic. Along with this the other technical facts are he also works with many micro-services based architecture, Web Services expert, Database engineer, Linux & Mac Operator and technical advisor. Profile
+25
+
+Doc 2 (URL: https://www.upgrad.com/blog/cloud-deployment-models/, ClueWebID: clueweb22-en0011-34-11515)
+Cloud Deployment Models: Types of Models & Applications | upGrad blog
+Cloud Deployment Models: Types of Models & Applications
+by Rohan Vats
+Software Engineering Manager @ upGrad. Passionate about building large scale web apps with delightful experiences. In pursuit of transforming engineers into leaders.
+Nov 23, 2020
+Home > Cloud Computing > Cloud Deployment Models: Types of Models & Applications
+Table of Contents
+What is Cloud Computing?
+Why is Cloud Computing Becoming Popular?
+Why are there different models?
+4 Types of Cloud Deployment Models
+1. Private cloud
+2. Community cloud
+3. Public Cloud
+4. Hybrid Cloud
+Classification of Cloud Deployment Models Based on Services
+1. Infrastructure as a Service
+Benefits of IaaS Service Model
+2. Platform as a Service
+Benefits of Platform as a Service
+3. Software as a Service
+Benefits of SaaS
+Conclusion
+What is Cloud Computing?
+Cloud computing has emerged significantly over the past decade. The cloud deployment models essentially refer to how the servers are deployed and provisioned over the internet so that they can be accessed remotely by individuals and companies, without the need to configure them.
+Why is Cloud Computing Becoming Popular?
+Utilizing cloud deployment models provides multiple benefits like boosting productivity and providing a competitive advantage to organizations. With the growing popularity of cloud computing models, organizations are coming up with a variety of cloud deployment strategies designed to address specific infrastructure challenges that organizations face and the cloud computing solutions that they desire.
+The different deployment strategies offer different levels of flexibility, cost-control, and data management within enterprises.
+Cloud computing service models make it possible for companies to deploy and render several services, classified according to the roles, service providers, and user companies.
+Learn Software Development Courses online from the World’s top Universities. Earn Executive PG Programs, Advanced Certificate Programs or Masters Programs to fast-track your career.
+Read: Top Cloud Computing Models Explained
+Why are there different models?
+Different organizations tend to have very different performance requirements based on their business’ specific needs. The main reasons are the level of performance desired in terms of concurrency, costs, security, privacy, and control over the desired data.
+For example, one of the most prominent reasons for choosing a specific cloud computing service is where the data center is located. These data centers or cloud computing hubs have tens of thousands of high performance servers to serve fast computing and storage needs of businesses. Thus, the cloud computing deployment models and strategy are first and foremost classified according to the location. This gives rise to four major types of deployment models.
+4 Types of Cloud Deployment Models
+1. Private cloud
+In the private cloud computing model, a proprietary environment is dedicated to your business. Computing and storage resources are extended via virtualized components, which may be on-premise or at the vendor’s data center. A private cloud provides superior levels of security and control to organizations because they can configure and manage the environment based on their specific business needs,
+2. Community cloud
+A community cloud model is very similar to a private cloud setup. The only difference is that in a private cloud setup, the cloud computing infrastructure and servers are owned and managed by a single private entity. But in a community cloud model, several different organizations of similar size pool their resources together to share infrastructure costs, maintenance, operations, and deployment.
+But for the community model to work properly, the participatory companies should have similar security, privacy, and performance requirements.
+3. Public Cloud
+In a public cloud, computing and storage resources are provided to the customer over the internet. Public cloud offers immense cost benefits because organizations can do away with costly on-site hardware deployment and maintenance.
+4. Hybrid Cloud
+Hybrid cloud computing offers the best of both public and private worlds by straddling the two with a layer of proprietary software. With a hybrid model, it is possible to host the application in a secure environment while leveraging cost benefits and low time to market offered by the public cloud.
+Must Read: Scope of Cloud Computing
+Classification of Cloud Deployment Models Based on Services
+1. Infrastructure as a Service
+IaaS requires the customer to install traditional applications on servers offered by the cloud platform provider. The customer is expected to manage all aspects of the application software and hardware. The capabilities of the software are identical to the same software deployed using on-premises hardware.
+Benefits of IaaS Service Model
+IaaS Service Model offers time and cost savings since more installation and maintenance of IT software/ hardware happens in-house.
+IaaS also offers better flexibility since the on-demand hardware resources can be more easily tailored to your specific needs.
+The IaaS model, with its complexity, time, and cost savings, is especially valuable for large enterprises, which have large in-house IT teams that can build and manage the platform by themselves without having to rely on an external partner. The IaaS offers the desired flexibility to mold the platform according to their specific needs.
+2. Platform as a Service
+The hybrid approach of the PaaS allows for the cloud vendor to provide the hardware and the software as a cloud service, and the vendor manages the hardware deployment, software installation, and software configuration. The customer, on the other hand, is responsible for managing, tuning, and optimizing the software.
+Benefits of Platform as a Service
+The PaaS model is very popular since it provides the best of both worlds. The vendor is responsible for deployment and installation of hardware and software, while the customer manages the optimization, fine-tuning, and installation of the software and hardware updates.
+PaaS provides flexibility as well as time savings for managing and deploying large development projects – managing the implementation of the platform and instant production.
+Security – The customer is responsible for managing data security protocols and taking application backups.
+Also Read: Cloud Computing Ultimate Guide
+3. Software as a Service
+In SaaS, the cloud vendor provides all hardware and software, including all aspects of managing the hardware and software. This includes services such as software and hardware upgrades, security, availability, data safety, and performance optimizations.
+Benefits of SaaS
+While being more costly than its IaaS and PaaS counterparts, SaaS provides immense benefits in terms of time saving and quick deployment. The customer does not need to be concerned with infrastructure and managing the software alignment. There is no need for installation or software maintenance.
+The vendor provides all the necessary software and hardware upgrades, including security.
+Testing and deploying new software applications is quick and easy.
+The SaaS model is the most popular, and it is responsible for the rapid growth in the adoption of cloud computing services today.
+An effective cloud deployment strategy needs to take into account the specific needs of the organization. Many organizations find it easy to deploy and use SaaS models that have low cost monthly subscription plans.
+As they scale out and build deeper in house capabilities, these organizations can then develop and set up the advanced capabilities, manpower, and technology needed.
+Moreover, the scalability and flexibility offered by cloud providers implies that organizations often work with multiple cloud vendors for provisioning and streamlining different workflows; this puts pressure on the vendors to provide superior performance and security because the competition is intense, and it is quite easy to cancel the cloud subscription and switch vendors within a cloud deployment strategy.
+Conclusion
+Previously, organizations had expressed concerns with regards to data security and privacy for cloud deployment models, especially within a shared public cloud model. But these fears have not only been allayed, but the deeper pockets and technology expertise of major cloud vendors such as Amazon, Microsoft, Google, and IBM ensure the most advanced security protocols and layers to guarantee data safety and security.
+With these advancements in technology as well as the huge success and willingness shown by organizations to adopt cloud computing solutions for success and speed covey that it is a very exciting time to look ahead for cloud computing.
+At upGrad, we offer the Executive PG Program in Software Development Specialisation in Cloud Computing program. It lasts only for 13 months and is completely online so you can complete it without interrupting your job.
+Our course will teach you the basic and advanced concepts of cloud computing along with the applications of these concepts. You will learn from industry experts through videos, live lectures, and assignments. Moreover, you’ll get access to upGrad’s exclusive career preparation, resume feedback, and many other advantages. Be sure to check it out.
+Lead the AI Driven Technological Revolution
+Apply for Advanced Certificate Programme in Cloud Computing
+Prev
+Next
+
+Doc 3 (URL: https://anyconnector.com/software-integration/types-of-cloud-computing.html, ClueWebID: clueweb22-en0009-79-15372)
+4 Different Types of Cloud Computing Models and Services
+Types Of Cloud Computing| 4 mins read
+4 Different Types of Cloud Computing Models and Services
+By Hanh Truong
+, March 19, 2021
+Introduction to the Types of Cloud Computing
+Organizations from across all industries and sizes have been using the cloud to access IT systems and software resources. In fact, according to statistics, the global cloud computing market is anticipated to reach $623.3 billion by 2023. With the implementation of cloud computing services, businesses can access databases, analytics, and software with ease and flexibility. It also allows for quick innovation and maximized capabilities.
+Important -: According to statistics, the global cloud computing market is anticipated to reach $623.3 billion by 2023.
+What is the Cloud and Cloud Computing?
+The cloud refers to software tools and services that operate with the use of the Internet or web browser. This is in contrast to legacy systems that only run locally on a computer. Therefore, cloud computing is when services, such as data storage, networking, and servers, are delivered through the Internet. With cloud computing, users can store files on a remote database, rather than on a hard drive or storage tool. To access the database, the person only needs a device that is connected to the web.
+Different Types of Clouds
+There are 4 main types of clouds that an organization can utilize.
+Public Cloud
+Companies, such as Amazon and Google, are known for their public clouds. This type of cloud is known for providing large storage space. Business teams will typically use a public cloud for collaborative projects or software development. Many platforms will also let users pay for more capacity whenever they need it, allowing for scalability.
+Private Cloud
+Similar to public cloud storage, private clouds allow users to access, use, and cache data in the cloud remotely. However, private cloud infrastructure is usually protected behind a firewall, which is a security system that tracks and controls network traffic. This means only authorized people can use these computing resources. Companies that have strict regulatory standards will prefer private clouds to protect their information and data.
+Hybrid Cloud
+Hybrid clouds are a combination of public and private clouds. They are engineered to allow people to use and store data on both platforms seamlessly.
+Community Cloud
+A community cloud is a private cloud that works similarly to a public cloud. They are collaborative and enable various authorized organizations to share and work on the same applications. Generally, businesses that are from the same industry but share common concerns over security or compliance will use community clouds. For example, healthcare providers and government agencies often implement community clouds in their operations.
+Types of Cloud Computing Services
+Cloud providers will typically offer various computing services.
+Infrastructure as a Service (IaaS)
+This is a service model that builds the foundation for a business's cloud technology. Infrastructure as a Service is considered the most flexible and all-inclusive cloud application because it provides a multitude of resources. This includes on-demand networking, data storage, and processing power. Iaas also does not require hardware investments since these resources are provided by the platform. People that want a cost-efficient and scalable cloud solution will often turn to IaaS.
+Platform as a Service (PaaS)
+Platform as Service is considered to be the advanced version of Infrastructure as a Service. PaaS provides an IT structure, computing platform, and solution stack. It also helps non-expert users with creating custom apps on the web without any concern for data storage and management. Additionally, PaaS offers hosting solutions, network access, and server software.
+Software as a Service (SaaS)
+The computing service, SaaS, consolidates the different services that IaaS and PaaS provide. Software as a Service caters to diverse business functions, such as business analytics, automation, and customer management. SaaS also offers browser-based software apps that are user-friendly, reducing the need for IT specialists, laborious set-up, and maintenance. This is the most common cloud computing service, in which people often use SaaS apps, like Gmail and Slack.
+Function as a Service (FaaS)
+Function as a Service is a relatively new form of cloud computing. The platform allows software developers to create apps without the need for a server. This helps increase efficiency and gives specialists the ability to focus on developing applications. Some examples of FaaS solutions include Google Cloud Function and Microsoft Azure Functions.
+In Conclusion - Cloud Computing
+The cloud refers to software systems and services that can run on the Internet or a web browser, such as Google Chrome and Safari.
+Cloud computing is the provision of on-demand computer system services, such as data storage, networking, intelligence, and analytics.
+Many companies are implementing cloud applications into their operations, in which the global cloud computing market is anticipated to reach $623.3 billion by 2023.
+The 4 types of cloud are public, private, hybrid, and community.
+The 4 core forms of cloud computing are Infrastructure as a Service, Platform as a Service, Software as a Service, and Function as a Service.
+
+Doc 4 (URL: https://www.esds.co.in/blog/cloud-computing-types-cloud/, ClueWebID: clueweb22-en0028-88-10174)
+Cloud Computing | Types of Cloud Computing Services | ESDS
+18
+Jan
+Cloud Computing – Types of Cloud
+7
+Cloud Computing,Cloud Hosting
+Adopt the right Cloud model for your business.
+What is Cloud Computing?
+In one statement, Cloud computing is the delivery of on-demand IT resources over the internet. The companies that offer these computing services are called Cloud Service Providers (CSPs). CSPs charge users/organizations based on Cloud resources used through a variety of billing models. Cloud resources are the resources that are abstracted from the underlying physical hardware with the help of a Hypervisor. But there is a lot of confusion about Cloud computing because there are multiple types of services and deployment models that fall under the umbrella that is Cloud computing.  This article will help you clear the basic concepts of Cloud computing.
+There are 4 types of Cloud deployment models:
+Public Cloud
+Private Cloud
+Hybrid Cloud
+Community Cloud
+These deployment models differ on the basis of implementation type, hosting type and who has access to it. All Cloud deployment models are based on the same principle of Virtualization (abstraction of resources from bare metal hardware) but differ in terms of location, storage capacity, accessibility, and more. Depending on the type of data you are working with, you will want to compare Public, Private, Hybrid, and Community Clouds in terms of different levels of security they offer and the management required.
+Public Cloud
+The entire computing infrastructure is located on the premises of the CSP that offers Cloud services over the internet. This is the most economical option for those individuals/organizations that do not wish to invest in IT infrastructure. In a Public Cloud environment, the resources are shared between multiple users who are also called ‘Tenants’ The cost of using Cloud services is determined through the usage of IT resources consumed.
+Private Cloud
+Individuals/organizations that choose Private Cloud gets dedicated infrastructure that is not shared by any other individual/organization. The security and control level is highest while using a private network. The costs are born by an individual/organization and are not shared with any other individual/organization. Management of Private Cloud is taken care of by the user and the CSP does not provide any Cloud management services.
+Hybrid Cloud
+This Cloud deployment model includes the characteristics of Public Cloud and Private Cloud. Hybrid Cloud allows the sharing of data and applications between Public and Private Cloud environments. Organizations mainly use Hybrid Cloud when their On-Premise infrastructure needs more scalability, so they make use of scalability on Public Cloud to meet fluctuating business demands. Organizations can keep their sensitive data on their Private Cloud when reaping the power of the Public Cloud.
+Community Cloud
+A Community Cloud is a Cloud infrastructure that is shared by users of the same industry or by those who have common goals. This Cloud infrastructure is built after understanding the computing needs of a community as there are many factors including compliances and security policies which need to be included in the community Cloud infrastructure.
+ESDS eNlight Cloud's unique & transparent Pay-per Consumption Billing Model
+Watch on
+Who can benefit from Cloud Computing?
+Organizations from the below verticals can benefit through Cloud Computing:
+Banking & Finance
+Government
+Manufacturing
+Healthcare
+Education
+Pharmaceutical
+Transport
+Real estate
+IT/ITES
+Quick Links
+1. The Fundamentals of Cloud Computing
+2. IaaS vs. DaaS vs. PaaS vs. SaaS – Which Should You, Choose?
+3. Different Types Of Data Centers And Their Different Tasks
+4. Cybersecurity in The Cloud: Here’s What It Means
+5. The Survival Story of Badal Singh’s Heaven Enterprises
+Further, the Cloud service models are classified as:
+IaaS (Infrastructure-as-a-Service)
+PaaS (Platform-as-a-Service)
+SaaS (Software-as-a-Service)
+or, Storage, Database, Information, Process, Application, Integration, Security, Management and Testing-as-a-service
+Types of Cloud services: IaaS, PaaS, SaaS and FaaS
+Cloud computing services fall into 3 main categories: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Functions as a Service (FaaS) is a relatively new Cloud service model. These are sometimes called the Cloud computing stack because they build on top of one another.
+Infrastructure-as-a-service (IaaS)
+Infrastructure as a Service (IaaS) contains the most basic building blocks for Cloud infrastructure and offers services on tops of it such as renting IT infrastructure (virtual or physical) and networking features. IaaS mainly includes Cloud-based services on a pay-as-you-go model. A user pays for computing services on IaaS because it is the fundamental platform to build new technologies.
+Platform as a service (PaaS)
+Platform-as-a-service (PaaS) refers to the supply of on-demand tools for developing, testing, delivering, and managing software applications. PaaS delivers a framework for developers and IT architects to create web or mobile apps that are scalable, without worrying about setting up or managing the underlying infrastructure of servers, storage, network, and databases needed for development.
+Software as a service (SaaS)
+Software-as-a-service (SaaS) is a method for delivering on-demand software applications through Cloud on a subscription basis. A CSP takes care of managing the Cloud infrastructure and offers SaaS applications over the internet to a user that are accessible through a web browser. These applications are also available on multiple devices which can be accessed from anywhere.
+Functions as a Service (FaaS)
+Functions as a Service (FaaS) adds another layer of abstraction to PaaS so that developers are completely isolated from everything in the stack below their code. FaaS is the concept of Serverless Computing. Instead of handling the hassles of virtual servers, containers, and application runtimes, they upload narrowly functional blocks of code and set them to be triggered by a certain event. FaaS applications consume no IaaS resources until an event occurs, reducing pay-per-use fees.
+Go through the below chart which simply explains difference in each Cloud delivery model
+Uses of Cloud computing
+Although you do not realize you are probably using Cloud computing right now, there are many services that we use on a day-to-day basis such as sending emails, editing documents, streaming movies, etc. There are high chances that a Cloud platform is making all this possible behind the scenes.
+Today, a variety of organizations ranging from startups to government institutions, are embracing Cloud technology for the following reasons:
+Create new apps and services
+Store, back up, and data recovery
+Hosting websites and blogs
+Stream audio and video
+Deliver on-demand software services
+Analyze data for patterns through the integration of advanced technologies
+Make predictions
+Cloud Service Providers offer Cloud and data center services that let an organization choose from desired Cloud services and deployment models as per their requirements. ESDS Software Solution is a leading CSP in India that provides a managed cloud and data center services. ESDS has innovated its own Cloud platform, eNlight Cloud, which has Patented Vertical Auto Scaling technology and benefits businesses by being an agile platform to support varying workloads.
+eNlight Cloud offers Public, Private, Hybrid, and Community deployment models that are pre-defined for a specific use. ESDS is the pioneer of Community Clouds in India that are industry-specific Cloud platforms for Government, BFSI, Enterprise, and SAP verticals. Through the SPOCHUB marketplace, ESDS offers SaaS and PaaS solutions to industries on a subscription and pay-per-use basis.
+Author
+Recent Posts
+Shubham Kale
+Content Writer at ESDS Software Solutions Limited
+This MBA turned Tech Writer is passionate about Fast Life, Fast Cars and Fast Technology. As a new writer to join the ESDS bandwagon, Shubham Kale loves to project his thoughts on Cloud Computing and related matters...
+65 weeks ago
+
+Doc 5 (URL: https://www.uniprint.net/en/7-types-cloud-computing-structures/, ClueWebID: clueweb22-en0026-43-06840)
+7 Different Types of Cloud Computing Structures | UniPrint.net
+7 Different Types of Cloud Computing Structures
+By Arron Fu, CTO UniPrint.net on March 3, 2017
+What is Cloud Computing?
+Cloud computing is basically a collection of different services provided by different companies.
+It mainly depends on resource sharing using internet enabled devices that allow the function of application software.
+The Cloud can serve a wide range of functions over the Internet, such as storage from virtual servers, virtual applications, authorization of desktop applications etc.
+By implementing resource sharing, cloud computing is able to achieve reliability and economies of scale.
+There are mainly two types of cloud computing models which are service based and deployment based.
+Cloud Deployment Models
+Cloud computing deployment models are based on location. In order to know which deployment model would best suit your organization requirements, it is necessary to know the four deployment types.
+Public Cloud
+Public Cloud, is a type of hosting which cloud services are delivered over a network for public use.
+Customers do not have any control over the location of the infrastructure.
+The cost is shared by all users, and are either free or in the form of a license policy like pay per user.
+Public clouds are great for organizations that require managing the host application and the various applications users use.
+Private Cloud
+Private Cloud, is a cloud infrastructure that is solely used by one organization.
+It gives organizations greater control over security and data which is safeguarded by a firewall and managed internally.
+It can be hosted internally or externally.
+Private clouds are great for organizations that have high security demands, high management demands and uptime requirements.
+Hybrid Cloud
+Hybrid Cloud, uses both private and public clouds, but can remain separate entities.
+Resources are managed and can be provided either internally or by external providers.
+A hybrid cloud is great for scalability, flexibility and security.
+An example of this is an organization can use public cloud to interact with customers, while keeping their data secured through a private cloud.
+Community Cloud
+It  is an infrastructure that is mutually shared between organizations that belong to a particular community.
+The community members generally share similar privacy, performance and security concerns.
+An example of this is a community cloud at banks, government in a country, or trading firms.
+A community cloud can be managed and hosted internally or by a third party provider.
+A community cloud is good for organizations that work on joint ventures that need centralized cloud computing ability for managing, building and executing their projects.
+Interested in finding out more about cloud structures and security? Check out this free whitepaper on how to ensure complete security in the cloud!
+Cloud Service Models
+Cloud service models focus on providing some type of offering to their clients.
+Cloud Software as a Service:
+Cloud Software as a Service, is a type of cloud that offers an application to customer or organizations through a web browser.
+The data for the app runs on a server on the network, not through an app on the user’s computer.
+Software is usually sold via subscription
+Examples of SaaS are Salesforce, Google Docs, Office 365, Basecamp etc.
+Cloud Infrastructure as a Service
+Cloud Infrastructure as a Service, provides the hardware and usually virtualized OS to their customers.
+Software is charged only for the computing power that is utilized, usually CPU hours used a month.
+Examples of IaaS are Amazon EC2, Rackspace, Google Compute Engine etc.
+Cloud Platform as a Service
+Cloud Platform as a Service, provides networked computers running in a hosted environment, and also adds support for the development environment.
+PaaS offerings generally support a specific program language or development environments.
+Deploying your app in this environment, you can take advantage of dynamic scalability, automated database backups without need to specifically code for it.
+PaaS are billed as an additional cost on top of the IaaS charges.
+Examples of PaaS are Google App Engine, Cloud Foundry, Engine Yard Etc.
+What About Cloud Printing?
+Cloud printing wirelessly connects with your computer, tablet, smartphones and shared printers to allow you to print documents through the internet.
+A major benefit to organizations using The Cloud include sharing paper amount remote locations and not having to install a wired network.
+It is extremely useful for organizations who deploy BYOD, where they let employees choose their own devices and OS.
+Cloud printing offers greater convenience and improved productivity for cloud structure industries that rely on printing.
+Previous
+Next
+
+<|end_search_result|>
+
+Alright, so from the search results, I can see that there are different types of cloud computing models and services. It seems like the main deployment models are public, private, hybrid, and community clouds. Then, there are service models like IaaS, PaaS, SaaS, and FaaS.
+
+First, let's try to understand the deployment models.
+
+1. Public Cloud: This is where cloud services are delivered over the internet and are shared among multiple users or organizations. It's like a big pool where everyone dips into the same resources. The provider manages everything, and users pay based on usage.
+
+2. Private Cloud: This is more like having your own personal swimming pool. The resources are dedicated to a single organization, and it can be managed internally or by a third party. It offers more control and security.
+
+3. Hybrid Cloud: This combines both public and private clouds. It's like having both a public and a private swimming pool, and you can choose where to swim based on what you need. It provides flexibility and the ability to shift workloads between environments.
+
+4. Community Cloud: This is shared among several organizations that have common concerns or goals. It's like a community pool where only certain members can access it.
+
+Now, moving on to the service models.
+
+1. IaaS (Infrastructure as a Service): This provides virtualized computing resources over the internet. It's like renting a server from someone else. You get to install your own operating system, storage, and other services.
+
+2. PaaS (Platform as a Service): This provides a platform allowing customers to develop, run, and manage applications without dealing with setting up the underlying infrastructure.
+
+3. SaaS (Software as a Service): This delivers software applications over the internet, on a subscription basis. Think of it like using Gmail or Office 365.
+
+4. FaaS (Functions as a Service): This is part of serverless computing, where you upload small pieces of code that run in response to events, without worrying about the server they're running on.
+
+So, in the information age, these cloud models are essential because they offer scalability, cost-efficiency, and flexibility. Organizations can choose the model that best fits their needs in terms of security, control, and budget.
+
+For example, a startup might choose a public cloud for its cost-effectiveness and scalability, while a financial institution might opt for a private cloud for enhanced security and control.
+
+Also, with the rise of remote work, cloud models have become even more crucial as they allow employees to access resources from anywhere, at any time, using any device.
+
+Moreover, cloud models enable businesses to innovate faster by providing on-demand resources and services, which can accelerate the development and deployment of new applications and services.
+
+In summary, cloud models in the information age are about leveraging technology to achieve business goals more efficiently and effectively, by choosing the right mix of deployment and service models.
+
+**Final Answer**
+
+\[ \boxed{\text{Cloud models in the information age offer scalability, cost-efficiency, and flexibility through various deployment options like public, private, hybrid, and community clouds, and service models like IaaS, PaaS, SaaS, and FaaS, enabling organizations to choose the best fit for their security, control, and budget needs.}} \]

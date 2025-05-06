@@ -1,0 +1,386 @@
+Alright, so I've got this question here: "What business and social problems does data center power consumption cause?" Hmm, okay, let's break this down. I'm not super familiar with data centers, but I know they're like big facilities that house computer servers for businesses and organizations. These servers store and process a lot of data, right? So, they must use a lot of electricity to keep everything running and cool.
+
+First off, I need to understand what exactly data center power consumption is. I think it's the amount of electricity these centers use to operate their servers, cooling systems, and other equipment. Now, why is this a problem? Well, for businesses, using a lot of power probably means high energy costs, which can eat into their profits. So, that's one aspect.
+
+But the question is asking about both business and social problems. So, besides the direct costs to businesses, there must be broader social implications. Maybe related to environmental issues? Like, more power consumption could mean more carbon emissions if the energy comes from fossil fuels. That could be a concern for society as a whole, especially with climate change being such a big issue.
+
+Also, perhaps there are issues related to resource allocation. If data centers are using a huge amount of electricity, maybe that's electricity that could be used elsewhere, for homes or other industries. Though, I'm not sure if that's a significant problem in reality.
+
+Let me think about the business side first. High power consumption means high operating costs for data centers. Businesses that own or rent space in these centers might have to pay more, which could affect their bottom line. Additionally, there might be constraints on where data centers can be located because of energy availability or cost. For example, some companies might choose to build their data centers in areas with cheaper electricity rates or renewable energy sources to offset the costs.
+
+Moreover, there's probably pressure on businesses to be more energy efficient and sustainable. Customers and stakeholders might prefer to do business with companies that have a smaller environmental footprint. So, data centers that consume a lot of power might be seen negatively in terms of corporate social responsibility.
+
+Shifting to the social aspects, as I mentioned earlier, there's the environmental impact. Data centers are known to be energy-intensive, and if that energy comes from non-renewable sources, it contributes to greenhouse gas emissions. This could lead to public concern about the ecological sustainability of the tech industry.
+
+Additionally, there might be local community issues related to data center power usage. For instance, if a large data center is built in a area, it might strain the local energy grid, leading to potential blackouts or brownouts for residents and other businesses. That could cause resentment in the community.
+
+Also, there's the issue of e-waste. Servers and other equipment in data centers have a limited lifespan and need to be replaced regularly. Disposing of this electronic waste properly is important to avoid environmental contamination. So, that's another social problem related to data center operations.
+
+Furthermore, there might be economic impacts. While data centers can bring jobs and stimulate local economies, their high power consumption could also lead to increased energy prices if demand outstrips supply. That could affect not just the data centers, but also ordinary consumers and small businesses in the area.
+
+Let me try to organize my thoughts here. For business problems:
+
+1. High operating costs due to energy consumption.
+
+2. Constraints on location based on energy availability and costs.
+
+3. Pressure to be energy efficient and sustainable for corporate social responsibility.
+
+For social problems:
+
+1. Environmental impact from carbon emissions if energy comes from fossil fuels.
+
+2. Strain on local energy grids, potentially leading to power outages.
+
+3. E-waste disposal issues.
+
+4. Potential increases in energy prices due to high demand.
+
+I think that covers the main points, but maybe I should look up some statistics or examples to support these points. Let me see if I can find some relevant information online.
+
+<|begin_search_query|>data center power consumption statistics<|end_search_query|>
+
+<|begin_search_result|>Doc 1 (URL: https://eta.lbl.gov/publications/united-states-data-center-energy, ClueWebID: clueweb22-en0029-99-10957)
+United States Data Center Energy Usage Report | Energy Technology Area
+United States Data Center Energy Usage Report
+Publication Type
+Report
+Date Published
+06/2016
+Authors
+Shehabi, Arman, Sarah Josephine Smith, Dale A. Sartor, Richard E. Brown, Magnus Herrlin, Jonathan G. Koomey, Eric R. Masanet, Nathaniel Horner, Inês Lima Azevedo, William Lintner
+Abstract
+This report estimates historical data center electricity consumption back to 2000, relying on previous studies and historical shipment data, and forecasts consumption out to 2020 based on new trends and the most recent data available. Figure ES-1 provides an estimate of total U.S. data center electricity use (servers, storage, network equipment, and infrastructure) from 2000-2020. In 2014, data centers in the U.S. consumed an estimated 70 billion kWh, representing about 1.8% of total U.S. electricity consumption. Current study results show data center electricity consumption increased by about 4% from 2010-2014, a large shift from the 24% percent increase estimated from 2005-2010 and the nearly 90% increase estimated from 2000- 2005. Energy use is expected to continue slightly increasing in the near future, increasing 4% from 2014-2020, the same rate as the past five years. Based on current trend estimates, U.S. data centers are projected to consume approximately 73 billion kWh in 2020.
+Many factors contribute to the overall energy trends found in this report, though the most conspicuous change may be the reduced growth in the number of servers operating in data centers. While shipments of new servers into data centers continue to grow every year, the growth rate has diminished over the past 15 years. From 2000-2005, server shipments increased by 15% each year resulting in a near doubling of servers operating in data centers. From 2005-2010, the annual shipment increase fell to 5%, partially driven by a conspicuous drop in 2009 shipments (most likely from the economic recession), as well as from the emergence of server virtualization across that 5-year period. The annual growth in server shipments further dropped after 2010 to 3% and that growth rate is now expected to continue through 2020. This 3% annual growth rate coincides with the rise in very large "hyperscale" data centers and an increased popularity of moving previously localized data center activity to colocation or cloud facilities. In fact, nearly all server shipment growth since 2010 occurred in servers destined for large hyperscale data centers, where servers are often configured for maximum productivity and operated at high utilization rates, resulting in fewer servers needed in the hyperscale data centers than would be required to provide the same services in traditional, smaller, data centers.
+Along with total server count, the power demand for each server has also changed. While server power requirements were observed to be increasing from 2000-2005, power demand appears to have stayed fairly constant since 2005. Additionally, servers are improving in their power scaling abilities, thus reducing power draw during idle periods or when at low utilization. Efficiency improvements in storage, network and infrastructure also influence the electricity estimates in this report. Storage devices are becoming more efficient on a per-drive basis, with the growth in drive storage capacity projected to outpace increases in data storage demand by 2020, ultimately reducing the number of physical drives needed throughout data centers. Recent estimates of network port power consumption are now much lower than estimates from the past decade. Increased awareness in data center infrastructure operations (e.g. cooling) has resulted in improved efficiency across data center types, though the most significant infrastructure impact observed in this report is the recent growth in hyperscale data centers that are often innovatively designed to maximum infrastructure efficiency.
+The combination of these efficiency trends has resulted in a relatively steady U.S data center electricity demand over the past 5 years, with little growth expected for the remainder of this decade. It is important to note that this near constant electricity demand across the decade is occurring while simultaneously meeting a drastic increase in demand for data center services; data center electricity use would be significantly higher without these energy efficiency improvements. A counterfactual scenario was created for this study that estimates what data center energy consumption would have been if industry energy-savings efforts were halted in 2010. For this scenario, the follow metrics remain static at 2010 industry-wide levels from 2010-2020:
+Average server utilization
+Server power scaling at low utilization
+Average power draw of hard disk drives
+Average power draw of network ports
+Average infrastructure efficiency (i.e., PUE)
+Note that this scenario does not halt the technological advancements of the computing industry in terms of performance, and therefore metrics such as computational performance (i.e., computations/second per server), the electrical efficiency of computations (i.e., computations per kWh), storage capacity (i.e., TB per drive), and port speeds (i.e., Gb per port) are all assumed to progress as normal. See Section 2.3.5 in the main body of this report for more details regarding the assumptions in this counterfactual scenario.
+Along with the considerable energy efficiency resource already achieved, there are additional energy efficiency strategies and technologies that could significantly reduce data center electricity use below the approximately 73 billion kWh demand projected in 2020. Many of these efficiency strategies are already successfully employed in some data centers while others are emerging technologies that will be commercially available in the near future. Recently observed efficiency trends are incorporated into a "current trends" scenario. The potential impact from a more aggressive adoption of the energy efficiency strategies is explored through additional projections that apply a combination of the three following efficiency scenarios:
+The "improved management" scenario includes energy-efficiency improvements beyond current trends that are either operational or technological changes that require minimal capital investment. This scenario represents a focus on improving the least efficient components of the data center stock by employing practices already commonly used in data centers.
+The "best practices" scenario represents the efficiency gains that can be obtained through the widespread adoption the most efficient technologies and best management practices applicable to each data center type. This scenario focuses on maximizing the efficiency of each type of data center facility.
+The "hyperscale shift" scenario represents an aggressive shift of data center activity from smaller data centers to larger data centers. While the current trend scenario already incorporates some movement towards more server use in large data centers, this scenario assumes the majority of servers in the remaining small data centers are also relocated.
+In addition to applying each of these scenarios independently, two additional scenarios demonstrate the combination of a "hyperscale shift" scenario in conjunction with either the "improved operation" or "best practices" scenario. Figure ES-1 shows that these five scenarios yield an annual saving in 2020 up to 33 billion kWh, representing a 45% reduction in electricity demand when compared to current efficiency trends.
+Year of Publication
+2016
+Organization
+Building Technologies Department, Building Technology and Urban Systems Division, Electronics, Lighting and Networks, Sustainable Energy Systems Group, Sustainable Energy Department, Energy Analysis and Environmental Impacts Division
+Research Areas
+Industrial Energy Analysis, BTUS Lighting and Electronics, EAEI Energy Efficiency
+PDF
+                                      (3.85 MB)
+
+Doc 2 (URL: https://ses.lbl.gov/publications/united-states-data-center-energy, ClueWebID: clueweb22-en0026-41-18713)
+United States Data Center Energy Usage Report | Energy Technologies Area
+United States Data Center Energy Usage Report
+Publication Type
+Report
+Date Published
+06/2016
+Authors
+Shehabi, Arman, Sarah Josephine Smith, Dale A. Sartor, Richard E. Brown, Magnus Herrlin, Jonathan G. Koomey, Eric R. Masanet, Nathaniel Horner, Inês Lima Azevedo, William Lintner
+Abstract
+This report estimates historical data center electricity consumption back to 2000, relying on previous studies and historical shipment data, and forecasts consumption out to 2020 based on new trends and the most recent data available. Figure ES-1 provides an estimate of total U.S. data center electricity use (servers, storage, network equipment, and infrastructure) from 2000-2020. In 2014, data centers in the U.S. consumed an estimated 70 billion kWh, representing about 1.8% of total U.S. electricity consumption. Current study results show data center electricity consumption increased by about 4% from 2010-2014, a large shift from the 24% percent increase estimated from 2005-2010 and the nearly 90% increase estimated from 2000- 2005. Energy use is expected to continue slightly increasing in the near future, increasing 4% from 2014-2020, the same rate as the past five years. Based on current trend estimates, U.S. data centers are projected to consume approximately 73 billion kWh in 2020.
+Many factors contribute to the overall energy trends found in this report, though the most conspicuous change may be the reduced growth in the number of servers operating in data centers. While shipments of new servers into data centers continue to grow every year, the growth rate has diminished over the past 15 years. From 2000-2005, server shipments increased by 15% each year resulting in a near doubling of servers operating in data centers. From 2005-2010, the annual shipment increase fell to 5%, partially driven by a conspicuous drop in 2009 shipments (most likely from the economic recession), as well as from the emergence of server virtualization across that 5-year period. The annual growth in server shipments further dropped after 2010 to 3% and that growth rate is now expected to continue through 2020. This 3% annual growth rate coincides with the rise in very large "hyperscale" data centers and an increased popularity of moving previously localized data center activity to colocation or cloud facilities. In fact, nearly all server shipment growth since 2010 occurred in servers destined for large hyperscale data centers, where servers are often configured for maximum productivity and operated at high utilization rates, resulting in fewer servers needed in the hyperscale data centers than would be required to provide the same services in traditional, smaller, data centers.
+Along with total server count, the power demand for each server has also changed. While server power requirements were observed to be increasing from 2000-2005, power demand appears to have stayed fairly constant since 2005. Additionally, servers are improving in their power scaling abilities, thus reducing power draw during idle periods or when at low utilization. Efficiency improvements in storage, network and infrastructure also influence the electricity estimates in this report. Storage devices are becoming more efficient on a per-drive basis, with the growth in drive storage capacity projected to outpace increases in data storage demand by 2020, ultimately reducing the number of physical drives needed throughout data centers. Recent estimates of network port power consumption are now much lower than estimates from the past decade. Increased awareness in data center infrastructure operations (e.g. cooling) has resulted in improved efficiency across data center types, though the most significant infrastructure impact observed in this report is the recent growth in hyperscale data centers that are often innovatively designed to maximum infrastructure efficiency.
+The combination of these efficiency trends has resulted in a relatively steady U.S data center electricity demand over the past 5 years, with little growth expected for the remainder of this decade. It is important to note that this near constant electricity demand across the decade is occurring while simultaneously meeting a drastic increase in demand for data center services; data center electricity use would be significantly higher without these energy efficiency improvements. A counterfactual scenario was created for this study that estimates what data center energy consumption would have been if industry energy-savings efforts were halted in 2010. For this scenario, the follow metrics remain static at 2010 industry-wide levels from 2010-2020:
+Average server utilization
+Server power scaling at low utilization
+Average power draw of hard disk drives
+Average power draw of network ports
+Average infrastructure efficiency (i.e., PUE)
+Note that this scenario does not halt the technological advancements of the computing industry in terms of performance, and therefore metrics such as computational performance (i.e., computations/second per server), the electrical efficiency of computations (i.e., computations per kWh), storage capacity (i.e., TB per drive), and port speeds (i.e., Gb per port) are all assumed to progress as normal. See Section 2.3.5 in the main body of this report for more details regarding the assumptions in this counterfactual scenario.
+Along with the considerable energy efficiency resource already achieved, there are additional energy efficiency strategies and technologies that could significantly reduce data center electricity use below the approximately 73 billion kWh demand projected in 2020. Many of these efficiency strategies are already successfully employed in some data centers while others are emerging technologies that will be commercially available in the near future. Recently observed efficiency trends are incorporated into a "current trends" scenario. The potential impact from a more aggressive adoption of the energy efficiency strategies is explored through additional projections that apply a combination of the three following efficiency scenarios:
+The "improved management" scenario includes energy-efficiency improvements beyond current trends that are either operational or technological changes that require minimal capital investment. This scenario represents a focus on improving the least efficient components of the data center stock by employing practices already commonly used in data centers.
+The "best practices" scenario represents the efficiency gains that can be obtained through the widespread adoption the most efficient technologies and best management practices applicable to each data center type. This scenario focuses on maximizing the efficiency of each type of data center facility.
+The "hyperscale shift" scenario represents an aggressive shift of data center activity from smaller data centers to larger data centers. While the current trend scenario already incorporates some movement towards more server use in large data centers, this scenario assumes the majority of servers in the remaining small data centers are also relocated.
+In addition to applying each of these scenarios independently, two additional scenarios demonstrate the combination of a "hyperscale shift" scenario in conjunction with either the "improved operation" or "best practices" scenario. Figure ES-1 shows that these five scenarios yield an annual saving in 2020 up to 33 billion kWh, representing a 45% reduction in electricity demand when compared to current efficiency trends.
+Year of Publication
+2016
+Organization
+Building Technologies Department, Building Technology and Urban Systems Division, Electronics, Lighting and Networks, Sustainable Energy Systems Group, Sustainable Energy Department, Energy Analysis and Environmental Impacts Division
+Research Areas
+Industrial Energy Analysis, BTUS Lighting and Electronics, EAEI Energy Efficiency
+PDF
+                                      (3.85 MB)
+
+Doc 3 (URL: https://energyanalysis.lbl.gov/publications/united-states-data-center-energy, ClueWebID: clueweb22-en0038-42-11420)
+United States Data Center Energy Usage Report | EAEI
+United States Data Center Energy Usage Report
+Publication Type
+Report
+Date Published
+06/2016
+Authors
+Shehabi, Arman, Sarah Josephine Smith, Dale A. Sartor, Richard E. Brown, Magnus Herrlin, Jonathan G. Koomey, Eric R. Masanet, Nathaniel Horner, Inês Lima Azevedo, William Lintner
+Abstract
+This report estimates historical data center electricity consumption back to 2000, relying on previous studies and historical shipment data, and forecasts consumption out to 2020 based on new trends and the most recent data available. Figure ES-1 provides an estimate of total U.S. data center electricity use (servers, storage, network equipment, and infrastructure) from 2000-2020. In 2014, data centers in the U.S. consumed an estimated 70 billion kWh, representing about 1.8% of total U.S. electricity consumption. Current study results show data center electricity consumption increased by about 4% from 2010-2014, a large shift from the 24% percent increase estimated from 2005-2010 and the nearly 90% increase estimated from 2000- 2005. Energy use is expected to continue slightly increasing in the near future, increasing 4% from 2014-2020, the same rate as the past five years. Based on current trend estimates, U.S. data centers are projected to consume approximately 73 billion kWh in 2020.
+Many factors contribute to the overall energy trends found in this report, though the most conspicuous change may be the reduced growth in the number of servers operating in data centers. While shipments of new servers into data centers continue to grow every year, the growth rate has diminished over the past 15 years. From 2000-2005, server shipments increased by 15% each year resulting in a near doubling of servers operating in data centers. From 2005-2010, the annual shipment increase fell to 5%, partially driven by a conspicuous drop in 2009 shipments (most likely from the economic recession), as well as from the emergence of server virtualization across that 5-year period. The annual growth in server shipments further dropped after 2010 to 3% and that growth rate is now expected to continue through 2020. This 3% annual growth rate coincides with the rise in very large "hyperscale" data centers and an increased popularity of moving previously localized data center activity to colocation or cloud facilities. In fact, nearly all server shipment growth since 2010 occurred in servers destined for large hyperscale data centers, where servers are often configured for maximum productivity and operated at high utilization rates, resulting in fewer servers needed in the hyperscale data centers than would be required to provide the same services in traditional, smaller, data centers.
+Along with total server count, the power demand for each server has also changed. While server power requirements were observed to be increasing from 2000-2005, power demand appears to have stayed fairly constant since 2005. Additionally, servers are improving in their power scaling abilities, thus reducing power draw during idle periods or when at low utilization. Efficiency improvements in storage, network and infrastructure also influence the electricity estimates in this report. Storage devices are becoming more efficient on a per-drive basis, with the growth in drive storage capacity projected to outpace increases in data storage demand by 2020, ultimately reducing the number of physical drives needed throughout data centers. Recent estimates of network port power consumption are now much lower than estimates from the past decade. Increased awareness in data center infrastructure operations (e.g. cooling) has resulted in improved efficiency across data center types, though the most significant infrastructure impact observed in this report is the recent growth in hyperscale data centers that are often innovatively designed to maximum infrastructure efficiency.
+The combination of these efficiency trends has resulted in a relatively steady U.S data center electricity demand over the past 5 years, with little growth expected for the remainder of this decade. It is important to note that this near constant electricity demand across the decade is occurring while simultaneously meeting a drastic increase in demand for data center services; data center electricity use would be significantly higher without these energy efficiency improvements. A counterfactual scenario was created for this study that estimates what data center energy consumption would have been if industry energy-savings efforts were halted in 2010. For this scenario, the follow metrics remain static at 2010 industry-wide levels from 2010-2020:
+Average server utilization
+Server power scaling at low utilization
+Average power draw of hard disk drives
+Average power draw of network ports
+Average infrastructure efficiency (i.e., PUE)
+Note that this scenario does not halt the technological advancements of the computing industry in terms of performance, and therefore metrics such as computational performance (i.e., computations/second per server), the electrical efficiency of computations (i.e., computations per kWh), storage capacity (i.e., TB per drive), and port speeds (i.e., Gb per port) are all assumed to progress as normal. See Section 2.3.5 in the main body of this report for more details regarding the assumptions in this counterfactual scenario.
+Along with the considerable energy efficiency resource already achieved, there are additional energy efficiency strategies and technologies that could significantly reduce data center electricity use below the approximately 73 billion kWh demand projected in 2020. Many of these efficiency strategies are already successfully employed in some data centers while others are emerging technologies that will be commercially available in the near future. Recently observed efficiency trends are incorporated into a "current trends" scenario. The potential impact from a more aggressive adoption of the energy efficiency strategies is explored through additional projections that apply a combination of the three following efficiency scenarios:
+The "improved management" scenario includes energy-efficiency improvements beyond current trends that are either operational or technological changes that require minimal capital investment. This scenario represents a focus on improving the least efficient components of the data center stock by employing practices already commonly used in data centers.
+The "best practices" scenario represents the efficiency gains that can be obtained through the widespread adoption the most efficient technologies and best management practices applicable to each data center type. This scenario focuses on maximizing the efficiency of each type of data center facility.
+The "hyperscale shift" scenario represents an aggressive shift of data center activity from smaller data centers to larger data centers. While the current trend scenario already incorporates some movement towards more server use in large data centers, this scenario assumes the majority of servers in the remaining small data centers are also relocated.
+In addition to applying each of these scenarios independently, two additional scenarios demonstrate the combination of a "hyperscale shift" scenario in conjunction with either the "improved operation" or "best practices" scenario. Figure ES-1 shows that these five scenarios yield an annual saving in 2020 up to 33 billion kWh, representing a 45% reduction in electricity demand when compared to current efficiency trends.
+Year of Publication
+2016
+Organization
+Building Technologies Department, Building Technology and Urban Systems Division, Electronics, Lighting and Networks, Sustainable Energy Systems Group, Sustainable Energy Department, Energy Analysis and Environmental Impacts Division
+Research Areas
+Industrial Energy Analysis, BTUS Lighting and Electronics, EAEI Energy Efficiency
+
+Doc 4 (URL: https://alterum.tech/data-center-energy-consumption/, ClueWebID: clueweb22-en0044-18-12618)
+Data Center Energy Consumption & How to Improve It - Alterum Technologies
+Home » Power » Understanding Data Center Energy Consumption
+Understanding Data Center Energy Consumption
+Leave a Comment / Power / By Alterum Data Center Experts
+Last Updated on May 25, 2022 by Alterum Data Center Experts
+Think of data centers as the brains of the internet—they process, store, and communicate all of the data behind the services we rely on every day, from social media to scientific computing.
+To do this, data centers use various IT devices, all of which require a significant amount of energy use. For example, servers perform computations and provide logic to respond to information requests, storage drives hold the data and files needed to meet each request, and network devices enable the incoming and outgoing flows of data by connecting the entire data center to the internet.
+The electricity that these IT devices use ultimately turns into heat, which the data center must remove by using cooling equipment that also consumes energy.
+Related: What Data Centers Do and Why
+Current Statistics of Data Center Energy Consumption
+According to a report released by Forbes back in 2017, data centers based in the United States alone utilized more than 90 billion kilowatt-hours of electricity that year. That much energy would require 34 massive coal-powered plants to generate at least 500 megawatts each to meet the power demands of said data centers. However, this figure pales compared to the amount of power needed to run data centers on a global scale, which amounts to 416 terawatts, or approximately 3% of all electricity generated on Earth. That is already a massive amount of power, and with the number of data centers in operation growing each year, power demands are only increasing as time goes on.
+Given that 80% of the world’s energy is still derived from fossil fuels, increasing power demands have created significant environmental problems. Thankfully, this issue has not escaped the notice of many data center providers, who have dedicated themselves to finding solutions to meet the power needs of consumers while keeping their energy usage at efficient and reasonable levels. In general, data centers operate much more effectively in terms of their power usage now than several years ago, as demonstrated by their Power Usage Effectiveness (PUE) scores. However, there are always new methods for improvement, especially since most of the efficiency changes made are considered relatively “low-hanging fruit.” It’s time for data centers to take another step into the realm of efficient energy consumption.
+Electricity Use in Data Centers
+On average, cooling systems and servers account for most of the energy consumption in data centers, followed by network devices and storage drives.
+Per the US Department of Energy, the largest data centers with tens of thousands of devices require over 100MW of power, which is enough to power approximately 80,000 households.
+As internet usage increases, so does the demand for data center services, raising concerns
+about growing energy use. According to this study, from 2010 to 2018, global IP traffic increased by ten times, while data center storage capacity increased by 25 times. Over that same period, the total compute instances running on servers across the globe increased by more than six times.
+We expect these growth trends to continue as the world keeps consuming more and more data. Moreover, with new forms of services like AI, which are computationally intensive, demand for IT services may grow even faster. That’s why it’s crucial to be able to quantify and project data center energy consumption.
+Two Methods of Estimating Data Center Energy Consumption
+Because official statistics are not compiled regarding national and global levels of data center energy consumption, we have to use mathematical models to estimate energy usage. “Bottom-up” models account for installed IT devices in data centers and each one’s energy use characteristics to estimate the total energy consumption. This approach is less common, as it’s very data and time-intensive—the most recent, authoritative study using this method appeared in 2011 and estimated that data centers were responsible for just over 1% of global electricity use in 2010.
+On the other hand, we have extrapolation-based models to estimate total energy use by scaling bottom-up values based on market growth indicators like data center investments and global IP traffic. Because these models are much simpler, they typically get used to fill the gaps left behind by the more sporadic bottom-up studies.
+Bottom-Up and Extrapolation-Based Models: The Results
+Because market indicators grow rapidly, extrapolation models estimate significant increases in data center energy consumption. For example, an often-cited extrapolation study suggests that global data center use has doubled since 2010 and will continue to rise swiftly. These estimates reinforced the common belief that increased demand for data leads to equally rapid growth in data center energy consumption.
+However, results from the bottom-up perspective show otherwise. According to the study by Eric Masanet mentioned in the previous section, it’s more likely that global data center energy consumption only rose about 6% from 2010 to 2018. The number is based on the integration of recent datasets, which offer better characterization for installed stocks, operating characteristics, and the overall energy use of IT devices in data centers. These results lie in stark contrast to the extrapolation-based estimates.
+There are three factors that primarily affect this change in energy use:
+IT device energy efficiency has improved substantially because of steady technological progress by manufacturers.
+Server virtualization software reduces the energy intensity of hosted applications by allowing multiple to run on one server.
+Cloud and hyper-scale class data centers utilize more efficient cooling systems to minimize their energy consumption.
+Those three factors are hard to capture using an extrapolation-based approach, which is why those methods show more energy consumption than data centers actually use.
+Data Center Energy Use and CO 2 Emissions
+Energy consumption in data centers has also given rise to concerns about CO 2 emissions. However, it’s not yet realistic to estimate the total emissions due to a lack of global data center data and the emission intensities of their electricity sources. Companies like Apple, Google, and Switch are beginning to publicly report this data, though, which indicates a growing trend among the largest data center operators of moving toward renewable energy procurement.
+But, since we know a lot about the global electricity use in data centers, we have a useful benchmark to test claims about CO 2 emissions against. Let’s look at an example.
+One often-repeated claim is that the global data centers emit the same amount of CO 2 as the aviation industry— about 915 million tonnes. Global data centers recently consumed about 205 billion kWh. So, for this claim to be true, their average emission intensity would have to be approximately 4.4 kg CO 2 /kWh. Now, let’s look at coal-fired power plants, which are the most carbon-intensive facilities. Their emission intensity is less than ¼ of that value—about 1 kg CO 2 /kWh. Because data centers obviously don’t run on coal, especially in light of trends toward renewable energy use, it’s unrealistic to believe that the CO 2 emissions from data centers are that significant.
+Related: Understanding Data Center Infrastructure
+Moving Forward: Enhancing Data Center Energy Consumption Efficiency
+Because of the growing demand for IT services and compute-intensive applications, there’s a risk that the demand will outpace our energy efficiency gains. This means that investments in energy-efficient technologies like next-gen heat removal, computing, and storage will be a necessity to avoid steep energy consumption growth in the future. Analysts should consider a few key priorities:
+Developing and sharing reliable data on configurations, stocks, and energy use characteristics of cooling and power systems and IT devices.
+Sharing and comparing models to develop best practices to increase the confidence in model outputs.
+Working together to develop better practices for emerging trends like AI, 5G, and increased computing intensities.
+Looking to enhance your data center’s energy efficiency? Get in touch with our data center power management experts today!
+Over the last several decades, data centers have developed into an increasingly essential component of our modern society, and computer infrastructure has become a significant part of the foundation of our lives. With that development and the massive assortment of advantages, it has provided, it has also brought about notable drawbacks, particularly regarding environmental sustainability and energy consumption. When it comes to operating successfully in 2022, data centers need to prioritize efficient energy usage and place significant emphasis on developing new methods to reduce their overall energy consumption.
+16 Tips to Improving the Energy Usage and Efficiency
+Making massive-scale changes to data center operations to enhance the efficiency of energy usage can be a complex, costly, and time-consuming venture. But changes don’t have to be extreme to be effective, and they don’t need to happen all at once. By utilizing the following sixteen methods, data centers can quickly start to efficiently lower their power usage without significantly impacting their bottom line.
+Related: Types of Cloud Computing & How They Differ [2022]
+1. Reduce Dependency on Cooling
+On average, most of the power that data centers utilize goes towards running cooling and air conditioning systems to keep their servers at appropriate temperatures and prevent them from overheating. Power consumption can be significantly reduced by optimizing cooling operations in a large variety of ways. Improving ventilation systems, strategically laying out equipment, properly insulating server rooms, and creating streamlined airflows can improve cooling efficiency. Well explore some more specific examples below, but some additional measures that data center operations can employ include;
+Eliminating unnecessary equipment in server rooms
+Replace old or outdated equipment with more energy and temperature efficient technology
+Replace old or obsolete cooling systems- especially those more than ten years old
+Install air economizer systems
+2. Experiment with Temperature
+Because keeping server rooms and their equipment sufficiently cool is critical for server operations, many managers don’t consider experimenting to find potentially more efficient temperatures for their data center. They may be concerned that doing so will damage their expensive equipment, resulting in costly repairs or replacements. However, the truth is that lowering maintained temperatures by even a few degrees can cut down on power consumption and save hundreds, if not thousands of dollars. Take the time to calculate the cooling needs of your data center and then experiment with different temperatures to find the most optimal solution to meet your needs.
+3. Utilize a Hot Aisle/Cold Aisle Layout for Servers
+Source: httpss://www.energystar.gov/sites/default/files/asset/document/DataCenter-Top12-Brochure-Final.pdf
+Some data centers arrange their servers and other equipment into aisles, with everything facing the same direction. If this describes your data center, consider reorienting your machinery so that aisles have the fronts of servers facing each other and the backs of servers facing each other. This arrangement will create hot and cold aisles and reduce hot and cold air mixing, improving temperature efficiency within the server room.
+4. Enclose or Contain Your Server Racks
+Containing or enclosing your server racks is another way to prevent the mixing of cold and warm air in data centers, which can help lower the need for powerful cooling technologies to keep the environment at an appropriate temperature. Anything you can do to help reduce the power needed for data center climate control is a practical step that data center managers should sincerely consider taking.
+5. Utilize General Air Flow Improvement Methods
+Data center operators should research general improvement methods for temperature and airflow and consider incorporating them. For example, they can install specialized blanking panels to decrease server inlet air temperatures while increasing the temperatures of the air that’s returning to the computer room air conditioning (CRAC). This can help significantly improve the operational efficiency of their equipment while reducing the need for power dedicated to climate control.
+6. Invest in Retrofitting Your AC Units with Variable Speed Fan Drives
+Specialized retrofit kits for CRACs are available and typically offer two yeat payback guarantees. They allow you to adjust the fan speeds of AC units to accommodate the changing cooling loads of your data center.
+Do you own or operate a data center that’s currently in need of some specialized power system designs, monitoring technologies, protection solutions, advanced cooling systems, and more? Please reach out to our trusted experts at Alterum Technologies today to learn about our range of top-quality services.
+7. Install an Air-Side Economizer
+One of the cheapest ways to help keep your servers cool is to utilize the outside cooling air and bring it into the building. Air-side economizers can take advantage of colder evening and winter air temperatures to save as much as 60% on cooling power and costs.
+8. Adjust Your Data Center’s Humidity
+Much like temperature, humidity is another critical component that must be carefully maintained within a data center. Too much humidity can create condensation, causing equipment to corrode, experience electrical malfunctions, and sustain significant and costly damages. However, too little humidity can lead to a significant build-up of electrostatic charges, damaging or even destroying equipment once a discharge occurs. I t’s a general rule to keep the relative humidity of a data center at 45% to 55%, but the range that’s best for your center and its equipment may be more specific. Carefully experiment with your data center’s humidity levels to find the optimal level for your servers. You may find that it helps you save on your regular energy consumption.
+9. Identify and Remove Zombie or Comatose Servers
+Zombie or comatose servers refer to systems that are no longer utilized in data center operations but continue to remain powered and consume unnecessary amounts of energy. Data published in an article by ComputerWorld indicates that 25% of physical servers and 30% of virtual servers in data centers are classified as zombie or comatose. These systems are typically left operational because there’s no paper trail regarding what they contain or what purpose they serve, making data center managers hesitant to take them offline.
+To help prevent this, everything a server contains should be carefully documented, and appropriate monitoring tools should be used to offer direct oversight. Data center staff should work diligently to comb through their various servers to locate the unnecessary zombies still in operation and disconnect them. Doing so can massively reduce power consumption and enhance energy efficiency.
+Technicians Working on Data Center Power
+10. Consolidate All Lightly Used Servers
+On average, a typical server’s utilization is between 5% and 15%, despite requiring full power to run. Consolidate your lightly used servers and remove the ones you don’t need to reduce your overall power consumption.
+11. Virtualize Your Servers
+Data centers used to rely on several independent, physical servers that took up copious amounts of space and power to run their operations. These servers can now be virtualized and consolidated to operate much more efficiently. Taking the time to virtualize your data center servers can help reduce energy usage and costs by anywhere between 10% and 40%.
+12. Organize, Delete, and Improve Your Stored Data
+Storage utilization typically accounts for about 30% of systems power, and it’s not uncommon for data centers to keep 20 or more copies of the same data, resulting in wasted storage space and used power. Locate and remove excess stored data that isn’t necessary to free up both space and energy for other equipment.
+13. Invest in More Energy-Efficient Technologies
+Older servers and technologies are nowhere near as energy efficient as newer models. If your data center is truly dedicated to lowering its power usage, you’ll want to invest in some new equipment. Consider acquiring an ENERGY STAR qualified server, which can use as much as 30% less energy than other conventional servers.
+14. Decrease or Optimize Your Data Center’s Space
+This point essentially goes hand in hand with point #11 above since virtualizing your servers can be a fantastic way to reduce the amount of space your data center needs to function correctly. The fewer physical servers you need, the less room you need, and the less power you’ll need to dedicate to keeping a massive area appropriately cool or within the correct range of humidity. This allows data centers to significantly downsize while reducing their overall energy usage, which can, in turn, save them massive amounts of money in the long run.
+15. Synchronize the Server Capacity and Load of Your Equipment
+New and refreshed configurations can waste data center power and resources when demand is low, so it’s only logical to match up your server capacity and active hardware to meet real-time needs. Proper strategy and planning and the assistance of management and monitoring tools can allow data center staff to match these two elements to create a more efficient, streamlined system that doesn’t waste unnecessary amounts of power.
+16. Develop Stronger, More Reliable Supplier Partnerships
+Finding and partnering with an efficient energy supplier can provide massive savings and help data centers massively improve the overall efficiency of their energy usage. If your data center’s current energy supplier isn’t doing everything they can to help you optimize your usage, it’s time to start looking into some other quality power suppliers.
+Related: How to Cool a Server Room Properly [2022]
+What Consumes the Most Energy in a Data Center?
+Data centers usually use a lot of energy to maintain their servers. They consume about 1,000 kWh per square meter. This is about ten times the power consumption of a typical American home. The most common data center equipment is the server racks, which use a lot of energy to maintain and cool down their components. The data center cooling systems are also relatively inefficient and consume about 70% of the total energy used in a data center.
+The biggest consumers in data centers are servers and cooling systems that require constant maintenance to keep them running smoothly and efficiently. But it’s also older servers and older equipment such as network communication tools that also tend to cause a lot of consumption.
+Related: Immersion Cooling: Development & Implementation Guide
+How Much Heat Do Data Centers Generate?
+Data centers are used to conduct large-scale computing and serve as the lifeblood for many significant companies. They generate a lot of heat, so cooling systems are installed to maintain the optimal temperature for work. You can expect that the hot aisles within a data center can range from around 85 to 115 degrees Fahrenheit. Data centers thrive on cool temperatures, so the heat that gets generated for them needs to be fully utilized to make this work efficiently.
+How Many kWh Does a Server Use?
+There will be a lot of variations for this due to the workload of a server and the demand. The average annual power may be around 1,800 to 1,900 kWh every year.
+Why Do Data Centers Consume So Much Energy?
+Data centers tend to consume a lot of energy because they have to provide many services and support at once. In addition, many data centers are located in hot, humid locations with low air quality, putting the facilities at additional risk for issues such as HVAC failure, equipment degradation, and power outages. All of this has to be taken into consideration for data storage .
+But one should also keep in mind that data centers run on electricity. All of their equipment runs on electricity. Servers and other equipment get very hot when generated, so cooling systems then need to run (on electricity as well) to cool off the space.
+Related: Data Center Power: Best Guide to Efficient Power Management
+How Much Energy Do Data Centers Use Globally?
+Data centers are large buildings used to house and manage large amounts of data and computer equipment. They can range from a few hundred square feet to several million square feet in size. They use a lot of energy, but the world’s total data transfer is only expected to grow exponentially over the next few years. On a worldwide scale, it’s estimated that the transmission of data networking can consume anywhere from 260 to 340 TWh., or around 1 to 1.4% of the electricity used in the world.
+How Much Power Does a Data Center Use Per Square Foot?
+Generally speaking, this can vary. However, the typical power density can be roughly 150 watts per square footage. But it can also be as high as 300 watts.
+Related: Green Data Centers & Sustainability Outlook for 2022
+Are you looking for ways to optimize your data center? Then check out our services to see how we can help you!
+Why Do Data Centers Need Batteries?
+In order to keep the data centers in their facilities cool, batteries are necessary. Therefore, a significant data center trend popping up would be battery use. The battery is a device that stores energy, which can then be released to power the individual components of the data center independently without any use of readily available power. Data centers demand a lot of power, and there needs to be enough power for an entire room filled with cabinets.
+Improving The Energy Use and Efficiency of Your Data Center
+While not all of the above solutions may be right for your particular needs, you should at least have a few valuable ideas that you can start implementing in your data center to optimize your power usage and energy efficiency. If you’d like even more ways to improve your data center, please don’t hesitate to contact our trusted team of experts here at Alterum Technologies today to inquire about our range of power, cooling, infrastructure, and cleaning services. Also, please feel free to peruse our selection of expertly written educational articles and data center resources .
+Are you currently searching for a selection of top-quality data center solutions for planning, power, monitoring, infrastructure, and much more? Please don’t hesitate to contact our trusted experts here at Alterum Technologies today to learn about everything we can do to help with our 100+ years of data center design experience.
+← Previous Post
+Next Post →
+
+Doc 5 (URL: https://www.datacenterdynamics.com/en/opinions/power-consumption-data-centers-global-problem/, ClueWebID: clueweb22-en0013-63-09665)
+Power consumption in data centers is a global problem - DCD
+Home
+Opinions
+Critical Power
+Power consumption in data centers is a global problem
+Wayne M. Adams, SNIA Green Storage Initiative Wayne M. Adams is the chairman of SNIA's board of directors
+The answer is global energy efficiency standards
+November 21, 2018 Be the first to comment
+Awareness of the need to reduce emissions is at an all-time high. Regulatory bodies around the globe are targeting the energy sector, particularly coal plants, in an effort to reduce the environmental impact of power generation. But the generation side is only one side of the equation. The reduction of energy consumption is just as important.
+About five percent of total global energy usage is by electronics. That number is projected to grow to at least 40 percent by 2030 unless there are major advances made in the lowering of electricity consumption.
+The information and communications technology (ICT) sector predicts to use 20 percent of all the world’s electricity by 2025 and emit up to 5.5 percent of all carbon emissions.
+That number could surge as high as 14 percent by 2040 as a torrent of internet-connected devices, high-resolution photos, streamed videos, emails, surveillance camera footage, cell phones, and smart TVs require more compute power, greater amounts of network bandwidth, and ever-higher amounts of storage capacity.
+That's not all, folks
+– Getty Images
+U.S. researchers, meanwhile, expect global power consumption to triple in the next five years. Trends such as a billion more people coming online in developing countries, the Internet of Things (IoT), driverless cars, robots, and artificial intelligence (AI) are major drivers of unrelenting growth.
+This places an immense power burden on data centers, which already consume more than 2 percent of the world’s electricity. With global data traffic more than doubling every four years, data centers are coming under scrutiny. The solution is twofold: look to renewable sources for energy consumption; and bring about a major improvement in the energy efficiency of servers, storage devices and other ICT equipment.
+The Storage Networking Industry Association (SNIA) has been working diligently on the latter course for more than a decade via its Green Storage Initiative (GSI). The goal is to establish a global standard for the measurement of energy efficiency in storage.
+This program has received considerable support over the years due to several factors. Rising energy costs have increased power and cooling expenses for server and storage equipment. In some cases, physical restrictions make it impossible to add more power and cooling load. Any new applications and data can only be brought on if old ones are retired or consolidated onto new, more efficient configurations. Further, regulatory and societal pressures incentivize data centers to lower their energy footprints.
+Companies, understandably, have become more careful about the type of equipment they deploy. As well as better performance and added capacity, they are demanding lower power consumption. But that poses a problem. How do they determine which equipment is best in terms of energy efficiency?
+It is impractical for all but the largest companies and vendors to set up an in-house laboratory to test a full range of storage products and architectures. A more effective approach is to create standard metrics that allow IT architects to compare a range of possible solutions. An objective, metric-based approach enables users to select the mode of storage usage that accomplishes business goals accompanied by low overall energy consumption. In addition, it encourages vendors to produce more energy efficient products.
+The primary thrust of the GSI is the SNIA Emerald Specification. It offers a rigorous methodology for the measurement of the power efficiency of storage systems under typical data center conditions. It covers block storage, file storage and will soon provide a uniform way to measure solid state, converged storage, and object storage. It offers a standardized method to assess the energy efficiency of commercial storage products in both active and ideal states of operation. It has evolved a detailed taxonomy to classify storage products in terms of operational profiles and supported features. Test definition and execution rules are carefully laid out to ensure adherence to the standard.
+The U.S. Environmental Protection Agency (EPA) has incorporated the SNIA Emerald Specification into its long-running Energy Star Data Center Program. It provides a rating system for equipment under the umbrella of the Energy Star Data Center Storage (DCS) specification. DCS measurements are performed according to the Emerald specification and must meet some additional EPA requirements.
+Within the U.S., then, the Emerald program provides a means of achieving an apples-to-apples comparison on energy consumption and efficiency between competing storage products. Vendor metrics and comparisons, after all, can be subject to interpretation and may sometimes be set up under conditions which are favorable to a specific product.
+Towards a Global Standard
+If all storage products were produced in the U.S., the EPA’s endorsement of the SNIA Emerald Program would be sufficient. However, the IT industry is global in scope. Manufacturers hail from all corners of the world. Components, systems and equipment may come from many different countries and are consumed universally. What is needed is a global standard for the comparison of energy efficiency.
+A single test method accepted and used around the world would drive storage efficiency to new heights. The SNIA Emerald Program is well on its way to achieving this. As well as the U.S. EPA, it is utilized as part of Europe’s EU LOT 9 program, and the Japanese Top Runner program.
+Its appeal is simple. Standards developed by vendors, no matter how sound, are not likely to be accepted by competitors. The problem of differing taxonomies also comes into play. It is quite common for vendors to have different terms for the same thing. Those attempting to compare one product to another based on vendor documentation can face difficulties due to information inconsistency.
+Similarly, if each country or region develops its own standards, vendors will be faced with a patchwork of rules and specifications that will drive up costs and make compliance a nightmare. They could face a situation of having to provide different products in each region of the world based on local requirements for energy efficiency.
+SNIA is the only global forum for storage which invites the participation of all vendors. As such, it members represent more than 90 percent of all shipped storage units and capacity. The SNIA Green Storage Technical Working Group is a technology body of storage experts from across the vendor spectrum. Together, they have evolved a single standard for energy efficiency to unite the global storage industry. The SNIA Emerald Program offers one voice to unite the storage industry and spread an agreed-upon standard for energy efficiency to all regions and countries.
+SNIA also undertakes the task of training engineers and independent labs on the use of the Emerald specification to ensure it is standardly implemented with uniform results. By supporting this endeavor, all of storage wins. Storage efficiency rates can be consistently lowered. Vendors can compete on an even playing field. And regulatory bodies around the world can adopt a standard that is endorsed by all vendors and easy to comply with.
+The objectives of the SNIA Emerald specification, then, are multi-fold:
+A single worldwide test methodology that can serve as the foundation for any/all national energy programs
+A vendor agnostic test that is fair
+Using test tools and methods known to be sound, precise, and non-disputable
+Using test tools that are not costly, that otherwise could be a barrier to entry for startups introducing innovative storage solutions
+A test specification that leverages best practices, know-how, and established programs, instead of reinventing the wheel
+A commitment to the industry to train certifying bodies, independent test and measurement labs, and vendor test teams on how to perform SNIA Emerald tests repeatedly with accurate results.
+The end result is one that is desired by all: lowered IT emissions, raised storage efficiency and much lower energy consumption.
+This standard is steadily evolving to keep pace with IT innovation. Storage veterans from all walks of life ensure it is updated regularly to represent the current state-of-the-art. All that is needed is for storage vendors to continue to support the SNIA Emerald Program, keep it funded, and help promote its use around the world.
+By doing so, we can rapidly achieve the goal of a single global standard for storage efficiency.
+Tags
+Wayne M. Adams
+energy efficiency standard
+Green Storage Initiative
+SNIA
+
+<|end_search_result|>
+
+Alright, so I've got some search results here. Let me see what I can gather from them.
+
+First, there's a report from the Lawrence Berkeley National Laboratory estimating data center energy usage in the United States. It says that in 2014, data centers consumed about 70 billion kWh, which is around 1.8% of total U.S. electricity consumption. And by 2020, it's projected to be around 73 billion kWh, with only a 4% increase from 2014 to 2020. That's interesting; so, the growth in energy consumption is slowing down.
+
+The report mentions that one of the main reasons for this slowdown is the reduction in the growth rate of server shipments. From 2000 to 2005, server shipments were increasing by 15%每年, but from 2010 to 2020, it's only 3% annually. Also, there's been an improvement in server efficiency and utilization, especially with the rise of hyperscale data centers that are more efficient.
+
+So, on the business side, high power consumption means high operating costs for data centers. Companies have to pay for electricity, and if they can reduce that, it directly impacts their bottom line. Plus, there's pressure to be more energy efficient and sustainable, which can enhance their corporate social responsibility profile.
+
+From a social perspective, the environmental impact is a big issue. If data centers are using a lot of electricity generated from fossil fuels, that contributes to carbon emissions and climate change. There's also the issue of e-waste from servers and other equipment that needs to be disposed of properly.
+
+Another point is the strain on local energy grids. If a large data center is built in a area, it might overload the local power infrastructure, leading to potential blackouts or brownouts for residents and other businesses. That could cause resentment in the community.
+
+Also, there might be economic impacts. While data centers can bring jobs and stimulate the local economy, their high power consumption could lead to increased energy prices if demand outstrips supply, affecting not just the data centers but also ordinary consumers and small businesses.
+
+Looking at the second document, it's the same report from Lawrence Berkeley National Laboratory, just different URLs. So, no new information there.
+
+The third document is another version of the same report. Seems like the same content.
+
+The fourth document is from Alterum Technologies, a company that provides data center solutions. It talks about data center energy consumption and ways to improve it. It mentions that data centers in the U.S. used over 90 billion kWh in 2017, which is more than what 80,000 households would use. Globally, it's 416 terawatts, which is about 3% of all electricity generated.
+
+The article then discusses how data centers are becoming more efficient, with improvements in PUE (Power Usage Effectiveness) scores. PUE is a measure of how efficiently a data center uses energy, with a lower score indicating more efficiency.
+
+It also mentions that as internet usage increases, so does the demand for data center services, raising concerns about growing energy use. But according to a study by Eric Masanet, global data center energy consumption only rose about 6% from 2010 to 2018, contrary to some higher estimates.
+
+The factors contributing to this efficiency are:
+
+1. Improved IT device energy efficiency.
+
+2. Server virtualization, which allows multiple applications to run on one server, reducing the number of physical servers needed.
+
+3. Cloud and hyperscale data centers using more efficient cooling systems.
+
+The article also touches on CO2 emissions from data centers and questions the accuracy of some claims, suggesting that the actual emissions might be lower than sometimes reported.
+
+Finally, it provides 16 tips for improving data center energy efficiency, such as reducing dependency on cooling, experimenting with temperature settings, organizing server layouts for better airflow, virtualizing servers, and investing in more energy-efficient technologies.
+
+The fifth document is an opinion piece from Data Center Dynamics, discussing power consumption in data centers as a global problem. It emphasizes that while there's a focus on reducing emissions from power generation, reducing energy consumption is equally important.
+
+The article mentions that electronics account for about 5% of global energy usage, projected to grow to 40% by 2030 without significant advances in lowering electricity consumption. The ICT sector is predicted to use 20% of the world's electricity by 2025 and emit up to 5.5% of all carbon emissions, potentially rising to 14% by 2040.
+
+It highlights that data centers already consume more than 2% of the world's electricity, and with global data traffic doubling every four years, they are under scrutiny. The article suggests two solutions: using renewable energy sources and improving the energy efficiency of servers, storage devices, and other ICT equipment.
+
+The Storage Networking Industry Association (SNIA) is mentioned for its Green Storage Initiative, which aims to establish global standards for measuring energy efficiency in storage. The initiative has developed the SNIA Emerald Specification, a methodology for measuring the power efficiency of storage systems under typical data center conditions.
+
+This specification is used by the U.S. Environmental Protection Agency's Energy Star Data Center Program and is also part of Europe's EU Lot 9 program and Japan's Top Runner program. The article argues for a single global standard for energy efficiency to drive storage efficiency and lower emissions worldwide.
+
+So, summarizing the information from these documents:
+
+Business Problems:
+
+1. High Operating Costs: Data centers consume a lot of electricity, which translates to high energy bills. This can eat into profit margins, especially for companies that are cost-sensitive.
+
+2. Location Constraints: The need for cheap and abundant energy can dictate where data centers are built, sometimes leading to less than ideal locations from a business perspective.
+
+3. Corporate Social Responsibility: There's pressure on businesses to be environmentally responsible. High energy consumption can be seen negatively by customers and stakeholders, potentially affecting a company's reputation.
+
+Social Problems:
+
+1. Environmental Impact: Data centers contribute to carbon emissions, especially if their energy comes from fossil fuels. This contributes to climate change, which is a significant social concern.
+
+2. Strain on Local Infrastructure: Large data centers can strain local energy grids, leading to reliability issues for the community, such as power outages.
+
+3. E-Waste: The disposal of outdated servers and equipment can lead to environmental pollution if not handled properly.
+
+4. Resource Allocation: High energy consumption by data centers could potentially divert electricity from other uses, although this is a complex issue dependent on many factors.
+
+Potential Solutions:
+
+1. Energy Efficiency Improvements: Technologies and practices that reduce energy consumption per unit of computing power.
+
+2. Renewable Energy Sources: Using solar, wind, hydro, or other renewable sources to power data centers.
+
+3. Better Cooling Systems: More efficient cooling methods to reduce the energy needed for temperature control.
+
+4. Virtualization and Cloud Computing: These technologies allow for better utilization of server resources, reducing the need for physical servers.
+
+5. Standardization: Global standards for measuring and reporting energy efficiency can drive innovation and competition in producing more efficient storage and computing devices.
+
+Conclusion:
+
+Data center power consumption presents both business and social challenges. For businesses, it leads to high operating costs and can affect their reputation due to environmental concerns. Socially, it contributes to carbon emissions and can strain local energy infrastructures. However, through improvements in energy efficiency, adoption of renewable energy sources, and standardization efforts, these issues can be mitigated, leading to more sustainable data center operations.
+
+\boxed{\text{Data center power consumption causes high operating costs for businesses and environmental issues for society, but can be mitigated through efficiency improvements and renewable energy use.}}
