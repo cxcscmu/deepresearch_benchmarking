@@ -4,14 +4,84 @@
     "clueweb22-en0000-22-15517": [
       {
         "point_number": 1,
+        "point_content": "Belief is something that is perceived to be true by an individual but is not common to all individuals.",
+        "spans": [
+          "Belief is something that is perceived to be true by an individual but is not common to all individuals."
+        ]
+      },
+      {
+        "point_number": 2,
         "point_content": "Therefore, we cannot have beliefs which are independent of our culture.",
         "spans": [
           "Therefore, we cannot have beliefs which are independent of our culture."
         ]
       },
       {
-        "point_number": 2,
-        "point_content": "It is possible to have knowledge which is independent of our culture but it is not possible to have beliefs which are independent of our culture.",
+        "point_number": 3,
+        "point_content": "Culture determines behaviour, customs, values, habits and tradition and it meditates on every aspect of our lives and experiences.",
+        "spans": [
+          "Culture determines behaviour, customs, values, habits and tradition and it meditates on every aspect of our lives and experiences."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "There is a thin line between knowledge and belief in the sense that belief never leads to knowledge, but knowledge leads to belief.",
+        "spans": [
+          "There is a thin line between knowledge and belief in the sense that belief never leads to knowledge, but knowledge leads to belief."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Knowledge is information that is factual and based on the truth.",
+        "spans": [
+          "This is justified because knowledge is information that is factual and based on the truth."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Knowledge is the acquaintance of facts, truths and principles as a form of study or investigation also as to have a clear perception as of fact or truth.",
+        "spans": [
+          "Knowledge is the acquaintance of facts, truths and principles as a form of study or investigation also as to have a clear perception as of fact or truth."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Among the Ways of Knowing (Wok’s), Knowledge by Authority and Perception are the most applicable when looking at knowledge in relation to culture.",
+        "spans": [
+          "Among the Ways of Knowing (Wok’s), Knowledge by Authority and Perception are the most applicable when looking at knowledge in relation to culture."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Knowledge by authority is when an individual knows something from someone older, knowledgeable and in authority over them so much so to influence them.",
+        "spans": [
+          "Knowledge by authority is when an individual knows something from someone older, knowledgeable and in authority over them so much so to influence them."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Perception is the act or faculty of apprehending by means ofthe senses or of the mind;  cognition, understanding or the immediate or intuitive recognition or appreciation, as of moral, psychological, or aesthetic qualities: insight; intuition; discernment.",
+        "spans": [
+          "Perception is the act or faculty of apprehending by means ofthe senses or of the mind;  cognition, understanding or the immediate or intuitive recognition or appreciation, as of moral, psychological, or aesthetic qualities: insight; intuition; discernment."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Belief is the confidence in the truth or existence of something not immediately susceptible to rigorous proof.",
+        "spans": [
+          "Belief is the confidence in the truth or existence of something not immediately susceptible to rigorous proof."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "It is impossible to have beliefs which are independent of our culture because culture and belief work hand in hand to make an individual’s values, traditions, values and habits therefore they cannot be separated and one cannot have beliefs which are independent of our culture.",
+        "spans": [
+          "Therefore, it is impossible to have beliefs which are independent of our culture because culture and belief work hand in hand to make an individual’s values, traditions, values and habits therefore they cannot be separated and one cannot have beliefs which are independent of our culture."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "In conclusion, it is possible to have knowledge which is independent of our culture but it is not possible to have beliefs which are independent of our culture.",
         "spans": [
           "In conclusion, it is possible to have knowledge which is independent of our culture but it is not possible to have beliefs which are independent of our culture."
         ]
@@ -34,62 +104,92 @@
       },
       {
         "point_number": 3,
-        "point_content": "Since we come into the world, we become part of a culture. Our parents and guardians slowly push us into it, they teach us about values, traditions, religion and everything else that can be called culture.",
+        "point_content": "We first attain culture by our guardians as we are too young to understand anything when we are born and our development as human beings can be determined by culture.",
         "spans": [
-          "Since we come into the world, we become part of a culture. Our parents and guardians slowly push us into it, they teach us about values, traditions, religion and everything else that can be called culture."
+          "We first attain culture by our guardians as we are too young to understand anything when we are born and our development as human beings can be determined by culture."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "It is not known whether our opinions are driven by our culture or we are responsible for them.",
+        "point_content": "Culture can affect how we see migration.",
         "spans": [
-          "However, it is not known whether our opinions are driven by our culture or we are responsible for them."
+          "Culture can affect how we see migration."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Culture can affect how we see migration, but migration does not fully depend on culture, as most of the time migration happens because of social factors.",
+        "point_content": "El Salvador has many traditions and habits but it does not have a nomadic culture, which makes the counterclaim conditional, this meaning both hypothesis are true and can be supported by significant empirical evidence.",
         "spans": [
-          "Culture can affect how we see migration.",
-          "On the other hand, culture does not fully depend on migration, as most of the time migration happens because of social factors."
+          "El Salvador has many traditions and habits but it does not have a nomadic culture, which makes the counterclaim conditional, this meaning both hypothesis are true and can be supported by significant empirical evidence."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "We can have views on migration independent of our culture, but we can also have a view centered by our culture.",
+        "point_content": "The issue with migration is it does not depend on culture but mostly on personal background, social status, family background and other social factors.",
+        "spans": [
+          "The issue with migration is it does not depend on culture but mostly on personal background, social status, family background and other social factors."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "We can have views on migration independent of our culture, but we can also have a view centered by our culture, like in Australia.",
         "spans": [
           "We can have views on migration independent of our culture, but we can also have a view centered by our culture, like in Australia."
         ]
       },
       {
-        "point_number": 7,
-        "point_content": "Depending on the culture in which we are raised then we can have an opinion on gay marriage, for example, religion, a part of culture is a determinating factor on the decision.",
+        "point_number": 8,
+        "point_content": "Depending on the culture in which we are raised then we can have an opinion on gay marriage.",
         "spans": [
-          "Depending on the culture in which we are raised then we can have an opinion on gay marriage, for example, El Salvador is a country full of traditions and alive with culture, since we are born, most of us are introduced into religion, newborns get baptized without any awareness, parents take the decision and when children are slightly older, they are forced to go to church on Sundays with family.",
+          "Depending on the culture in which we are raised then we can have an opinion on gay marriage,"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "The debate on legalizing gay marriage is still ongoing in El Salvador and this is one of the cases where culture can influence your opinion on a topic religion, a part of culture is a determinating factor on the decision.",
+        "spans": [
           "The debate on legalizing gay marriage is still ongoing in El Salvador and this is one of the cases where culture can influence your opinion on a topic religion, a part of culture is a determinating factor on the decision."
         ]
       },
       {
-        "point_number": 8,
-        "point_content": "Ideology is key to understanding the claim that knowledge can be independent of culture, as people raised in the same culture can have very different views.",
+        "point_number": 10,
+        "point_content": "The opposite to this would support the claim, by saying that knowledge can be independent of culture and this can be proven by all the people who support gay marriage.",
+        "spans": [
+          "The opposite to this would support the claim, by saying that knowledge can be independent of culture and this can be proven by all the people who support gay marriage."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Ideology is the way in which people think about several factors, and ideology is key to understanding the claim, as it makes us think on how people raised in the same culture and country and social background can have such different views about the world.",
         "spans": [
           "Ideology is the way in which people think about several factors, and ideology is key to understanding the claim, as it makes us think on how people raised in the same culture and country and social background can have such different views about the world."
         ]
       },
       {
-        "point_number": 9,
-        "point_content": "Everyone has a different ideology and point of view, which shows that knowledge, emotions, reasoning, and logic do not depend entirely on culture.",
+        "point_number": 12,
+        "point_content": "Everyone has a point of view, if they didn’t there wouldn’t be any diversity and the point of view would cease to exist, everyone has a different opinion, some are alike but there can never be two individuals with the exact same ideology.",
         "spans": [
-          "Everyone has a point of view, if they didn’t there wouldn’t be any diversity and the point of view would cease to exist, everyone has a different opinion, some are alike but there can never be two individuals with the exact same ideology.",
-          "It is part of reasoning, for example, people at the age of 17-18 are said to reason without logic, by rational reasoning."
+          "Everyone has a point of view, if they didn’t there wouldn’t be any diversity and the point of view would cease to exist, everyone has a different opinion, some are alike but there can never be two individuals with the exact same ideology."
         ]
       },
       {
-        "point_number": 10,
-        "point_content": "Knowledge is something every human being possesses and starts since we can reason; culture influences but does not fully determine knowledge.",
+        "point_number": 13,
+        "point_content": "Ideology is independent of culture, as stated by the claim.",
         "spans": [
-          "Knowledge is something every human being possesses, it does not matter where they come from, or how old, knowledge starts since we can reason.",
-          "Culture is a great part of a person’s identity and personality, in their way of thinking and how they view others.",
+          "Ideology is independent of culture, as stated by the claim."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Knowledge is something every human being possesses, it does not matter where they come from, or how old, knowledge starts since we can reason.",
+        "spans": [
+          "Knowledge is something every human being possesses, it does not matter where they come from, or how old, knowledge starts since we can reason."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "We cannot say all knowledge comes from our culture, nor can we say that culture has no influence on the opinion of people.",
+        "spans": [
           "We cannot say all knowledge comes from our culture, nor can we say that culture has no influence on the opinion of people."
         ]
       }
@@ -193,7 +293,7 @@
         "point_number": 11,
         "point_content": "How one sees/understands knowledge is culture. If it is so then how can it be independent.",
         "spans": [
-          "How one sees/understands knowledge is culture. If it is so then how can it be independent"
+          "How one sees/understands knowledge is culture. If it is so then how can it be independent."
         ]
       },
       {
@@ -279,9 +379,9 @@
       },
       {
         "point_number": 4,
-        "point_content": "Some knowledge in history is independent of culture, such as the creation theory which is based on culture and religion but also considered knowledge.",
+        "point_content": "Some knowledge in history is independent of culture, such as the creation theory which is based on culture and religion but also known through interaction with elders.",
         "spans": [
-          "Some of the knowledge in history is independent on culture a good example being the creation theory which one of the three possible theories of the origin of the world is based on culture and religion"
+          "Some of the knowledge in history is independent on culture a good example being the creation theory which one of the three possible theories of the origin of the world is based on culture and religion. In Swahili culture , the Elders have told us to believe in the creation theory and that it is God who created the world in six days and life starts on the seventh day. Knowledge such as this is independent of culture and. I gained this knowledge just by interacting with the elders of the family and they told me all sorts of stories"
         ]
       }
     ],
@@ -290,89 +390,72 @@
         "point_number": 1,
         "point_content": "Mathematics and the natural sciences are universal in their application and hold true regardless of culture.",
         "spans": [
-          "mathematics and the natural sciences are universal in their application",
-          "there are aspects of these fields that hold true regardless of culture"
+          "Yes, there is evidence for knowledge that is independent of culture. For example, mathematics and the natural sciences are universal in their application.",
+          "there are aspects of these fields that hold true regardless of culture. For example, basic math applies to all cultures and language applies to everyone regardless of culture."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Basic math applies to all cultures and language applies to everyone regardless of culture.",
+        "point_content": "Mathematical techniques have been consistent across cultures and time, exemplified by Archimedes' discoveries.",
         "spans": [
-          "basic math applies to all cultures and language applies to everyone regardless of culture"
+          "In addition to being universal, mathematicians have been able to use the same techniques across cultures as well as across time.",
+          "Greek mathematician Archimedes was able to discover some simple laws of buoyancy using different volume rules for an object submerged in different liquids. These discoveries were not limited to a specific culture, nor a specific time period."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Mathematical techniques have been consistent over centuries and cultures, exemplified by Archimedes' discoveries.",
+        "point_content": "The laws of nature are consistent and exist independently of culture, as shown by ancient texts predating modern science.",
         "spans": [
-          "mathematicians have been able to use the same techniques across cultures as well as across time",
-          "Greek mathematician Archimedes was able to discover some simple laws of buoyancy using different volume rules for an object submerged in different liquids"
+          "There are similar universal aspects in the natural sciences. The laws of nature are always the same, regardless of culture.",
+          "these laws exist in much older texts, such as the Zend Avesta (the oldest existing text in that language; it predates both Greek and Sanskrit literature). These texts contain facts that seem to be consistent with modern science"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "The laws of nature are always the same, regardless of culture, and have been known since ancient times.",
+        "point_content": "Mathematics and natural sciences do not require cultural variables to exist or be learned; they are universal subjects.",
         "spans": [
-          "The laws of nature are always the same, regardless of culture",
-          "these laws exist in much older texts, such as the Zend Avesta",
-          "These texts contain facts that seem to be consistent with modern science"
+          "Yes, there can be knowledge that is independent of culture, and this assertion is true for mathematics and the natural sciences.",
+          "Mathematics and the natural sciences do not require cultural variables to exist or to be learned. We might even say that these disciplines hold truth that transcends any particular culture. They are, in other words, universal subjects."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Mathematics and natural sciences do not require cultural variables to exist or to be learned; they hold truth that transcends any particular culture.",
+        "point_content": "Mathematics can describe natural phenomena and enable discoveries independent of direct observation or culture.",
         "spans": [
-          "Yes, there can be knowledge that is independent of culture, and this assertion is true for mathematics and the natural sciences",
-          "Mathematics and the natural sciences do not require cultural variables to exist or to be learned",
-          "They are, in other words, universal subjects"
+          "Similarly, you can use mathematics to describe things in nature that cannot be seen through the naked eye.",
+          "using mathematical formulas it is possible to calculate precisely where planets are in our solar system without ever seeing them directly or measuring their distance from Earth."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Mathematics can describe things in nature that cannot be seen through the naked eye and can calculate precise positions of planets without direct observation.",
+        "point_content": "The scientific method and natural laws transcend culture and language; they are not inventions of any single culture.",
         "spans": [
-          "you can use mathematics to describe things in nature that cannot be seen through the naked eye",
-          "using mathematical formulas it is possible to calculate precisely where planets are in our solar system without ever seeing them directly"
+          "There is no such thing as the natural sciences as a culture. Natural sciences are dependent upon the scientific method, not on any particular culture.",
+          "The scientific method, the making of observations -- these do not depend on any particular culture. They don't depend on any particular language, either. And the scientific method is not \"a Western invention.\""
         ]
       },
       {
         "point_number": 7,
-        "point_content": "The natural sciences depend on the scientific method, which transcends culture and is not a cultural invention.",
+        "point_content": "Mathematical truths exist independently of cultural understanding or agreement on their meaning.",
         "spans": [
-          "There is no such thing as the natural sciences as a culture",
-          "Natural sciences are dependent upon the scientific method, not on any particular culture",
-          "The scientific method, the making of observations -- these do not depend on any particular culture",
-          "The scientific method is not \"a Western invention.\""
-        ]
-      },
-      {
-        "point_number": 8,
-        "point_content": "Truths about gravity or how to solve quadratic equations exist independently of any particular culture's mathematical or scientific methods.",
-        "spans": [
-          "truths about gravity or how to solve quadratic equations exist independently of any particular culture's mathematical or scientific methods"
+          "The same is true for mathematics: A + B = C, or one plus one equals two; these facts do not depend on any particular culture's understanding of what numbers mean (or even if numbers \"mean\" anything -- they might just be meaningless symbols)."
         ]
       }
     ],
     "clueweb22-en0035-69-16484": [
       {
         "point_number": 1,
-        "point_content": "The first essay topic directly addresses the question of whether there can be knowledge independent of culture, specifically referencing mathematics and another area of knowledge.",
+        "point_content": "The first essay topic directly addresses the question of whether there can be knowledge independent of culture.",
         "spans": [
           "Topic 1. Can there be knowledge that is independent of culture? Discuss with reference to mathematics and one other area of knowledge."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "The essay topic suggests considering the relationship between truth and knowledge, and whether truth is always relative to some context, which is relevant to understanding if knowledge can be independent of culture.",
+        "point_content": "The essay topic suggests discussing the relationship between truth and knowledge, and whether truth is always relative to some context, which is relevant to understanding if knowledge can be independent of culture.",
         "spans": [
           "the relationship between truth and knowledge",
-          "is truth always relative to some context?"
-        ]
-      },
-      {
-        "point_number": 3,
-        "point_content": "The essay topic also suggests considering if the same truth can be seen in different ways, which relates to the question of cultural influence on knowledge.",
-        "spans": [
+          "is truth always relative to some context?",
           "can the same truth be seen in different ways?"
         ]
       }
@@ -380,23 +463,25 @@
     "clueweb22-en0040-09-11515": [
       {
         "point_number": 1,
-        "point_content": "Math and Natural Science can be considered independent of culture.",
+        "point_content": "Math and Natural Science can be knowledge independent of culture.",
         "spans": [
-          "Math -  Basic Geometry Advanced math Natural Science - discovery and invention of new things that is completely independent of culture. Culture does not play a role here and cannot. Math > science"
+          "Math -  Basic Geometry Advanced math Natural Science - discovery and invention of new things that is completely independent of culture.",
+          "Math > science",
+          "Why Math & Natural science are independent of culture -focus on discovering, researching, and understanding the laws governing the natural world."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Art is heavily influenced by culture and is not independent of culture.",
+        "point_content": "Culture is defined as the value, ideas, beliefs and behavior of a society, which does not influence Math and Natural Science.",
         "spans": [
-          "Art - heavily inﬂuenced by culture and subjective (not independent of culture)"
+          "Culture - the value, ideas, beliefs and behavior of a society,"
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Math and Natural Science focus on discovering, researching, and understanding the laws governing the natural world, which makes them independent of culture.",
+        "point_content": "Art is heavily influenced by culture and is not independent of culture.",
         "spans": [
-          "Why Math & Natural science are independent of culture -focus on discovering, researching, and understanding the laws governing the natural world."
+          "Art - heavily inﬂuenced by culture and subjective (not independent of culture)"
         ]
       }
     ],
@@ -417,14 +502,14 @@
       },
       {
         "point_number": 3,
-        "point_content": "The focus of the essay is whether there is knowledge that is independent of culture or not, supported with arguments.",
+        "point_content": "The focus is on whether there is knowledge that is independent of culture or not, supported with arguments.",
         "spans": [
           "Need the focus to be whether there is knowledge that is independent or not. (Supported with arguments)"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "The essay structure should include 4 paragraphs: 1 pro argument for math, 1 counter argument for math, 1 pro argument for anthropology, and 1 counter argument for anthropology, with the pros being stronger overall.",
+        "point_content": "The essay structure suggested is 4 paragraphs: 1 pro argument for math, 1 counter argument for math, 1 pro argument for anthropology, 1 counter argument for anthropology, with pros overall better than cons.",
         "spans": [
           "4 paragraphs, 1 pro argument for math, 1 counter argument for math, same as anthropology. (Overall the pros need to be better than the cons)."
         ]
@@ -500,7 +585,7 @@
       },
       {
         "point_number": 3,
-        "point_content": "The focus is on whether there is knowledge that is independent of culture or not, supported with arguments.",
+        "point_content": "The focus of the essay is whether there is knowledge that is independent of culture or not, supported with arguments.",
         "spans": [
           "Need the focus to be whether there is knowledge that is independent or not. (Supported with arguments)"
         ]
@@ -580,13 +665,6 @@
         "spans": [
           "Make sure you look carefully at narrow aspects of culture that appear in the specific examples you are investigating."
         ]
-      },
-      {
-        "point_number": 4,
-        "point_content": "You MUST choose the natural sciences and one other AOK for discussing knowledge independent of culture.",
-        "spans": [
-          "you MUST choose the natural sciences and one other AOK."
-        ]
       }
     ],
     "clueweb22-en0019-46-10978": [
@@ -594,20 +672,19 @@
         "point_number": 1,
         "point_content": "Mathematics is perceived as a universal language that transcends cultures, allowing collaboration across different cultural contexts.",
         "spans": [
-          "mathematics is perceived as a “universal language”",
-          "a man working in Moscow, Idaho will have no problems collaborating with a woman who researches in Moscow, Russia on the same topic of research"
+          "mathematics is perceived as a “universal language”. It might be better, perhaps, to ask whether there is a mode or manner of knowing that will provide a knowledge for us that is beyond the limits of change that is brought about by becoming (time) and history, what is properly called “historicism”."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Knowledge is a product of human beings who are themselves products of their cultures, thus knowledge is influenced by cultural values and contexts.",
+        "point_content": "Knowledge is a product of human beings who are themselves products of their cultures, and thus knowledge is influenced by cultural values and needs.",
         "spans": [
-          "“Knowledge” is a product (something that is brought forth) of and through human beings; and individual human beings are the product, or what is brought forth, of and through the societies, communities or “cultures” they happen to inhabit at any given time"
+          "“Knowledge” is a product (something that is brought forth) of and through human beings; and individual human beings are the product, or what is brought forth, of and through the societies, communities or “cultures” they happen to inhabit at any given time. Being products of these cultures, they will value or esteem what their particular culture holds most highly or most dear."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "If mathematics is discovered, it is independent of culture; if invented, it is a product of culture.",
+        "point_content": "If mathematics is discovered, it would be independent of culture; if invented, it would be a product of culture.",
         "spans": [
           "If mathematics was “discovered”, it would be beyond the limitations of any particular culture. If mathematics was “invented”, then it would be a product of those particular cultures wherein and from whence it arose."
         ]
@@ -621,72 +698,78 @@
       },
       {
         "point_number": 5,
-        "point_content": "In the arts, great art is often considered invented and a product of its culture, but its truth may lie beyond the culture of the artist.",
+        "point_content": "Art is generally considered a product of culture, with its truth and value often seen as culturally dependent, though some argue great art's truth lies beyond culture.",
         "spans": [
-          "If great art is “invented”, then it is clearly a product of its time and place, its social contexts, etc.",
-          "the truth of art and art itself (and I am only speaking of great art here) lies independent of and beyond the culture of which the artist as an individual is a product."
+          "If great art is “invented”, then it is clearly a product of its time and place, its social contexts, etc. If it is “discovered”, from where does it originate? We often hear of the “timelessness of great art”. And when the artists themselves are asked about their art, they are at many times, at a loss for words to explain it and sometimes refer to mystical or other sources such as “muses” or “possession”, other “spirits” or “daemons”. They are usually not at a loss for words, however, when they speak of their techniques when engaging in bringing forth their works. This suggests that the truth of art and art itself (and I am only speaking of great art here) lies independent of and beyond the culture of which the artist as an individual is a product."
         ]
       }
     ],
     "clueweb22-en0032-60-02734": [
       {
         "point_number": 1,
-        "point_content": "Mathematics learning is shaped by the shared understandings of one’s culture, making it difficult to separate issues of culture and learning.",
+        "point_content": "Mathematics learning is shaped by the shared understandings of one’s culture.",
         "spans": [
-          "Taylor has focused his work on how mathematics learning, specifically, is shaped by the shared understandings of one’s culture.",
-          "It’s very difficult to separate issues of culture and learning"
+          "Taylor has focused his work on how mathematics learning, specifically, is shaped by the shared understandings of one’s culture."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Students may have mathematical knowledge in cultural contexts that does not transfer to formal classroom settings.",
+        "point_content": "Practices within a culture affect understanding, such as how a child learns to count.",
         "spans": [
-          "While the children may be able to calculate 10 percent of their allowance in the cultural context of tithing, for example, they are not always able to show this in a formal way in the classroom when asked to calculate 10 percent of a number."
+          "Practices within a culture affect understanding,",
+          "he explains."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Assessment tools that consider a student’s everyday cultural knowledge may better capture student understanding than conventional methods.",
+        "point_content": "Students may have mathematical knowledge in cultural contexts that is not demonstrated in conventional classroom assessments.",
         "spans": [
-          "Some assessment tools may greatly underestimate the knowledge that students possess.",
-          "In particular, tools or artifacts that are used in students’ everyday lives may better capture student understanding"
+          "Interestingly, when the children were tested in conventional classroom methods of understanding place value such as using blocks, they demonstrated significantly less proficiency or even none at all.",
+          "“It seemed they didn’t have place value knowledge, but they did have it,” Taylor notes."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Understanding diverse student populations and the resources they bring to the classroom is important for teaching and learning.",
+        "point_content": "Some assessment tools may greatly underestimate the knowledge that students possess; tools used in students’ everyday lives may better capture student understanding.",
         "spans": [
-          "He emphasizes the importance of understanding diverse student populations and the resources they bring to the classroom."
+          "“Some assessment tools may greatly underestimate the knowledge that students possess. In particular, tools or artifacts that are used in students’ everyday lives may better capture student understanding,” he explains."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Culture and language can have a tremendous impact on the way a child learns mathematical concepts such as counting.",
+        "point_content": "Teachers must understand how culture impacts learning and plan instruction that takes this relationship into account.",
         "spans": [
-          "For example, culture and language can have a tremendous impact on the way a child learns to count."
+          "In order to reach all students, teachers must understand how culture impacts learning and plan instruction that takes this relationship into account."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Children may understand mathematical concepts like tithing in their cultural context but may not transfer this knowledge to formal classroom settings.",
+        "spans": [
+          "His preliminary findings have shown that many of the children have good understanding about how much to tithe. However, Taylor is also discovering that this knowledge does not necessarily transfer to the classroom."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Students must be understood as part of their larger community and the connection between culture and learning must be addressed for mathematics to be accessible to all learners.",
+        "spans": [
+          "Overall, he points out that students must be understood as part of their larger community and that the connection between culture and learning must be addressed if mathematics is truly to become accessible to all learners."
         ]
       }
     ],
     "clueweb22-en0022-73-03909": [
       {
         "point_number": 1,
-        "point_content": "Academic integrity is independent of a cultural context.",
-        "spans": [
-          "Academic integrity is independent of a cultural context."
-        ]
-      },
-      {
-        "point_number": 2,
-        "point_content": "All knowledge is culture, including math and science.",
+        "point_content": "All knowledge is culture, implying knowledge is not independent of culture.",
         "spans": [
           "Of course. All knowledge is culture."
         ]
       },
       {
-        "point_number": 3,
-        "point_content": "Concepts that can be useful in any culture describe an aspect of culture-general knowledge.",
+        "point_number": 2,
+        "point_content": "Academic integrity is independent of cultural context, suggesting some knowledge principles can be independent of culture.",
         "spans": [
-          "concepts that can be useful in any culture"
+          "Academic integrity is independent of a cultural context. Taking someone else's knowledge and work and appropriating it as your own is always illegal and never acceptable. , culture nonwithstanding."
         ]
       }
     ]

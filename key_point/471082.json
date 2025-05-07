@@ -30,60 +30,55 @@
         "point_content": "The coronavirus pandemic caused demand for gasoline to rise steadily while supply has lagged due to delays and higher costs, contributing to higher prices.",
         "spans": [
           "At the root of the price increases for gasoline, as with so many other products, is the coronavirus pandemic.",
-          "Since the initial economic wallop from the virus in the spring of 2020, demand for gasoline has risen steadily as business activity has increased. Yet supply hasn’t been able to recover as quickly, thanks to delays in restoring drilling capacity, higher transportation costs, and sluggish production increases."
+          "Since the initial economic wallop from the virus in the spring of 2020, demand for gasoline has risen steadily as business activity has increased.",
+          "Yet supply hasn’t been able to recover as quickly, thanks to delays in restoring drilling capacity, higher transportation costs, and sluggish production increases."
         ]
       },
       {
         "point_number": 5,
         "point_content": "The U.S. is the world’s biggest oil producer but cannot quickly increase production due to political, environmental, and practical constraints.",
         "spans": [
-          "The U.S. is the world’s biggest, accounting for about 20% of the world’s output.",
+          "Exacerbating the awkwardness is that the U.S. is itself a major oil producer. In fact, the U.S. is the world’s biggest, accounting for about 20% of the world’s output.",
           "It’s theoretically possible for the U.S. to produce more oil, but it would be politically and practically difficult, experts said.",
           "One obvious obstacle is the pressure Biden is facing from his allies in the environmental movement.",
           "Another obstacle is that U.S. producers can’t ramp up production as quickly as OPEC can.",
           "The reason why the administration is asking OPEC and Russia to increase is because they have spare production capacity as the result of their previous cuts, which can be brought to the market quickly.",
           "Here in the U.S., producers must decide to increase drilling and completing new wells, which could take months to add appreciable volumes.",
-          "Increasing domestic production isn’t a policy decision. It is a private sector response."
+          "De Haan agreed. “I do not believe the U.S. has a lever to raise production quickly enough, he said. “More like a slow steady growth that should net some notable rise in production in three to six months from now.”"
         ]
       }
     ],
     "clueweb22-en0026-93-10815": [
       {
         "point_number": 1,
-        "point_content": "Experts blame lower global production and supply disruptions in the U.S. for high gas prices.",
+        "point_content": "Experts say there's little evidence of anything nefarious behind the higher fuel cost, blaming other factors including lower global production and supply disruptions in the U.S.",
         "spans": [
+          "Yet experts say there's little evidence of anything nefarious behind the higher fuel cost.",
           "analysts blame other factors, including lower global production and supply disruptions in the U.S."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Supply-chain issues, including storms and hackers, have disrupted gasoline production and transport.",
+        "point_content": "Supply disruptions such as Hurricane Ida and a cyberattack on a major fuel pipeline have reduced production and refining capacity, contributing to higher gas prices.",
         "spans": [
-          "Gasoline isn't immune to the supply-chain issues that have plagued every conceivable good in the time of coronavirus.",
-          "Storms and hackers have shuttered production and transport of gasoline this summer, with Hurricane Ida temporarily closing most oil production in the Gulf of  Mexico and several big  refineries.",
-          "The hurricane comes after a cyberattack in May took out a major fuel pipeline to the East  Coast for nearly a week."
+          "Storms and hackers have shuttered production and transport of gasoline this summer, with Hurricane Ida temporarily closing most oil production in the Gulf of Mexico and several big refineries.",
+          "The hurricane comes after a cyberattack in May took out a major fuel pipeline to the East Coast for nearly a week.",
+          "current gasoline prices are partly a result of production and refining capacity that was knocked offline by Hurricane Ida"
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Hurricane Ida and other shortages, including tanker driver shortages, have contributed to supply problems.",
+        "point_content": "High demand due to Americans driving more than a year ago is another factor pushing gas prices up.",
         "spans": [
-          "current  gasoline prices are partly a result of production and  refining capacity  that was knocked offline by Hurricane Ida and partly a result of other shortages — even a  shortage of tanker drivers."
+          "Another factor is that Americans are driving more than we were one year ago.",
+          "prices reflect demand that came back stronger than expected from the pandemic"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Americans are driving more than a year ago, increasing demand for gasoline.",
+        "point_content": "Low production by U.S. independent producers and OPEC members limiting oil production, along with costs of blending ethanol and lower gasoline inventories, are propping up gasoline prices.",
         "spans": [
-          "Another factor is that Americans are driving more than we were one year ago.",
-          "Apple's mobility index shows Americans are driving at rates nearly 50% above their pre-pandemic level"
-        ]
-      },
-      {
-        "point_number": 5,
-        "point_content": "U.S. independent producers and OPEC members limiting oil production, ethanol blending costs, and lower gasoline inventories are propping up prices.",
-        "spans": [
-          "gasoline prices are being propped up by  U.S. independent producers and OPEC members limiting their oil  production, by the cost of blending ethanol into gasoline and by lower  gasoline inventories."
+          "gasoline prices are being propped up by U.S. independent producers and OPEC members limiting their oil production, by the cost of blending ethanol into gasoline and by lower gasoline inventories."
         ]
       }
     ],
@@ -118,32 +113,20 @@
       },
       {
         "point_number": 5,
-        "point_content": "California has pursued a policy agenda designed to inhibit drilling and production within its borders as part of an overall program to try to ratchet down emissions via command-and-control regulations, leading to higher gasoline costs",
+        "point_content": "California has higher gasoline prices almost entirely due to politics around climate change and state policies inhibiting drilling and production, and implementing emissions regulations and mandates for electric vehicles",
         "spans": [
-          "California is a state that is rich in underground oil resources, but over the past two decades, the state government of California has pursued a policy agenda designed to inhibit drilling and production within its borders as part of an overall program to try to ratchet down emissions via command-and-control regulations."
+          "This differential is almost entirely due to politics around climate change.",
+          "California is a state that is rich in underground oil resources, but over the past two decades, the state government of California has pursued a policy agenda designed to inhibit drilling and production within its borders as part of an overall program to try to ratchet down emissions via command-and-control regulations.",
+          "In more recent years, the state government has implemented emissions regulations that far exceed current federal regulation and implemented mandates requiring a rapid phasing-out of gas-powered cars and replacing them with electric vehicles (EVs)."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "The Biden/Harris administration is now aggressively pursuing the same kinds of policy choices at the national level, which will tighten the global market and raise prices",
+        "point_content": "The U.S. is not energy independent and current policies will weaken America’s energy security by inhibiting U.S. oil production and increasing reliance on foreign oil imports",
         "spans": [
-          "As I detailed in yesterday’s piece, the Biden/Harris administration is now aggressively pursuing the same kinds of policy choices at the national level, with the help of congressional Democrats."
-        ]
-      },
-      {
-        "point_number": 7,
-        "point_content": "The U.S. is not energy independent and the new policies will inhibit U.S. oil production, weakening energy security and increasing reliance on foreign oil",
-        "spans": [
-          "The clear answer to that is no: The U.S. is not now and has never really been energy independent in modern times.",
-          "However, the policy choices being pursued by President Biden and congressional Democrats will inevitably serve to weaken America’s state of energy security as they are implemented and serve to inhibit U.S. oil production."
-        ]
-      },
-      {
-        "point_number": 8,
-        "point_content": "President Biden’s executive orders and regulatory changes will raise the cost of producing oil in the U.S., increasing costs of oil and gasoline",
-        "spans": [
-          "President Biden’s Day 1 executive orders to cancel the cross-border permit for the Keystone XL pipeline and suspend the program for oil and gas leasing on federal lands and waters were just initial shots across the bow.",
-          "His order to raise the estimate for the “social cost of carbon” by over 700% will inevitably result in regulatory actions that will raise the cost of producing oil in the U.S., as will the coming effort by the Biden EPA to convince the courts to allow it to regulate carbon as a “criteria pollutant,”"
+          "Finally, is America energy independent? The clear answer to that is no: The U.S. is not now and has never really been energy independent in modern times.",
+          "However, the policy choices being pursued by President Biden and congressional Democrats will inevitably serve to weaken America’s state of energy security as they are implemented and serve to inhibit U.S. oil production.",
+          "All of these actions and more to come will increase the costs of not just oil and gasoline, but all forms of non-renewable energy for consumers, will make the country increasingly reliant on foreign oil imports and thus will render the country less energy secure than before."
         ]
       }
     ],
@@ -164,7 +147,7 @@
       },
       {
         "point_number": 3,
-        "point_content": "Several refineries have been down due to freezing weather and maintenance, reducing refinery capacity and increasing gasoline prices.",
+        "point_content": "Several refineries have been down due to freezing weather and maintenance, reducing refinery capacity and resulting in higher prices.",
         "spans": [
           "Currently, several refineries have been down due to freezing weather that hit Texas and a number of other oil and gas producing states that also have refineries.",
           "During mid-spring, refineries also close for maintenance and switchover to summer fuels required to meet air quality standards that is a result of normal operations.",
@@ -180,22 +163,14 @@
       },
       {
         "point_number": 5,
-        "point_content": "U.S. policies such as moratorium on drilling on federal lands and cancellation of the Keystone XL pipeline affect future U.S. oil production and contribute to higher gasoline prices.",
-        "spans": [
-          "President Biden’s policies of placing a moratorium on drilling on federal lands in order to review drilling policy will put a damper on future U.S. oil production.",
-          "the cancellation of the Keystone XL pipeline on his Inauguration Day is a strong indication that producing oil and gas in America is going to become more difficult during his administration."
-        ]
-      },
-      {
-        "point_number": 6,
-        "point_content": "World crude oil demand has increased after the pandemic and is greater than production, pushing oil prices up.",
+        "point_content": "World crude oil demand has increased after the pandemic and is greater than production, causing oil prices to rise.",
         "spans": [
           "World crude oil and liquid fuels demand increased after the height of the coronavirus pandemic and is 8 million barrels per day greater than production."
         ]
       },
       {
-        "point_number": 7,
-        "point_content": "U.S. crude oil production declined 26 percent from January 2020 to January 2021, partly due to federal land drilling restrictions.",
+        "point_number": 6,
+        "point_content": "U.S. oil production declined 26 percent from January 2020 to January 2021, and federal government restrictions limit domestic oil production.",
         "spans": [
           "According to the EIA, the United States produced 3 million barrels per day of crude oil natural gas liquids in January 2021, down from 17.9 million barrels per day in January 2020 before the pandemic — a 26 percent decline.",
           "More domestic oil could be produced if the federal government permitted it and if its regulatory procedures were commensurate with state regulation that is more conducive to exploration and drilling.",
@@ -203,8 +178,8 @@
         ]
       },
       {
-        "point_number": 8,
-        "point_content": "OPEC+ countries have restricted oil production to increase prices and are cautious about increasing production soon.",
+        "point_number": 7,
+        "point_content": "OPEC and its partners have restricted oil production to increase prices and are cautious about increasing production soon.",
         "spans": [
           "OPEC and its partners have restricted the production of oil in order to increase prices which fell when demand bottomed out during the pandemic.",
           "OPEC and its allies indicated that they will rollover current production cuts to the end of April.",
@@ -213,37 +188,43 @@
         ]
       },
       {
-        "point_number": 9,
-        "point_content": "Geopolitical unrest in the Middle East, such as attacks on Saudi oil ports, has caused oil prices to surge.",
+        "point_number": 8,
+        "point_content": "Geopolitical unrest in the Middle East, such as attacks on Saudi oil ports, has increased oil prices.",
         "spans": [
           "oil prices are buoyed due to unrest in the Middle East.",
           "Recently, Yemen’s Iran-aligned Houthi rebels attacked a major Saudi Arabian oil port on the Persian Gulf (Ras Tanura) with drones and missiles.",
-          "oil prices increased after the market opened in New York following the attack.",
-          "Prices surged to their highest level since May 2019, due to rising demand as the global economy reopens from shutdowns caused by the coronavirus and supply curtailments in many producing countries."
+          "oil prices increased after the market opened in New York following the attack."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "U.S. gasoline prices are also affected by federal and state taxes, which accounted for 21 percent of the price in January 2021.",
+        "spans": [
+          "In January 2021, federal, state and local taxes accounted for 21 percent of the price of gasoline."
         ]
       },
       {
         "point_number": 10,
-        "point_content": "Gasoline taxes account for 21 percent of the price of gasoline, with federal tax at 18.4 cents per gallon and state/local taxes averaging 36.8 cents per gallon.",
-        "spans": [
-          "In January 2021, federal, state and local taxes accounted for 21 percent of the price of gasoline.",
-          "The federal tax on gasoline accounts for 18.4 cents per gallon, while the volume-weighted average state and local tax is 36.8 cents per gallon as of January 2021."
-        ]
-      },
-      {
-        "point_number": 11,
         "point_content": "Distribution and marketing costs constitute 15 percent of the cost of gasoline, including retailer costs and profits.",
         "spans": [
           "The third component of the price of gasoline is the retail dealer’s costs and profits, which constituted a combined 15 percent of the cost of a gallon of gasoline in January 2021."
         ]
       },
       {
-        "point_number": 12,
+        "point_number": 11,
         "point_content": "Refining costs make up 12 percent of the retail price of gasoline and vary seasonally and regionally.",
         "spans": [
           "In January 2021, refinery costs comprised 12 percent of the retail price of gasoline.",
           "This figure varies regionally because different parts of the country require different additives and processing steps in their gasoline formulations.",
           "The figure of 12 percent would also vary over different months, owing to seasonal changes in refinery operations."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "President Biden’s policies, including a moratorium on drilling on federal lands and cancellation of the Keystone XL pipeline, may limit future U.S. oil production and contribute to higher prices.",
+        "spans": [
+          "President Biden’s policies of placing a moratorium on drilling on federal lands in order to review drilling policy will put a damper on future U.S. oil production.",
+          "the cancellation of the Keystone XL pipeline on his Inauguration Day is a strong indication that producing oil and gas in America is going to become more difficult during his administration."
         ]
       }
     ],
@@ -258,7 +239,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "Last year, demand for crude oil was very low due to travel bans and lockdowns, causing prices to dip below zero.",
+        "point_content": "Last year, due to travel bans and lockdowns, demand for crude oil was very low, causing prices to dip below zero.",
         "spans": [
           "last year, crude oil providers were in a bit of a bind. The world was closing up, and, in the midst of travel bans and lockdowns, many countries simply didn’t need crude oil. Consumers weren’t driving, factories weren’t operating, and commercial flights were little more than a thing of the past. The demand for crude oil was so low, in fact, that oil providers were practically giving barrels away, with the price dipping below zero for the first time on record."
         ]
@@ -272,16 +253,16 @@
       },
       {
         "point_number": 4,
-        "point_content": "OPEC+ is gradually increasing oil production, adding only 400,000 barrels per day in November, which is insufficient compared to demand.",
+        "point_content": "OPEC+ is gradually increasing oil production, adding only 400,000 barrels per day in November, which is small compared to consumption levels.",
         "spans": [
-          "In November of this year, OPEC+ plans to add 400,000 barrels of crude oil per day. That may seem like a lot, but in actual fact, it’s very little."
+          "In November of this year, OPEC+ plans to add 400,000 barrels of crude oil per day. That may seem like a lot, but in actual fact, it’s very little. Canada alone consumed around 2.5 million barrels of crude oil per day pre-pandemic, and the United States, the world’s largest consumer of crude oil, consumes around 20 million daily."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Gas prices are expected to remain high at least until the end of the year or possibly into next year.",
+        "point_content": "OPEC+ is cautious about increasing production quickly due to fears the pandemic isn’t over yet.",
         "spans": [
-          "gas prices will continue to rise at least until the end of the year, possibly into next year, too."
+          "Fearing that the pandemic isn’t quite over just yet, OPEC+ is taking a gradual approach to introducing more crude oil to the world."
         ]
       }
     ],
@@ -381,36 +362,31 @@
       },
       {
         "point_number": 2,
-        "point_content": "High gas prices globally are reflected in the UK prices.",
+        "point_content": "High gas prices in the UK reflect high global gas prices caused by increased demand as countries recover from the Covid-19 pandemic and reopen their economies.",
         "spans": [
-          "Current high prices in the UK are a reflection of high gas prices globally."
+          "Current high prices in the UK are a reflection of high gas prices globally.",
+          "As countries recover from the Covid-19 pandemic and reopen their economies, the demand for global gas has risen."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Demand for global gas has risen as countries recover from the Covid-19 pandemic and reopen their economies, coupled with a cold winter, resulting in a gas market with reduced capacity.",
+        "point_content": "A cold winter and reduced gas market capacity have contributed to the high gas prices.",
         "spans": [
-          "As countries recover from the Covid-19 pandemic and reopen their economies, the demand for global gas has risen. Coupled with a cold winter, this has resulted in a gas market with reduced capacity."
+          "Coupled with a cold winter, this has resulted in a gas market with reduced capacity."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Energy firms buy gas and electricity wholesale and with higher demand and limited supply, prices have shot up to record levels.",
+        "point_content": "Energy firms buy gas and electricity wholesale, and with higher demand and limited supply, prices have shot up to record levels.",
         "spans": [
           "Energy firms buy gas and electricity wholesale and with higher demand and limited supply, prices have shot up to record levels."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Prices for wholesale gas are up 250 per cent since January.",
+        "point_content": "Wholesale gas prices are up 250 per cent since January due to scheduled maintenance rescheduled from 2020, lower gas supply from Russia, and less liquified natural gas reaching Europe because of increased deliveries to Asia.",
         "spans": [
-          "Prices for wholesale gas are up\u0000 250 per cent since January, according to industry group\u0000Oil\u0000&\u0000Gas UK."
-        ]
-      },
-      {
-        "point_number": 6,
-        "point_content": "Scheduled maintenance rescheduled from 2020 to 2021, lower gas supply from Russia, and less liquified natural gas reaching Europe due to increased deliveries to Asia have contributed to spikes in wholesale energy prices and low supply.",
-        "spans": [
+          "Prices for wholesale gas are up\u0000 250 per cent since January, according to industry group\u0000Oil\u0000&\u0000Gas UK.",
           "Scheduled maintenance projects rescheduled from 2020 to 2021 because of the pandemic, lower than usual gas supply from Russia and less liquified natural gas reaching Europe because of increased deliveries to Asia have also contributed to spikes in wholesale energy prices and uncharacteristically low supply."
         ]
       }
@@ -418,31 +394,32 @@
     "clueweb22-en0030-50-10319": [
       {
         "point_number": 1,
-        "point_content": "Natural gas prices have surged to more than $4 per million British thermal units, the highest since late 2018.",
+        "point_content": "US natural gas prices have surged to more than $4 per million British thermal units, the highest since late 2018, a rare rally in a market that has been weighted by oversupply since the shale gas production boom started a decade ago.",
         "spans": [
-          "US natural gas prices have surged to more than $4 per million British thermal units, the highest since late 2018"
+          "US natural gas prices have surged to more than $4 per million British thermal units, the highest since late 2018, a rare rally in a market that has been weighted by oversupply since the shale gas production boom started a decade ago."
         ]
       },
       {
         "point_number": 2,
         "point_content": "High temperatures are driving strong demand as Americans crank up their air conditioners to beat the heat.",
         "spans": [
-          "High temperatures are driving strong demand as Americans crank up their air conditioners to beat the heat"
+          "High temperatures are driving strong demand as Americans crank up their air conditioners to beat the heat."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Supply has not surged on the higher prices in the way it has in recent years due to a slower-growing US gas market and shareholder pressure to keep a lid on output.",
+        "point_content": "Typically, power producers would start switching away from gas and towards coal at these prices, taking some of the steam out of the rally. But coal generation has failed to pick up materially and gas’ share of the thermal stack has remained resilient.",
         "spans": [
-          "supply has not surged on the higher prices in the way it has in recent years",
-          "a slower-growing US gas market, which has been transformed by a wave of consolidation (now happening in oil as well) and shareholder pressure to keep a lid on output"
+          "Typically, power producers would start switching away from gas and towards coal at these prices, taking some of the steam out of the rally.",
+          "coal generation has failed to pick up materially and gas’ share of the thermal stack has remained resilient"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Coal generation has failed to pick up materially and gas’ share of the thermal stack has remained resilient, so power producers have not switched away from gas to coal despite high prices.",
+        "point_content": "Supply has not surged on the higher prices in the way it has in recent years, reflecting a slower-growing US gas market, consolidation, and shareholder pressure to keep a lid on output.",
         "spans": [
-          "coal generation has failed to pick up materially and gas’ share of the thermal stack has remained resilient"
+          "supply has not surged on the higher prices in the way it has in recent years, when growth-hungry producers were quick to drill on any hint of higher prices.",
+          "This reflects the new reality of a slower-growing US gas market, which has been transformed by a wave of consolidation (now happening in oil as well) and shareholder pressure to keep a lid on output."
         ]
       }
     ],
@@ -456,47 +433,43 @@
       },
       {
         "point_number": 2,
-        "point_content": "Prices at the pump are rising particularly steeply lately, with some states seeing an increase of $.10 or more in one week.",
+        "point_content": "Consumer demand is one factor that affects gas prices, but it's hardly the only one.",
         "spans": [
-          "Prices at the pump are rising particularly steeply lately. A gallon of regular costs an extra $.10 or more over what it did one week ago in nine states (Kentucky, Indiana, Florida, Michigan, Alabama, Tennessee, South Carolina, Illinois and Delaware) and Washington, D.C., according to AAA."
+          "Consumer demand is one factor that affects gas prices, but it's hardly the only one."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Demand for gasoline remains fairly low and has fallen for the last two weeks, which normally would cause prices to fall or not climb.",
+        "point_content": "According to the U.S. Energy Information Administration, 52% of the retail price of gasoline is based on how much wholesale crude oil costs.",
         "spans": [
-          "That should mean that demand for gasoline remains fairly low.",
-          "Indeed, demand at gas stations has fallen for the last two weeks, \"in line with expectations for autumn,\" a blog post from the GasBuddy app reported on Monday.",
-          "And when demand is low and on the decline, prices are generally supposed to fall as well — or at least not climb."
+          "According to the U.S. Energy Information Administration, 52% of the retail price of gasoline is based on how much wholesale crude oil costs."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "52% of the retail price of gasoline is based on how much wholesale crude oil costs, with the rest coming from refining, taxes, distribution, and marketing.",
-        "spans": [
-          "According to the U.S. Energy Information Administration, 52% of the retail price of gasoline is based on how much wholesale crude oil costs.",
-          "The rest of the cost comes from refining the oil, plus taxes and distribution and marketing."
-        ]
-      },
-      {
-        "point_number": 5,
-        "point_content": "Crude oil prices are high mainly because OPEC+ has decided to keep output limited.",
+        "point_content": "Crude prices are high for a variety of reasons, though industry experts say it's mainly because OPEC+ have decided to keep output limited.",
         "spans": [
           "Crude prices are high for a variety of reasons, though industry experts say it's mainly because OPEC+ — the Organization of Petroleum Exporting Countries, consisting of Saudi Arabia and 12 other oil-production nations, plus their allies — have decided to keep output limited."
         ]
       },
       {
-        "point_number": 6,
-        "point_content": "The White House has been pressuring OPEC+ to increase oil production, which remains below pre-pandemic levels.",
+        "point_number": 5,
+        "point_content": "The White House has been pressuring OPEC+ to increase oil production, which was scaled back dramatically in 2020 and still is below pre-pandemic levels.",
         "spans": [
           "The White House has been pressuring OPEC+ to increase oil production, which was scaled back dramatically in 2020 and still is below pre-pandemic levels."
         ]
       },
       {
-        "point_number": 7,
-        "point_content": "After OPEC+ decided not to raise production beyond an already agreed-upon level, oil prices hit a seven-year high, leading to retail gas prices also hitting a seven-year high.",
+        "point_number": 6,
+        "point_content": "Last week, after OPEC+ decided it would not raise production beyond an already agreed-upon level, oil prices hit a seven-year high.",
         "spans": [
-          "Last week, after OPEC+ decided it would not raise production beyond an already agreed-upon level, oil prices hit a seven-year high.",
+          "Last week, after OPEC+ decided it would not raise production beyond an already agreed-upon level, oil prices hit a seven-year high."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Retail gas prices in the U.S. followed by hitting a seven-year high as well.",
+        "spans": [
           "So it does not come as a surprise that retail gas prices in the U.S. followed by hitting a seven-year high as well."
         ]
       }
@@ -504,7 +477,7 @@
     "clueweb22-en0008-91-12301": [
       {
         "point_number": 1,
-        "point_content": "Canadian gas prices are high due to a production slowdown in the U.S. caused by refinery maintenance and a pipeline leak.",
+        "point_content": "Canadian gas prices are high due to a production slowdown in the U.S. and maintenance at refineries.",
         "spans": [
           "ExxonMobil just slowed operations at its Joliet, Ill., refinery to carry out some seasonal maintenance.",
           "Same deal at a BP refinery in Whiting, Ind.",
@@ -513,7 +486,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "Much of the Canadian gasoline market is subject to the Chicago wholesale price, which has increased significantly.",
+        "point_content": "Canadian gasoline market prices are influenced by the Chicago wholesale price, which has increased.",
         "spans": [
           "Much of the Canadian gasoline market is subject to the Chicago wholesale price for gasoline.",
           "At the beginning of October, it was $0.56 CDN per litre.",
@@ -522,7 +495,7 @@
       },
       {
         "point_number": 3,
-        "point_content": "Increased U.S. demand for gasoline is putting pressure on supply and raising prices.",
+        "point_content": "Increased demand for gasoline in the U.S. is driving up prices.",
         "spans": [
           "U.S. consumers are demanding 257,000 more barrels of gasoline, per day, than this time last year.",
           "The country’s economic growth is at three per cent and unemployment is continuing the plunge it began in 2010.",
@@ -531,7 +504,7 @@
       },
       {
         "point_number": 4,
-        "point_content": "The U.S. gasoline inventory is at a very low level, contributing to higher prices.",
+        "point_content": "The U.S. gasoline supply is at a low level, contributing to higher prices.",
         "spans": [
           "This time last year, the U.S. Midwest had 49.5 million barrels of gasoline on hand.",
           "Now, it’s down to 45.5 million barrels.",
@@ -549,7 +522,7 @@
       },
       {
         "point_number": 6,
-        "point_content": "Higher global crude oil prices are also contributing to higher gas prices in Canada.",
+        "point_content": "Global crude oil prices are rising, which will likely keep gas prices high.",
         "spans": [
           "Demand everywhere is on the upswing, and it doesn’t help that Saudi Arabia is currently threatening war with both Lebanon and Yemen.",
           "On Halloween night, a barrel of West Texas Intermediate crude went for $54 USD ($69.02 CDN).",
@@ -582,91 +555,82 @@
         "spans": [
           "US oil production and refining haven't kept up",
           "The Energy Information Administration noted in mid-September that Hurricane Ida shut down a large swath of the US's oil drilling and refining capacity in the Gulf of Mexico in late August.",
-          "While rigs and refineries have quickly come back online since, crude oil inventories remain low, suggesting an ongoing lack of supply."
+          "crude oil inventories remain low, suggesting an ongoing lack of supply."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Global energy markets and OPEC decisions have limited oil supply increases, contributing to higher prices.",
+        "point_content": "Global energy markets and OPEC decisions have limited oil supply increases, contributing to higher gas prices.",
         "spans": [
-          "OPEC and other major oil-exporting countries have repeatedly agreed to only modest increases in production, despite oil consumers like the US and India pushing for higher exports",
-          "The cartel most recently agreed to increase production by just 400,000 barrels per day in December, after President Joe Biden directly called for more production to ease rising prices.",
-          "It also shows how the cartel of oil exporters still holds a huge amount of power in global oil markets"
+          "OPEC and other major oil-exporting countries have repeatedly agreed to only modest increases in production",
+          "The cartel most recently agreed to increase production by just 400,000 barrels per day in December",
+          "a reported pause in ramping up production ."
         ]
       }
     ],
     "clueweb22-en0030-40-04218": [
       {
         "point_number": 1,
-        "point_content": "High gas prices are largely caused by high crude oil prices, which account for 43% of the price of regular gasoline.",
+        "point_content": "High gas prices are created, in large part, by high crude oil prices.",
         "spans": [
-          "High gas prices are created, in large part, by high crude oil prices. Oil costs account for 43% of the price of regular gasoline."
+          "High gas prices are created, in large part, by high crude oil prices."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Gas prices rise when oil prices rise, with a $10 increase in oil prices per barrel translating to a $0.25 increase in gas prices per gallon over the long term.",
+        "point_content": "Oil costs account for 43% of the price of regular gasoline.",
         "spans": [
-          "When oil prices rise, you can also expect to see the price of gas eventually rise at the pump. A $10 rise in oil prices (per barrel) translates to a $0.25 increase in gas prices (per gallon) over the long term."
+          "Oil costs account for 43% of the price of regular gasoline."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Gas and oil prices are influenced by supply and demand, commodities traders, and the value of the U.S. dollar.",
+        "point_content": "When oil prices rise, gas prices eventually rise at the pump.",
+        "spans": [
+          "When oil prices rise, you can also expect to see the price of gas eventually rise at the pump."
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Gas prices and underlying oil prices are determined by supply and demand, commodities traders, and the value of the dollar.",
         "spans": [
           "Gas prices and underlying oil prices are determined by three factors: supply and demand, commodities traders, and the value of the dollar."
         ]
       },
       {
-        "point_number": 4,
-        "point_content": "Supply and demand affect gas prices; when demand exceeds supply, prices rise, and seasonal demand increases gas prices in summer.",
-        "spans": [
-          "Like most of the things you buy, supply and demand affect both gas and oil prices. When demand is greater than supply, prices rise, and vice versa.",
-          "Seasonal demand also affects oil and gas prices. Normally, gas prices rise every spring. The demand for gas increases in the summer as families hit the road to go on vacation."
-        ]
-      },
-      {
         "point_number": 5,
-        "point_content": "Commodities traders influence gas prices by buying and selling futures contracts, often bidding prices higher based on expected future prices.",
+        "point_content": "When demand is greater than supply, prices rise, and vice versa.",
         "spans": [
-          "Traders of commodities, such as gasoline, wheat, and gold, also cause high gas prices. They buy oil and gasoline on the commodities futures markets.",
-          "When traders think that gas or oil prices will be high, they often bid them up even higher. Normally, that occurs in the spring as traders start buying oil futures contracts in anticipation of the summer price rise."
+          "When demand is greater than supply, prices rise, and vice versa."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Gas and oil prices rise when the value of the U.S. dollar declines because oil contracts are denominated in U.S. dollars.",
+        "point_content": "Seasonal demand affects oil and gas prices, with prices rising every spring and summer due to increased demand and more expensive summer-grade gasoline.",
         "spans": [
-          "Gas and oil prices also rise when the value of the U.S. dollar declines.",
-          "Oil contracts are all denominated in U.S. dollars."
+          "Seasonal demand also affects oil and gas prices. Normally, gas prices rise every spring. The demand for gas increases in the summer as families hit the road to go on vacation. Regulations also require a shift to summer-grade gasoline, which is more expensive to produce."
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Events such as geopolitical conflicts, natural disasters, and production decisions by OPEC have historically caused spikes in gas prices.",
+        "point_content": "Commodities traders cause high gas prices by buying oil and gasoline futures contracts and bidding prices up based on expected future prices.",
         "spans": [
-          "In May, fears about unrest in Libya and Egypt sent oil prices up to nearly $127 per barrel.",
-          "In February, concerns about potential military action against Iran —by either Israel or the U.S.—caused high oil prices.",
-          "Gas prices rose when OPEC cut production in November.",
-          "On August 25, Hurricane Harvey hit Texas, wiping out 5% of the nation's oil and gas production. Gas prices rose from $2.37 per gallon to $2.68 per gallon in a matter of weeks."
+          "Traders of commodities, such as gasoline, wheat, and gold, also cause high gas prices. They buy oil and gasoline on the commodities futures markets.",
+          "Both gas and oil prices are affected by the ups and downs in these futures contracts.",
+          "When traders think that gas or oil prices will be high, they often bid them up even higher."
         ]
       },
       {
         "point_number": 8,
-        "point_content": "The COVID-19 pandemic caused a drop in demand and a supply glut, leading to a plummet in oil and gas prices in 2020.",
+        "point_content": "Gas and oil prices rise when the value of the U.S. dollar declines.",
         "spans": [
-          "In January 2020, governments began shutting down travel and businesses to stem the COVID-19 pandemic.",
-          "Demand for oil fell by 5,600 barrels per day in the first quarter of 2020.",
-          "A drop in demand was worsened by a supply glut.",
-          "As oil-storage facilities filled up, oil and gas prices plummeted."
+          "Gas and oil prices also rise when the value of the U.S. dollar declines."
         ]
       },
       {
         "point_number": 9,
-        "point_content": "Gas prices increased in 2021 and 2022 due to increased demand post-pandemic, limited oil production, inflation, and geopolitical tensions such as the Russia-Ukraine conflict.",
+        "point_content": "The 2022 Russia-Ukraine conflict and sanctions on Russia caused gas prices to jump to decade highs.",
         "spans": [
-          "In early 2021, the rollout of vaccines and a decrease in lifestyle restrictions drove up demand for gas as more people began to resume pre-pandemic activities.",
-          "Oil production remained depressed throughout the year, exacerbating the upward pressure on oil and gas prices.",
           "Gas prices jumped even higher in early 2022 on the news Russia, one of the world's biggest oil producers and exporters, was amassing troops along its border with Ukraine.",
           "The invasion prompted the U.S. and its allies to impose tough economic sanctions on Russia, including a U.S. ban on Russian oil imports. Subsequently, gas prices jumped to decade highs, surpassing $4 nationally and topping $5.69 in California."
         ]
@@ -677,13 +641,12 @@
         "point_number": 1,
         "point_content": "Gas prices have shot up in the UK to around four times their value back in January.",
         "spans": [
-          "Gas is now approximately four times more expensive than it was in January.",
           "Gas prices have shot up in the UK to around four times their value back in January."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "A squeeze on gas and energy supplies around the world after last year’s cold winter is causing the price increase.",
+        "point_content": "A squeeze on gas and energy supplies around the world after last year’s cold winter is now having a knock-on effect.",
         "spans": [
           "A squeeze on gas and energy supplies around the world after last year’s cold winter is now having a knock-on effect."
         ]
@@ -697,7 +660,7 @@
       },
       {
         "point_number": 4,
-        "point_content": "Struggles with the National Grid, including a fire at a key import cable, increased dependence on gas power plants, contributing to higher prices.",
+        "point_content": "Struggles with the National Grid – including a fire at a key import cable which cut off an electricity supply source – has also increased the country’s dependence on gas power plants.",
         "spans": [
           "Struggles with the National Grid – including a fire at a key import cable which cut off an electricity supply source – has also increased the country’s dependence on gas power plants."
         ]
@@ -711,9 +674,9 @@
       },
       {
         "point_number": 6,
-        "point_content": "The UK only has enough backup gas for four to five days of winter, which will drive up prices.",
+        "point_content": "The UK only has enough backup gas for four to five days of winter, which will drive up prices – one million extra British households could be in fuel poverty next year.",
         "spans": [
-          "The UK only has enough backup gas for four to five days of winter, which will drive up prices"
+          "The UK only has enough backup gas for four to five days of winter, which will drive up prices – one million extra British households could be in fuel poverty next year."
         ]
       }
     ],
@@ -743,7 +706,7 @@
         "point_number": 4,
         "point_content": "West Texas Intermediate oil prices rose to the highest in more than six years, reaching $76.98 a barrel.",
         "spans": [
-          "West Texas Intermediate, a major benchmark of oil prices, rose to its highest in more than six years on Tuesday to $76.98 a barrel"
+          "the West Texas Intermediate, a major benchmark of oil prices, rose to its highest in more than six years on Tuesday to $76.98 a barrel"
         ]
       },
       {
@@ -755,9 +718,9 @@
       },
       {
         "point_number": 6,
-        "point_content": "Lack of additional oil supply from OPEC amidst disagreements has contributed to higher crude oil prices.",
+        "point_content": "Lack of additional oil supply from OPEC amidst disagreements has contributed to the surge in crude oil prices.",
         "spans": [
-          "lack of additional supply from OPEC amidst a mountain of controversy on how to respond to the market"
+          "a lack of additional supply from OPEC amidst a mountain of controversy on how to respond to the market"
         ]
       }
     ],
@@ -806,47 +769,76 @@
       },
       {
         "point_number": 7,
-        "point_content": "The prolonged 2020-2021 winter drained natural gas stocks, which weren't replenished during the summer months.",
+        "point_content": "Some are pointing to the prolonged 2020-2021 winter that drained natural gas stocks, which weren't replenished during the summer months, when demand is low.",
         "spans": [
           "Some are pointing to the prolonged 2020-2021 winter that drained natural gas stocks, which weren't replenished during the summer months, when demand is low."
         ]
       },
       {
         "point_number": 8,
-        "point_content": "Low solar and wind output caused by less windy weather and the phasing out of coal-powered plants has dented supply to the grid and forced natural gas prices to accelerate uncontrollably.",
+        "point_content": "Low solar and wind output caused by a run in less windy weather and the phasing out of coal-powered plants in recent years has dented supply to the grid and forced natural gas prices to accelerate uncontrollably.",
         "spans": [
-          "Others say low solar and wind output caused by a run in less windy weather and the phasing out of coal-powered plants in recent years has dented supply to the grid and forced natural gas prices to accelerate uncontrollably."
+          "low solar and wind output caused by a run in less windy weather and the phasing out of coal-powered plants in recent years has dented supply to the grid and forced natural gas prices to accelerate uncontrollably."
         ]
       },
       {
         "point_number": 9,
         "point_content": "Russia is sending less gas to Europe as exports this year dropped to around one-fifth of pre-pandemic levels.",
         "spans": [
-          "Another theory is that Russia is sending less gas to Europe as exports this year dropped to around one-fifth of pre-pandemic levels, according to i news."
+          "Russia is sending less gas to Europe as exports this year dropped to around one-fifth of pre-pandemic levels"
         ]
       }
     ],
     "clueweb22-en0018-12-16483": [
       {
         "point_number": 1,
-        "point_content": "Gas prices have risen significantly in the last decade, driven by the UK shifting from a net exporter to a net importer of gas and gas prices rising in tandem with oil prices.",
+        "point_content": "Commodity prices, especially gas prices, are the single biggest factor affecting energy bills in the UK.",
         "spans": [
-          "In the last 10 years, commodity prices are probably the single biggest thing that has affected energy bills in the UK",
-          "Energy bills have gone up as the UK shifted from being a net exporter to a net importer of gas in the last decade, and gas prices rose in tandem with oil prices."
+          "In the last 10 years, commodity prices are probably the single biggest thing that has affected energy bills in the UK"
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Gas prices are the main driver of electricity prices in the UK's gas-driven power sector.",
+        "point_content": "Energy bills have increased as the UK shifted from being a net exporter to a net importer of gas, with gas prices rising alongside oil prices.",
         "spans": [
-          "in the UK's gas-driven power sector, the gas price has also become the main driver of the electricity price."
+          "Energy bills have gone up as the UK shifted from being a net exporter to a net importer of gas in the last decade, and gas prices rose in tandem with oil prices."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Gas prices are not easy to control, but politicians influence energy taxes, levies, and investment in low-carbon power generation and energy efficiency.",
+        "point_content": "Higher taxes and levies, including support for renewable energy, have contributed to recent increases in electricity bills across Europe.",
         "spans": [
-          "Gas prices are not easy to control, but politicians do set energy taxes and levies, and decide on how investment in low-carbon power generation, the power grid and energy efficiency is spent."
+          "The most recent increases in electricity bills across Europe are primarily due to higher taxes and levies, including support for renewable energy"
+        ]
+      },
+      {
+        "point_number": 4,
+        "point_content": "Energy retailers increased their profits nearly fivefold from 2009-12 with no clear evidence of becoming more cost-efficient, raising questions about whether consumers are paying too much.",
+        "spans": [
+          "Ofgem has called for a full-scale competition enquiry into the energy sector because energy retailers increased their profits nearly fivefold from 2009-12 with \"no clear evidence\" of them becoming more cost-efficient."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Bills cover repairs, replacements, and upgrades to the grid as well as low-carbon generation, with grid-related costs making up about a fifth of the average UK household electricity bill today.",
+        "spans": [
+          "Bills need to cover repairs, replacements and upgrades to the grid as well as low-carbon generation.",
+          "Grid-related costs make up about a fifth of the average UK household electricity bill today."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The UK's outdated energy market structure is artificially driving up prices and limiting consumer benefits from new technologies like smart meters.",
+        "spans": [
+          "How markets are structured is not keeping up with reality and this is artificially and totally unnecessarily driving up prices"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Energy efficiency improvements are inadequate to offset rising prices, and cuts to energy efficiency programs threaten future savings for consumers.",
+        "spans": [
+          "Energy efficiency improvements are inadequate to offset rising prices.",
+          "The perceived costs of doing energy efficiency threaten the future of the UK's energy efficiency programme overall."
         ]
       }
     ],
@@ -855,7 +847,7 @@
         "point_number": 1,
         "point_content": "Gas prices across the country are at the highest levels since 2014, according to AAA and GasBuddy.",
         "spans": [
-          "Gas prices across the country are at the highest levels since 2014, according to AAA and GasBuddy ."
+          "Gas prices across the country are at the highest levels since 2014, according to AAA and GasBuddy"
         ]
       },
       {
@@ -888,28 +880,22 @@
       },
       {
         "point_number": 6,
-        "point_content": "With the arrival of the vaccines and a return to travel, consumer confidence and gas demand started to go back up.",
+        "point_content": "With the arrival of the vaccines and a return to travel, consumer confidence and gas demand started to go back up, reaching near-normal levels, though still slightly below due to people working from home.",
         "spans": [
-          "Fast forward about a year later, with the\u0000arrival of the vaccines and a return to travel, and De Haan said they\u0000started to see consumer confidence and gas\u0000demand go back up."
+          "Fast forward about a year later, with the\u0000arrival of the vaccines and a return to travel, and De Haan said they\u0000started to see consumer confidence and gas\u0000demand go back up.",
+          "Now, \"demand for gasoline since then has reached near-normal levels,\"\u0000De Haan said. \"It's still slightly below \t6 and I think a lot of that is because people are still working from home \t6 but we're still in the midst of the pandemic.\""
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Demand for gasoline since then has reached near-normal levels, but oil production is lagging severely behind.",
+        "point_content": "Though demand is nearly normal again, oil production is lagging severely behind due to the depth of the crisis last year and slow increase in production by U.S. producers and OPEC.",
         "spans": [
-          "Now, \"demand for gasoline since then has reached near-normal levels,\"\u0000De Haan said. \"It's still slightly below \t6 and I think a lot of that is because people are still working from home \t6 but we're still in the midst of the pandemic.\"",
-          "Though demand is\u0000\"nearly normal\" again, oil production is \"lagging severely behind\" De Haan said."
-        ]
-      },
-      {
-        "point_number": 8,
-        "point_content": "Oil companies slowed production and OPEC did as well, and since then, they've been slow to increase production again.",
-        "spans": [
+          "Though demand is\u0000\"nearly normal\" again, oil production is \"lagging severely behind\" De Haan said.",
           "\"Part of the reason is because the depth of the crisis last year,\" De Haan said. \"Oil companies let millions of people go. Not only did U.S. oil producers\u0000slow production down, but OPEC did as well. And since then, they've been slow to increase production again.\""
         ]
       },
       {
-        "point_number": 9,
+        "point_number": 8,
         "point_content": "OPEC+ decided to continue their gradual approach to restoring production, adding 400,000 barrels per day in November, less than a previous agreement of 800,000 barrels per day.",
         "spans": [
           "In talks last week, OPEC+ discussed the issue of increasing global oil production. The group decided to continue their \"gradual approach\" to restoring production, according to the Associated Press, adding\u0000400,000 barrels per day in November.",
@@ -920,41 +906,42 @@
     "clueweb22-en0026-11-06882": [
       {
         "point_number": 1,
-        "point_content": "The biggest driver for gas prices is crude oil prices, which depend on supply-demand dynamics.",
+        "point_content": "Gas prices in the U.S. are a function of both domestic and international factors. The biggest driver for gas prices is crude oil prices.",
         "spans": [
-          "The biggest driver for gas prices is crude oil prices. Like all commodities, crude oil prices depend on supply-demand dynamics."
+          "Gas prices in the U.S. are a function of both domestic and international factors.",
+          "The biggest driver for gas prices is crude oil prices."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Gas prices have been going up in the U.S. due to crude oil prices rising, influenced by fears of storms impacting oil production.",
+        "point_content": "Crude oil prices depend on supply-demand dynamics and are influenced by market sentiment, refining costs, refiner margins, and specific events such as the Colonial Pipeline attack or changes in taxation.",
+        "spans": [
+          "Like all commodities, crude oil prices depend on supply-demand dynamics.",
+          "In the short term, market sentiment, refining costs, and refiner margins (reflected in crack spreads) are also factors in gas prices.",
+          "Specific events or changes, such as the Colonial Pipeline attack or a change in taxation, can also affect them"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Gas prices have been going up due to crude oil prices rising, with WTI back above $70 and fears of storms impacting Texas oil production.",
         "spans": [
           "Gas prices have been going up in the U.S. due to crude oil prices rising.",
           "WTI is back above $70, and crude oil prices were higher as of Sep. 14 on fears that another storm could impact Texas oil production."
         ]
       },
       {
-        "point_number": 3,
-        "point_content": "The U.S. oil and gas industry is affected by events such as Hurricane Ida, impacting production and prices.",
+        "point_number": 4,
+        "point_content": "The U.S. oil and gas industry is affected by events like Hurricane Ida, impacting production and supply.",
         "spans": [
           "The U.S. oil and gas industry is also reeling from the impact of Hurricane Ida."
         ]
       },
       {
-        "point_number": 4,
+        "point_number": 5,
         "point_content": "Higher energy prices, including gas, are boosting inflation and increasing transportation, logistics, and input costs for many industries.",
         "spans": [
           "Gas is pricey now that crude oil prices are higher, and higher energy prices are boosting inflation.",
           "As energy prices go up, so do transportation, logistics, and input costs for a lot of industries."
-        ]
-      },
-      {
-        "point_number": 5,
-        "point_content": "The near-term outlook for crude oil is bullish, with expectations of rising prices leading to higher gas prices.",
-        "spans": [
-          "The near-term outlook for crude oil looks bullish.",
-          "Goldman Sachs expects Brent crude oil prices to rise to $80 by the end of 2021, considering their current momentum, that could happen earlier.",
-          "Higher crude oil prices would mean higher gas prices in the U.S. in 2021."
         ]
       }
     ],
@@ -990,22 +977,21 @@
       },
       {
         "point_number": 5,
-        "point_content": "In Europe, the decline in LNG imports was accompanied by a decline in European production and pipeline imports from regional suppliers, most notably Russia, while demand remained at the same level as 2019.",
+        "point_content": "In Europe, the decline in LNG imports was accompanied by a decline in European production and pipeline imports from regional suppliers, most notably Russia.",
         "spans": [
-          "On the European market, the decline in LNG imports was accompanied by a decline in European production and pipeline imports from regional suppliers, most notably Russia.",
-          "Yet demand remained at the same level as 2019,"
+          "On the European market, the decline in LNG imports was accompanied by a decline in European production and pipeline imports from regional suppliers, most notably Russia."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "The gap in European gas supply was met by net storage withdrawals, indicating a tighter market.",
+        "point_content": "Demand in Europe remained at the same level as 2019, and the gap was met by net storage withdrawals.",
         "spans": [
-          "and the gap was met by net storage withdrawals."
+          "Yet demand remained at the same level as 2019, and the gap was met by net storage withdrawals."
         ]
       },
       {
         "point_number": 7,
-        "point_content": "The ongoing price rally is driven by fundamentals, with an added ‘fear premium’ that the forthcoming winter could be as cold as that in 2020/21.",
+        "point_content": "The global LNG market and the European market are noticeably tighter, driving the ongoing price rally, with an added ‘fear premium’ for a potentially cold winter.",
         "spans": [
           "Therefore, we conclude that with both the global LNG market in general and the European market in particular noticeably tighter, the ongoing price rally is driven by fundamentals, with an added ‘fear premium’ that the forthcoming winter could be as cold as that in 2020/21."
         ]

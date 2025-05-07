@@ -11,14 +11,14 @@
       },
       {
         "point_number": 2,
-        "point_content": "Businesses will diversify their overseas suppliers and partners to prevent future supply chain disruptions.",
+        "point_content": "Businesses will diversify their overseas suppliers and partners to avoid future supply chain disruptions.",
         "spans": [
           "the best recovery tactic for businesses may be to diversify their overseas suppliers, vendors and other relationships to ensure they can produce, regardless of any future localized delays or stoppages."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "International partnerships provide cost-saving benefits, access to international talent, and the ability to scale operations.",
+        "point_content": "International partnerships provide cost savings, access to talent, and scaling opportunities that are unlikely to be replaced by localization.",
         "spans": [
           "There are numerous reasons to partner with an international vendor, the most obvious of which is a cost-saving benefit.",
           "Additionally, foreign partnerships allow for growth in ways that may not be available locally including sourcing international talent and scaling operations to increase output."
@@ -26,10 +26,10 @@
       },
       {
         "point_number": 4,
-        "point_content": "International sourcing allows businesses to access new customer bases and markets, which is unlikely to change.",
+        "point_content": "International sourcing allows businesses to access new customer markets, which is important for growth especially given demographic shifts.",
         "spans": [
           "One of the biggest – yet least discussed – benefits of international sourcing is gaining access to a new audience.",
-          "Because effortlessly reaching more customers is so important to businesses of any size, it’s unlikely that this practice will change."
+          "Demographic shifts have also long played a part in a business’s need for accessing other markets."
         ]
       },
       {
@@ -42,7 +42,7 @@
       },
       {
         "point_number": 6,
-        "point_content": "Past crises show that diversifying international partnerships aids recovery and resilience rather than isolation.",
+        "point_content": "Past crises show that diversifying international partnerships aids recovery and resilience rather than isolation or protectionism.",
         "spans": [
           "The reliance on a single location demonstrated the need for expansion, not isolation.",
           "Global partnerships were a major factor in the eventual market recovery from the 2008 Financial Crisis."
@@ -50,7 +50,7 @@
       },
       {
         "point_number": 7,
-        "point_content": "After COVID-19, businesses can expect to work with more overseas partners, not fewer.",
+        "point_content": "After COVID-19, businesses can expect to work with more overseas partners, not fewer, as international partnerships are vital for economic recovery and growth.",
         "spans": [
           "As such, once the local closures are lifted, businesses can expect to work with more overseas partners – not fewer."
         ]
@@ -66,7 +66,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "Nearly 42 percent of the U.S. workforce is working from home, a significant increase from 12.3 percent before the pandemic, and roughly 27 percent is expected to work remotely by December 2021.",
+        "point_content": "Nearly 42 percent of the U.S. workforce is working from home, compared to only 12.3 percent before the pandemic, and roughly 27 percent is expected to work remotely by December 2021.",
         "spans": [
           "According to a recent survey of managers conducted by job recruitment firm Upwork, nearly 42 percent of the U.S. workforce is working from home.",
           "Only 12.3 percent of the US workforce teleworked before the pandemic.",
@@ -75,7 +75,7 @@
       },
       {
         "point_number": 3,
-        "point_content": "A new way to create jobs and boost labor is urgently needed, focusing on moving away from fossil fuels, investing in renewable energy, green and sustainable industries as areas of growth and job creation.",
+        "point_content": "A new way to create jobs and boost labor is urgently needed, focusing on moving away from fossil fuels, investing in renewable energy, green and sustainable industries.",
         "spans": [
           "With thousands of businesses bankrupted and jobs lost – especially among the small businesses dependent on large downtown offices and metroplexes, like bars and restaurants –  a new way to create jobs and boost labor is urgently needed.",
           "Moving away from fossil fuels, investing in renewable energy, green and sustainable industries, are the obvious areas of growth. And the solution to new job creation."
@@ -83,17 +83,31 @@
       },
       {
         "point_number": 4,
-        "point_content": "The G30 report emphasizes that the business world must adapt to new realities rather than trying to preserve the status quo, allowing for creative destruction and retraining of workers.",
+        "point_content": "The G30 report emphasizes that the business world must adapt to new realities post-COVID, including allowing for creative destruction and retraining workers.",
         "spans": [
           "Adapt to the new business realities, “rather than trying to preserve the status quo”; fine and good and there is even talk of allowing for “creative destruction” as some firms “shrink or close and new ones open, and as some workers need to move between companies and sectors, with appropriate retraining and transitional assistance”"
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Teleworking and virtual offices are becoming more common and accepted in the post-COVID-19 business landscape.",
+        "point_content": "The G30 report suggests that governments should carefully target public support to optimize resources and help economies emerge fitter and stronger, avoiding support to doomed or already successful firms.",
         "spans": [
-          "Teleworking is “in” like never before and a return to previous methods of work is highly unlikely.",
-          "Also consider using a virtual office as with one of those you can use a different address and also a really impressive one like a London postal address."
+          "Carefully target public support to “optimize the use of resources and help economies emerge fitter and stronger”; again, one can only agree with the proposition that “resources should not be wasted on companies that are ultimately doomed to failure or which do not need public support” nor should firms that are already doing well “receive unjustified windfalls”"
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The G30 report advocates for market forces to generally operate but governments should intervene to address market failures that create substantial social costs, especially in funding SMEs.",
+        "spans": [
+          "Market forces should generally be allowed to operate, but “governments should intervene to address market failures that create substantial social costs”, particularly the “longstanding difficulty in funding SMEs effectively”"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The G30 report does not address sustainability, environmental, or social justice issues, which are critical in the post-COVID recovery landscape.",
+        "spans": [
+          "Not a word about sustainability, nothing about environmental and social justice issues – even though this pandemic is hitting the poor and ethnic minorities harder than anyone else.",
+          "Actually, the report acknowledges that “policies designed to support broader national objectives such as digitalization, environmental sustainability, or the promotion of new or strategic industries” are outside its scope."
         ]
       }
     ],
@@ -107,10 +121,9 @@
       },
       {
         "point_number": 2,
-        "point_content": "Many employees will not need to return to corporate sites full-time, requiring organizations to reinvent and redefine 'work'.",
+        "point_content": "Many employees will not need to return to corporate sites full-time, requiring organizations to reinvent and redefine 'work' in the new world.",
         "spans": [
-          "We know coming out of this crisis that many of our team members won’t need to return to corporate sites, at least not on a full-time basis.",
-          "it’s critical that organizations reinvent and redefine “work” in the new world."
+          "We know coming out of this crisis that many of our team members won’t need to return to corporate sites, at least not on a full-time basis."
         ]
       },
       {
@@ -122,35 +135,28 @@
       },
       {
         "point_number": 4,
-        "point_content": "The shift to flexible work can help organizations advance goals, create flexible culture, reduce carbon footprint, enhance diverse talent recruitment, and invest in innovation.",
+        "point_content": "The shift to flexible work arrangements can help businesses advance goals, create a flexible culture, reduce carbon footprint, enhance diverse talent recruitment, and invest in innovation.",
         "spans": [
           "As we rethink where business is done, it creates the opportunity for organizations of all sizes to advance and achieve their goals and experience a more flexible culture, reduce their carbon footprint, enhance diverse talent recruitment and make new investments in innovation."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Businesses should align their workforce strategy with business objectives, focusing on engagement, customer experience, leadership commitment, workplace flexibility, and sustainability goals.",
+        "point_content": "Businesses should align their objectives with an evolving workforce by developing new ways of working, investing in customer and team member experience, and committing to workplace flexibility.",
         "spans": [
           "Businesses should start with an honest accounting of how a reduced on-site workforce with more flexible workplace conditions can help the business execute on its strategy.",
           "Use our values to develop new ways of working, with high levels of engagement and productivity.",
           "Create a stronger customer and team member experience by investing time and money on the things that matter most.",
           "Start from the top, with a leadership team and ethos culturally committed to increasing our work-from-home footprint and team member flexibility and choice.",
-          "Be a leader in workplace flexibility with a goal of 50% (or greater in countries with the right infrastructure) of our team members in flexible work arrangements.",
-          "Advance progress against our 2030 Moonshot goals by reducing our carbon footprint and opening new opportunities to bring in diverse talent."
+          "Be a leader in workplace flexibility with a goal of 50% (or greater in countries with the right infrastructure) of our team members in flexible work arrangements."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Return to site strategies must prioritize health and safety, using data and science, local regulations, and phased return with flexibility.",
+        "point_content": "Return to site strategies must prioritize health and wellbeing, using data and science, local regulations, and phased return to site plans.",
         "spans": [
+          "Of course, to achieve these goals, we must prioritize the safety and wellbeing of our team members at every step.",
           "This strategy takes a conservative approach and relies strongly on data and science to determine safety and readiness, align to local government regulations and follow health and hygiene guidance.",
-          "It also ensures we support our customers and partners, focus on teams who need to be on-site for enhanced productivity, and enables employees to return to the office while taking into consideration the future state of work."
-        ]
-      },
-      {
-        "point_number": 7,
-        "point_content": "Organizations should focus on four key pillars for smooth transition back onsite: risk assessment, pre-opening readiness, phased return, and communication.",
-        "spans": [
           "Once the conditions are right, organizations should focus on four key pillars to ensure a smooth transition of team members back onsite while cementing the conditions for greater innovation and flexibility:",
           "Return to site risk assessment – Evaluate the infection rates, active cases, recovery and scaled increase trends of the country/specific location to determine how safe it is for team members to return to site.",
           "Pre-opening readiness – Assess and prepare for team members to return to site while ensuring hygiene, social distancing, and infrastructure all support team member health and productivity.",
@@ -171,90 +177,138 @@
       },
       {
         "point_number": 2,
-        "point_content": "Keeping global supply chains open, especially for essentials such as health supplies and food, is a priority but faces challenges like limited air cargo and port restrictions.",
+        "point_content": "Keeping trade flowing requires co-operation and trust, especially to ensure supply of essentials and avoid export restrictions.",
         "spans": [
-          "keep supply chains flowing, especially for essentials such as health supplies and food",
-          "Cancellation of passenger flights linked to travel bans has limited the availability of air cargo",
-          "Over 50 countries have changed port protocols, ranging from port closure and quarantine measures to additional documentation requirements and examination"
+          "keeping trade flowing requires co-operation and trust",
+          "that countries will not impose export restrictions"
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Avoiding export restrictions and other trade barriers on essential goods is critical to prevent worsening the crisis and ensure global supply.",
+        "point_content": "There are four key actions to support trade during the crisis: boost confidence through transparency, keep supply chains flowing, avoid making things worse with export restrictions, and think beyond the immediate crisis.",
         "spans": [
-          "avoid making things worse, through unnecessary export restrictions and other trade barriers",
-          "Currently, more than 60 countries have restricted exports of essential goods and increasingly agriculture and food products",
-          "Export restrictions are a recipe for self-inflicted harm, undermining food security for everyone"
+          "there are four things we can do: 1) boost confidence in trade and global markets by improving transparency",
+          "2) keep supply chains flowing, especially for essentials such as health supplies and food",
+          "3) avoid making things worse, through unnecessary export restrictions and other trade barriers",
+          "4) even in the midst of the crisis, think beyond the immediate"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Government support during the crisis should be designed to serve the public interest, avoid market distortions, and be transparent, non-discriminatory, time-bound, and targeted at consumers.",
+        "point_content": "Global supply chains, especially for medical supplies, food, and ICT goods, face challenges such as limited air cargo, port restrictions, container shortages, and labor availability.",
         "spans": [
-          "Government support today needs to be delivered in a way that ensures it serves the public interest, not vested interests, and avoids becoming tomorrow’s market distortions",
-          "Support granted today will have an important impact on the global level playing field",
-          "Some key principles include that support granted is: transparent; non-discriminatory amongst similarly affected firms; time bound; and targeted at consumers"
+          "An important priority is keeping the key supply chains for essential goods for the crisis – including medical supplies, food products and ICT goods and services – open and functioning",
+          "Cancellation of passenger flights linked to travel bans has limited the availability of air cargo",
+          "Important shipping ports reported year-on-year drops in cargo",
+          "restrictions on their movement have led to a shortage that has seen the price of containers rise",
+          "Lockdowns are also impacting the availability of labour to unload ships at ports"
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Firms and governments will need to rethink resilience in global supply chains, balancing the benefits of diversified production with the need for strategic stockpiles and rapid conversion capabilities.",
+        "point_content": "Trade barriers such as tariffs on medical goods and delays in certification should be removed or expedited to keep essential medical supplies flowing.",
         "spans": [
-          "Firms and governments will need to re-think resilience in global supply chains",
-          "Internationally, diversified production is often a source of resilience",
-          "Governments may also need to consider special arrangements for specific supply chains for strategic goods such as medical equipment"
+          "Keeping the trade in essential medical supplies flowing means removing barriers such as tariffs on medical goods essential for combatting COVID-19",
+          "It means expediting certification procedures to allow new products to be traded as soon as possible"
         ]
       },
       {
         "point_number": 6,
-        "point_content": "There is an opportunity to develop international agreements to ensure transparency, cut tariffs on essential medical products, discipline export restrictions, and invest in cooperative solutions for future pandemics.",
+        "point_content": "Export restrictions on essential goods, especially food and medical supplies, should be avoided as they harm global food security and undermine confidence in international markets.",
         "spans": [
-          "The current crisis offers an opportunity to develop readiness for future pandemics",
-          "A possible agreement among countries could include elements such as: Ensuring transparency; Cutting tariffs on essential medical products; Disciplines on export restrictions; Upfront investments in co-operative solutions"
+          "Chief among these is the need to avoid export restrictions on essential goods, such as medical equipment and, especially, food products",
+          "Export restrictions risk undermining confidence in international markets and can precipitate hoarding and panic buying"
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Government support during the crisis should be designed to serve the public interest, avoid market distortions, and be transparent, non-discriminatory, time-bound, and targeted at consumers.",
+        "spans": [
+          "Government support today needs to be delivered in a way that ensures it serves the public interest, not vested interests, and avoids becoming tomorrow’s market distortions",
+          "Support granted today will have an important impact on the global level playing field",
+          "Some key principles include that support granted is: transparent",
+          "non-discriminatory amongst similarly affected firms and targeted at those experiencing the most disruption",
+          "time bound, and reviewed regularly",
+          "targeted at consumers"
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Firms and governments will need to rethink resilience in global supply chains, balancing diversification and potential reshoring or strategic stockpiling.",
+        "spans": [
+          "There is a live debate over the impacts of COVID-19 on the structure of global production and global supply chains",
+          "There will also be a need for both firms and governments to think again about how best to ensure the resilience of supply chains",
+          "Governments may also need to consider special arrangements for specific supply chains for strategic goods such as medical equipment"
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "International agreements could be developed to ensure transparency, cut tariffs on essential medical products, discipline export restrictions, and create stockpiles for future pandemics.",
+        "spans": [
+          "A possible agreement among countries could include elements such as: Ensuring transparency",
+          "Cutting tariffs on essential medical products",
+          "Disciplines on export restrictions",
+          "Upfront investments in co-operative solutions – the creation of stockpiles of essential medical supplies"
         ]
       }
     ],
     "clueweb22-en0046-50-02947": [
       {
         "point_number": 1,
-        "point_content": "The rise of digital behavior such as remote working and learning, telemedicine, and delivery services will accelerate in the post-COVID-19 world.",
+        "point_content": "The pandemic has accelerated the rise of the digital economy, including remote working, telemedicine, and delivery services, which will affect international business.",
         "spans": [
-          "the rise of digital behavior such as remote working and learning, telemedicine, and delivery services"
+          "This is especially true of the digital economy, with the rise of digital behavior such as remote working and learning, telemedicine, and delivery services."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "There will be structural changes including regionalization of supply chains and a further explosion of cross-border data flows.",
+        "point_content": "There will be a regionalization of supply chains and an increase in cross-border data flows, changing how international business operates.",
         "spans": [
-          "regionalization of supply chains and a further explosion of cross-border data flows"
+          "Other structural changes may also accelerate, including regionalization of supply chains and a further explosion of cross-border data flows."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Remote work is likely to become more common and might be here to stay.",
-        "spans": [
-          "Remote work is likely to become more common. We had some evidence that working from home is at least as productive as working at the office . However, many companies were reluctant to embrace remote work. Now that many have tried it with good results, remote work might be here to stay."
-        ]
-      },
-      {
-        "point_number": 4,
-        "point_content": "Companies with international supply chains are dealing with shortages and bottlenecks, leading to reshoring of some production, though automation will limit job creation.",
+        "point_content": "Companies with international supply chains are likely to reshore some production due to shortages and bottlenecks, but automation will limit job creation.",
         "spans": [
           "Companies with international supply chains are dealing with shortages and bottlenecks. We are likely to see many of these companies reshore some of their production. Unfortunately, this trend will not create many jobs because most of the production is likely to be automated."
         ]
       },
       {
-        "point_number": 5,
-        "point_content": "The pandemic has accelerated the pace of digital transformation, including e-commerce, telemedicine, videoconferencing, online teaching, and fintech.",
+        "point_number": 4,
+        "point_content": "Remote work is likely to become more common and accepted, impacting international business operations.",
         "spans": [
-          "The pandemic crisis has accelerated the pace of digital transformation, with further expansion in e-commerce and increases in the pace of adoption of telemedicine, videoconferencing, online teaching, and fintech."
+          "Remote work is likely to become more common. We had some evidence that working from home is at least as productive as working at the office . However, many companies were reluctant to embrace remote work. Now that many have tried it with good results, remote work might be here to stay."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The crisis has exposed the fragility of global cooperation and multilateralism, which will need to change to support developing economies and global challenges.",
+        "spans": [
+          "The way multilateralism operates will have to change to reflect this very different world. The COVID-19 pandemic has been testing the limits of global cooperation. Support for developing economies in particular remains inadequate."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "There will be a shift away from global just-in-time supply chains towards localized business operations favoring national and regional supply chains due to deglobalization and nationalism.",
+        "point_content": "There will be a shift towards more inclusive, resilient, and sustainable international business practices, with emphasis on social protection, public health, and climate goals.",
         "spans": [
-          "The first trend is deglobalization; the logistic difficulties brought to light by the current crisis are already pointing to a shift away from global just-in-time supply chains. Yet as economic difficulties mount, the inevitable growth of nationalism and “my nation first” politics will push companies to localize business operations that favor national and regional supply chains."
+          "The world after the first wave of COVID-19 must be more inclusive, resilient, and sustainable.",
+          "Public investment in the care economy, education, and low-carbon infrastructure can form the backbone of stimulus that reduces inequality."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Governments will play a bigger role as insurers and investors of last resort, with increased public debt and financial challenges globally.",
+        "spans": [
+          "Governments will be bigger after playing the role of insurer and investor of last resort during the crisis. Public debt will balloon, creating financial challenges around the world."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Deglobalization and nationalism will push companies to localize business operations and favor national and regional supply chains.",
+        "spans": [
+          "The first trend is deglobalization; the logistic difficulties brought to light by the current crisis are already pointing to a shift away from global just-in-time supply chains.",
+          "Yet as economic difficulties mount, the inevitable growth of nationalism and “my nation first” politics will push companies to localize business operations that favor national and regional supply chains."
         ]
       }
     ],
@@ -286,7 +340,7 @@
       },
       {
         "point_number": 4,
-        "point_content": "Leadership will engage people to work together creatively, emphasizing truth-telling and teaming in flexible groups.",
+        "point_content": "Leadership will engage people to work together creatively and embrace teaming in flexible groups.",
         "spans": [
           "Mastering the design and management of teams will become an even more critical focus—or more accurately, mastering what I have called teaming—working in flexible groups with shifting membership, often from different locations, to address particular challenges.",
           "Businesses may be able to learn how to move faster, acting in more agile ways, as a result."
@@ -294,7 +348,7 @@
       },
       {
         "point_number": 5,
-        "point_content": "Standard operating practices will be elevated, with changes such as reduced travel and more work-from-home opportunities becoming permanent.",
+        "point_content": "Standard operating practices will be elevated, with changes such as reduced travel and more work-from-home opportunities.",
         "spans": [
           "Many of the changes companies will make in the short term are obvious: dramatically reduced travel, more work-from-home opportunities for white-collar workers, and changes in business operations to reduce human contact and to improve workplace hygiene.",
           "In the past, companies have used the lessons learned during periods of disruption to improve their standard operating practices."
@@ -320,7 +374,7 @@
       },
       {
         "point_number": 8,
-        "point_content": "Employees and buildings will be healthier, with changes in physical structures and health screening becoming more common.",
+        "point_content": "Employees and buildings will be healthier with changes in physical structures and health screening becoming more common.",
         "spans": [
           "COVID-19 will change the nature of our offices, apartments, hospitals, schools, and government buildings.",
           "Physical components of buildings and public spaces will change, too—in subtle ways.",
@@ -355,45 +409,46 @@
       },
       {
         "point_number": 2,
-        "point_content": "The continued safety measures have made remote working and digital operations the new normal, requiring businesses to transition from offline to online.",
+        "point_content": "Businesses will now have to make a rapid transition from offline to online, which requires a completely new approach to business strategy.",
         "spans": [
-          "the continued safety measures have made remote working and digital operations the new normal.",
           "As a result, businesses will now have to make a rapid transition from offline to online, which requires a completely new approach to business strategy."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Services relying on customer mobility like transportation, fitness centres, and tourism have been worst-hit, with many permanently closing operations.",
+        "point_content": "Services that relied heavily or entirely on customer mobility have been the worst-hit, with many permanently closing operations.",
         "spans": [
-          "In the post-pandemic world, services that relied heavily or entirely on customer mobility have been the worst-hit. Transportation services like Uber, fitness centres, and the tourism industry, for instance, have taken heavy losses and – in many cases – have permanently closed operations."
+          "In the post-pandemic world, services that relied heavily or entirely on customer mobility have been the worst-hit.",
+          "Transportation services like Uber, fitness centres, and the tourism industry, for instance, have taken heavy losses and – in many cases – have permanently closed operations."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Businesses have had to reduce workforce, give up physical offices, and restrict client interactions to digital conversations.",
+        "point_content": "Businesses have been compelled to reduce their workforce, give up physical offices, and restrict client interactions to digital conversations.",
         "spans": [
           "Other businesses have been compelled to reduce their workforce, give up their physical office addresses and restrict client interactions to digital conversations."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Businesses face unprecedented IT challenges and need to overhaul IT infrastructure to manage operations online and make real-time decisions.",
+        "point_content": "COVID-19 has necessitated social distancing and work from home, causing unprecedented IT challenges and requiring a complete overhaul of IT infrastructure in many cases.",
         "spans": [
           "With COVID-19 necessitating social distancing and work from home, businesses have been facing an unprecedented level of IT challenges.",
-          "The need to make real-time decisions and manage both external and internal operations online is pressuring C-suite executives to quickly amp up their systems resilience. In many cases, this calls for a complete overhaul of the IT infrastructure."
+          "In many cases, this calls for a complete overhaul of the IT infrastructure."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Customer expectations have changed, requiring companies to enhance digital commerce and offer contactless delivery and curb-side pick-up options.",
+        "point_content": "Customer expectations have drastically changed, requiring companies to ramp up digital commerce and modify product lines to cater to essential needs.",
         "spans": [
           "Customer expectations have now drastically changed, both in terms of buying patterns as well as interactions with a brand.",
-          "Companies that wish to satisfy these new expectations have to ramp up their digital commerce in new ways, such as by working with shipping partners to provide “contactless” delivery and curb-side pick-up options."
+          "Companies that wish to satisfy these new expectations have to ramp up their digital commerce in new ways, such as by working with shipping partners to provide “contactless” delivery and curb-side pick-up options.",
+          "They may also need to modify their product lines to cater to more essential needs."
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Supply chains have shifted due to shutdowns and restrictions, forcing businesses to adapt to new channels like ecommerce to survive.",
+        "point_content": "Supply chains have undergone a paradigm shift with restrictions, forcing businesses to adapt to new channels like ecommerce to survive.",
         "spans": [
           "Supply chains have undergone a paradigm shift as shipping and distribution facilities have been either shut down or severely restricted.",
           "This means that businesses can now cater to only a fraction of customer demand, and must quickly adapt to new channels – particularly ecommerce – if they wish to survive."
@@ -401,23 +456,30 @@
       },
       {
         "point_number": 8,
-        "point_content": "Businesses need to conduct detailed online market research to understand profitable markets, necessary technology and business practice modifications, and team enablement in the new normal.",
+        "point_content": "Employees and executives are struggling to adjust to virtual work and face uncertainties about pay cuts or job losses.",
         "spans": [
-          "As a business evaluates its plans for delivering services optimally in a post-pandemic world, it needs to find the answers to questions about whether the markets and geographies it has been serving remain profitable, which core technology and business practices need to be modified and how the team can be best enabled to keep delivering in the new normal.",
+          "Both team members and executives are struggling to adjust to virtual work while coping with the uncertainties of the present and the future.",
+          "As businesses struggle to meet demand, employees have additional worries about whether they will face pay cuts or even job losses."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Businesses need to conduct detailed online market research to adapt their plans and serve customers in the new reality.",
+        "spans": [
           "This requires detailed research on online business best practices and how customers would like to be best served in the new reality.",
           "The research itself, moreover, has to be completely online as in-person interactions become the exception rather than the rule – while remaining as authoritative, unbiased and goal-oriented as before."
         ]
       },
       {
-        "point_number": 9,
-        "point_content": "Digital transformation is essential, involving more than just websites and social media, but also enabling remote work and staying connected with consumer needs.",
+        "point_number": 10,
+        "point_content": "Digital transformation is essential, involving more than just websites and social media, but also enabling remote work and meeting consumer needs.",
         "spans": [
           "For a business, the move to digital is not merely about setting up a website and running social media campaigns.",
           "It has to figure out optimal ways for the team to stay connected and continue business-as-usual while working from home, while also staying in touch with consumer needs and expectations."
         ]
       },
       {
-        "point_number": 10,
+        "point_number": 11,
         "point_content": "Businesses need to become agile, removing rigid structures, reshaping supply chains, automating processes, and maintaining financial flexibility.",
         "spans": [
           "Now more than ever, businesses need to be ready to adjust rapidly to changes.",
@@ -427,7 +489,7 @@
         ]
       },
       {
-        "point_number": 11,
+        "point_number": 12,
         "point_content": "Leaders must support teams emotionally and professionally during the transition to remote working, keeping them informed and involved.",
         "spans": [
           "It is critical now for leaders to display solidarity with their teams and support them emotionally as well as professionally.",
@@ -438,7 +500,7 @@
     "clueweb22-en0005-94-09309": [
       {
         "point_number": 1,
-        "point_content": "Remote working has become widespread during the COVID-19 pandemic and may become the new standard for many jobs that do not require a specific location.",
+        "point_content": "Remote working has become widespread due to COVID-19 and may become the new standard for many jobs that do not require a specific location.",
         "spans": [
           "Millions of people around the world have been working remotely due to the coronavirus pandemic",
           "A few large companies in developed economies have already said that what has been a large and unplanned pilot – remote teleworking – will become the standard way of organizing work. Employees need not commute to work again, unless they choose to do so."
@@ -446,7 +508,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "Not all jobs can be done remotely, and the social and economic value of physical workplaces remains important.",
+        "point_content": "Not all workers can work remotely, and the social and economic value of physical workplaces remains important.",
         "spans": [
           "The ILO estimates that in high-income countries 27 per cent of workers could work remotely from home. This does not mean that they will continue to work remotely.",
           "The question is how we can adapt work practices and reap the benefits of this experience with remote working – for employers and workers – while not losing the social and economic value of work as a place."
@@ -454,7 +516,7 @@
       },
       {
         "point_number": 3,
-        "point_content": "Workplace safety and health will be key concerns as workers return to physical workplaces post-pandemic.",
+        "point_content": "Workplace safety and health will be key concerns as workers return to physical workplaces.",
         "spans": [
           "For those returning to their place of work, the quality of work will be a key issue, in particular safe and healthy workplaces.",
           "The degree of workers’ trust in the measures taken by employers to make workplaces safe, will no doubt have an impact on the return to work."
@@ -462,7 +524,7 @@
       },
       {
         "point_number": 4,
-        "point_content": "The pandemic has highlighted the vulnerability of gig economy workers and the need for better protections and safe working conditions.",
+        "point_content": "The pandemic has highlighted the precarious situation of gig economy and informal workers, who often lack income security and benefits.",
         "spans": [
           "For workers in the gig economy, such as food delivery and ride-hailing workers, work is not a place, but an activity performed for an income.",
           "The pandemic has revealed the false choice between flexibility and income security. These workers may have no or inadequate access to sick leave and unemployment-insurance benefits."
@@ -470,7 +532,7 @@
       },
       {
         "point_number": 5,
-        "point_content": "Developing countries face greater challenges as many workers cannot work remotely and have suffered large income losses.",
+        "point_content": "Developing countries face challenges due to the inability of many workers to work remotely and the economic impact on informal workers.",
         "spans": [
           "The ILO estimates a 60 per cent decline in the earnings of the almost 1.6 billion workers in the informal economy in the first month of the crisis.",
           "These workers are simply not able to work remotely and face the impossible choice of risking life or livelihood."
@@ -478,7 +540,7 @@
       },
       {
         "point_number": 6,
-        "point_content": "There may be new opportunities for developing countries in remote service sectors, but also challenges due to reshoring and digital inequality.",
+        "point_content": "There may be new opportunities for developing countries in remote service sectors, but also challenges due to reshoring and digital readiness inequalities.",
         "spans": [
           "As companies begin to evaluate the effectiveness of the shift to remote work and their ability to tackle data security concerns, new opportunities may open up in services for developing countries with the necessary infrastructure.",
           "However, these off-shoring opportunities in activities such as software development and engineering to financial services, may be accompanied by the reshoring in of other jobs as companies seek to improve inventory management and the predictability of supply chains.",
@@ -495,7 +557,7 @@
       },
       {
         "point_number": 8,
-        "point_content": "The pandemic may accelerate digital transformation and change work arrangements, potentially improving work-life balance and job sharing.",
+        "point_content": "The pandemic may accelerate digital transformation and change work organization, including job-sharing and flexible work arrangements.",
         "spans": [
           "there are opportunities to leverage these changes in work organization to design new job-sharing schemes that allow for flexibility and save jobs.",
           "This may mean shorter work weeks or work-sharing arrangements to avoid furloughs in lean times, while reshaping working time arrangements to achieve better work-life balance in the longer-term."
@@ -503,10 +565,10 @@
       },
       {
         "point_number": 9,
-        "point_content": "The pandemic has exposed and may exacerbate inequalities in the workforce, with higher income workers more able to work remotely than lower income workers.",
+        "point_content": "The pandemic may exacerbate inequalities, with higher-income workers more able to work remotely and low-income workers facing more risks and job insecurity.",
         "spans": [
           "It is those in the upper income brackets who are the most likely to choose to work remotely, whereas those in the lowest have no choice; they will have to commute and are more likely to be time-poor as a result.",
-          "Looking to the future, as digital and online work becomes the new normal, the demand for skilled workers is likely to rise along with their wages."
+          "many low-paid workers whose wages have been stagnating in the face of declining union power and a shifting employment relationship are likely to see their incomes eroded even further as the ranks of the unemployed increase."
         ]
       }
     ],
@@ -522,36 +584,35 @@
         "point_number": 2,
         "point_content": "More than half the respondents said they plan to resume travel in the near future.",
         "spans": [
-          "more than half the respondents said they plan to resume travel in the near future."
+          "But in a May follow-up poll, more than half the respondents said they plan to resume travel in the near future."
         ]
       },
       {
         "point_number": 3,
         "point_content": "Around three-quarters of business travelers expect to travel the same amount or even more after the pandemic, due to a resurgence of business activity, relatively low travel costs once lockdowns begin to ease, and pent-up demand after teleconferencing for months.",
         "spans": [
-          "around three-quarters of business travelers expect to travel the same amount or even more after the pandemic, due to a resurgence of business activity, relatively low travel costs once lockdowns begin to ease, and pent-up demand after teleconferencing for months."
+          "In fact, a recent survey by consulting firm Oliver Wyman found that around three-quarters of business travelers expect to travel the same amount or even more after the pandemic, due to a resurgence of business activity, relatively low travel costs once lockdowns begin to ease, and pent-up demand after teleconferencing for months."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Domestic business travel is likely to pick up quicker than international, and any uptick in business travel will be dictated by prevailing economic conditions.",
+        "point_content": "Domestic business travel is likely to pick up quicker than international, and any uptick will be dictated by prevailing economic conditions.",
         "spans": [
-          "Domestic business travel is likely to pick up quicker than international",
-          "any uptick in business travel will be dictated by prevailing economic conditions."
+          "“Domestic business travel is likely to pick up quicker than international,” says Charuta Fadnis, senior vice president of research at travel analytics firm Phocuswright. “But any uptick in business travel will be dictated by prevailing economic conditions.”"
         ]
       },
       {
         "point_number": 5,
         "point_content": "Business travel will rebound slowly, with recovery in around two to three years based on previous economic crises.",
         "spans": [
-          "In previous economic crises, the travel industry has recovered in around two to three years"
+          "In previous economic crises, the travel industry has recovered in around two to three years, she says."
         ]
       },
       {
         "point_number": 6,
         "point_content": "Virtual options such as Zoom and teleconferencing are not sufficient for some business needs, so business travel will eventually resume.",
         "spans": [
-          "virtual options such as Zoom and teleconferencing are not sufficient for some of their needs"
+          "Several frequent corporate travelers from various industries including retail, finance, and entertainment—all of whom asked to speak anonymously—say business travel will eventually resume because virtual options such as Zoom and teleconferencing are not sufficient for some of their needs."
         ]
       },
       {
@@ -565,31 +626,27 @@
         "point_number": 8,
         "point_content": "Certain industries like medical technology, venture capitalists, and management consultants might ramp their travel back up more quickly than others.",
         "spans": [
-          "One of our corporate clients is a medical technology company that works with labs throughout Europe and North America",
-          "Venture capitalists and management consultants, who might be called upon to help companies cope with pressures from the pandemic-caused recession, will also be among the first corporate travelers to hit the road again"
+          "Certain industries might ramp their travel back up more quickly than others, too. “One of our corporate clients is a medical technology company that works with labs throughout Europe and North America,” says Vikram Seshadri, a business and luxury travel advisor with Protravel. “They were hiring before the shutdown and expect to be traveling a lot as restrictions are lifted.” Venture capitalists and management consultants, who might be called upon to help companies cope with pressures from the pandemic-caused recession, will also be among the first corporate travelers to hit the road again, he says."
         ]
       },
       {
         "point_number": 9,
         "point_content": "Large meetings, conferences, and conventions may not rebound more than 50 percent before early next year, but when they do, they could help stabilize and raise airfares and hotel rates.",
         "spans": [
-          "he does not expect large meetings, conferences, and conventions to rebound more than 50 percent before early next year",
-          "If and when they do, they could help stabilize and even raise airfares and hotel rates."
+          "But he does not expect large meetings, conferences, and conventions to rebound more than 50 percent before early next year. If and when they do, they could help stabilize and even raise airfares and hotel rates."
         ]
       },
       {
         "point_number": 10,
         "point_content": "Travel companies will need to implement new sanitation and hygiene measures that make being on the road feel safe, as safety is the new loyalty.",
         "spans": [
-          "Travel companies will need to implement new sanitation and hygiene measures that make being on the road feel safe",
-          "Safety is the new loyalty, and consumers will choose brands that prioritize their well being"
+          "Travel companies will need to implement new sanitation and hygiene measures that make being on the road feel safe. “Safety is the new loyalty, and consumers will choose brands that prioritize their well being,” says Jennie Blumenthal, the travel, transportation, and hospitality leader for consulting company PwC."
         ]
       },
       {
         "point_number": 11,
-        "point_content": "Travel managers will prioritize travelers’ safety and look closely at suppliers’ policies and practices around hygiene and distancing, restricting their list of preferred providers accordingly.",
+        "point_content": "Travel managers will prioritize travelers’ safety and look closely at suppliers’ policies around hygiene and distancing, restricting preferred providers accordingly.",
         "spans": [
-          "travelers’ safety will be the top priority",
           "Travel managers will look very closely at their suppliers’ policies and practices around hygiene and distancing, and restrict their list of preferred providers to those they feel most confident about."
         ]
       },
@@ -597,39 +654,37 @@
         "point_number": 12,
         "point_content": "Corporations will have to factor the costs of new health policies into their travel budgets and planning, and reevaluate whether travel is fundamentally required.",
         "spans": [
-          "Corporations are going to have to factor the costs of new health policies into their travel budgets and planning",
-          "Businesses will reevaluate whether travel is fundamentally required"
+          "Corporations are going to have to factor the costs of new health policies into their travel budgets and planning, says Dale Buckner, CEO of Global Guardian, a firm that offers security, emergency, and medical response services. “Businesses will reevaluate whether travel is fundamentally required,\" he says."
         ]
       },
       {
         "point_number": 13,
-        "point_content": "Corporate travelers are going to want to be sequestered in a business-class pod for safety, which feels like a much safer and more private environment than economy seats.",
+        "point_content": "Corporate travelers are going to want to be sequestered in a business-class pod for safety, which feels safer and more private than economy seats.",
         "spans": [
-          "corporate travelers are going to want to be sequestered in a business-class pod, which feels like a much safer and more private environment than your typical economy seat"
+          "“Because of COVID-related safety concerns, corporate travelers are going to want to be sequestered in a business-class pod, which feels like a much safer and more private environment than your typical economy seat,\" he says."
         ]
       },
       {
         "point_number": 14,
-        "point_content": "Some firms have turned to charters to avoid crowded airports and packed planes, expecting a rise in demand for charters as businesses and cities reopen.",
+        "point_content": "Some firms have turned to charters to avoid crowded airports and packed planes, and demand for charters is expected to rise as businesses and cities reopen.",
         "spans": [
-          "Given how much airlines have slashed their schedules, some firms have also turned to charters",
-          "We expect to see a rise in demand for charters as businesses and cities reopen, and people have more places they can travel to confidently"
+          "Given how much airlines have slashed their schedules, some firms have also turned to charters.",
+          "“We expect to see a rise in demand for charters as businesses and cities reopen, and people have more places they can travel to confidently,” says Alex Wilcox, the CEO of hop-on jet service JSX."
         ]
       },
       {
         "point_number": 15,
-        "point_content": "Airlines and hotels will turn to their loyalty programs to win back business travelers, offering bonuses for travel, promotions to earn elite status, and possibly other new benefits.",
+        "point_content": "Airlines and hotels will turn to their loyalty programs to win back business travelers, with bonuses for travel and promotions to earn elite status.",
         "spans": [
-          "airlines and hotels will turn to their loyalty programs to win back business travelers and their most frequent customers",
-          "I expect to see bonuses for travel and there will probably be promotions to earn elite status, such as double qualifying miles, status-match offers, and possibly other new benefits like available middle-seat blocking."
+          "In addition to promoting new public health measures, airlines and hotels will turn to their loyalty programs to win back business travelers and their most frequent customers.",
+          "“That is going to change. I expect to see bonuses for travel and there will probably be promotions to earn elite status, such as double qualifying miles, status-match offers, and possibly other new benefits like available middle-seat blocking.”"
         ]
       },
       {
         "point_number": 16,
         "point_content": "Travelers will probably be able to redeem airline miles and hotel points for plentiful reward flights and nights in the short term, but free travel and elite perks might be harder to come by once travel increases.",
         "spans": [
-          "travelers will probably be able to redeem their airline miles and hotel points for plentiful reward flights and nights in the short term",
-          "once people begin traveling in larger numbers, free travel and elite perks might be harder to come by."
+          "So while travelers will probably be able to redeem their airline miles and hotel points for plentiful reward flights and nights in the short term, once people begin traveling in larger numbers, free travel and elite perks might be harder to come by."
         ]
       }
     ],
@@ -657,54 +712,52 @@
       },
       {
         "point_number": 3,
-        "point_content": "Major companies like Google, J.P. Morgan, Twitter, and Amazon have moved to virtual interviews, canceled physical conferences, and requested employees to work from home to help stem the spread of COVID-19.",
+        "point_content": "Google and other major corporations have shifted to conducting all interviews virtually and canceled physical conferences to protect health and wellbeing.",
         "spans": [
-          "Google interviews globally virtually via Google Hangout",
-          "Google also canceled a big conference",
-          "J.P. Morgan, Twitter, Amazon and other major corporations have requested that their employees work at home"
+          "Google informed job seekers that “In light of the coronavirus (COVID-19) and to protect our candidates’ and interviewers’ health and wellbeing, we will be conducting all Google interviews globally virtually via Google Hangout for the foreseeable future.",
+          "Google also canceled a big conference that serves to announce new important developments.",
+          "Video interviews and canceling conferences has been echoed by a large number of other influential companies. Leading investment bank J.P. Morgan, Twitter, Amazon and other major corporations have requested that their employees work at home to help with stemming the spread of COVID-19."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Video conferences and virtual meetings are replacing long in-person meetings and travel, saving time and costs.",
+        "point_content": "Video conferences can replace long meetings and reduce the need for employees to travel, making business more efficient and less costly.",
         "spans": [
-          "video conferences are available and cheaper",
-          "Video interviews and canceling conferences",
+          "How much time is wasted by holding long tedious meetings that can easily be dispensed with and addressed by emails?",
           "Why should employees fly around the world when video conferences are available and cheaper?"
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Employees are conscious of company ethics and social views; CEOs will start regulating the companies and countries they do business with, considering differences in perspectives on human rights, health and safety issues, and treatment of workers.",
+        "point_content": "Employees desire to work for companies that share their ethics and social views, and CEOs will start regulating the companies and countries they do business with.",
         "spans": [
-          "Employees are conscious of how their companies operate",
-          "We’ve seen that our large trading partner, China, has a different perspective on human rights, health and safety issues and the treatment of workers",
-          "It's only a matter of time before CEOs will start regulating the companies and countries they do business with"
+          "Employees are conscious of how their companies operate. They desire to work for a place that shares their ethics, morals and social views.",
+          "It's only a matter of time before CEOs will start regulating the companies and countries they do business with."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "The traditional manner of conducting business is changing with more online video meetings and interviews, reduced travel, virtual conferences, and working from home becoming the norm.",
+        "point_content": "The traditional manner of conducting business is changing with more online video meetings, reduced travel, virtual conferences, and working from home becoming the norm.",
         "spans": [
-          "The traditional manner of conducting business is changing right before our eyes",
-          "Online video meetings and interviews, reduced travel to clients, dispensing with physical conferences that can also be done virtually and working from home will take over"
+          "The traditional manner of conducting business is changing right before our eyes.",
+          "Online video meetings and interviews, reduced travel to clients, dispensing with physical conferences that can also be done virtually and working from home will take over."
         ]
       },
       {
         "point_number": 7,
-        "point_content": "These changes benefit companies and employees by increasing productivity, reducing commute stress, saving costs, and improving the environment due to less travel.",
+        "point_content": "These changes benefit companies and employees by increasing productivity, reducing commute stress, saving costs, and improving the environment.",
         "spans": [
-          "These changes are better for both the companies and their employees",
-          "Working from home enables people to be more productive, care for their children and avoid stressful soul-sucking commutes",
-          "Companies will save a fortune on rent and travel related costs and have happier and more motivated employees",
-          "With less plane travel, more people working at home and not commuting, pollution will be reduced and the environment and air quality will improve"
+          "These changes are better for both the companies and their employees.",
+          "Working from home enables people to be more productive, care for their children and avoid stressful soul-sucking commutes.",
+          "Companies will save a fortune on rent and travel related costs and have happier and more motivated employees.",
+          "With less plane travel, more people working at home and not commuting, pollution will be reduced and the environment and air quality will improve."
         ]
       }
     ],
     "clueweb22-en0044-62-11886": [
       {
         "point_number": 1,
-        "point_content": "Expect fewer business trips and more remote work opportunities in most industries.",
+        "point_content": "Expect fewer business trips and more remote work opportunities in most industries post-COVID-19.",
         "spans": [
           "Count on fewer business trips and more remote work opportunities",
           "My guess is there will probably be fewer business trips. We now don’t have to be physically in the same room to accomplish many things",
@@ -713,37 +766,45 @@
       },
       {
         "point_number": 2,
-        "point_content": "Employers may continue to be more flexible with remote work policies after the vaccine.",
+        "point_content": "The U.S. may adopt a mask-wearing culture even after a COVID-19 vaccine is available.",
         "spans": [
-          "She expects corporations to be more flexible with remote work policies ― especially if work is still getting accomplished at home while keeping people from getting sick and helping the company with operations costs."
+          "Expect the United States to change to a mask-wearing culture",
+          "A year from now, and even beyond that, Godwin expects to still see people wearing masks in public — especially people who are more vulnerable to COVID-19.",
+          "Mask-wearing will become more normal, the way it has been in many Asian countries in recent years"
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Business travel will be reduced because many tasks can be accomplished without physical presence.",
+        "point_content": "Large gatherings and events like concerts and sporting events will likely remain limited for some time after the vaccine rollout.",
         "spans": [
-          "My guess is there will probably be fewer business trips. We now don’t have to be physically in the same room to accomplish many things"
+          "Don’t plan to attend a concert or sporting event just yet",
+          "It’s going to be hard to convince people to go back to large gatherings that are simply for entertainment or recreational purposes",
+          "I doubt we’re going to have big events with tens of thousands of people coming together"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "The virus will still circulate after the vaccine is widely available, so COVID-19 will be a continuing concern.",
+        "point_content": "There will be challenges in vaccine distribution affecting the speed and scale of vaccination.",
+        "spans": [
+          "Doctors also anticipate concerns surrounding the actual distribution of the vaccine",
+          "We’re going to have challenges getting a vaccine deployed primarily because of supply chain problems",
+          "How do you manufacture enough doses and get them distributed in a timely manner?"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "COVID-19 will not disappear completely even after vaccination; the virus will continue to circulate.",
         "spans": [
           "The virus won’t go away completely",
           "We are going to be living with COVID for a while"
         ]
       },
       {
-        "point_number": 5,
-        "point_content": "There will be challenges in vaccine distribution that could impact the timeline of returning to normal business operations.",
+        "point_number": 6,
+        "point_content": "The pandemic will have long-term psychological, societal, and cultural impacts.",
         "spans": [
-          "Doctors also anticipate concerns surrounding the actual distribution of the vaccine",
-          "We’re going to have challenges getting a vaccine deployed primarily because of supply chain problems",
-          "How do you manufacture enough doses and get them distributed in a timely manner?",
-          "We can do really nice things with vaccine manufacturing capacity — we make billions of doses of the influenza vaccine every year — but doing that for a new product and having the ability to get it rapidly distributed is going to be really challenging.",
-          "He also anticipates problems around the glass vials and stoppers needed for vaccine storage and distribution.",
-          "Most vials and stoppers are manufactured overseas and if you can’t actually get ships coming in, you can’t get supplies",
-          "Even if you can make the vaccine, can you get enough vials?"
+          "Expect significant psychological, societal and cultural impacts",
+          "He anticipates long-term mental health effects and societal changes as a result of the pandemic"
         ]
       }
     ],
@@ -761,20 +822,17 @@
       },
       {
         "point_number": 2,
-        "point_content": "Google provides resources and training to help businesses manage operations and connect with customers remotely during COVID-19.",
+        "point_content": "Businesses can highlight new service options such as delivery, takeout, drive-through, and online services to adapt to changes in customer needs.",
         "spans": [
-          "Grow with Google provides resources, tips, and online training to help you manage your business, connect with customers, and work from anywhere during COVID-19."
+          "Add “More hours” that describe other business operations such as delivery, takeout, and drive-through.",
+          "Select an attribute to show you offer online services such as classes, appointments, or estimates."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Businesses should highlight safety measures, service options, and updates through attributes and posts on their profiles to keep customers informed.",
+        "point_content": "Google provides resources and training to help businesses manage operations and connect with customers remotely during COVID-19.",
         "spans": [
-          "To make sure your customers have the latest information:",
-          "[Food and retail] Use attributes to highlight available service options",
-          "[Services] Use attributes to highlight online service options",
-          "[Food, retail, services] Highlight safety measures and customer requirements with attributes",
-          "Add a COVID-19 update post to your profile"
+          "Grow with Google provides resources, tips, and online training to help you manage your business, connect with customers, and work from anywhere during COVID-19."
         ]
       },
       {
@@ -782,6 +840,13 @@
         "point_content": "Marking a business as temporarily closed helps customers understand the status and prevents disappointment from visiting closed locations.",
         "spans": [
           "Marking a business as temporarily closed helps ensure that when customers search for a business by name, they'll find it and understand it's only closed temporarily. This may prevent cases where people visit a business in person and are disappointed to discover it's closed."
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "Businesses that are temporarily closed may rank lower in broad search queries but not in specific queries or when many businesses are closed.",
+        "spans": [
+          "Businesses that are temporarily closed may rank after open businesses for broad queries. This ranking doesn’t happen for more specific queries, including queries for a specific business, or for queries when many matching businesses are temporarily closed."
         ]
       }
     ],
@@ -791,8 +856,7 @@
         "point_content": "Organizations need to embrace a modern approach to crisis management, one that emphasizes agility and engineers resilience into the fabric of the business.",
         "spans": [
           "organizations everywhere are under the perpetual threat of crisis.",
-          "preparing for every unknown is no longer possible.",
-          "Instead, organizations need to embrace a modern approach to crisis management, one that emphasizes agility and engineers resilience into the fabric of the business."
+          "organizations need to embrace a modern approach to crisis management, one that emphasizes agility and engineers resilience into the fabric of the business."
         ]
       },
       {
@@ -834,43 +898,35 @@
       },
       {
         "point_number": 5,
-        "point_content": "In disruption, operational challenges need solutions, cash management and liquidity need adjustment, and leadership must expand into the digital space.",
+        "point_content": "In disruption, operational challenges need solutions, cash management and liquidity need adjustment, and communications and leadership must expand into the digital space.",
         "spans": [
           "In disruption, operational challenges need solutions, cash management and liquidity need to be adjusted for the changes in demand and communications and leadership must be expanded into the digital space."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Companies that were not online before are likely going online now, pushing new solutions aggressively to adapt to the fast-changing marketplace.",
+        "point_content": "Companies are moving online if they haven't before, and pushing new solutions aggressively may help in a fast-changing marketplace.",
         "spans": [
           "If companies haven’t been online before, they likely are now. In a fast-changing marketplace, aggressively pushing new solutions into the market may help some companies."
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Businesses must reassess long-term plans as long-lasting changes on both demand and supply sides are expected.",
+        "point_content": "Businesses must reassess long-term plans as long-lasting changes on both demand and supply sides are likely.",
         "spans": [
-          "Next, businesses must reassess not only their plans for the year, but also on a longer-term basis.",
-          "We will likely see long-lasting changes on both the demand and supply side."
+          "Next, businesses must reassess not only their plans for the year, but also on a longer-term basis. The exercise may reveal important insights. Resilience is valuable in crisis. However, just bouncing back from such a consequential worldwide event is not enough. We will likely see long-lasting changes on both the demand and supply side."
         ]
       },
       {
         "point_number": 8,
-        "point_content": "Businesses should assess their capabilities to meet immediate needs and leverage or upgrade with new technologies or partners.",
+        "point_content": "Companies may serve new customers, need to learn new skills, and data strategies, analytics, and cybersecurity become more important in an online world.",
         "spans": [
-          "This is a good moment for businesses to assess their capabilities and how they can be used to meet immediate needs or can be leveraged, upgraded or complemented with new technologies or partners."
-        ]
-      },
-      {
-        "point_number": 9,
-        "point_content": "Companies may serve new customers, need to learn new skills, and data strategies, analytics, and cybersecurity become strategic concerns.",
-        "spans": [
-          "Companies may now serve new, different customers. They may need to get out of their comfort zones and learn new skills.",
+          "Over the long term, finding and pursuing new opportunities will drive change. Companies may now serve new, different customers. They may need to get out of their comfort zones and learn new skills.",
           "And in an online world, data strategies and analytics matter. Writing skills are as important as presentation skills. Cybersecurity becomes a strategic concern."
         ]
       },
       {
-        "point_number": 10,
+        "point_number": 9,
         "point_content": "Change will become the new normal and companies with change ingrained in their culture will do better.",
         "spans": [
           "Whatever the changes needed, change will become the new normal.",
@@ -878,26 +934,24 @@
         ]
       },
       {
-        "point_number": 11,
-        "point_content": "A crisis brings new opportunities and sustaining innovations developed during a crisis often yields positive long-term impact.",
+        "point_number": 10,
+        "point_content": "A crisis brings new opportunities and sustaining innovations during a crisis often yields positive long-term impact.",
         "spans": [
-          "A crisis like this brings new opportunities and should be a trigger to explore new directions.",
-          "A recent study shows that sustaining innovations developed during a crisis often yields a positive impact in the long run as opposed to organizations that cut back innovation budgets."
+          "A crisis like this brings new opportunities and should be a trigger to explore new directions. A recent study shows that sustaining innovations developed during a crisis often yields a positive impact in the long run as opposed to organizations that cut back innovation budgets."
         ]
       },
       {
-        "point_number": 12,
+        "point_number": 11,
         "point_content": "Government investment in response to COVID-19 will impact business outlook depending on whether it restores the old economy or triggers market changes.",
         "spans": [
           "Government will invest more over the coming years to help mitigate the impact of COVID-19. How they direct this spending, whether it’s aimed at restoring the old economy or triggering market changes, will have an impact on a business’s outlook as well."
         ]
       },
       {
-        "point_number": 13,
+        "point_number": 12,
         "point_content": "Changing consumption patterns will increase demand for home fitness, home entertainment, people-tracking, data security, new health-care equipment, and online education solutions.",
         "spans": [
-          "We are likely entering a time in which people change consumption patterns.",
-          "Fitness solutions for home, home entertainment, people-tracking and data security, new health-care equipment and online education solutions, to name just a few, will be in higher demand."
+          "We are likely entering a time in which people change consumption patterns. Fitness solutions for home, home entertainment, people-tracking and data security, new health-care equipment and online education solutions, to name just a few, will be in higher demand."
         ]
       }
     ],
@@ -956,10 +1010,11 @@
       },
       {
         "point_number": 8,
-        "point_content": "The rapid digitalization has exponentially increased companies’ cyber exposures and created more complex and potentially less secure networks, with failure of cybersecurity measures highlighted as a top short-term risk.",
+        "point_content": "The rapid digitalization has exponentially increased companies’ cyber exposures and created more complex and potentially less secure networks, with failure of cybersecurity measures as a top short-term risk and increasing cyber-attacks globally.",
         "spans": [
           "This rapid digitalization also has exponentially increased companies’ cyber exposures and created more complex and potentially less secure networks.",
-          "The Global Risks Report 2021, in fact, highlights the failure of cybersecurity measures as a top short-term risk."
+          "The Global Risks Report 2021, in fact, highlights the failure of cybersecurity measures as a top short-term risk.",
+          "And throughout 2020, we’ve seen increasing cyber-attacks on government agencies and companies globally – many leveraged the COVID-19 crisis to infiltrate networks."
         ]
       },
       {
@@ -971,64 +1026,41 @@
       },
       {
         "point_number": 10,
-        "point_content": "Businesses are facing enhanced societal scrutiny of their practices, particularly in relation to environmental, social and governance aspects of business performance (ESG) and climate change.",
+        "point_content": "Businesses are facing enhanced societal scrutiny of their practices, particularly in relation to environmental, social and governance aspects of business performance (ESG) and climate change, with consumers, employees, and investors expecting firms to reflect their values.",
         "spans": [
-          "Businesses are facing enhanced societal scrutiny of their practices, particularly in relation to environmental, social and governance aspects of business performance (ESG) and climate change."
+          "Businesses are facing enhanced societal scrutiny of their practices, particularly in relation to environmental, social and governance aspects of business performance (ESG) and climate change.",
+          "More than ever, consumers, employees, and investors expect firms to reflect their values."
         ]
       },
       {
         "point_number": 11,
-        "point_content": "Consumers, employees, and investors expect firms to reflect their values, with revenue and reputation risks emerging over employee diversity, job security and fair pay; outsourcing, gig-work and contracting; and climate action.",
+        "point_content": "The pandemic has transformed the needs and demands of workers and workplaces, with greater experience with remote working and flexible work hours changing expectations of how, when and where employees will work, challenging how firms maintain company culture, creativity, identity and motivation.",
         "spans": [
-          "More than ever, consumers, employees, and investors expect firms to reflect their values.",
-          "Revenue and reputation risks, and ultimately long-term value risks, are emerging over employee diversity, job security and fair pay; outsourcing, gig-work and contracting; and climate action."
+          "The pandemic has transformed the needs and demands of workers and workplaces – whether in company or home offices, manufacturing facilities, shops, hospitals, distribution centres or transport.",
+          "Greater experience with remote working and flexible work hours is changing expectations of how, when and where employees will work.",
+          "This is challenging how firms maintain company culture, creativity, identity and the motivation of their employees."
         ]
       },
       {
         "point_number": 12,
-        "point_content": "The pandemic has transformed the needs and demands of workers and workplaces, with greater experience with remote working and flexible work hours changing expectations of how, when and where employees will work.",
-        "spans": [
-          "The pandemic has transformed the needs and demands of workers and workplaces – whether in company or home offices, manufacturing facilities, shops, hospitals, distribution centres or transport.",
-          "Greater experience with remote working and flexible work hours is changing expectations of how, when and where employees will work."
-        ]
-      },
-      {
-        "point_number": 13,
-        "point_content": "This transformation challenges how firms maintain company culture, creativity, identity and the motivation of their employees, and has big implications for the health and well-being of employees and society at large.",
-        "spans": [
-          "This is challenging how firms maintain company culture, creativity, identity and the motivation of their employees.",
-          "This also has big implications for the health and well-being of employees and for society at large."
-        ]
-      },
-      {
-        "point_number": 14,
-        "point_content": "Firms may suffer from productivity losses and need to more carefully manage employee safety and security challenges due to remote working.",
-        "spans": [
-          "Firms may suffer from productivity losses and need to more carefully manage employee safety and security challenges.",
-          "Surveys showed that 55% of employees were less productive and engaged due to remote working."
-        ]
-      },
-      {
-        "point_number": 15,
         "point_content": "An ongoing global mental health crisis exacerbated by the pandemic and associated lockdowns has produced staggering impacts, with costs of worsening mental health potentially rising to as much as $1.6 trillion over the next 10 years in the US alone.",
         "spans": [
-          "An ongoing global mental health crisis exacerbated by the pandemic and associated lockdowns has produced staggering impacts.",
+          "On a broader societal level, an ongoing global mental health crisis exacerbated by the pandemic and associated lockdowns has produced staggering impacts.",
           "The costs of worsening mental health could rise to as much as $1.6 trillion over the next 10 years in just the US alone."
         ]
       },
       {
-        "point_number": 16,
-        "point_content": "The pandemic showed the importance of public-private collaboration, with rapid vaccine development, repurposing of supply chains, and shifts to remote work even in heavily-regulated industries.",
+        "point_number": 13,
+        "point_content": "The rapid and unprecedented development and distribution of multiple vaccines, repurposing of supply chains and manufacturing processes, and the ability to shift to remote and new ways of working demonstrate the importance of public-private collaboration.",
         "spans": [
-          "The pandemic has shown the importance of public-private collaboration.",
           "The rapid and unprecedented development and distribution of multiple vaccines.",
           "A repurposing of supply chains and manufacturing processes to develop PPE and critical medical equipment.",
           "The ability to shift to remote and new ways of working in even the most heavily-regulated industries."
         ]
       },
       {
-        "point_number": 17,
-        "point_content": "More collaboration across society – the public and private sectors, communities, and NGOs – is essential for sustainable recovery, including stimulus programs for green infrastructure, partnerships to upskill workers for the digital economy, and new pandemic and emerging risk insurance mechanisms.",
+        "point_number": 14,
+        "point_content": "More collaboration across society – the public and private sectors, communities, and NGOs – is essential for sustainable recovery, including stimulus programs for green infrastructure and clean energy, upskilling workers for a digital economy, and new pandemic and emerging risk insurance mechanisms.",
         "spans": [
           "More collaboration across society – the public and private sectors, communities, and NGOs – is essential.",
           "It will involve developing stimulus programs that incentivize sustainable recovery efforts that include green infrastructure and clean energy projects.",
@@ -1037,11 +1069,12 @@
         ]
       },
       {
-        "point_number": 18,
-        "point_content": "Businesses need to keep an eye on potentially high impact events in the short-term and on the longer-term landscape, and be prepared to respond effectively, creatively and collaboratively to build and maintain resilience.",
+        "point_number": 15,
+        "point_content": "Businesses need to keep an eye on potentially high impact events in the short-term and on the longer-term landscape and be prepared to respond effectively, creatively and collaboratively to sustainably navigate risks and opportunities ahead and strengthen resilience to future shocks.",
         "spans": [
           "To build and maintain resilience, it is important that business keeps an eye on potentially high impact events in the short-term and on the longer-term landscape.",
-          "And then be prepared to respond effectively, creatively and collaboratively."
+          "And then be prepared to respond effectively, creatively and collaboratively.",
+          "This is vital for businesses and the global community to sustainably navigate the risks and opportunities ahead, strengthen their resilience to future shocks and progress towards long-term prosperity."
         ]
       }
     ],
@@ -1055,7 +1088,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "Expansion plans by large corporations are continuing despite the pandemic, with North America and Asia-Pacific as key target markets.",
+        "point_content": "Expansion plans for international business are continuing despite the pandemic, with North America and Asia-Pacific as key target markets.",
         "spans": [
           "The majority of respondents made no or minimal changes to their expansion plans when COVID-19 hit.",
           "45% of the CFOs surveyed said they are continuing with their development plans despite the pandemic or delaying their plans by less than a year.",
@@ -1065,18 +1098,16 @@
       },
       {
         "point_number": 3,
-        "point_content": "COVID-19 has accelerated digitization and remote working, creating a more diverse and creative workforce.",
+        "point_content": "COVID-19 has accelerated digitization and remote working, creating a more diverse and creative global workforce.",
         "spans": [
           "The spread of COVID-19 has rapidly accelerated the rate of digitization within global companies.",
           "The shift from onsite to remote working has forced organizations to implement new practices that allow colleagues to communicate and teams to continue working together from home.",
-          "83% of respondents to the Globalization Partners/CFO Research survey said they thought a global, remote workforce was the solution to the challenges of a world in confinement—and beyond.",
-          "Jack Dorsey, CEO of Twitter and Square, announced his employees could work from home “forever” if that was what they preferred.",
-          "organizations embracing global, remote working are building more diverse teams, expanding their skill sets, and promoting creativity, all of which are net positives for any business!"
+          "83% of respondents to the Globalization Partners/CFO Research survey said they thought a global, remote workforce was the solution to the challenges of a world in confinement—and beyond."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Employee wellbeing has become a top priority for organizations in planning foreign expansion.",
+        "point_content": "Employee wellbeing has become a top priority for organizations in planning foreign expansion post-pandemic.",
         "spans": [
           "Health & safety beat new business strategies, increased revenue, and reduced costs to become the most important consideration during the planning stage of a foreign expansion."
         ]
@@ -1141,85 +1172,69 @@
       },
       {
         "point_number": 9,
-        "point_content": "Some services may benefit from the crisis, such as information technology services, demand for which has boomed as companies try to enable employees to work from home and people socialise remotely.",
+        "point_content": "Some services may benefit from the crisis. This is true of information technology services, demand for which has boomed as companies try to enable employees to work from home and people socialise remotely.",
         "spans": [
-          "However, some services may benefit from the crisis. This is true of information technology services, demand for which has boomed as companies try to enable employees to work from home and people socialise remotely."
+          "Some services may benefit from the crisis. This is true of information technology services, demand for which has boomed as companies try to enable employees to work from home and people socialise remotely."
         ]
       }
     ],
     "clueweb22-en0043-36-02637": [
       {
         "point_number": 1,
-        "point_content": "The coronavirus pandemic has caused a near-screeching halt in the consumer economy, impacting multiple business sectors including retail, hospitality, foodservice, and fashion.",
+        "point_content": "The pandemic has caused a near-screeching halt in consumer economy affecting multiple sectors including retail, hospitality, foodservice, and fashion.",
         "spans": [
           "As the nation retreats from stores and restaurants to air travel to thwart the spread of COVID-19, the consumer economy has come to a near-screeching halt, with a range of business sectors taking massive hits."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Retailers selling non-essential items are struggling, and there is uncertainty about when consumer spending will bounce back, depending on government restrictions.",
+        "point_content": "Retail sector is heavily impacted with many stores closing and uncertainty about when consumer spending will bounce back.",
         "spans": [
-          "Retailers that sell wants not needs, like apparel merchants and department stores, for example, will bear the brunt of this crisis, Ray Wimer, an assistant professor of the retail practice at Syracuse University’s Martin J. Whitman School of Management, told CO—.",
-          "Right now, there is so much uncertainty that we have no idea when consumer spending will bounce back, he said. It really depends on how the government continues to place restrictions that help flatten the curve and when these restrictions will be lifted."
+          "As an ever-growing list of national players like Macy’s, Nordstrom, Nike and Apple shutter their doors in the wake of the virus, and with Simon, the country’s largest mall operator, closing over 200 shopping centers, a sector that’s already been battered by widespread closures is taking another hit, as stores go dark around the country.",
+          "“It took consumers about six weeks to start spending in the retail sector after 9/11; about six months post the [2008] crash. Right now, there is so much uncertainty that we have no idea when consumer spending will bounce back,” he said."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "The pandemic has accelerated online shopping, which may lead to changed buying behavior post-pandemic and growth in new retail models like rental or consignment retail.",
+        "point_content": "The pandemic has accelerated the shift to online shopping, which may lead to lasting changes in consumer behavior post-pandemic.",
         "spans": [
           "The virus has fueled an uptick in online shopping, which still accounts for a mere 10.7% of total U.S. retail sales.",
-          "That shift could lead to changed buying behavior post-pandemic, turning longtime e-commerce holdouts into converts, such as older shoppers who are now most at risk, according to eMarketer.",
-          "Will this mean that rental or consignment retail will take off?"
+          "According to a recent survey of 1,000 consumers by brand protection firm Red Points, 58% of Americans have purchased more items online compared to in-store than they normally would have, due to fears of the coronavirus."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "The hospitality industry is facing unprecedented losses with plummeting occupancy rates and could see fewer people wanting to travel overall due to COVID-19 fears and social distancing.",
+        "point_content": "Hospitality industry is facing unprecedented losses with plummeting occupancy rates and fewer people wanting to travel overall.",
         "spans": [
           "The health crisis is costing the U.S. hotel industry a reported $1.4 billion a week in what’s shaping up to be an unprecedented sector hit, as occupancy rates plummet.",
-          "With the spread of COVID-19 and the CDC’s advice to maintain social distancing, we could see fewer people want to travel overall."
+          "“Hotel demand will be down sharply in the near term as the public puts off traveling because of coronavirus fears and regulations that limit public gatherings,” Peter Trombetta, Moody’s lodging and cruise analyst, told CO—.",
+          "“With the spread of COVID-19 and the CDC’s advice to maintain social distancing, we could see fewer people want to travel overall,” he said."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Hotel companies will face revenue drops and may need to cut costs, suspend share repurchases or dividends due to decreased occupancy and revenue.",
+        "point_content": "The foodservice industry has seen business disappear overnight, with a shift from full-service restaurants to grocery and delivery services.",
         "spans": [
-          "If that hotel earns less revenue because occupancy is down, there is no real way that the hotel company can offset that.",
-          "If revenue drops enough, the companies would look to cut costs and spending and also suspend share repurchases or even dividends."
+          "For much of the U.S. restaurant industry, “business just disappeared overnight,” Erik Thoresen, food industry expert and director at Midwest Capital Group, told CO—.",
+          "COVID-19 has sparked diners’ exodus and local government-imposed closures.",
+          "“Spending at restaurants is going to grocery stores.”"
         ]
       },
       {
         "point_number": 6,
-        "point_content": "The foodservice industry has seen business disappear overnight, with full-service restaurants particularly hard hit, while grocery and quick-service food merchants maintain demand.",
+        "point_content": "Fashion industry demand has been adversely affected by anxiety and lack of in-person engagement, with supply chain disruptions and a decline in need for new clothing.",
         "spans": [
-          "For much of the U.S. restaurant industry, business just disappeared overnight.",
-          "The government won’t shut down groceries, as people can’t get essentials.",
-          "With quick-service food merchants like McDonald’s to Starbucks and Sweetgreen pivoting to delivery-and-pick-up-only mode, that sector could continue to maintain a strong level of demand."
+          "“Global consumer demand has been adversely affected by both anxiety and the absence of in-person engagement,” Susan Scafidi, founder and director of the Fashion Law Institute at Fordham University, told CO—.",
+          "“With social and professional gatherings canceled and telecommuting becoming the new normal, the need for a spring wardrobe refresh has all but disappeared.”"
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Online grocery shopping is expected to grow significantly as consumers turn to delivery apps during the pandemic.",
-        "spans": [
-          "But as a newly sequestered nation flocks online for food, downloading delivery apps like Instacart, Walmart Grocery and Shipt in record numbers, online grocery shopping could finally take flight."
-        ]
-      },
-      {
-        "point_number": 8,
-        "point_content": "The fashion industry is severely impacted by reduced consumer demand and supply chain disruptions, with a decline in the need for seasonal wardrobe refreshes.",
-        "spans": [
-          "Global consumer demand has been adversely affected by both anxiety and the absence of in-person engagement.",
-          "With social and professional gatherings canceled and telecommuting becoming the new normal, the need for a spring wardrobe refresh has all but disappeared."
-        ]
-      },
-      {
-        "point_number": 9,
-        "point_content": "The crisis may lead to a resurgence in local apparel manufacturing and new fashion trends adapted to work-from-home and health concerns.",
+        "point_content": "Post-pandemic, there may be a resurgence in local manufacturing and new fashion trends adapted to work-from-home lifestyles.",
         "spans": [
           "The health crisis could spark an uptick in brands looking to U.S. apparel production.",
-          "We may a see resurgence in local manufacturing, driven not only by the coronavirus crisis but also by trade wars and a need to diversify supply chains.",
-          "Designers will step up to the new challenge of work-from-home chic.",
-          "For the risk adverse, there will be designer facemasks and new developments in antimicrobial fabric — a literal silver lining."
+          "“We may a see resurgence in local manufacturing, driven not only by the coronavirus crisis but also by trade wars and a need to diversify supply chains.”",
+          "“Designers will step up to the new challenge of work-from-home chic,” Scafidi said."
         ]
       }
     ],
@@ -1249,7 +1264,7 @@
       },
       {
         "point_number": 4,
-        "point_content": "The shortest path to economic recovery is slowing the spread of the virus through health care spending and testing, so people feel safe to resume normal activities.",
+        "point_content": "Slowing the spread of the virus through health care spending and testing is the most important step to stimulate economic recovery, as it makes people feel safe to resume normal activities.",
         "spans": [
           "The most important thing you can do for the economy is slow the spread of the virus",
           "That’s how you stimulate the economy, because people have to feel safe leaving their homes."
@@ -1257,7 +1272,7 @@
       },
       {
         "point_number": 5,
-        "point_content": "Government spending decisions will be critical, especially in supporting sectors that cannot quickly recover, like hospitality.",
+        "point_content": "Government spending decisions need to consider which sectors to support, as keeping some industries like hospitality alive for a long time will be expensive.",
         "spans": [
           "One of the decisions we have to make soon is how the government spends that money",
           "It’s going to be expensive to keep the hospitality industry alive for a year or more until people feel comfortable going out again."
@@ -1265,7 +1280,7 @@
       },
       {
         "point_number": 6,
-        "point_content": "The increase in debt due to COVID-19 response is unavoidable, but long-term strategies for paying off debt will be necessary and could impact future investment and growth.",
+        "point_content": "The increase in debt due to COVID-19 response is unavoidable, but long-term strategies for paying off debt should be considered to avoid harming future investment and growth.",
         "spans": [
           "Goolsbee said there’s no alternative to adding to the debt, but we should be considering the long-term implications for paying off these debts.",
           "We should be wary when we have lots of debt and potential taxation down the line. A lot of investors are going to be worrying about where it's going to fall, and that could be perhaps very damaging for investment and growth."
@@ -1275,7 +1290,7 @@
     "clueweb22-en0029-02-08651": [
       {
         "point_number": 1,
-        "point_content": "The post COVID performance gap has widened between digital laggards and leading businesses, affecting the nature of the post-covid workplace.",
+        "point_content": "The post COVID performance gap has widened between digital laggards and leading businesses, impacting the nature of the post-covid workplace.",
         "spans": [
           "Julie Sweet on how Covid-19 has widened the gap between digital laggards and lead- ing businesses, and the nature of the post-covid workplace"
         ]
@@ -1284,29 +1299,29 @@
         "point_number": 2,
         "point_content": "Companies must accelerate digital transformation, establish variable cost structures, and implement agile operations to emerge stronger post-pandemic.",
         "spans": [
-          "Many organizations are already taking “no regret” actions to emerge from the pandemic stronger. These leaders are facing the crisis with a spirit of reinvention—accelerating digital transformation, establishing variable cost structures, and implementing agile operations."
+          "accelerating digital transformation, establishing variable cost structures, and implementing agile operations"
         ]
       },
       {
         "point_number": 3,
         "point_content": "Companies must outmaneuver uncertainty by course correcting, reassessing assumptions, re-evaluating scenarios and strengthening their ability to sense and respond as circumstances change.",
         "spans": [
-          "Companies must outmaneuver uncertainty by course correcting, again and again as circumstances change. This requires them to reassess assumptions, re-evaluate scenarios and strengthen their ability to sense and respond ."
+          "Companies must outmaneuver uncertainty by course correcting, again and again as circumstances change. This requires them to reassess assumptions, re-evaluate scenarios and strengthen their ability to sense and respond"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "The pandemic is fundamentally changing consumer behaviors and accelerating structural changes in industries, requiring companies to redesign customer experiences and pivot to digital commerce.",
+        "point_content": "The pandemic is accelerating immense structural changes in consumer behavior and digital commerce, requiring companies to reimagine their digital strategies to capture new marketplace opportunities.",
         "spans": [
-          "The global COVID-19 pandemic has forever changed our experiences―as customers, employees, citizens, humans― and our attitudes and behaviors are changing as a result.  The crisis is fundamentally changing how and what consumers buy and is accelerating immense structural changes in the consumer goods industry, for example.",
-          "With these emerging new behaviors, organizations have an opportunity to accelerate the pivot to digital commerce, by expanding existing offerings and creating new lines of service, like the retailers rallying to provide “contactless” delivery and curb-side pick-up services for consumers."
+          "The crisis is fundamentally changing how and what consumers buy and is accelerating immense structural changes in the consumer goods industry",
+          "This acceleration will force organizations to reimagine their digital strategies to capture new marketplace opportunities and digital customer segments."
         ]
       },
       {
         "point_number": 5,
         "point_content": "Organizations are shifting to remote workforces and developing agile workforce strategies to maintain business continuity and workforce resilience.",
         "spans": [
-          "CHROs across industries are rising to the challenge, helping people and organizations navigate massive workforce shifts, such as the urgent need to shift to a remote workforce to protect and empower employees, serve customers and to establish business continuity.",
+          "the urgent need to shift to a remote workforce to protect and empower employees, serve customers and to establish business continuity",
           "CHROs’ expertise in developing agile workforce strategies is critical to keeping the global economy viable and helping people and their families survive financially now and in the future."
         ]
       },
@@ -1320,7 +1335,7 @@
       },
       {
         "point_number": 7,
-        "point_content": "Companies need to develop rapid responses to supply chain disruptions and reshape supply chains for future resilience and responsibility.",
+        "point_content": "Companies need to repurpose and reshape supply chains for the future by increasing both resilience and responsibility.",
         "spans": [
           "Companies need to develop a rapid response to address current disruptions and to repurpose and reshape supply chains for the future by increasing both resilience and responsibility."
         ]
@@ -1329,15 +1344,16 @@
         "point_number": 8,
         "point_content": "Leaders must act quickly to optimize company resilience, rebalance for risk and liquidity, and invest in new opportunities to ensure survival and future growth.",
         "spans": [
-          "In the face of the COVID-19 crisis, leaders have had to act quickly to optimize their company’s resilience—rebalancing for risk and liquidity, while assessing opportunities for growth coming out of the downturn.",
+          "leaders have had to act quickly to optimize their company’s resilience—rebalancing for risk and liquidity, while assessing opportunities for growth coming out of the downturn.",
           "Immediate action is needed to address short-term liquidity challenges, but also to solve for costs and profitability and generate funding to invest in new opportunities, including M&A."
         ]
       },
       {
         "point_number": 9,
-        "point_content": "IT systems must be resilient and adaptable to support new ways of working, real-time decision-making, and workforce productivity in a post-COVID world.",
+        "point_content": "IT systems must be resilient and adaptable to support new ways of working and prepare companies for future disruptions.",
         "spans": [
-          "As businesses juggle a range of new systems priorities and challenges― business continuity risks, sudden changes in volume, real-time decision-making, workforce productivity, security risks―leaders must act quickly to address immediate systems resilience issues and lay a foundation for the future."
+          "leaders must act quickly to address immediate systems resilience issues and lay a foundation for the future.",
+          "Once we reach the other side of this pandemic, it will be important to establish long-term strategies for greater resilience and to apply lessons learned from the experience to create a systems and talent roadmap that better prepares your company for future disruptions."
         ]
       }
     ],
@@ -1351,7 +1367,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "The big test for companies will come when the pandemic goes on for more than a couple of weeks.",
+        "point_content": "The big test for companies will come when the pandemic economy goes on for more than a couple of weeks.",
         "spans": [
           "the big test will come when it goes on for more than a couple of weeks"
         ]
@@ -1366,33 +1382,36 @@
       },
       {
         "point_number": 4,
-        "point_content": "Social-distancing measures and stay-in-place orders have led to entire companies moving their workforce to working from home, increasing demand for video conferencing software such as Zoom.",
-        "spans": [
-          "Social-distancing measures and government-mandated stay-in-place orders have led to entire companies moving their workforce to working from home, leading to a skyrocketing demand for video conferencing software such as Zoom"
-        ]
-      },
-      {
-        "point_number": 5,
         "point_content": "Working remotely and using video conferencing is not going to go away and will speed up the adoption of these technologies.",
         "spans": [
           "working remotely, and using video conferencing, is not going to go away. If anything, I think it will speed up the adoption of these technologies"
         ]
       },
       {
+        "point_number": 5,
+        "point_content": "Video conferencing platforms are being used for a variety of purposes beyond meetings, including live workout or yoga classes, remote learning, and social events like weddings and funerals.",
+        "spans": [
+          "In addition to being used for meetings, workers in the health and fitness sector have also used the software to stream live workout or yoga classes",
+          "Teachers have also turned to the platform for remote learning lessons",
+          "Pelosi said she has heard of the platform being used \"for weddings, funerals and bar mitzvahs\""
+        ]
+      },
+      {
         "point_number": 6,
-        "point_content": "Delivery services, especially in food and grocery, have seen a sharp uptick in demand, with companies hiring hundreds of thousands of workers.",
+        "point_content": "There is a sharp uptick in demand for delivery services, especially in food and grocery sectors, with companies hiring hundreds of thousands of workers to meet demand.",
         "spans": [
           "The same new directives that are forcing thousands to work from home have led to a sharp uptick in demand for delivery services, especially in the food and grocery sector",
-          "delivery companies booming",
-          "Instacart announced late last week it plans to hire a whopping 300,000 additional full-time shoppers over the next three months to meet the increased demand",
-          "Amazon similarly said it will hire 100,000 full and part-time positions at fulfillment centers and delivery networks across the U.S. Pizza delivery giants Pizza Hut, Domino's and Papa John's also said they are hiring"
+          "Instacart announced late last week it plans to hire a whopping 300,000 additional full-time shoppers over the next three months",
+          "Amazon similarly said it will hire 100,000 full and part-time positions",
+          "Pizza delivery giants Pizza Hut, Domino's and Papa John's also said they are hiring"
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Restaurants have changed operations to take-out only and contactless delivery to comply with social distancing.",
+        "point_content": "Restaurants have changed operations to take-out and delivery only, with measures to minimize contact between staff and customers.",
         "spans": [
           "A handful of places including New York City have also mandated restaurants and other gathering-places such as bars only do take-out services for the time being",
+          "We’re serving people pretty much at the door",
           "We keep the door locked, we go to the door and we give them their food from behind the door with gloves on",
           "Same thing with our delivery app drivers, we’re not letting them in, they are showing us their phone through the window"
         ]
@@ -1407,11 +1426,12 @@
       },
       {
         "point_number": 9,
-        "point_content": "Grocery and retail stores have implemented special hours for at-risk groups, reduced hours for deep cleaning, increased sanitation measures, and installed protective barriers to prevent spread of germs.",
+        "point_content": "Grocery and retail stores have implemented special hours for at-risk groups, reduced hours for cleaning, increased sanitation measures, and installed protective barriers to promote social distancing.",
         "spans": [
           "Dollar General, Target, Walmart, Whole Foods and more have announced special hours for older shoppers",
-          "they have reduced hours to allow for deep-cleanings of the store, upped the availability of hand sanitizer and disinfectant-wipe stations and installed new \"sneeze-guard\" glass at pharmacy and checkout and more",
-          "We're installing clear plexiglass, sometimes there called sneeze guards. Buffets use them a lot, to prevent the spread of germs. We're rolling them out in pharmacy lanes and checkout lanes"
+          "they have reduced hours to allow for deep-cleanings of the store, upped the availability of hand sanitizer and disinfectant-wipe stations and installed new \"sneeze-guard\" glass at pharmacy and checkout",
+          "We're installing clear plexiglass, sometimes there called sneeze guards",
+          "We're installing signage to all of the stores to promote social distancing"
         ]
       }
     ],
@@ -1422,12 +1442,12 @@
         "spans": [
           "From accelerated digitization of the workplace with millions suddenly working from home",
           "McKinsey recently stated that “It’s possible that entirely new businesses and business models will emerge from the crisis”",
-          "COVID-19 has indeed been a disruptor, with 65% of respondents reporting negative financial impact to their businesses, but in many cases companies have been able to turn this disruption into a positive force, by innovating and accelerating the creation of new products as well as cultivating deeper relationships with their customers."
+          "Our survey results show that COVID-19 has indeed been a disruptor, with 65% of respondents reporting negative financial impact to their businesses, but in many cases companies have been able to turn this disruption into a positive force, by innovating and accelerating the creation of new products as well as cultivating deeper relationships with their customers."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Remote work and work from home have become widespread and are expected to continue post-COVID-19, changing workplace dynamics.",
+        "point_content": "Remote work and work from home have become significant and likely permanent changes in the workplace post COVID-19.",
         "spans": [
           "85% believe their organizations can cope with at least some of their staff continuing to work from home. 43% believe their companies can cope with large numbers of staff doing so.",
           "A Gartner survey says that “74% of CFOs and Finance leaders will move at least 5% of their previously on-site workforce to permanently remote positions post-COVID 19”.",
@@ -1436,22 +1456,23 @@
       },
       {
         "point_number": 3,
-        "point_content": "Digital and virtual events and conferences have become important and will continue to be integrated with in-person events.",
+        "point_content": "Businesses are focusing on digital engagement and virtual events as part of their new normal.",
         "spans": [
           "At Informa Connect​​​​​​​, like over 92% of our customers surveyed, we've been working remotely due to COVID-19; and we've been producing most of our in-person events digitally.",
-          "Once we are able to do in-person events again, we'll be bringing the valuable lessons we've learned to all our events and content - both in-person and digital."
+          "From Informa Connect's EBD Group transforming what would have been a Paris conference to a digital solution for their BIO-Europe® Spring event, to our cutting edge Finovate events going digital for summer and fall 2020, we've learned that it's important for attendees to both engage directly with speakers and network with their peers."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Financial services have rapidly adapted with new digital products and services, and increased client interaction during the pandemic.",
+        "point_content": "The financial sector has accelerated digitization and introduced new products and services to meet changing customer needs.",
         "spans": [
-          "Based on our survey results, the finance sector has been one of the most responsive to customer needs, with 31% of those surveyed developing a new product or service, 30% accelerating development of an already planned product and 45% introducing new initiatives during the pandemic to better connect with customers."
+          "The finance sector has been one of the most responsive to customer needs, with 31% of those surveyed developing a new product or service, 30% accelerating development of an already planned product and 45% introducing new initiatives during the pandemic to better connect with customers.",
+          "PWC’s Covid-19 CFO Pulse survey confirms this: “FS firms, including asset and wealth management, banking and capital markets and insurance, have been going through a rapid digital transformation... Once the COVID-19 situation stabilizes, firms may not be able to compete if they haven’t built systems, products, and processes that meet client demands in the ‘new normal’.”"
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Marketing is shifting towards digital transformation, empathy, direct-to-consumer messaging, and virtual selling.",
+        "point_content": "Marketing and branding are shifting towards digital, empathetic, and direct-to-consumer approaches.",
         "spans": [
           "92% of marketing professionals surveyed believe that COVID-19 has impacted the need for digital transformation for businesses, and that it will have long term impact.",
           "Ann Handley, Chief Content Officer of MarketingProfs describes what she sees as trends that came out of the COVID-19 epidemic that will define marketing for years to come: “1. The importance of truly valuable content in marketing that’s stuffed with empathy, inspiration, and utility. 2. The importance of direct-to-consumer messaging, branding, communications. 3. Virtual selling and online sales appointments."
@@ -1459,24 +1480,25 @@
       },
       {
         "point_number": 6,
-        "point_content": "Life sciences and healthcare have accelerated innovation, digital health, and telemedicine due to COVID-19.",
+        "point_content": "Life sciences and healthcare have accelerated innovation, digital transformation, and regulatory changes due to COVID-19.",
         "spans": [
           "Digital transformation in healthcare has been accelerated by COVID-19 and 84% of our survey respondents agree that the disease has had an impact; 62% feel that the impact will be long term, 22% short term.",
-          "From the sudden focus on healthcare workers and the biotech world, to the acceleration of the digitization of medicine and the difficulties of social distancing in labs; the life sciences industry has been has been thrown into the spotlight during the COVID-19 pandemic."
+          "In a matter of weeks, regulatory barriers to telemedicine in the U.S. have largely fallen.",
+          "Xconomy’s Dan Stanton tell us that “industry is rising to the challenge. Supported by nervous investors hit hard by volatile markets, products are whizzing through the clinic at unprecedented speed."
         ]
       },
       {
         "point_number": 7,
         "point_content": "Maritime and energy sectors are experiencing disruption but also accelerating digitalization and transition to renewable energy.",
         "spans": [
-          "As with other industries, COVID-19 has had the effect of speeding up some phenomena already in place, such as decarbonization and digitalisation.",
+          "COVID-19 has had the effect of speeding up some phenomena already in place, such as decarbonization and digitalisation.",
           "Digital transformation in shipping and maritime has been both tested and sped up during this crisis, emerging as a \"silver lining\".",
-          "Since the start of the year, returns from renewable energy investment have stayed well above those from fossil fuel projects, and slightly above US industrial averages."
+          "Renewable energy could power an economic recovery from COVID-19 by spurring global GDP gains of almost $100tn between now and 2050."
         ]
       },
       {
         "point_number": 8,
-        "point_content": "Global supply chains have been exposed as fragile, but the crisis has spurred innovation and problem solving in supply chain and logistics.",
+        "point_content": "Global supply chains have been exposed as fragile, leading to innovation and investment in supply chain and logistics technology.",
         "spans": [
           "One of the biggest things that COVID-19 has exposed are the flaws in our global supply chain systems - shown most dramatically in global healthcare workers in some of the wealthiest countries in the world being \"dangerously ill-equipped \" to deal with the crisis.",
           "\"COVID-19 has opened people’s eyes for the power of digital in supply chain and logistics. Those that open their minds will make the leap. The talent to build the new solutions is out there. Go and get it.\" Wolfgang Lehmacher"
@@ -1488,14 +1510,15 @@
         "point_number": 1,
         "point_content": "The pandemic will have an uneven impact on international business potentially changing the landscape in which companies operate.",
         "spans": [
-          "The pandemic will have an uneven impact on international business potentially changing the landscape in which companies operate."
+          "The pandemic will have an uneven impact on international business potentially changing the landscape in which companies operate."
         ]
       },
       {
         "point_number": 2,
         "point_content": "Companies currently face heightened levels of uncertainty, especially in terms of their international operations, with rising geopolitical tensions and protectionist sentiment.",
         "spans": [
-          "Companies currently face heightened levels of uncertainty, especially in terms of their international operations. Geopolitical tensions are rising, and the U.S.-China trade war may only be at its beginning.",
+          "Companies currently face heightened levels of uncertainty, especially in terms of their international operations.",
+          "Geopolitical tensions are rising, and the U.S.-China trade war may only be at its beginning.",
           "Globalization is also being increasingly scrutinized, and protectionist sentiment has been spreading, even in countries such as the U.S. and the United Kingdom, which have championed an open approach to markets and benefitted substantially from the world’s increased connectedness."
         ]
       },
@@ -1503,7 +1526,7 @@
         "point_number": 3,
         "point_content": "Global foreign direct investment (FDI) flows will take significantly longer to recover than trade after the pandemic.",
         "spans": [
-          "Conversely, when looking at global foreign direct investment (FDI) flows, UNCTAD 3 data indicate that FDI flows will take significantly longer to recover, as illustrated in the chart below.",
+          "Conversely, when looking at global foreign direct investment (FDI) flows, UNCTAD data indicate that FDI flows will take significantly longer to recover, as illustrated in the chart below.",
           "The heightened levels of uncertainty and ongoing protectionist pressures are likely to further exacerbate the dynamics described above and limit the recovery of companies’ international investments for a protracted period."
         ]
       },
@@ -1512,23 +1535,34 @@
         "point_content": "China's role as an export powerhouse will heavily influence international trade dynamics post-COVID-19.",
         "spans": [
           "China’s current role as an export powerhouse implies that changes in its status and/or economic priorities will have major ripple effects on the international business landscape.",
-          "China’s increasing focus on its own market will have major implications for multinationals that have been importing goods from the Asian giant and—in response to growing protectionist measures at home as well—may soon start looking for domestic or at least alternatives located in closer proximity to source their goods and establish long-term economic partnerships."
+          "China accounted for nearly 15 per cent of global exports, with the U.S. and Germany representing roughly 8 per cent each, the only two other countries next to China with a share in global exports that is higher than 5 per cent."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "The relevance of international mergers and acquisitions (M&As) will rise, especially in developed economies, while greenfield investments have declined and are more sensitive to geopolitical factors.",
+        "point_content": "China is increasingly focusing on its domestic market and investing to bolster its own economy, which will impact multinationals relying on Chinese imports.",
         "spans": [
-          "Already before the pandemic, cross-border mergers and acquisitions (M&As) were the dominant form of FDI in developed economies.",
-          "On the one hand, the greater sensitivity of greenfield investments to geopolitical factors such as protectionism and enhanced regulatory accountability is bound to continue to play a role in coming years, in view also of the high level of uncertainty surrounding international markets.",
-          "On the other hand, the abundance of capital in advanced economies and the growth of alternative types of buyers prepared to invest in international markets—from private equity firms to new special purpose acquisition companies (SPACs)—are expected to further accelerate international investors’ search for new deals around the world, especially in developed economies."
+          "China is increasingly focusing on its domestic market as a result of the growing maturity of its economy and, in turn, the country’s domestic consumption over the last few years has become a driving force.",
+          "Recent geopolitical tensions, especially involving the U.S., have prompted the Chinese government to groom its economy for a future in which the U.S. no longer plays a key role in global demand and thus the Chinese government is investing even more heavily in bolstering its own economy.",
+          "China’s increasing focus on its own market will have major implications for multinationals that have been importing goods from the Asian giant and—in response to growing protectionist measures at home as well—may soon start looking for domestic or at least alternatives located in closer proximity to source their goods and establish long-term economic partnerships."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "The regionalization trend will intensify, with companies focusing more on their home regions and benefiting from cross-country differences within their regional neighborhood.",
+        "point_content": "The relevance of international mergers and acquisitions (M&As) will rise, especially in developed economies, while greenfield investments decline.",
+        "spans": [
+          "Already before the pandemic, cross-border mergers and acquisitions (M&As) were the dominant form of FDI in developed economies.",
+          "Cross-border M&As registered a slowdown in the first half of 2020, they were able to largely recover in the second half.",
+          "The negative trend of greenfield investments continued throughout 2020 (falling by over 40 per cent in developing countries vis-à-vis 2019) and well into 2021.",
+          "The abundance of capital in advanced economies and the growth of alternative types of buyers prepared to invest in international markets—from private equity firms to new special purpose acquisition companies (SPACs)—are expected to further accelerate international investors’ search for new deals around the world, especially in developed economies."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The regionalization trend will intensify, with companies focusing more on their home regions and benefiting from cross-country differences in their regional neighborhood.",
         "spans": [
           "Intraregional trade was already on the rise before the outbreak of the COVID-19 pandemic.",
+          "These companies have displayed a strong home-region orientation over the last decade, locating approximately 70 per cent of their equity subsidiaries within their home regions.",
           "In view of the rising tensions and stronger localization pressures from national governments, we can expect a further escalation in the regionalization trend in the near future.",
           "Companies are expected to look more closely at ways to benefit from cross-country differences in their regional neighbourhood, as a result also of stakeholders’ increased scrutiny at home."
         ]
@@ -1546,7 +1580,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "China’s economic recovery will be challenged as demand from other countries drops as they cope with the virus.",
+        "point_content": "As Covid-19 spreads, China’s economic recovery will be challenged as demand from other countries drops as they cope with the virus.",
         "spans": [
           "China’s economic recovery will be challenged as demand from other countries drops as they cope with the virus"
         ]
@@ -1588,34 +1622,42 @@
       },
       {
         "point_number": 8,
-        "point_content": "Industries less reliant on high social interaction, such as agriculture, will be comparatively less vulnerable but will still face challenges as demand wavers.",
-        "spans": [
-          "Industries less reliant on high social interaction, such as agriculture, will be comparatively less vulnerable but will still face challenges as demand wavers"
-        ]
-      },
-      {
-        "point_number": 9,
         "point_content": "Economic slowdowns generally lead to lower energy demand, and the fallout from Covid-19 has proved no different.",
         "spans": [
           "Economic slowdowns generally lead to lower energy demand, and the fallout from Covid-19 has proved no different"
         ]
       },
       {
-        "point_number": 10,
-        "point_content": "The increased uncertainty has led to financial market volatility last seen during the global financial crisis.",
+        "point_number": 9,
+        "point_content": "In theory, lower oil prices should help oil-importing countries, but depressed activity due to Covid-19 could limit that benefit.",
         "spans": [
-          "The increased uncertainty has led to financial market volatility last seen during the global financial crisis"
+          "lower oil prices should help oil-importing countries, but depressed activity due to Covid-19 could limit that benefit"
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Fears of a broader outbreak and its economic impact spread to financial markets last month, and most international indices are nearing bear market territory as investors process the lower corporate earnings that will result from the virus.",
+        "spans": [
+          "Fears of a broader outbreak and its economic impact spread to financial markets last month",
+          "most international indices are nearing bear market territory as investors process the lower corporate earnings that will result from the virus"
         ]
       },
       {
         "point_number": 11,
-        "point_content": "National governments have announced largely uncoordinated, country-specific responses to the virus.",
+        "point_content": "The longer the virus spreads, the more economic and company performance will be impacted, raising concerns about debt sustainability, especially for highly indebted countries and companies, absent official support.",
         "spans": [
-          "national governments have announced largely uncoordinated, country-specific responses to the virus"
+          "The longer the virus spreads, the more economic and company performance will be impacted, raising concerns about debt sustainability, especially for highly indebted countries and companies, absent official support"
         ]
       },
       {
         "point_number": 12,
+        "point_content": "National governments have announced largely uncoordinated, country-specific responses to the virus.",
+        "spans": [
+          "National governments have announced largely uncoordinated, country-specific responses to the virus"
+        ]
+      },
+      {
+        "point_number": 13,
         "point_content": "Coherent, coordinated, and credible policy responses provide the best chance at limiting the economic fallout from what is already and sadly a human tragedy.",
         "spans": [
           "Coherent, coordinated, and credible policy responses provide the best chance at limiting the economic fallout"
@@ -1632,41 +1674,35 @@
       },
       {
         "point_number": 2,
-        "point_content": "The pandemic has accelerated the adoption and need for remote interactions and technologies such as 5G, telehealth, and teleconferencing in international business.",
+        "point_content": "The pandemic has accelerated the need for remote interactions, highlighting the importance and potential accelerated adoption of 5G technology in international business.",
         "spans": [
-          "The growing need for remote interactions amid the coronavirus pandemic has highlighted a need for 5G technology, potentially accelerating adoption in the long term.",
-          "5G's lightning-fast speeds, near-instantaneous communications and increased connection density make it primed for remote interactions, which has become top of mind for many organizations and enterprises as caution mounts over the spread of the virus.",
-          "Two key areas—telehealth and teleconferencing—are becoming critical for enterprise operations amid the pandemic, and we think that increased dependence on these areas will help strengthen the appeal of 5G:"
+          "The growing need for remote interactions amid the coronavirus pandemic has highlighted a need for 5G technology, potentially accelerating adoption in the long term. 5G's lightning-fast speeds, near-instantaneous communications and increased connection density make it primed for remote interactions, which has become top of mind for many organizations and enterprises as caution mounts over the spread of the virus."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Digital media consumption is likely to increase globally as people spend more time at home, affecting advertising and marketing strategies in international business.",
+        "point_content": "Digital media consumption is likely to increase globally as people spend more time at home, affecting international marketing and advertising strategies.",
         "spans": [
-          "The spread of coronavirus is likely to boost digital media consumption across the board as people spend more time at home and communicate in person less.",
-          "Social networks could be a major beneficiary, as people turn to these platforms to connect with friends and family who may be at a distance or to access news content."
+          "The spread of coronavirus is likely to boost digital media consumption across the board as people spend more time at home and communicate in person less."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Event cancellations due to the pandemic are pushing marketers and businesses to explore virtual events and digital content promotion as alternatives.",
+        "point_content": "Event cancellations due to the pandemic will push marketers and businesses to explore virtual events and digital alternatives for networking and promotion internationally.",
         "spans": [
-          "Coronavirus-driven event cancellations will spur marketers to explore digital alternatives and more event-like content promotion.",
-          "Marketers are exploring the potential of virtual events.",
-          "Over the next few months, Adobe, Facebook, Google and YouTube will all host virtual versions of their popular conferences, which should give us a better sense of the format's potential as a replacement."
+          "Coronavirus-driven event cancellations will spur marketers to explore digital alternatives and more event-like content promotion."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Cashless and contactless payment methods are expected to increase in adoption worldwide due to health concerns related to the virus.",
+        "point_content": "Cashless and contactless payment adoption is expected to increase worldwide, influencing international payment systems and consumer behavior.",
         "spans": [
-          "Cashless payment adoption and usage could tick up worldwide.",
-          "In response to the outbreak, the World Health Organization (WHO) is recommending that consumers pay contactlessly rather than with cash, if possible, as a means of limiting the virus' spread through microorganisms on cash."
+          "Cashless payment adoption and usage could tick up worldwide. In response to the outbreak, the World Health Organization (WHO) is recommending that consumers pay contactlessly rather than with cash, if possible, as a means of limiting the virus' spread through microorganisms on cash."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Ecommerce and delivery services are likely to grow as consumers avoid physical stores and public places, but this may create logistical challenges.",
+        "point_content": "Ecommerce and delivery services are likely to grow as consumers avoid physical stores and public places, creating logistical challenges for international business.",
         "spans": [
           "Ecommerce is likely to grow as consumers eschew physical stores and crowded gathering places—but this could create logistical challenges.",
           "Delivery services across the board might see an onslaught of new customers, but they'll have to work to maintain consumer trust."
@@ -1674,48 +1710,42 @@
       },
       {
         "point_number": 7,
-        "point_content": "Fintech funding and investment may decline due to economic uncertainty, but demand for savings and loans could increase.",
+        "point_content": "Fintech and banking sectors will face funding challenges and shifts in consumer behavior, with increased demand for loans and digital banking services internationally.",
         "spans": [
           "Fintech funding totals will be down for Q1 2020—a dry spell that could potentially persist through a large chunk of the year.",
-          "As the stock market continues to fluctuate, consumers will be wary of investing and flock to savings options.",
-          "If consumers reduce their spending, more small and medium-sized businesses (SMBs) might have to turn to loans to bridge the demand gap—giving alt lenders an opportunity to boost their businesses."
-        ]
-      },
-      {
-        "point_number": 8,
-        "point_content": "Banks may see a shift towards digital channels due to reduced branch visits, and there may be increased demand for short-term loans and credit.",
-        "spans": [
           "A potential drop in branch visits could shine a spotlight on banks' digital capabilities and customer experiences.",
           "Consumers who can't go to work could drive short-term loan and credit activity."
         ]
       },
       {
-        "point_number": 9,
-        "point_content": "Digital health and telemedicine are expanding rapidly due to the pandemic, with potential for long-term growth in international healthcare business.",
+        "point_number": 8,
+        "point_content": "Healthcare and digital health sectors will expand their use of telemedicine, remote monitoring, and digital tools, which may continue post-pandemic internationally.",
         "spans": [
           "Digital health firms have an opportunity to fill in gaps in care and assist healthcare incumbents prepare for, contain and diagnose the coronavirus—which could lead to increases even after coronavirus outbreaks.",
-          "Telemedicine providers are extending the reach of healthcare professionals as patients are being advised to seek care from the comfort of their homes."
+          "Telemedicine providers are extending the reach of healthcare professionals as patients are being advised to seek care from the comfort of their homes.",
+          "Companies touting AI-powered remote monitoring tools are granting clinicians the ability to keep track of patients' health from afar in real time."
         ]
       }
     ],
     "clueweb22-en0005-94-10680": [
       {
         "point_number": 1,
-        "point_content": "COVID-19 has gone from being a fresh emergency to a fact of life, and McKinsey's work now intrinsically accounts for the pandemic.",
+        "point_content": "COVID-19 has gone from being a fresh emergency to a fact of life, and McKinsey's published work now intrinsically accounts for the pandemic.",
         "spans": [
           "COVID-19 has gone from being a fresh emergency to a fact of life."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "The focus is shifting to sustainable and inclusive growth as the new theme for post-pandemic business.",
+        "point_content": "The new theme for McKinsey's reports will be sustainable and inclusive growth, focusing on how people and organizations can build a better world post-pandemic.",
         "spans": [
-          "Our new theme will be sustainable and inclusive growth."
+          "Our new theme will be sustainable and inclusive growth.",
+          "After more than two years of reporting on a destructive force, we look forward to sharing our research and thoughts on how people and organizations can build a better world."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "A wave of capital spending on physical assets, about $130 trillion, will occur between now and 2027, focusing on decarbonizing and renewing infrastructure.",
+        "point_content": "Much near-term growth will arise from a once-in-a-lifetime wave of capital spending on physical assets between now and 2027, focusing on decarbonizing and renewing critical infrastructure.",
         "spans": [
           "Much near-term growth will arise from a once-in-a-lifetime wave of capital spending on physical assets between now and 2027.",
           "This surge of roughly $130 trillion in investment will flood into projects to decarbonize and renew critical infrastructure."
@@ -1723,61 +1753,58 @@
       },
       {
         "point_number": 4,
-        "point_content": "Companies need to implement portfolio-synergistic strategies with top-down planning to handle the capital influx efficiently.",
-        "spans": [
-          "Companies should consider implementing a portfolio-synergistic strategy in which planning is top down, a major business challenge requiring savvy stakeholder management, capital markets expertise, and an understanding of complex approval processes."
-        ]
-      },
-      {
-        "point_number": 5,
-        "point_content": "The workplace must change to maximize contributions of all people, addressing issues like burnout, especially among women.",
+        "point_content": "Sustainable, inclusive growth will require changing the workplace to maximize the contributions of all people, addressing issues such as burnout especially among women.",
         "spans": [
           "Sustainable, inclusive growth will require changing the workplace to maximize the contributions of all people.",
           "In the COVID-19 era, women across all sectors have shouldered more household responsibilities, and more women report feelings of burnout."
         ]
       },
       {
-        "point_number": 6,
-        "point_content": "Each sector and function must reinvent itself for growth and sustainability, with procurement and CFO roles evolving significantly.",
+        "point_number": 5,
+        "point_content": "Each sector, industry, and function will have to reinvent itself to achieve maximum growth and sustainability, with roles such as procurement leaders and CFOs evolving to meet new challenges.",
         "spans": [
           "Each sector, industry, and function will have to reinvent itself to achieve maximum growth and sustainability.",
-          "Procurement organizations need to take a leading role in protecting enterprise margin and growth, invest in proven technology and process automation, and build deep expertise in supply market dynamics, among other fundamental changes.",
+          "Procurement leaders, for example, are facing one of the toughest market environments of their careers.",
           "A pair of articles featuring McKinsey and outside experts explore how the CFO’s role is also rapidly evolving —expanding in scope, requiring new capabilities, and demanding greater collaboration with C-suite peers."
         ]
       },
       {
-        "point_number": 7,
-        "point_content": "The pandemic accelerated adoption of telehealth and e-commerce, and increased urgency for sustainable, inclusive growth.",
+        "point_number": 6,
+        "point_content": "The COVID-19 pandemic accelerated online purchases and package deliveries, and cross-border e-commerce in goods is expected to expand significantly by 2030.",
         "spans": [
-          "The COVID-19 pandemic served as an accelerant in multiple ways.",
-          "The pandemic ignited telehealth: as of mid-2021, utilization was 38 times higher than before the pandemic.",
-          "The pandemic essentially forced consumers to try e-commerce and to increasingly rely on product ratings and reviews to give them the confidence to make purchases."
+          "The COVID-19 pandemic accelerated online purchases and package deliveries at an unprecedented rate.",
+          "Even conservative estimates project that cross-border e-commerce in goods will expand to about $1 trillion in merchandise value by 2030, from its current value of approximately $300 billion."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "The pandemic has led to a shift in consumer and employee expectations, including increased demand for sustainability, inclusivity, and digital transformation in business.",
+        "spans": [
+          "Customers and consumers want to be associated with companies that are making a positive difference.",
+          "Companies can accelerate inclusivity and sustainability by having real awareness, committing to change, rewarding the change, and providing coaching and development to make the change happen."
         ]
       },
       {
         "point_number": 8,
-        "point_content": "Companies need to adapt to new consumer behaviors and expectations, including sustainability and digital transformation.",
+        "point_content": "The pandemic has caused long-term changes in labor markets, including increased worker power due to high demand for labor and wider job choices enabled by remote work.",
         "spans": [
-          "Customers and consumers want to be associated with companies that are making a positive difference.",
-          "Companies can accelerate inclusivity and sustainability by having real awareness, committing to change, rewarding the change, and providing coaching and development to make the change happen.",
-          "Most retailers will need to make changes to meet the needs of these “inclusive consumers” by sourcing products that dovetail with consumer values and by communicating the changes to the public."
+          "McKinsey talent experts Bryan Hancock and Bill Schaninger discuss the power workers have gained as an indirect effect of the pandemic.",
+          "The real source of worker power comes from the current high demand for labor and because remote workers have a wider-than-ever range of job choices."
         ]
       },
       {
         "point_number": 9,
-        "point_content": "Supply chains and risk management are under pressure; companies must build resilience and capabilities for digital supply chains.",
+        "point_content": "Companies need to transform their operating models to respond to rapid changes in costs, supply chains, and labor markets caused by the pandemic.",
         "spans": [
-          "As a result of the war in Ukraine, the era of not looking too closely at supply chains, trusting suppliers, and optimizing for cost is probably over.",
-          "Companies are still struggling to build the capabilities that their emerging digital supply chains need.",
-          "The most effective capability-building programs invest in foundational, end-to-end supply chain knowledge building, coupled with advanced functional, technical, and leadership training."
+          "To respond to these rapid, sweeping changes, companies need to transform their operating models to the new reality."
         ]
       },
       {
         "point_number": 10,
-        "point_content": "The pandemic has changed leadership demands, requiring CEOs to engage empathetically with employee well-being and address climate risks.",
+        "point_content": "The pandemic has accelerated the adoption of telehealth and e-commerce, but also highlighted challenges such as healthcare worker burnout and the need for new strategies to support workforces.",
         "spans": [
-          "COVID-19 brought on a new set of employee pressures, including trying to take care of work and children at a time when school doors close suddenly, and managing the 24/7 nature of working from home.",
-          "Climate change and the risks it imposes upon assets and markets is one of the biggest challenges confronting CEOs and other leaders today."
+          "The pandemic ignited telehealth: as of mid-2021, utilization was 38 times higher than before the pandemic.",
+          "Healthcare workers and their organizations continue to face unparalleled demands stemming from the COVID-19 pandemic."
         ]
       }
     ],
@@ -1786,74 +1813,109 @@
         "point_number": 1,
         "point_content": "Companies will need to fundamentally rethink their revenue profile, to position themselves for the long term and to get ahead of the competition.",
         "spans": [
-          "Speed matters: it will not be enough for companies to recover revenues gradually as the crisis abates. They will need to fundamentally rethink their revenue profile, to position themselves for the long term and to get ahead of the competition."
+          "it will not be enough for companies to recover revenues gradually as the crisis abates. They will need to fundamentally rethink their revenue profile, to position themselves for the long term and to get ahead of the competition."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Companies must adopt a start-up mindset, put humans at the core, accelerate digital and analytics, develop purpose-driven customer playbooks, and adapt ecosystems for rapid revenue recovery.",
+        "point_content": "The COVID-19 crisis has accelerated the shift to digital, and companies are enhancing and expanding their digital channels using advanced analytics.",
         "spans": [
-          "To do this companies must SHAPE up.",
-          "S tart-up mindset. This favors action over research, and testing over analysis.",
-          "H uman at the core. Companies will need to rethink their operating model based on how their people work best.",
-          "A cceleration of digital, tech, and analytics.",
-          "P urpose-driven customer playbook.",
-          "E cosystems and adaptability."
+          "the COVID-19 crisis has accelerated the shift to digital. But the best companies are going further, by enhancing and expanding their digital channels. They’re successfully using advanced analytics to combine new sources of data, such as satellite imaging, with their own insights to make better and faster decisions and strengthen their links to customers."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Companies must act with urgency and develop an agile operating model to respond rapidly to changes and opportunities.",
+        "point_content": "Companies must adapt to new customer values post-COVID-19 and develop new use cases and tailored experiences.",
         "spans": [
-          "Act with urgency.",
-          "Develop an agile operating model."
+          "Companies need to understand what customers will value, post-COVID-19, and develop new use cases and tailored experiences based on those insights."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Operations will be redesigned for resilience, regionalization of supply chains will accelerate, and digital tools will be used to increase flexibility and productivity.",
+        "point_content": "Adaptability and changing ecosystems with nontraditional collaborations will be essential due to crisis-related disruptions in supply chains and channels.",
         "spans": [
-          "Building operations resilience.",
-          "The once-prevalent global-sourcing model in product-driven value chains has steadily declined as new technologies and consumer-demand patterns encourage regionalization of supply chains. We expect this trend to accelerate.",
-          "Accelerating end-to-end value-chain digitization."
+          "Given crisis-related disruptions in supply chains and channels, adaptability is essential. That will mean changing the ecosystem and considering nontraditional collaborations with partners up and down the supply chain."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Companies will increase transparency in capital and operating expenses and embrace 'as a service' models to turn fixed costs into variable costs.",
+        "point_content": "Successful companies will redesign their operations and supply chains to protect against a wider and more acute range of potential shocks, accelerating regionalization of supply chains.",
         "spans": [
-          "Rapidly increasing capital- and operating-expense transparency.",
-          "Companies are also seeking to turn fixed capital costs into variable ones by leveraging “as a service” models."
+          "Successful companies will redesign their operations and supply chains to protect against a wider and more acute range of potential shocks. In addition, they will act quickly to rebalance their global asset base and supplier mix. The once-prevalent global-sourcing model in product-driven value chains has steadily declined as new technologies and consumer-demand patterns encourage regionalization of supply chains. We expect this trend to accelerate."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "The future of work will involve more automation, remote work, and a shift in skills towards analytical and technical support, requiring investment in workforce training.",
+        "point_content": "Leading innovators use Industry 4.0 digital and analytics tools to reduce the cost of flexibility and improve productivity, flexibility, quality, and customer connectivity.",
         "spans": [
-          "Embracing the future of work.",
-          "Employees across all functions, for example, have learned how to complete tasks remotely, using digital communication and collaboration tools.",
-          "In operations, changes will go further, with an accelerated decline in manual and repetitive tasks and a rise in the need for analytical and technical support."
+          "leading innovators have demonstrated how “Industry 4.0” (or the Fourth Industrial Revolution suite of digital and analytics tools and approaches) can significantly reduce the cost of flexibility. In short, low-cost, high-flexibility operations are not only possible—they are happening."
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Organizations will rethink their identity, work models, and growth strategies, emphasizing agility, decentralization, and digital ecosystems.",
+        "point_content": "The future of work will involve more automation and technology, remote work, and a shift towards analytical and technical skills, requiring investment in workforce engagement and training.",
         "spans": [
-          "Call it the “great unfreezing”: in the heat of the coronavirus crisis, organizations have been forced to work in new ways, and they are responding.",
-          "Who we are.",
-          "How we work.",
-          "How to grow."
+          "The future of work, defined by the use of more automation and technology, was always coming. COVID-19 has hastened the pace. Employees across all functions, for example, have learned how to complete tasks remotely, using digital communication and collaboration tools. In operations, changes will go further, with an accelerated decline in manual and repetitive tasks and a rise in the need for analytical and technical support. This shift will call for substantial investment in workforce engagement and training in new skills, much of it delivered using digital tools."
         ]
       },
       {
         "point_number": 8,
-        "point_content": "Digital adoption will accelerate, with companies refocusing digital efforts on changing customer expectations, using data and AI to manage operations, modernizing technology, and increasing speed and productivity of digital solutions.",
+        "point_content": "Organizations are shifting to flatter structures with faster decision making, more delegation, and a focus on character and results over expertise or experience.",
         "spans": [
-          "Accelerate digital adoption to enable reimagination.",
-          "Refocus digital efforts to reflect changing customer expectations.",
-          "Use data, Internet of Things, and AI to better manage operations.",
-          "Accelerate tech modernization.",
-          "Increase the speed and productivity of digital solutions."
+          "a flatter organization that delegates decision making down to a dynamic network of teams is more effective. They are rewiring their circuits to make decisions faster, and with much less data and certainty than before.",
+          "the premium is placed on character and results, rather than on expertise or experience."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Companies are moving from closed systems to digital platforms and networks of mutually beneficial partnerships, which have proved more resilient during the crisis.",
+        "spans": [
+          "Those organizations that are making the shift from closed systems and one-to-one transactional relationships to digital platforms and networks of mutually beneficial partnerships have proved more resilient during the crisis."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Digital adoption has accelerated dramatically, and digital will play a defining role in the COVID-19 recovery.",
+        "spans": [
+          "These changes have accelerated the migration to digital technologies at stunning scale and speed, across every sector.",
+          "Through the COVID-19 recovery, too, digital will play a defining role."
+        ]
+      },
+      {
+        "point_number": 11,
+        "point_content": "Leaders will need to set an ambitious digital agenda and deliver it quickly, focusing on customer expectations, data and AI for operations, tech modernization, and speed of digital solutions.",
+        "spans": [
+          "leaders will need to set an ambitious digital agenda—and deliver it quickly, on the order of two to three months, as opposed to the previous norm of a year or more."
+        ]
+      },
+      {
+        "point_number": 12,
+        "point_content": "Companies need to rethink customer journeys and accelerate digital solutions development to adapt to changing customer expectations.",
+        "spans": [
+          "companies need to quickly rethink customer journeys and accelerate the development of digital solutions."
+        ]
+      },
+      {
+        "point_number": 13,
+        "point_content": "Companies need to incorporate new data and create new models for real-time decision making, recalibrating data and analytics to the post-COVID-19 reality.",
+        "spans": [
+          "companies need to incorporate new data and create new models to enable real-time decision making.",
+          "the use of data and analytics will need to be recalibrated to reflect the post-COVID-19 reality."
+        ]
+      },
+      {
+        "point_number": 14,
+        "point_content": "Companies must improve IT productivity, reduce IT costs, adopt cloud and automation technologies, and develop new skills and roles to support digital platforms.",
+        "spans": [
+          "Companies will also need to greatly improve their IT productivity to lower their cost base and fund rapid, flexible digital-solution development.",
+          "the adoption of cloud and automation technologies will need to be speeded up, including bringing cloud operations on-premise and decommissioning legacy infrastructure."
+        ]
+      },
+      {
+        "point_number": 15,
+        "point_content": "Companies need to integrate business processes, data-driven decision making, and change management to deliver digital solutions at scale.",
+        "spans": [
+          "Solving this “last mile” challenge requires integrating businesses processes, incorporating data-driven decision making, and implementing change management."
         ]
       }
     ]

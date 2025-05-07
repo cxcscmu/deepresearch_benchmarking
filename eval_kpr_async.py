@@ -70,7 +70,7 @@ async def evaluate_answer(semaphore, answer, key_points, model):
 
 async def evaluate_query(semaphore, query_id, anwser_dir, key_point_dir, model):
     a_path = anwser_dir / f"{query_id}.a"
-    p_path = key_point_dir / f"{query_id}_deduplicated.json"
+    p_path = key_point_dir / f"{query_id}_aggregated.json"
 
     if not a_path.exists():
         print(f"Warning: Missing answer file for query {query_id}")
@@ -125,10 +125,10 @@ if __name__ == "__main__":
 
     path_to_reports = "reports"
     path_to_results = "results"
-    path_to_kp = "key_point"
+    path_to_key_point = "key_point"
 
     print(f"Evaluating {args.subfolder} using {args.open_ai_model}")
-    results = asyncio.run(evaluate_folder_async(args.subfolder, args.open_ai_model, path_to_reports, path_to_kp))
+    results = asyncio.run(evaluate_folder_async(args.subfolder, args.open_ai_model, path_to_reports, path_to_key_point))
 
     for query_id, labels in results.items():
         supported_count = 0

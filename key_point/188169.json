@@ -5,37 +5,83 @@
     "clueweb22-en0017-01-03636": [
       {
         "point_number": 1,
-        "point_content": "Research helps identify causes of medical errors and develop models to minimize errors, mechanisms for reporting and corrective action, and methods to reduce paperwork.",
+        "point_content": "Research funded by AHRQ helps determine causes of medical errors and develop models to minimize errors, encouraging reporting and corrective action.",
         "spans": [
           "AHRQ subsequently established a research and demonstration program to fund research to determine the causes of medical errors and to develop models that minimize the frequency and severity of errors; mechanisms that encourage reporting, prompt review, and corrective action; and methods to minimize paperwork."
         ]
       },
       {
         "point_number": 2,
-        "point_content": "Research identifies key aspects of nurses' work environment that impact patient safety and recommends improvements to increase safety.",
+        "point_content": "The IOM report 'Keeping Patients Safe' uses research to identify key factors in nurses' work environments that impact patient safety and makes recommendations to improve safety.",
         "spans": [
-          "As part of its portfolio of research and demonstrations, AHRQ contracted with the IOM to study key aspects of the work environment of nurses that likely impact patient safety and identify potential improvements that would likely increase patient safety."
+          "As part of its portfolio of research and demonstrations, AHRQ contracted with the IOM to study key aspects of the work environment of nurses that likely impact patient safety and identify potential improvements that would likely increase patient safety.",
+          "The report produced by the IOM in response to this charge, Keeping Patients Safe: Transforming the Work Environment of Nurses, 6 is significant for three reasons: It documents the key role that nurses (the largest component of the health care workforce) play in patient safety and makes specific recommendations for changing their work environments to improve patient safety."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Research findings and dissemination of successful practices help healthcare organizations improve patient safety continuously.",
+        "point_content": "Research identifies eight safeguards necessary in nurse work environments to protect patient safety.",
         "spans": [
-          "Research findings and dissemination of practices that other HCOs have found successful in improving patient safety will help HCOs as learning organizations add to their repertoire of patient safety practices."
+          "Keeping Patients Safe identifies eight overarching safeguards to protect patient safety that need to be in place within all health care organizations in which nurses work: (1) organizational governing boards that focus on safety; (2) the practice of evidence-based management and leadership; (3) effective nursing leadership; (4) adequate staffing; (5) provision of ongoing learning and clinical decisionmaking support to nursing staff; (6) mechanisms that promote interdisciplinary collaboration; (7) work design practices that defend against fatigue and unsafe work; and (8) a fair and just error reporting, analysis, and feedback system with training and rewards for patient safety"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Research is needed to provide better information on nursing-related errors, safer work processes, patient acuity measurement, safe staffing levels, fatigue compensation, work hours limits, and collaborative care models.",
+        "point_content": "Research supports evidence-based management and leadership practices that improve nurse work environments and patient safety.",
         "spans": [
-          "Research is needed to provide better information on nursing-related errors, means of achieving safer work processes and workspace design, a standardized approach to measuring patient acuity, information on safe staffing levels for different types of patient care units, effective methods to help night shift workers compensate for fatigue, information on what limits should be imposed on successive days of working sustained work hours, and collaborative models of care."
+          "Creating work environments for nurses that are most conducive to patient safety will require fundamental changes throughout many health care organizations (HCOs) in terms of how work is designed, how personnel are deployed, and how the very culture of the organization understands and acts on the science of safety.",
+          "The committee makes the following recommendations: Recommendation 4-1. c HCOs should acquire nurse leaders for all levels of management ... Recommendation 4-2 Leaders of HCOs should take action to identify and minimize the potential adverse effects of their decisions on patient safety ... Recommendation 4-3 HCOs should employ management structures and processes throughout the organization that ... Recommendation 4-4 Professional associations, philanthropic organizations, and other organizational leaders within the health care industry should sponsor collaboratives that incorporate multiple academic and other research-based organizations to support HCOs in the identification and adoption of evidence-based management practices."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Federal agencies and private foundations should support research in areas that provide healthcare organizations with information to strengthen nurse work environments for patient safety.",
+        "point_content": "Research informs safe nurse staffing levels and workforce capability to improve patient safety.",
         "spans": [
-          "Federal agencies and private foundations should support research in the following areas to provide HCOs with the additional information they need to continue to strengthen nurse work environments for patient safety:"
+          "Nurse staffing levels, the knowledge and skill level of nursing staff, and the extent to which workers collaborate in sharing their knowledge and skills all affect patient outcomes and safety.",
+          "Recommendation 5-1 The U.S. Department of Health and Human Services (DHHS) should update existing regulations established in 1990 that specify minimum standards for registered and licensed nurse staffing in nursing homes.",
+          "Recommendation 5-2 Hospitals and nursing homes should employ nurse staffing practices that identify needed nurse staffing for each patient care unit per shift.",
+          "Recommendation 5-3 Hospitals and nursing homes should perform ongoing evaluation of the effectiveness of their nurse staffing practices with respect to patient safety ...",
+          "Recommendation 5-4 DHHS should implement a nationwide, publicly accessible system for collecting and managing valid and reliable staffing and turnover data from hospitals and nursing homes."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Research supports ongoing education and clinical decision support for nursing staff to maintain knowledge and skills for patient safety.",
+        "spans": [
+          "The knowledge base on effective clinical care and new health care technologies is increasing rapidly, making it impossible for nurses (and other clinicians) to incorporate this information into their clinical decisionmaking and practice without organizational support.",
+          "Recommendation 5-5 HCOs should dedicate budgetary resources equal to a defined percentage of nursing payroll to support nursing staff in their ongoing acquisition and maintenance of knowledge and skills."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Research highlights the importance of interdisciplinary collaboration to improve patient safety.",
+        "spans": [
+          "Recommendation 5-6 HCOs should take action to support interdisciplinary collaboration by adopting such interdisciplinary practice mechanisms as interdisciplinary rounds, and by providing ongoing formal education and training in interdisciplinary collaboration for all health care providers on a regularly scheduled, continuous basis (e.g., monthly, quarterly, or semiannually)."
+        ]
+      },
+      {
+        "point_number": 8,
+        "point_content": "Research identifies work design and workspace factors, including fatigue, that affect patient safety and recommends limits on nurse work hours.",
+        "spans": [
+          "Nurses’ work processes and workspaces need to be designed to make them more efficient, less conducive to the commission of errors, and more amenable to detecting and remedying errors when they occur.",
+          "Recommendation 6-1 To reduce error-producing fatigue, State regulatory bodies should prohibit nursing staff from providing patient care in any combination of scheduled shifts, mandatory overtime, or voluntary overtime in excess of 12 hours in any given 24-hour period and in excess of 60 hours per 7-day period."
+        ]
+      },
+      {
+        "point_number": 9,
+        "point_content": "Research supports creating and sustaining a culture of safety within health care organizations to reduce errors and improve patient safety.",
+        "spans": [
+          "Patient safety also requires an organizational commitment to vigilance to prevent potential errors, and to the detection, analysis, and redress of errors when they occur.",
+          "HCOs should redouble their efforts to create such cultures of safety within their work environments.",
+          "Recommendation 7-1 HCO boards of directors, managerial leadership, and labor partners should create and sustain cultures of safety by implementing the recommendations presented previously and by: Specifying short- and long-term safety objectives. Continuously reviewing success in meeting these objectives and providing feedback at all levels. Conducting an annual, confidential survey of nursing and other health care workers to assess the extent to which a culture of safety exists. Instituting a de-identified, fair, and just reporting system for errors and near misses. Engaging in ongoing employee training in error detection, analysis, and reduction. Implementing procedures for analyzing errors and providing feedback to direct-care workers. Instituting rewards and incentives for error reduction."
+        ]
+      },
+      {
+        "point_number": 10,
+        "point_content": "Ongoing research is needed to provide health care organizations with information to strengthen nurse work environments for patient safety.",
+        "spans": [
+          "Research findings and dissemination of practices that other HCOs have found successful in improving patient safety will help HCOs as learning organizations add to their repertoire of patient safety practices.",
+          "Recommendation 8-1 Federal agencies and private foundations should support research in the following areas to provide HCOs with the additional information they need to continue to strengthen nurse work environments for patient safety: Studies and development of methods to better describe, both qualitatively and quantitatively, the work nurses perform in different care settings. Descriptive studies of nursing-related errors. Design, application, and evaluation (including financial costs and savings) of safer and more efficient work processes and workspace, including the application of information technology. Development and testing of a standardized approach to measuring patient acuity. Determination of safe staffing levels within different types of nursing units. Development and testing of methods to help night shift workers compensate for fatigue. Research on the effects of successive work days and sustained work hours on patient safety. Development and evaluation of models of collaborative care, including care by teams."
         ]
       }
     ],
@@ -51,36 +97,35 @@
         "point_number": 2,
         "point_content": "There isn't a direct flow of knowledge from research into practice, indicating a gap between research and bedside nursing.",
         "spans": [
-          "there isn't a direct flow of knowledge from research into practice"
+          "However, there isn't a direct flow of knowledge from research into practice."
         ]
       },
       {
         "point_number": 3,
         "point_content": "Nurses are inquisitive, think critically about their patients’ care, and want to know the best treatments for their patients, making them suited for research.",
         "spans": [
-          "Nurses are inquisitive, think critically about their patients’ care, and want to know the best treatments for their patients"
+          "Nurses are inquisitive, think critically about their patients’ care, and want to know the best treatments for their patients—all of which makes them perfectly suited for research."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Research is often perceived as something undertaken by others far removed from the front lines of nursing practice, which affects integration of research into nursing identity.",
+        "point_content": "Many nurses perceive research as something done by others, not by nurses themselves, which affects integration of research into nursing practice.",
         "spans": [
-          "research is often perceived as something undertaken by others far removed from the front lines of nursing practice"
+          "Yet research is often perceived as something undertaken by others far removed from the front lines of nursing practice."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Nurses who valued research were more likely to use research findings in practice, suggesting a need for a stronger link between nurse clinicians and research development.",
+        "point_content": "Nurses who value research are more likely to use research findings in practice, suggesting a need for stronger links between clinicians and research development.",
         "spans": [
-          "nurses who valued research were more likely to use research findings in practice"
+          "Yoder and colleagues noted that researchers have consistently found that “nurses who valued research were more likely to use research findings in practice.”"
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Nurses could turn many quality improvement (QI) projects into research, viewing research as a continuum with QI projects along it.",
+        "point_content": "Nurses could turn many quality improvement projects into research, which would help integrate research into nursing practice.",
         "spans": [
-          "Nurses could turn many quality improvement (QI) projects into research",
-          "Research may be viewed as a continuum, with formal projects at one end and QI projects somewhere along the continuum"
+          "Nurses could turn many quality improvement (QI) projects into research."
         ]
       },
       {
@@ -97,8 +142,7 @@
         "point_number": 8,
         "point_content": "Making research a part of nursing identity and practice will pave the way to evidence-based practice becoming the norm and make nursing practice safer.",
         "spans": [
-          "Many nurses are intimidated by research, but change is possible if we stop seeing research as someone else's job and start making it a part of who we are and what we do.",
-          "This will pave the way to evidence-based practice truly becoming the norm."
+          "Many nurses are intimidated by research, but change is possible if we stop seeing research as someone else's job and start making it a part of who we are and what we do. This will pave the way to evidence-based practice truly becoming the norm."
         ]
       }
     ],
@@ -112,44 +156,59 @@
       },
       {
         "point_number": 2,
-        "point_content": "Four studies evaluated interventions to support the delivery of compassionate care in acute settings, aiming to improve patient care and protect nursing staff wellbeing.",
+        "point_content": "Four studies evaluated interventions to support the delivery of compassionate care in acute settings recommended by the findings of the Francis Inquiry report.",
+        "spans": [
+          "four studies evaluating interventions to support the delivery of compassionate care in acute settings recommended by the findings of the Francis Inquiry report"
+        ]
+      },
+      {
+        "point_number": 3,
+        "point_content": "Each study evaluated an intervention method in an acute hospital setting that aimed to improve patient care and protect the wellbeing of nursing staff.",
         "spans": [
           "Each study evaluated an intervention method in an acute hospital setting that aimed to improve patient care and protect the wellbeing of nursing staff"
         ]
       },
       {
-        "point_number": 3,
-        "point_content": "The Creating Learning Environments for Compassionate Care (CLECC) programme improved nursing teams' capacity to be compassionate and can be implemented in NHS hospital wards.",
+        "point_number": 4,
+        "point_content": "The studies included a team-based practice development programme, a relational care training intervention for healthcare assistants, a regular bedside ward round (intentional rounding), and monthly group meetings discussing emotional challenges of care.",
+        "spans": [
+          "a team-based practice development programme, a relational care training intervention for healthcare assistants, a regular bedside ward round (intentional rounding), and monthly group meetings during which staff discussed the emotional challenges of care"
+        ]
+      },
+      {
+        "point_number": 5,
+        "point_content": "The Creating Learning Environments for Compassionate Care (CLECC) programme improved staff capacity to be compassionate and can be implemented in NHS hospital wards.",
         "spans": [
           "The study found that the CLECC programme can be made to work with nursing teams on NHS hospital wards and that staff felt it improved their capacity to be compassionate."
         ]
       },
       {
-        "point_number": 4,
+        "point_number": 6,
         "point_content": "The Older People’s Shoes training programme helped healthcare assistants understand older people better and was well received, addressing often overlooked training needs.",
         "spans": [
           "Older People’s Shoes was well received by participants. This was particularly so for the HCAs, whose training needs were often overlooked or restricted to mandatory requirements, where the focus is almost exclusively on safety."
         ]
       },
       {
-        "point_number": 5,
-        "point_content": "Intentional rounding is widely implemented but has low fidelity and may oversimplify nursing; it is valued more for documentation than improving patient interaction quality.",
+        "point_number": 7,
+        "point_content": "Intentional rounding is widely implemented but has low fidelity and is seen as oversimplifying nursing; it mainly provides documented evidence of care delivery rather than improving quality or frequency of interactions.",
         "spans": [
           "The national survey found that 97% of NHS trusts had implemented intentional rounding, although with considerable variation: fidelity to the intentional rounding protocol was observed to be low.",
           "Few felt intentional rounding improved either the quality or frequency of their interactions with patients; they perceived the main benefit of intentional rounding to be the documented evidence of care delivery, despite concerns that documentation was not always reliable."
         ]
       },
       {
-        "point_number": 6,
-        "point_content": "Schwartz Center Rounds provide a safe space for staff to discuss emotional challenges, increasing empathy, compassion, and psychological health among attendees.",
+        "point_number": 8,
+        "point_content": "Schwartz Center Rounds provide a safe, reflective space for staff to discuss emotional challenges, increasing empathy, compassion, and psychological health among attendees.",
         "spans": [
           "Attending rounds increased staff members’ empathy and compassion for colleagues and patients, and improved their psychological health.",
-          "It was concluded that Schwartz Rounds are a ‘slow intervention’ that increases its impact over time and creates a safe, reflective space for staff to talk together confidentially."
+          "It was concluded that Schwartz Rounds are a ‘slow intervention’ that increases its impact over time and creates a safe, reflective space for staff to talk together confidentially.",
+          "In the staff observed, attending Schwartz Rounds increased their empathy and compassion for colleagues and patients, supported them in their work and helped them make changes in practice."
         ]
       },
       {
-        "point_number": 7,
-        "point_content": "Research findings highlight the importance of care organisation, learning opportunities, and staff wellbeing interventions to support nurses and improve care delivery.",
+        "point_number": 9,
+        "point_content": "Research findings highlight the impact of care organisation, learning opportunities, and staff wellbeing interventions on nursing care quality and nurse wellbeing.",
         "spans": [
           "The findings from the above studies not only tell us about the impact of each of these four interventions, but also highlight the changes required to better support nursing teams to deliver high-quality care."
         ]
@@ -188,7 +247,14 @@
       },
       {
         "point_number": 5,
-        "point_content": "Nurse researchers support and coordinate studies related to a wide range of clinical, community and education issues, and providers use this research to evaluate and improve healthcare for millions of people.",
+        "point_content": "BSN-prepared nurses can take a central role in the research process, coordinating and managing research, collecting data, ensuring the well-being of study participants, and presenting at conferences.",
+        "spans": [
+          "BSN-prepared nurses can work as members of research teams to coordinate and manage research, collect data, ensure the well-being of study participants, and present at conferences."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Nurse researchers support and coordinate studies related to a wide range of clinical, community and education issues, and their research is used to evaluate and improve healthcare for millions of people.",
         "spans": [
           "Nurse researchers support and coordinate studies related to a wide range of clinical, community and education issues.",
           "providers use this research to evaluate and improve healthcare for millions of people."
@@ -242,51 +308,42 @@
       },
       {
         "point_number": 3,
-        "point_content": "Historically, nursing care was based on tradition without questioning the evidence or impact on patient outcomes, but now there is greater emphasis on implementing nursing care supported by the best research available.",
-        "spans": [
-          "Historically health care and more specifically, nursing care, was based on tradition. In other words, we simply replicated what had been previously done in nursing, without question to the support of evidence for what we were doing or the impact on patient outcomes.",
-          "As nursing has evolved and the expectation for continually improving patient outcomes has come to the forefront, a greater emphasis has been placed on implementing nursing care that is supported through the use of the best research available."
-        ]
-      },
-      {
-        "point_number": 4,
-        "point_content": "Evidence-based practice includes research from nursing and other disciplines, as well as nonresearch data, to improve nursing care.",
+        "point_content": "Evidence-based practice incorporates research from nursing and other disciplines, as well as nonresearch data, to improve nursing care.",
         "spans": [
           "Evidence-based practice goes beyond nursing research in considering other sources of documentation that may improve nursing care. Research published by other disciplines is included (e.g., medical research and social research), as well as nonresearch data that may contribute to practice (e.g., financial data and clinical experts)."
         ]
       },
       {
-        "point_number": 5,
+        "point_number": 4,
         "point_content": "The steps in applying evidence-based practice include defining the problem, reviewing and evaluating data, designing a practice change based on data, and implementing the change while considering nurse experience and patient preferences.",
         "spans": [
           "The steps in applying evidence-based practice include definition of the problem; identifying, reviewing, and evaluating the data applicable to the problem; designing a practice change based on the data; and implementing the change in nursing practice, while recognizing the nurse’s experience and patient preferences"
         ]
       },
       {
-        "point_number": 6,
-        "point_content": "Nursing research utilization involves transferring research findings to clinical nursing practice to ensure quality and improve patient outcomes.",
+        "point_number": 5,
+        "point_content": "Research utilization involves transferring research findings to clinical nursing practice to evaluate and improve current nursing practice.",
         "spans": [
-          "The ability to transfer research into clinical practice is essential for ensuring quality in nursing. The process of research utilization involves transferring research findings to clinical nursing practice."
+          "The process of research utilization involves transferring research findings to clinical nursing practice. In the process of research utilization, the emphasis is on using existing data (findings or evidence) from previous nursing research studies to evaluate a current nursing practice."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "The first step in research utilization is recognizing that some aspect of nursing practice could be done in a safer, more efficient, or more beneficial way.",
+        "spans": [
+          "The first step in the application of nursing research to nursing practice is the recognition that some aspect of nursing practice could be done in a safer, more efficient, more beneficial, or simply a different way."
         ]
       },
       {
         "point_number": 7,
-        "point_content": "Research utilization is a step-by-step process incorporating critical thinking and decision making to ensure changes in practice have a sound basis in nursing science.",
+        "point_content": "Group consensus and clear communication are essential for successful application of research findings in nursing practice.",
         "spans": [
-          "Nursing research utilization is a step-by-step process incorporating critical thinking and decision making to ensure that a change in practice has a sound basis in nursing science."
+          "In any practice setting in which there are several nurses, a change will be more acceptable if those affected are included in the decisions related to the change. Clear communication and teamwork are essential elements of this process. Group consensus is crucial for the successful application of research findings."
         ]
       },
       {
         "point_number": 8,
-        "point_content": "The first step in research utilization is recognizing that some aspect of nursing practice could be done in a safer, more efficient, or more beneficial way, and building consensus for change.",
-        "spans": [
-          "The first step in the application of nursing research to nursing practice is the recognition that some aspect of nursing practice could be done in a safer, more efficient, more beneficial, or simply a different way.",
-          "A second phase of Step 1 is consensus building, which is used to identify the specific practice to be changed."
-        ]
-      },
-      {
-        "point_number": 9,
-        "point_content": "The second step in research utilization is identifying and critically evaluating published research related to the practice problem to determine adaptable findings.",
+        "point_content": "The second step in research utilization is identifying and critically evaluating published research related to the practice problem.",
         "spans": [
           "The second step in research utilization is the identification and critical evaluation of published research that is related to the practice problem you have identified"
         ]
@@ -295,7 +352,7 @@
     "clueweb22-en0009-70-15422": [
       {
         "point_number": 1,
-        "point_content": "Nurses conduct research to build a solid base of evidence for stronger practices that benefit patients, families, and inter-professional teams.",
+        "point_content": "Nurses conduct research to build a solid base of evidence on which to build stronger practices, ultimately benefiting patients, families, and inter-professional teams.",
         "spans": [
           "Dr. Blake is encouraging and supporting nurses to get involved in research to build a solid base of evidence on which to build stronger practices. Ultimately, this will benefit not only patients and their families but the inter-professional teams in hospitals."
         ]
@@ -312,45 +369,47 @@
         "point_content": "Research helps nurses understand and adjust medical equipment and alarms to be appropriate for pediatric patients, reducing undue stress and improving care.",
         "spans": [
           "Having recently completed a research project on alarms in neonatal and pediatric units, the nurse knows they can cause undue stress for the parents. She makes a note to adjust the settings on the alarm so they’re appropriate for the child’s age range and standard vital signs.",
-          "Knowing this and researching the effect of constant alarms give nurses insights that can lead to better care.",
           "By getting involved in research projects, nurses can help make sure the equipment used for children is more suitable.",
           "It’s important to have pediatric nurses doing research with manufacturers and patients to understand their unique needs. This assures that the equipment can be used as the developers intended it to be used."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Nurses use research to update and change clinical practices and policies based on new evidence, improving patient safety and care quality.",
+        "point_content": "Nurses use research to update and change clinical practices and policies based on new evidence, such as the change in advice for infant sleeping positions to reduce SIDS.",
         "spans": [
           "Sometimes that means changing a practice that’s been standard for decades.",
+          "For example, for years it was best practice to sleep babies on their bellies rather than their backs, in case they vomited and choked. But today, following extensive research into sudden infant death syndrome (SIDS), the advice is to sleep babies on their backs.",
           "When it comes to policy, it’s important not to waste time reinventing the wheel. If nurses are developing a policy or procedure, they can go to a database and search for the latest relevant research.",
-          "At all hospitals, policies and procedures are revisited every three years, and when this happens, nurses need to find three to five relevant studies on the topic to see if there has been a change.",
-          "I’ve been a nurse since 1980, and things have changed. We’ve done things before the evidence and found out we need to do them differently.",
-          "As nurses, when we discharge newborn babies from hospitals, we make sure the parents understand that the best place you can put the babies to sleep is on their backs.",
-          "Because of this, it’s vital not only for nurses to carry out the research, but also to disseminate it – at conferences, in academic papers and even by sharing the results with their families, neighbors and colleagues."
+          "At all hospitals, policies and procedures are revisited every three years, and when this happens, nurses need to find three to five relevant studies on the topic to see if there has been a change. SIDS is an example of why policies need to keep up with research."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Research changes nurses' critical thinking and interaction with patients, ensuring advice and care are based on sound evidence.",
+        "point_content": "Nurses disseminate research findings to ensure evidence-based practices are adopted and outdated practices are replaced.",
         "spans": [
-          "Since working on my PhD, which I completed in 2012, I look at things completely differently. When I read articles, for example, I don’t take the findings for granted but look at how they did the research, their methodology.",
-          "That kind of critical thinking means filtering information before passing it on to patients.",
-          "In fact, doing research changes the way I interact with patients. When I’ve done research, I can share that knowledge with them."
+          "Because of this, it’s vital not only for nurses to carry out the research, but also to disseminate it – at conferences, in academic papers and even by sharing the results with their families, neighbors and colleagues."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "Nurses' involvement in research is increasing, supported by education, grants, and protected time, leading to more evidence-based improvements in care.",
+        "point_content": "Research changes the way nurses interact with patients by enabling them to critically evaluate evidence and provide advice based on sound research.",
+        "spans": [
+          "Since working on my PhD, which I completed in 2012, I look at things completely differently. When I read articles, for example, I don’t take the findings for granted but look at how they did the research, their methodology.",
+          "That kind of critical thinking means filtering information before passing it on to patients. In fact, doing research changes the way I interact with patients. When I’ve done research, I can share that knowledge with them."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Nurses are increasingly involved in research through doctoral programs and residency projects, fostering a culture of evidence-based practice.",
         "spans": [
           "A growing number of nurses are getting PhDs and doing research, according to a 2014 survey by American Association of Colleges of Nursing AACN)",
-          "At Children’s Hospital, there is an endowment to provide grants for nurses to do research, and to give them protected time to work on it; when time is allocated for nursing staff, it is usually based on having them at the bedside, not taking research into account.",
           "New graduates go through a 22-week residency program, which includes an evidence-based project.",
           "Many of those nurses want to immediately go on and do a research project on this problem."
         ]
       },
       {
-        "point_number": 7,
-        "point_content": "Nursing research is increasingly collaborative and inter-professional, enriching research outcomes and improving patient care.",
+        "point_number": 8,
+        "point_content": "Nurses collaborate with other healthcare professionals in research to improve patient care and enrich research outcomes.",
         "spans": [
           "One key factor in ensuring more nurses get involved in research is building strong inter-professional teams.",
           "If research is being done on sucking, it’s not done by the nurse in isolation but in collaboration with the occupational therapist.",
@@ -375,14 +434,14 @@
       },
       {
         "point_number": 3,
-        "point_content": "Nurses have the most intimate understanding of patients’ various physical, emotional and socioeconomic needs, giving them a unique perspective as researchers to ask pertinent research questions and analyze data that will specifically improve patient health and wellbeing.",
+        "point_content": "Nurses have a unique perspective as researchers that allows them to ask pertinent research questions and analyze data that will specifically improve patient health and wellbeing.",
         "spans": [
           "Nurses perhaps have the most intimate understanding of patients’ various physical, emotional and socioeconomic needs. This knowledge gives them a unique perspective as researchers; it allows them to ask pertinent research questions and analyze data that will specifically improve patient health and wellbeing"
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Nursing research studies have positive and immediate effects on different populations, including minorities, school-aged children and the elderly, improving health outcomes.",
+        "point_content": "Nursing research studies have positive and immediate effects on different populations, including minorities, school-aged children and the elderly.",
         "spans": [
           "The findings from these studies have positive and immediate effects on different populations, including minorities, school-aged children and the elderly"
         ]
@@ -398,7 +457,7 @@
       },
       {
         "point_number": 2,
-        "point_content": "Nurses perceive research positively but face barriers such as lack of access to information and skills in critical appraisal, which hinders the use of research in practice.",
+        "point_content": "Nurses perceive research positively but face barriers such as lack of access, inability to judge study value, overwhelming clinical demands, and lack of critical appraisal skills.",
         "spans": [
           "although nurses perceive research positively, 2 they either cannot access the information, or cannot judge the value of the studies which they find.",
           "This journal has evolved as a direct response to the dilemma of practitioners who want to use research, but are thwarted by overwhelming clinical demands, an ever burgeoning research literature, and for many, a lack of skills in critical appraisal."
@@ -413,7 +472,7 @@
       },
       {
         "point_number": 4,
-        "point_content": "Nursing requires different types of evidence including scientific knowledge, social sciences evidence, and experiential knowledge to improve patient care.",
+        "point_content": "Nursing requires different types of evidence including scientific knowledge, social sciences evidence, and experiential knowledge from nursing practice to improve patient care.",
         "spans": [
           "Knowledge, or evidence, for practice thus comes to us from a variety of disciplines, from particular paradigms or ways of “looking at” the world, and from our own professional and non-professional life experiences."
         ]
@@ -477,15 +536,14 @@
       },
       {
         "point_number": 3,
-        "point_content": "The National Academy of Medicine (NAM) issued a report noting the need for uniformity across the healthcare system to ensure all patients receive the highest quality of care, recommending implementation of EBP.",
+        "point_content": "The National Academy of Medicine (NAM) recommended implementing EBP to ensure uniformity and highest quality of care across the healthcare system.",
         "spans": [
-          "In response, the National Academy of Medicine (NAM), formerly the Institute of Medicine (IOM), issued Crossing the Quality Chasm: A New Health System for the 21st Century.",
           "One of the recommendations was to implement EBP."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Nursing education has changed to incorporate EBP, emphasizing critical thinking and consideration of patient backgrounds and relevant scientific research.",
+        "point_content": "Nursing education has changed to incorporate EBP, emphasizing critical thinking and considering patient backgrounds and relevant scientific research.",
         "spans": [
           "Colleges and universities have altered their BSN program curricula to incorporate EBP.",
           "These programs emphasize critical thinking skills and encourage students to consider the patient’s clinical, cultural, religious and socioeconomic backgrounds, as well as relevant scientific research."
@@ -493,20 +551,28 @@
       },
       {
         "point_number": 5,
-        "point_content": "Growing use of EBP has led to greater emphasis on nursing research, helping nurses stay informed about new scientific data that influence nursing practices.",
+        "point_content": "The growing use of EBP has led to greater interest in nursing research, which influences current and future nursing practices.",
         "spans": [
           "The growing use of EBP has also led to a greater interest in and emphasis on nursing research.",
-          "Although research may not frequently be a task assigned to entry-level nurses, it can be helpful to know about new and emerging scientific data since it can have a more direct influence on current and future professional nursing practices than in the past."
+          "it can be helpful to know about new and emerging scientific data since it can have a more direct influence on current and future professional nursing practices than in the past."
         ]
       },
       {
         "point_number": 6,
-        "point_content": "The ultimate goal of EBP is to standardize and improve access and quality of care, leading to improved patient outcomes, lower costs, and superior nursing skills.",
+        "point_content": "The ultimate goal of EBP is to standardize and improve access and quality of care, leading to improved patient outcomes and lower costs.",
         "spans": [
           "The ultimate goal of the EBP movement is to standardize and improve access and quality of care across the healthcare system.",
           "Improved patient outcomes.",
-          "Lower costs of care.",
-          "Superior nursing skills."
+          "Lower costs of care."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Incorporating EBP develops superior nursing skills including advanced critical thinking, decision-making, adaptability, and confidence.",
+        "spans": [
+          "Incorporating EBP throughout a nurse’s education and clinical experiences develops more advanced critical thinking and decision-making skills.",
+          "Nurses are better able to adapt to situations, utilize informatics and work in interdisciplinary teams.",
+          "They also feel a greater sense of confidence and pride in their work."
         ]
       }
     ],
@@ -559,7 +625,7 @@
       },
       {
         "point_number": 3,
-        "point_content": "Research provides the scientific basis for the care of people across the lifespan; during illness, through to recovery and at the end of life, preventing illness, protecting health and promoting wellbeing.",
+        "point_content": "Research provides the scientific basis for the care of people across the lifespan, during illness, through to recovery and at the end of life, preventing illness, protecting health and promoting wellbeing.",
         "spans": [
           "This  provides the scientific basis for: the care of people across the lifespan;  during illness, through to recovery and at the end of life, preventing illness, protecting health and promoting wellbeing"
         ]
@@ -589,7 +655,7 @@
       },
       {
         "point_number": 4,
-        "point_content": "Educational preparation, such as BSN programs, emphasizes EBP as a decision-making approach to care, preparing nurses at a higher level.",
+        "point_content": "Educational preparation, such as BSN programs, emphasizes EBP as a decision-making approach to care, which helps nurses implement EBP.",
         "spans": [
           "BSN programs, such as the online RN to BSN at Eastern Michigan University (EMU), build on those skills to prepare nurses at a higher level. This includes an emphasis on EBP as a decision-making approach to care."
         ]
@@ -603,9 +669,17 @@
       },
       {
         "point_number": 6,
-        "point_content": "Building knowledge to integrate EBP gives RNs confidence that they are providing the best care, even in complex situations.",
+        "point_content": "Mentoring and supportive workplace culture help nurses adopt and implement EBP.",
         "spans": [
-          "Building the knowledge to integrate EBP can give RNs confidence that they are providing the best care, even in the most complex situations."
+          "Mentoring helps to build a supportive culture in the nursing workplace. Mentoring is often seen as experienced RNs teaching novice RNs. But as the study suggests, new BSN grads can be a valuable resource for nurses of any age when it comes to EBP."
+        ]
+      },
+      {
+        "point_number": 7,
+        "point_content": "Modifying EBP for available resources and keeping patient-centered goals in mind are strategies to implement EBP effectively.",
+        "spans": [
+          "Modify EBP for available resources. EHR order sets, for example, can promote EBP. A healthcare organization without this capability can achieve similar outcomes with paper checklists.",
+          "Keep patient-centered goals in mind. For example, shorter hospital stays can reduce the risk of healthcare-associated infections (HAIs). Focusing on \"optimizing recovery\" instead can reduce the risk of rushing patients out the door."
         ]
       }
     ],
@@ -649,7 +723,7 @@
         "point_number": 6,
         "point_content": "Nursing research identifies ways to make nurse education more effective.",
         "spans": [
-          "Nursing education needs to center around the most up-to-date, evidence-based practices. Nurse research identifies ways to make nurse education more effective."
+          "Nurse research identifies ways to make nurse education more effective."
         ]
       },
       {
@@ -670,7 +744,7 @@
         "point_number": 9,
         "point_content": "Nurse research seeks to identify the treatment protocols that are most effective for patients across the spectrum.",
         "spans": [
-          "Modern nursing is evidence-based, and nurse research seeks to identify the treatment protocols that are most effective for patients across the spectrum."
+          "nurse research seeks to identify the treatment protocols that are most effective for patients across the spectrum."
         ]
       },
       {
@@ -705,35 +779,38 @@
       },
       {
         "point_number": 2,
-        "point_content": "Research is essential to continue improving every aspect of patient care, including safety, treatment effectiveness, and support for physical, social, psychological and emotional needs.",
+        "point_content": "Research is essential to continue improving every aspect of patient care, including safety, through clinical trials and research studies.",
         "spans": [
           "Research is essential to continue improving every aspect of their care, from earlier diagnosis to increased survival and from developing more effective treatments to helping patients with all their physical, social, psychological and emotional needs afterwards."
         ]
       },
       {
         "point_number": 3,
-        "point_content": "Research nurses ensure patients give fully informed consent before being enrolled to trials, explaining the purpose, risks, benefits, and patients' rights.",
+        "point_content": "Research nurses ensure patients give fully informed consent before being enrolled to trials, ensuring understanding of risks and benefits, which is fundamental to patient safety.",
         "spans": [
-          "Ensuring patients give fully informed consent before being enrolled to trials is fundamental to the role.",
-          "making sure patients are given all the information they need and that they fully understand the purpose of the study, any potential risks and benefits and what will happen to them if they agree to participate.",
-          "It must also be made clear to patients that they do not have to participate and are free to withdraw at any time without it affecting their treatment or care in any way."
+          "Ensuring patients give fully informed consent before being enrolled to trials is fundamental to the role. This encapsulates screening for potential participants at outpatients clinics and multidisciplinary team meetings, making sure patients are given all the information they need and that they fully understand the purpose of the study, any potential risks and benefits and what will happen to them if they agree to participate."
         ]
       },
       {
         "point_number": 4,
-        "point_content": "Research nurses are responsible for prompt reporting of adverse events to protect patients and take appropriate action if harm is possible.",
+        "point_content": "Prompt reporting of adverse events by research nurses is fundamental to patient protection and safety in clinical trials.",
         "spans": [
-          "Prompt reporting of adverse events is fundamental to patient protection and a responsibility of the research nurse.",
-          "If there is any possibility of harm being done to participants as a result of being in a trial, it is essential to identify it quickly and take appropriate action, which may even mean closing the trial prematurely."
+          "Prompt reporting of adverse events is fundamental to patient protection and a responsibility of the research nurse."
         ]
       },
       {
         "point_number": 5,
-        "point_content": "Research nurses have a comprehensive understanding of the specialty and research process, and coordinate day-to-day management of clinical trials to ensure safety and effectiveness.",
+        "point_content": "Research nurses have a comprehensive understanding of the specialty and research process, enabling them to manage clinical trials effectively and safely.",
         "spans": [
-          "research nurses are at the fulcrum of clinical trials.",
-          "They not only need a comprehensive understanding of the specialty in which they are working, but also an extensive knowledge of the research process and research-related legislation.",
-          "Although the principal investigator (PI) has ultimate responsibility for any study, it is often research nurses who coordinate its day-to-day management."
+          "research nurses are at the fulcrum of clinical trials. They not only need a comprehensive understanding of the specialty in which they are working, but also an extensive knowledge of the research process and research-related legislation."
+        ]
+      },
+      {
+        "point_number": 6,
+        "point_content": "Patient advocacy and protection is a priority in clinical research, with research nurses trained in Good Clinical Practice to ensure safety and wellbeing of participants.",
+        "spans": [
+          "Patient advocacy is one of the most important of the research nurse’s responsibilities.",
+          "Anyone working in clinical research must, therefore, have up-to-date training in GCP (European Medicines Agency, 2002) and act according to the tenets of The Declaration of Helsinki’s Ethical Principles for Medical Research Involving Human Subjects (WMA, 2008). This stipulates that participants’ health and wellbeing must take precedence over all other interests."
         ]
       }
     ],
@@ -742,8 +819,7 @@
         "point_number": 1,
         "point_content": "Critical thinking skills are essential for all nurses. They are a necessity for the provision of safe, high-quality clinical care.",
         "spans": [
-          "Critical thinking skills are essential for all nurses.",
-          "They are a necessity for the provision of safe, high-quality clinical care."
+          "Critical thinking skills are essential for all nurses. They are a necessity for the provision of safe, high-quality clinical care."
         ]
       },
       {
@@ -778,16 +854,14 @@
         "point_number": 6,
         "point_content": "Critical thinking can fall by the wayside when patient care is dictated by prejudice, preferences, self-interests, or fear, leading to inaccurate clinical judgment and inappropriate interventions that can cause poor patient outcomes.",
         "spans": [
-          "Critical thinking can fall by the wayside when patient care is dictated by prejudice, preferences, self-interests, or fear.",
-          "When the critical thinking process is not understood and applied correctly, nurses’ clinical judgment may be inaccurate and associated with inappropriate interventions that can lead to poor patient outcomes."
+          "Critical thinking can fall by the wayside when patient care is dictated by prejudice, preferences, self-interests, or fear. When the critical thinking process is not understood and applied correctly, nurses’ clinical judgment may be inaccurate and associated with inappropriate interventions that can lead to poor patient outcomes."
         ]
       },
       {
         "point_number": 7,
         "point_content": "Nurses with poor critical thinking skills frequently fail to detect impending patient deterioration, resulting in ‘failure to rescue.’",
         "spans": [
-          "Nurses with poor critical thinking skills frequently fail to detect impending patient deterioration.",
-          "This results in ‘failure to rescue,’ defined as mortality of patients who experience a hospital-acquired complication, which can occur for a multitude of reasons."
+          "Nurses with poor critical thinking skills frequently fail to detect impending patient deterioration. This results in ‘failure to rescue,’ defined as mortality of patients who experience a hospital-acquired complication, which can occur for a multitude of reasons."
         ]
       },
       {
@@ -806,7 +880,7 @@
       },
       {
         "point_number": 10,
-        "point_content": "Nurses can develop critical thinking skills by engaging in self-reflective and collegial dialogue about professional practice, volunteering, and attending continuing education opportunities.",
+        "point_content": "Nurses can develop critical thinking skills by engaging in self-reflective and collegial dialogue, volunteering, and attending continuing education opportunities.",
         "spans": [
           "Nurses can gain the necessary expertise by engaging in self-reflective and collegial dialogue about professional practice, volunteering on committees and task forces, and attending continuing education opportunities, conventions, and conferences."
         ]
@@ -815,12 +889,7 @@
         "point_number": 11,
         "point_content": "The ‘five rights’ of clinical reasoning help nurses focus their critical thinking to provide safe care: right cues, right patient, right time, right action, and right reason.",
         "spans": [
-          "To start, nurses can focus on the ‘five rights’ of clinical reasoning (also known as critical thinking):",
-          "Right cues are the available patient information (i.e., handoff reports, patient history, previous nursing/medical assessments), current clinical assessment data, and the recall of nursing knowledge.",
-          "Right patient refers to the process of identifying and prioritizing a patient at risk of critical illness or a severe adverse event.",
-          "Right time means nurses identify clinically at-risk patients promptly and carry out nursing interventions at the right time and in the right sequence.",
-          "Right action occurs when the nurse decides which part of the plan takes priority, who should carry out the nursing actions, which procedures and policies are involved, and who should be notified.",
-          "Right reason indicates that the reasoning is ethical, legal, and professional. ‘‘Right” may refer to the right conclusion being reached, or it may refer to the process, or preferably both."
+          "To start, nurses can focus on the ‘five rights’ of clinical reasoning (also known as critical thinking): Right cues are the available patient information (i.e., handoff reports, patient history, previous nursing/medical assessments), current clinical assessment data, and the recall of nursing knowledge. Right patient refers to the process of identifying and prioritizing a patient at risk of critical illness or a severe adverse event. Right time means nurses identify clinically at-risk patients promptly and carry out nursing interventions at the right time and in the right sequence. Right action occurs when the nurse decides which part of the plan takes priority, who should carry out the nursing actions, which procedures and policies are involved, and who should be notified. Right reason indicates that the reasoning is ethical, legal, and professional. ‘‘Right” may refer to the right conclusion being reached, or it may refer to the process, or preferably both."
         ]
       }
     ]
