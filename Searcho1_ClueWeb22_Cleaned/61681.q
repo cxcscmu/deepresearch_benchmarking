@@ -1,0 +1,1 @@
+what current events affect international business

@@ -1,0 +1,1 @@
+how did people survive auschwitz

@@ -1,0 +1,1 @@
+why are prices going up?

@@ -1,0 +1,1 @@
+how have virtual training methods and technology impacted hr’s role in employee development?

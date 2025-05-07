@@ -1,0 +1,1 @@
+why do some exposed people not get covid

@@ -1,0 +1,1 @@
+why has extended reality (xr) recently become more common in the business world?

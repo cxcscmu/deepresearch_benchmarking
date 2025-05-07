@@ -1,0 +1,1 @@
+should college athletes be paid pros and cons

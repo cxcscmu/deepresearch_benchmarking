@@ -1,0 +1,1 @@
+was us involvement in ww1 justified

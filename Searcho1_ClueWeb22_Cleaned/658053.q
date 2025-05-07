@@ -1,0 +1,1 @@
+should trial by jury be abolished
