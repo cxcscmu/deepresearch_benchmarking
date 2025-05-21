@@ -1,13 +1,13 @@
-from datasets import load_dataset
 from tqdm import tqdm
 import os
 import requests
 import json
+from dotenv import load_dotenv
 
 MODEL="sonar-deep-research"
 
 load_dotenv("keys.env")
-TOKEN = os.getenv("PERPLEXITY_API_KEY"))
+TOKEN = os.getenv("PERPLEXITY_API_KEY")
 
 QUERIES = "queries/researchy_queries_sample_doc_click.jsonl"
 OUT_PATH = f"/data/group_data/cx_group/deepsearch_benchmark/reports/{MODEL}"
@@ -56,12 +56,23 @@ def query_pplx(query):
 
 
 with open(QUERIES, "r", encoding="utf-8") as f:
-    lines = f.readlines()
+    all_queries = [json.loads(line) for line in f]
 
-print(len(top_queries))
-for example in tqdm(top_queries):
+# Filter out completed queries
+pending_queries = []
+for example in all_queries:
+    query_id = str(example["id"])
+    a_path = os.path.join(OUT_PATH, f"{query_id}.a")
+    if not os.path.exists(a_path):
+        pending_queries.append(example)
+
+print(f"Total pending queries: {len(pending_queries)}")
+
+pending_queries = pending_queries[:200]
+
+for example in tqdm(pending_queries):
     query_id = example["id"]
-    query = example["question"]
+    query = example["query"]
 
     answer, usage = query_pplx(query)
 

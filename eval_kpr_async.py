@@ -108,6 +108,7 @@ async def evaluate_folder_async(subfolder_name, model, path_to_reports, key_poin
     semaphore = asyncio.Semaphore(100)
 
     query_ids = [p.stem for p in folder_path.glob("*.q") if p.stem not in all_results]
+    query_ids = query_ids
     tasks = [evaluate_query(semaphore, qid, folder_path, key_point_dir, model) for qid in query_ids]
     results = await tqdm_asyncio.gather(*tasks)
 
@@ -123,12 +124,17 @@ if __name__ == "__main__":
     parser.add_argument("--open_ai_model")
     args = parser.parse_args()
 
-    path_to_reports = "reports"
-    path_to_results = "results"
+    path_to_reports = "/data/group_data/cx_group/deepsearch_benchmark/reports/"
+    path_to_results = "/data/group_data/cx_group/deepsearch_benchmark/reports/"
     path_to_key_point = "key_point"
 
     print(f"Evaluating {args.subfolder} using {args.open_ai_model}")
     results = asyncio.run(evaluate_folder_async(args.subfolder, args.open_ai_model, path_to_reports, path_to_key_point))
+
+    total_support_rate = 0
+    total_omitted_rate = 0
+    total_contradicted_rate = 0
+    num_queries = len(results)
 
     for query_id, labels in results.items():
         supported_count = 0
@@ -142,12 +148,29 @@ if __name__ == "__main__":
             elif label[0] == "Contradicted":
                 contradicted_count += 1
         
-        support_rate = supported_count / len(labels["labels"]) * 100
-        ommitted_rate = omitted_count / len(labels["labels"]) * 100
-        contradicted_rate = contradicted_count / len(labels["labels"]) * 100
+        total_points = len(labels["labels"])
+        if total_points == 0:
+            continue
+        support_rate = supported_count / total_points * 100
+        omitted_rate = omitted_count / total_points * 100
+        contradicted_rate = contradicted_count / total_points * 100
+
         results[query_id]["support_rate"] = support_rate
-        results[query_id]["ommitted_rate"] = ommitted_rate
+        results[query_id]["omitted_rate"] = omitted_rate
         results[query_id]["contradicted_rate"] = contradicted_rate
+
+        total_support_rate += support_rate
+        total_omitted_rate += omitted_rate
+        total_contradicted_rate += contradicted_rate
+
+    avg_support = total_support_rate / num_queries
+    avg_omitted = total_omitted_rate / num_queries
+    avg_contradicted = total_contradicted_rate / num_queries
+
+    print(f"\nAverages across {num_queries} queries:")
+    print(f"  Average support rate: {avg_support:.2f}%")
+    print(f"  Average omitted rate: {avg_omitted:.2f}%")
+    print(f"  Average contradicted rate: {avg_contradicted:.2f}%")
         
     
     result_dir = Path(path_to_results) / args.subfolder

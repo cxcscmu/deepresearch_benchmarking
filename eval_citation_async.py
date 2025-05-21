@@ -236,7 +236,7 @@ async def evaluate_folder_async(subfolder_name, model, path_to_reports):
         if query_id in all_results:
             continue
         tasks.append(evaluate_query(openai_semaphore, query_id, file, model))
-        if len(tasks) == 100:
+        if len(tasks) == 250:
             break
 
 

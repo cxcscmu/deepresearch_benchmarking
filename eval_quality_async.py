@@ -169,4 +169,24 @@ if __name__ == "__main__":
     average_score = total_score / count if count > 0 else 0
     print(f"\nAverage normalized score across {count} queries: {average_score:.2f}")
 
+
+    # Initialize per-criterion totals
+    per_criterion_totals = {c['name']: 0 for c in EVAL_CRITERIA}
+    per_criterion_counts = {c['name']: 0 for c in EVAL_CRITERIA}
+
+    for query_id, result in results.items():
+        scores = result["scores"]
+        for criterion_name, (rating, _) in scores.items():
+            per_criterion_totals[criterion_name] += rating
+            per_criterion_counts[criterion_name] += 1
+
+    # Compute per-criterion averages (0–10) and normalized (0–100)
+    print("\nPer-criterion average scores across all queries:")
+    for criterion_name in per_criterion_totals:
+        total = per_criterion_totals[criterion_name]
+        count = per_criterion_counts[criterion_name]
+        avg_rating = total / count if count > 0 else 0
+        normalized_avg = (avg_rating / 10) * 100
+        print(f"{criterion_name}: {avg_rating:.2f} / 10  ({normalized_avg:.2f} / 100)")
+
     print(f"\nSaved detailed evaluation results to {detailed_path}")

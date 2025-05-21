@@ -3,10 +3,8 @@
 
 ### Setup
 
-[TODO] detailed environment.
-
-- overall you just need the openai package, ensure you have the latest version.
-- for citation quality you also need to install crawl4ai (if not running that one, do not bother).
+- `pip install openai`
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) (for `eval_citation_async.py`)
 
 
 Create keys.env file with:  
@@ -16,7 +14,7 @@ OPENAI_API_KEY=...
 
 Main branch contains evaluation scripts.
 
-Create branches to run specific DeepResearch frameworks on our queries. 
+Branches contain runs for specific DeepResearch frameworks on our queries. 
 
 ### Data
 
@@ -38,6 +36,8 @@ The evaluation scripts read data from:
 
 ### Evaluation:
 
+## Retrieval Faithfulness
+
 eval_citation_async.py : computes citation precision as per TREC-RAG
 
 - `python eval_citation_async.py --subfolder [deepsearch_model_to_eval] --open_ai_model [llm_judge]`
@@ -45,6 +45,7 @@ eval_citation_async.py : computes citation precision as per TREC-RAG
     - [llm_judge] can be any model that supports OpenAI API (currently using gpt-4.1-mini)
     - writes `evaluation_results_citation_gpt-4.1-mini.json` to [deepsearch_model_to_eval] folder.
     - WARNING: this one can be slow and cost a lot of $. don't run unless you really need to.
+    - TODO: on some machins async calls may hang. Hence, semaphore is set low, and only processes 250 reports at a time.
 
 eval_citation_clueweb_async.py : computes citation precision as per TREC-RAG, for systems that use a ClueWeb API for search
 
@@ -53,9 +54,17 @@ eval_citation_clueweb_async.py : computes citation precision as per TREC-RAG, fo
     - [llm_judge] can be any model that supports OpenAI API (currently using gpt-4.1-mini)
     - writes `evaluation_results_citation_gpt-4.1-mini.json` to [deepsearch_model_to_eval] folder.
     - WARNING: this one can be slow and cost a lot of $. don't run unless you really need to.
+    - TODO: on some machins async calls may hang. Hence, semaphore is set low, and only processes 250 reports at a time.
+
+
+eval_citation_recall_async.py : computes citation recall as per TREC-RAG
+    - same as above.
+
+- TODO: merge with eval_citation async. This only computes percentage of supported claims, so no need to crawl URL with either clueweb or crawl4ai.
 
 
 
+## Report Quality 
 
 eval_quality_async.py : computes holistic report quality using standard LLM as a judge viewpoints
 
@@ -63,14 +72,19 @@ eval_quality_async.py : computes holistic report quality using standard LLM as a
     - [deepsearch_model_to_eval] must have a folder under `/data/group_data/cx_group/deepsearch_benchmark/reports`
     - [llm_judge] can be any model that supports OpenAI API (currently using gpt-4.1-mini)
     - writes `evaluation_results_detailed_gpt-4.1-mini.json` to [deepsearch_model_to_eval] folder.
-    - [TODO]: make prompts more strict.
-
-- `python eval_merge.py --subfolder [deepsearch_model_to_eval] --open_ai_model [llm_judge]`
-    - merges the two above json results.
-    - `evaluation_results_per_query_score_gpt-4.1-mini.json` : per query scores
-    - `evaluation_results_single_score_gpt-4.1-mini.json` : avg score over all queries
 
 
+## Report Relevance
+
+
+eval_kpr_async.py : computes percentage of ground-truth key points that each report addresses.
+
+- `python eval_kpr_async.py --subfolder [deepsearch_model_to_eval] --open_ai_model [llm_judge]`
+    - [deepsearch_model_to_eval] must have a folder under `/data/group_data/cx_group/deepsearch_benchmark/reports`
+    - [llm_judge] can be any model that supports OpenAI API (currently using gpt-4.1-mini)
+    - writes `evaluation_results_kpr_gpt-4.1-mini.json` to [deepsearch_model_to_eval] folder.
+
+Key points are already extracted for each query, and can be found under `key_point`. Since there are multiple ground-truth documents per query, first KPs are extracted from each doc (`key_point/key_point_extract.py`) and the aggregated (`key_point/aggregate.py`)
 
 
 ### Other / Utils
@@ -80,7 +94,7 @@ eval_quality_async.py : computes holistic report quality using standard LLM as a
 - perplexity, through sonar deepresearch API
 - openai, through gpt4o-search-preview [no better model is available through API]
 
-./plots contains scripts to generate plots (WIP)
+./plots contains scripts to generate plots (TODO: cleanup)
 
-get_samples.py : pretty-print samples (query, report, and evaluation) to share with others (e.g., google drive)
+./clueweb22 contains the clueweb22 API to fetch documents by docid/url. 
 

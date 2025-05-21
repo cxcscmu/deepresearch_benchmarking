@@ -160,14 +160,15 @@ def create_prompt_citation_checker(claim, docs):
 async def extract_claims_and_url(openai_semaphore, answer, model):
     async with openai_semaphore:
         prompt = create_prompt_extractor(answer)
-        response = await client.beta.chat.completions.parse(
-            model=model,
-            messages=[{"role": "system", "content": "You are a helpful assistant."},
-                    {"role": "user", "content": prompt}],
-            response_format=ClaimsModel,
-            temperature=0
-        )
         try:
+            response = await client.beta.chat.completions.parse(
+                model=model,
+                messages=[{"role": "system", "content": "You are a helpful assistant."},
+                        {"role": "user", "content": prompt}],
+                response_format=ClaimsModel,
+                temperature=0
+            )
+
             return json.loads(response.choices[0].message.content)["claims"]
         except Exception:
             print("Could not parse JSON - extractor")
@@ -176,14 +177,14 @@ async def extract_claims_and_url(openai_semaphore, answer, model):
 async def check_citation_quality(openai_semaphore, claim, docs, model):
     async with openai_semaphore:
         prompt = create_prompt_citation_checker(claim, docs)
-        response = await client.beta.chat.completions.parse(
-            model=model,
-            messages=[{"role": "system", "content": "You are a helpful assistant."},
-                    {"role": "user", "content": prompt}],
-            response_format=CitationSupport,
-            temperature=0
-        )
         try:
+            response = await client.beta.chat.completions.parse(
+                model=model,
+                messages=[{"role": "system", "content": "You are a helpful assistant."},
+                        {"role": "user", "content": prompt}],
+                response_format=CitationSupport,
+                temperature=0
+            )
             return json.loads(response.choices[0].message.content)
         except Exception:
             print("Could not parse JSON - quality")
@@ -264,6 +265,8 @@ async def evaluate_folder_async(subfolder_name, model, path_to_reports):
         if query_id in all_results:
             continue
         tasks.append(evaluate_query(openai_semaphore, query_id, file, model))
+        if len(tasks) == 250:
+            break
         
 
     results = await tqdm_asyncio.gather(*tasks)

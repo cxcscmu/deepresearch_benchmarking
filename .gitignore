@@ -2,3 +2,6 @@ keys.env
 .old
 .samples
 queries/subset.jsonl
+*.pkl
+plots/*.pdf
+annotations
