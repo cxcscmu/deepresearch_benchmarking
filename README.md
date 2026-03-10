@@ -1,5 +1,9 @@
 ## Benchmarking deepresearch systems
 
+### Other resources
+
+- Synthetic query generation on top of ClueWeb: [here](https://github.com/cxcscmu/search_agent_synthetic_query)
+- Train Search Agents: [here](https://github.com/cxcscmu/verl-agent-deepresearch)
 
 ### Setup
 
